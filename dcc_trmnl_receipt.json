@@ -1,55 +1,431 @@
 {
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
-  "date": "2026-03-10",
-  "floor": 7,
-  "biome": "Murder Mall",
-  "party": "Carl & Princess Donut",
-  "mode": "quest",
+  "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, or emotional damage.",
+  "cards": [
+    {
+      "mode": "quote",
+      "speaker": "Carl",
+      "headline": "Survivor's Note",
+      "quote": "You will not break me.",
+      "flavor": "Filed after explosions, blood loss, and an argument nobody won."
+    },
+    {
+      "mode": "quote",
+      "speaker": "Carl",
+      "headline": "Field Report",
+      "quote": "Every floor finds a new way to be worse.",
+      "flavor": "Assessment delivered with the confidence of a man already running."
+    },
+    {
+      "mode": "quote",
+      "speaker": "Carl",
+      "headline": "Combat Doctrine",
+      "quote": "If the plan is stupid but it works, then the dungeon will probably make it worse.",
+      "flavor": "Tactical wisdom from a deeply unwilling professional."
+    },
+    {
+      "mode": "quote",
+      "speaker": "Carl",
+      "headline": "Morale Check",
+      "quote": "I am still alive, which I guess counts as progress.",
+      "flavor": "Standards lowered to realistic levels."
+    },
+    {
+      "mode": "quote",
+      "speaker": "Carl",
+      "headline": "Operational Update",
+      "quote": "The trick is to keep moving before the nightmare notices you noticed it.",
+      "flavor": "Floor-tested advice with poor long-term outcomes."
+    },
+    {
+      "mode": "quote",
+      "speaker": "Carl",
+      "headline": "Stubbornness Buff",
+      "quote": "I'm too angry to die politely.",
+      "flavor": "The dungeon has rated this statement 'concerning but accurate.'"
+    },
 
-  "quote_card": {
-    "speaker": "Carl",
-    "quote": "You will not break me.",
-    "flavor": "Recorded after extensive explosions and at least one terrible decision."
-  },
+    {
+      "mode": "famous_line",
+      "speaker": "Princess Donut",
+      "headline": "Royal Outrage",
+      "quote": "Mongo is appalled!",
+      "flavor": "A timeless judgment suitable for nearly any situation."
+    },
+    {
+      "mode": "famous_line",
+      "speaker": "Princess Donut",
+      "headline": "Formal Complaint",
+      "quote": "This is unacceptable. Completely unacceptable.",
+      "flavor": "Issued with full sovereign authority and zero patience."
+    },
+    {
+      "mode": "famous_line",
+      "speaker": "Princess Donut",
+      "headline": "Public Statement",
+      "quote": "I refuse to participate in anything this tacky.",
+      "flavor": "Participation continued anyway, but not happily."
+    },
+    {
+      "mode": "famous_line",
+      "speaker": "Princess Donut",
+      "headline": "Royal Notice",
+      "quote": "I am a champion, not a coupon customer.",
+      "flavor": "Declared while demanding the premium option."
+    },
+    {
+      "mode": "famous_line",
+      "speaker": "Princess Donut",
+      "headline": "On Brand",
+      "quote": "I would like it noted that I was magnificent.",
+      "flavor": "The court agrees. The enemies did not survive to comment."
+    },
+    {
+      "mode": "famous_line",
+      "speaker": "Princess Donut",
+      "headline": "Consumer Alert",
+      "quote": "If this establishment had standards, we wouldn't be here.",
+      "flavor": "Review score: one claw out of five."
+    },
 
-  "famous_line_card": {
-    "speaker": "Donut",
-    "quote": "Mongo is appalled!",
-    "flavor": "Certified royal outrage. Volume excessive. Accuracy unquestioned."
-  },
+    {
+      "mode": "quest",
+      "headline": "Active Quest",
+      "quest_name": "Escort the Screaming Merchant",
+      "difficulty": "Catastrophic",
+      "objective": "Move one unstable merchant across the food court without waking the clown nest.",
+      "reward": "3200 XP, 410 gold, 1 mystery box",
+      "warning": "Merchant may scream, bargain, and attract knives."
+    },
+    {
+      "mode": "quest",
+      "headline": "Side Quest",
+      "quest_name": "Recover the Royal Brush",
+      "difficulty": "Ridiculous",
+      "objective": "Retrieve Princess Donut's preferred grooming brush from a trapped vanity room.",
+      "reward": "1800 XP, faction favor, +1 morale",
+      "warning": "Failure results in disappointment worse than poison."
+    },
+    {
+      "mode": "quest",
+      "headline": "Timed Event",
+      "quest_name": "Clear the Blood Fountain",
+      "difficulty": "High",
+      "objective": "Disable the cursed fountain before it spawns another wave of opera goblins.",
+      "reward": "2400 XP, 260 gold, cleansing token",
+      "warning": "Singing increases enemy accuracy."
+    },
+    {
+      "mode": "quest",
+      "headline": "Errand of Doom",
+      "quest_name": "Mall Kiosk Massacre Prevention",
+      "difficulty": "Nightmarish",
+      "objective": "Convince three rival vendors not to start a grenade war during peak hours.",
+      "reward": "2900 XP, discount voucher, trap wire bundle",
+      "warning": "Diplomacy penalties apply if covered in fresh gore."
+    },
+    {
+      "mode": "quest",
+      "headline": "Public Service",
+      "quest_name": "Feed Mongo Properly",
+      "difficulty": "Urgent",
+      "objective": "Acquire acceptable monster-grade snacks before Mongo samples the locals.",
+      "reward": "1500 XP, pet approval, reduced chaos",
+      "warning": "Substitutions will be judged harshly."
+    },
+    {
+      "mode": "quest",
+      "headline": "Floor Objective",
+      "quest_name": "Survive the Coupon Cathedral",
+      "difficulty": "Absurd",
+      "objective": "Collect five valid merchant seals while avoiding debt priests and paper cuts.",
+      "reward": "3600 XP, 500 gold, one luxury consumable",
+      "warning": "Expired coupons trigger holy fire."
+    },
+    {
+      "mode": "quest",
+      "headline": "Emergency Contract",
+      "quest_name": "Carry the Idiot Noble",
+      "difficulty": "Emotionally Fatal",
+      "objective": "Deliver one heavily perfumed noble through a war corridor with zero visible panic.",
+      "reward": "2200 XP, reputation, sealed chest",
+      "warning": "Client commentary causes morale damage."
+    },
+    {
+      "mode": "quest",
+      "headline": "Bonus Objective",
+      "quest_name": "Deface the Tyrant Billboard",
+      "difficulty": "Moderate",
+      "objective": "Climb the old ad tower and vandalize the boss image before the cameras rotate back.",
+      "reward": "1900 XP, audience delight +8%, spray rune",
+      "warning": "Falling counts as content."
+    },
 
-  "quest_card": {
-    "quest_name": "Escort the Screaming Merchant",
-    "difficulty": "Catastrophic",
-    "objective": "Deliver one unstable merchant through the food court without triggering a clown nest.",
-    "reward": "3,200 XP, 410 gold, 1 mystery box",
-    "warning": "Failure may result in dismemberment, mockery, or poor reviews."
-  },
+    {
+      "mode": "boss_reward",
+      "headline": "Boss Rewards",
+      "boss_name": "Gorthok the Consumer Prince",
+      "boss_status": "Defeated messily",
+      "rewards": [
+        "Jeweled Collar of Minor Majesty",
+        "860 gold",
+        "Rare bomb component",
+        "Reputation +12 with questionable factions"
+      ],
+      "bonus": "Audience delight increased by 18%."
+    },
+    {
+      "mode": "boss_reward",
+      "headline": "Boss Rewards",
+      "boss_name": "The Concierge of Teeth",
+      "boss_status": "Banished through the gift shop skylight",
+      "rewards": [
+        "VIP Skull Key",
+        "1100 gold",
+        "Voucher for one cursed beverage",
+        "Bleed resist trinket"
+      ],
+      "bonus": "Lobby hazard rating temporarily reduced."
+    },
+    {
+      "mode": "boss_reward",
+      "headline": "Boss Rewards",
+      "boss_name": "Saint Couponius",
+      "boss_status": "Redeemed involuntarily",
+      "rewards": [
+        "Golden validation stamp",
+        "720 gold",
+        "Merchant favor token",
+        "One premium healing wrap"
+      ],
+      "bonus": "Prices lowered 3% for exactly six minutes."
+    },
+    {
+      "mode": "boss_reward",
+      "headline": "Boss Rewards",
+      "boss_name": "Velvet Maw",
+      "boss_status": "Exploded in tasteful decor",
+      "rewards": [
+        "Maw-silk sash",
+        "980 gold",
+        "Acid gland",
+        "Title: Upholstery Ender"
+      ],
+      "bonus": "Nearby furniture no longer hostile."
+    },
+    {
+      "mode": "boss_reward",
+      "headline": "Boss Rewards",
+      "boss_name": "The Refund Golem",
+      "boss_status": "Processed and denied",
+      "rewards": [
+        "Refund stamp of refusal",
+        "640 gold",
+        "Defensive receipt roll",
+        "Two uncommon crafting scraps"
+      ],
+      "bonus": "Complaining now has a 4% loot chance."
+    },
+    {
+      "mode": "boss_reward",
+      "headline": "Boss Rewards",
+      "boss_name": "Baroness Razorcake",
+      "boss_status": "Neutralized with extreme prejudice",
+      "rewards": [
+        "Barbed dessert fork",
+        "1330 gold",
+        "Royal pantry key",
+        "Epic sugar crystal"
+      ],
+      "bonus": "All pastry traps briefly visible."
+    },
+    {
+      "mode": "boss_reward",
+      "headline": "Boss Rewards",
+      "boss_name": "The Static Prophet",
+      "boss_status": "Disconnected permanently",
+      "rewards": [
+        "Signal jammer charm",
+        "790 gold",
+        "Archive fragment",
+        "Shock resist band"
+      ],
+      "bonus": "Mysterious whispering reduced to tolerable levels."
+    },
+    {
+      "mode": "boss_reward",
+      "headline": "Boss Rewards",
+      "boss_name": "King Discountus",
+      "boss_status": "Crowned into the pavement",
+      "rewards": [
+        "Crown of Aggressive Savings",
+        "1500 gold",
+        "Bulk ammo coupon",
+        "Title: Pricebreaker"
+      ],
+      "bonus": "One merchant now fears you on sight."
+    },
 
-  "boss_reward_card": {
-    "boss_name": "Gorthok the Consumer Prince",
-    "boss_status": "Defeated messily",
-    "rewards": [
-      "1x Jeweled Collar of Minor Majesty",
-      "860 gold",
-      "Rare bomb component",
-      "Reputation +12 with deeply questionable factions"
-    ],
-    "bonus": "Audience delight increased by 18%."
-  },
+    {
+      "mode": "store_price",
+      "headline": "Store Prices",
+      "shop_name": "Goblin Bazaar Express",
+      "items": [
+        { "name": "Health Potion", "price": 85 },
+        { "name": "Exploding Chicken Skewer", "price": 42 },
+        { "name": "Trap Disarm Kit", "price": 130 },
+        { "name": "Royal Cat Brush", "price": 999 },
+        { "name": "Questionable Meat Wrap", "price": 17 }
+      ],
+      "note": "All sales final. Screaming at staff incurs a handling fee."
+    },
+    {
+      "mode": "store_price",
+      "headline": "Store Prices",
+      "shop_name": "Murder Mall Pharmacy",
+      "items": [
+        { "name": "Bandage Roll", "price": 24 },
+        { "name": "Antivenom Shot", "price": 110 },
+        { "name": "Burn Salve", "price": 58 },
+        { "name": "Emergency Stimulant", "price": 145 },
+        { "name": "Trauma Candy", "price": 12 }
+      ],
+      "note": "No prescription required. Survival not guaranteed."
+    },
+    {
+      "mode": "store_price",
+      "headline": "Store Prices",
+      "shop_name": "Donut's Totally Necessary Luxuries",
+      "items": [
+        { "name": "Diamond Collar Polish", "price": 220 },
+        { "name": "Silk Battle Ribbon", "price": 175 },
+        { "name": "Royal Litter Sand", "price": 90 },
+        { "name": "Prestige Tuna Bites", "price": 60 },
+        { "name": "Mirror of Validation", "price": 480 }
+      ],
+      "note": "Cheap options are disrespectful and will be ignored."
+    },
+    {
+      "mode": "store_price",
+      "headline": "Store Prices",
+      "shop_name": "Bombs & Feelings",
+      "items": [
+        { "name": "Basic Fuse Bundle", "price": 40 },
+        { "name": "Sticky Blast Gel", "price": 165 },
+        { "name": "Shrapnel Capsule", "price": 95 },
+        { "name": "Timer Beetle", "price": 130 },
+        { "name": "Apology Card", "price": 5 }
+      ],
+      "note": "Bundle discounts available after verified destruction."
+    },
+    {
+      "mode": "store_price",
+      "headline": "Store Prices",
+      "shop_name": "Suspicious Butcher Annex",
+      "items": [
+        { "name": "Mystery Sausage", "price": 14 },
+        { "name": "Dungeon Jerky", "price": 29 },
+        { "name": "Monster Liver Pie", "price": 33 },
+        { "name": "Goblin Bone Broth", "price": 21 },
+        { "name": "Emergency Protein Brick", "price": 11 }
+      ],
+      "note": "Species disclosure available upon legal demand only."
+    },
+    {
+      "mode": "store_price",
+      "headline": "Store Prices",
+      "shop_name": "Trapwright Depot",
+      "items": [
+        { "name": "Tripwire Spool", "price": 36 },
+        { "name": "Pressure Plate Kit", "price": 122 },
+        { "name": "Fake Treasure Chest", "price": 210 },
+        { "name": "Poison Needle Set", "price": 88 },
+        { "name": "Door Screamer Rune", "price": 49 }
+      ],
+      "note": "Store credit offered for lightly used mechanisms."
+    },
 
-  "store_price_card": {
-    "shop_name": "Goblin Bazaar Express",
-    "items": [
-      { "name": "Health Potion", "price": 85 },
-      { "name": "Exploding Chicken Skewer", "price": 42 },
-      { "name": "Trap Disarm Kit", "price": 130 },
-      { "name": "Royal Cat Brush", "price": 999 },
-      { "name": "Questionable Meat Wrap", "price": 17 }
-    ],
-    "note": "All sales final. Screaming at staff incurs a handling fee."
-  },
+    {
+      "mode": "receipt",
+      "headline": "Dungeon Receipt",
+      "customer": "Carl & Princess Donut",
+      "status": "Alive, irritated, and under-tipped",
+      "line_items": [
+        { "name": "Goblin Teeth", "qty": 14, "value": 84 },
+        { "name": "Exploded Potion Refund", "qty": 1, "value": 37 },
+        { "name": "Suspicious Meat Wrap", "qty": 2, "value": 26 },
+        { "name": "Boss Room Gratuity", "qty": 1, "value": 666 },
+        { "name": "Emotional Damages", "qty": 1, "value": 1029 }
+      ],
+      "gold_total": 1842,
+      "xp_gained": 9200,
+      "warning": "No refunds after floor collapse."
+    },
+    {
+      "mode": "receipt",
+      "headline": "Loot Receipt",
+      "customer": "Princess Donut",
+      "status": "Victorious and still judging everyone",
+      "line_items": [
+        { "name": "Luxury Tuna Tin", "qty": 3, "value": 120 },
+        { "name": "Audience Tips", "qty": 1, "value": 540 },
+        { "name": "Boss Tiara Shards", "qty": 8, "value": 200 },
+        { "name": "Royal Complaint Fee", "qty": 1, "value": 75 },
+        { "name": "Prestige Bonus", "qty": 1, "value": 410 }
+      ],
+      "gold_total": 1345,
+      "xp_gained": 4800,
+      "warning": "Receipt void if smudged by gore."
+    },
+    {
+      "mode": "receipt",
+      "headline": "After Action Receipt",
+      "customer": "Carl",
+      "status": "Walking wounded but operational",
+      "line_items": [
+        { "name": "Shrapnel Fragments", "qty": 23, "value": 115 },
+        { "name": "Improvised Explosive Parts", "qty": 5, "value": 375 },
+        { "name": "Mall Access Stamps", "qty": 2, "value": 66 },
+        { "name": "Mercenary Gratitude", "qty": 1, "value": 180 },
+        { "name": "Pain and Suffering", "qty": 1, "value": 900 }
+      ],
+      "gold_total": 1636,
+      "xp_gained": 7100,
+      "warning": "Tax not included. Blood tax applies separately."
+    },
 
-  "footer": "Dungeon management denies responsibility for curses, lava, or influencer involvement."
+    {
+      "mode": "achievement",
+      "headline": "Achievement Unlocked",
+      "achievement_name": "Still Not Dead",
+      "rarity": "Uncommon",
+      "effect": "+5 morale, +1 audience sympathy, +0 actual safety",
+      "flavor": "Awarded for surviving a situation clearly designed by a lunatic."
+    },
+    {
+      "mode": "achievement",
+      "headline": "Achievement Unlocked",
+      "achievement_name": "Retail Predator",
+      "rarity": "Rare",
+      "effect": "+8 merchant intimidation, discount chance increased slightly",
+      "flavor": "You entered the shopping district and somehow became the problem."
+    },
+    {
+      "mode": "achievement",
+      "headline": "Achievement Unlocked",
+      "achievement_name": "Mongo Approved",
+      "rarity": "Epic",
+      "effect": "Pet loyalty boosted, fear radius widened",
+      "flavor": "A rare honor accompanied by property damage."
+    },
+    {
+      "mode": "achievement",
+      "headline": "Achievement Unlocked",
+      "achievement_name": "The Floor's Problem Now",
+      "rarity": "Legendary",
+      "effect": "+12 reputation, +10 chaos, cameras fixate on you",
+      "flavor": "The dungeon has stopped pretending you are manageable."
+    }
+  ]
 }
