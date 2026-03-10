@@ -1,42 +1,55 @@
 {
-  "title": "Dungeon Receipt",
-  "subtitle": "Floor Report // Princess Posse Ledger",
+  "title": "Dungeon Crawl Feed",
+  "subtitle": "Floor Broadcast // Princess Donut Network",
   "date": "2026-03-10",
-  "floor": 6,
-  "biome": "Hazard Bazaar",
-  "customer": "Carl & Princess Donut",
-  "status": "Alive, irritated, and extremely under-tipped",
-  "gold_total": 1842,
-  "xp_gained": 9200,
-  "items": [
-    {
-      "name": "Goblin Teeth",
-      "qty": 14,
-      "value": 84
-    },
-    {
-      "name": "Exploded Potion Refund",
-      "qty": 1,
-      "value": 37
-    },
-    {
-      "name": "Suspicious Meat Wrap",
-      "qty": 2,
-      "value": 26
-    },
-    {
-      "name": "Boss Room Gratuity",
-      "qty": 1,
-      "value": 666
-    },
-    {
-      "name": "Emotional Damages",
-      "qty": 1,
-      "value": 1029
-    }
-  ],
-  "carl_quote": "You will not break me.",
-  "donut_quote": "Mongo is appalled!",
-  "warning": "No refunds after floor collapse.",
-  "footer": "Dungeon oversight is not responsible for screaming, acid, or celebrity cats."
+  "floor": 7,
+  "biome": "Murder Mall",
+  "party": "Carl & Princess Donut",
+  "mode": "quest",
+
+  "quote_card": {
+    "speaker": "Carl",
+    "quote": "You will not break me.",
+    "flavor": "Recorded after extensive explosions and at least one terrible decision."
+  },
+
+  "famous_line_card": {
+    "speaker": "Donut",
+    "quote": "Mongo is appalled!",
+    "flavor": "Certified royal outrage. Volume excessive. Accuracy unquestioned."
+  },
+
+  "quest_card": {
+    "quest_name": "Escort the Screaming Merchant",
+    "difficulty": "Catastrophic",
+    "objective": "Deliver one unstable merchant through the food court without triggering a clown nest.",
+    "reward": "3,200 XP, 410 gold, 1 mystery box",
+    "warning": "Failure may result in dismemberment, mockery, or poor reviews."
+  },
+
+  "boss_reward_card": {
+    "boss_name": "Gorthok the Consumer Prince",
+    "boss_status": "Defeated messily",
+    "rewards": [
+      "1x Jeweled Collar of Minor Majesty",
+      "860 gold",
+      "Rare bomb component",
+      "Reputation +12 with deeply questionable factions"
+    ],
+    "bonus": "Audience delight increased by 18%."
+  },
+
+  "store_price_card": {
+    "shop_name": "Goblin Bazaar Express",
+    "items": [
+      { "name": "Health Potion", "price": 85 },
+      { "name": "Exploding Chicken Skewer", "price": 42 },
+      { "name": "Trap Disarm Kit", "price": 130 },
+      { "name": "Royal Cat Brush", "price": 999 },
+      { "name": "Questionable Meat Wrap", "price": 17 }
+    ],
+    "note": "All sales final. Screaming at staff incurs a handling fee."
+  },
+
+  "footer": "Dungeon management denies responsibility for curses, lava, or influencer involvement."
 }
