@@ -1,0 +1,42 @@
+{
+  "title": "Dungeon Receipt",
+  "subtitle": "Floor Report // Princess Posse Ledger",
+  "date": "2026-03-10",
+  "floor": 6,
+  "biome": "Hazard Bazaar",
+  "customer": "Carl & Princess Donut",
+  "status": "Alive, irritated, and extremely under-tipped",
+  "gold_total": 1842,
+  "xp_gained": 9200,
+  "items": [
+    {
+      "name": "Goblin Teeth",
+      "qty": 14,
+      "value": 84
+    },
+    {
+      "name": "Exploded Potion Refund",
+      "qty": 1,
+      "value": 37
+    },
+    {
+      "name": "Suspicious Meat Wrap",
+      "qty": 2,
+      "value": 26
+    },
+    {
+      "name": "Boss Room Gratuity",
+      "qty": 1,
+      "value": 666
+    },
+    {
+      "name": "Emotional Damages",
+      "qty": 1,
+      "value": 1029
+    }
+  ],
+  "carl_quote": "You will not break me.",
+  "donut_quote": "Mongo is appalled!",
+  "warning": "No refunds after floor collapse.",
+  "footer": "Dungeon oversight is not responsible for screaming, acid, or celebrity cats."
+}
