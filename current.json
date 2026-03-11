@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-11T22:55:09.466310+00:00",
+  "generated_at_utc": "2026-03-11T23:35:35.124914+00:00",
   "floor_label": "F5",
   "trend_label": "RISING",
   "threat_label": "LETHAL",
   "sponsor_label": "INVESTED",
-  "mode": "betting_line",
-  "headline": "Audience Betting Line",
-  "contestant": "Carl",
-  "odds": "3:1 survival",
-  "trend": "Improving",
-  "note": "Explosive creativity impresses viewers."
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Keep snacks for Mongo.",
+  "reason": "This reduces property damage."
 }
