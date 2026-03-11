@@ -2,10 +2,11 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "mode": "broadcast_alert",
-  "headline": "Dungeon Broadcast Alert",
-  "alert_type": "Floor Event",
-  "message": "The escalators are now carnivorous. Avoid upward travel unless armed.",
-  "severity": "Severe",
-  "advisory": "Management recommends screaming with confidence."
+  "mode": "quest",
+  "headline": "Bonus Objective",
+  "quest_name": "Feed Mongo Properly",
+  "difficulty": "Urgent",
+  "objective": "Acquire acceptable monster-grade snacks before Mongo samples the locals.",
+  "reward": "1500 XP, pet approval, reduced chaos",
+  "warning": "Substitutions will be judged harshly."
 }
