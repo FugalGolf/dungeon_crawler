@@ -240,301 +240,254 @@
       "directive": "Please combine purchasing with panic."
     },
     {
-"mode": "death_odds",
-"headline": "Today's Death Odds",
-"survival": "12%",
-"trend": "Falling",
-"reason": "Explosive mishaps and poor decisions.",
-"advice": "Running away is statistically underused."
-},
-{
-"mode": "death_odds",
-"headline": "Today's Death Odds",
-"survival": "21%",
-"trend": "Unstable",
-"reason": "Three active bosses and a lava escalator.",
-"advice": "Avoid vertical movement."
-},
-{
-"mode": "death_odds",
-"headline": "Today's Death Odds",
-"survival": "8%",
-"trend": "Catastrophic",
-"reason": "The floor AI is bored.",
-"advice": "Entertain it or die tired."
-},
-{
-"mode": "death_odds",
-"headline": "Today's Death Odds",
-"survival": "33%",
-"trend": "Improving",
-"reason": "Several competitors already exploded.",
-"advice": "Stay behind slower contestants."
-},
-{
-"mode": "death_odds",
-"headline": "Today's Death Odds",
-"survival": "5%",
-"trend": "Very bad",
-"reason": "Clown biome activation detected.",
-"advice": "Never trust balloons."
-},
-
-{
-"mode": "sponsor_message",
-"headline": "Sponsor Message",
-"sponsor": "Explodium™",
-"message": "When subtlety fails, use more explosions.",
-"offer": "Use code BOOM for +5% blast radius."
-},
-{
-"mode": "sponsor_message",
-"headline": "Sponsor Message",
-"sponsor": "Goblin Meal Kits",
-"message": "Dinner in under 6 minutes or we eat you.",
-"offer": "First bite free."
-},
-{
-"mode": "sponsor_message",
-"headline": "Sponsor Message",
-"sponsor": "ArmorFlex",
-"message": "Because ribs are expensive.",
-"offer": "Survive one extra stabbing!"
-},
-{
-"mode": "sponsor_message",
-"headline": "Sponsor Message",
-"sponsor": "AudienceBet",
-"message": "Bet on survival. Bet on carnage.",
-"offer": "New users get a free corpse credit."
-},
-{
-"mode": "sponsor_message",
-"headline": "Sponsor Message",
-"sponsor": "Prestige Cat Food",
-"message": "Approved by Princess Donut.",
-"offer": "Royal flavor upgrade available."
-},
-
-{
-"mode": "floor_fact",
-"headline": "Dungeon Fact",
-"fact": "Escalators on Floor 7 are carnivorous.",
-"tip": "Use stairs or explosives."
-},
-{
-"mode": "floor_fact",
-"headline": "Dungeon Fact",
-"fact": "Blood stains increase viewer ratings by 3%.",
-"tip": "Placement matters."
-},
-{
-"mode": "floor_fact",
-"headline": "Dungeon Fact",
-"fact": "The dungeon AI prefers dramatic irony.",
-"tip": "Do not say 'What could go wrong?'"
-},
-{
-"mode": "floor_fact",
-"headline": "Dungeon Fact",
-"fact": "Most traps are installed by interns.",
-"tip": "But they are enthusiastic."
-},
-{
-"mode": "floor_fact",
-"headline": "Dungeon Fact",
-"fact": "Audience laughter boosts loot quality.",
-"tip": "Embarrassment is profitable."
-},
-
-{
-"mode": "trap_warning",
-"headline": "Trap Warning",
-"trap": "Exploding vending machines",
-"location": "Food court",
-"danger": "High",
-"note": "Selecting diet soda triggers grenades."
-},
-{
-"mode": "trap_warning",
-"headline": "Trap Warning",
-"trap": "Mimic ATM",
-"location": "Central plaza",
-"danger": "Extreme",
-"note": "Withdrawals are permanent."
-},
-{
-"mode": "trap_warning",
-"headline": "Trap Warning",
-"trap": "Gravity flip tile",
-"location": "Hallway B",
-"danger": "Moderate",
-"note": "Look for suspicious arrows."
-},
-{
-"mode": "trap_warning",
-"headline": "Trap Warning",
-"trap": "Tax collector skeleton",
-"location": "Merchant corridor",
-"danger": "High",
-"note": "He audits aggressively."
-},
-{
-"mode": "trap_warning",
-"headline": "Trap Warning",
-"trap": "Screaming statues",
-"location": "Atrium",
-"danger": "Psychological",
-"note": "Do not make eye contact."
-},
-
-{
-"mode": "survival_tip",
-"headline": "Survival Tip",
-"tip": "Always kick treasure chests first.",
-"reason": "Mimics hate being kicked."
-},
-{
-"mode": "survival_tip",
-"headline": "Survival Tip",
-"tip": "Carry two bombs.",
-"reason": "One will not be enough."
-},
-{
-"mode": "survival_tip",
-"headline": "Survival Tip",
-"tip": "If a hallway is quiet...",
-"reason": "...the hallway is lying."
-},
-{
-"mode": "survival_tip",
-"headline": "Survival Tip",
-"tip": "Never insult the dungeon AI.",
-"reason": "It remembers."
-},
-{
-"mode": "survival_tip",
-"headline": "Survival Tip",
-"tip": "Keep snacks for Mongo.",
-"reason": "This reduces property damage."
-},
-
-{
-"mode": "betting_line",
-"headline": "Audience Betting Line",
-"contestant": "Carl",
-"odds": "3:1 survival",
-"trend": "Improving",
-"note": "Explosive creativity impresses viewers."
-},
-{
-"mode": "betting_line",
-"headline": "Audience Betting Line",
-"contestant": "Princess Donut",
-"odds": "5:1 victory",
-"trend": "Stable",
-"note": "Royal confidence increases ratings."
-},
-{
-"mode": "betting_line",
-"headline": "Audience Betting Line",
-"contestant": "Random New Guy",
-"odds": "50:1 survival",
-"trend": "Falling",
-"note": "Already screaming."
-},
-{
-"mode": "betting_line",
-"headline": "Audience Betting Line",
-"contestant": "Mongo",
-"odds": "1:1 chaos",
-"trend": "Rising",
-"note": "Insurance companies concerned."
-},
-{
-"mode": "betting_line",
-"headline": "Audience Betting Line",
-"contestant": "The Audience",
-"odds": "Always wins",
-"trend": "Guaranteed",
-"note": "Blood sells."
-},
-
-{
-"mode": "crowd_poll",
-"headline": "Audience Poll",
-"question": "Should Carl open the glowing door?",
-"results": "Yes: 78%  No: 22%",
-"note": "Audience enjoys bad ideas."
-},
-{
-"mode": "crowd_poll",
-"headline": "Audience Poll",
-"question": "Should Donut get the crown?",
-"results": "Yes: 92%",
-"note": "Royal approval trending."
-},
-{
-"mode": "crowd_poll",
-"headline": "Audience Poll",
-"question": "Should someone kick the mimic?",
-"results": "Yes: 100%",
-"note": "Consensus achieved."
-},
-{
-"mode": "crowd_poll",
-"headline": "Audience Poll",
-"question": "More explosions?",
-"results": "Yes: 99%",
-"note": "Viewer engagement excellent."
-},
-{
-"mode": "crowd_poll",
-"headline": "Audience Poll",
-"question": "Should the dungeon be nicer?",
-"results": "No: 100%",
-"note": "Cruelty performs well."
-},
-
-{
-"mode": "death_odds",
-"headline": "Today's Death Odds",
-"survival": "14%",
-"trend": "Declining",
-"reason": "Too many explosives nearby.",
-"advice": "Distance equals life."
-},
-{
-"mode": "death_odds",
-"headline": "Today's Death Odds",
-"survival": "17%",
-"trend": "Volatile",
-"reason": "Trap density above recommended limits.",
-"advice": "Step carefully."
-},
-{
-"mode": "death_odds",
-"headline": "Today's Death Odds",
-"survival": "9%",
-"trend": "Trending worse",
-"reason": "Boss spawn event active.",
-"advice": "Hide behind furniture."
-},
-{
-"mode": "death_odds",
-"headline": "Today's Death Odds",
-"survival": "26%",
-"trend": "Stable",
-"reason": "Competitors eliminated earlier.",
-"advice": "Do not celebrate yet."
-},
-{
-"mode": "death_odds",
-"headline": "Today's Death Odds",
-"survival": "3%",
-"trend": "Hopeless",
-"reason": "You touched the cursed lever.",
-"advice": "Accept fate gracefully."
-}
+      "mode": "death_odds",
+      "headline": "Today's Death Odds",
+      "survival": "12%",
+      "trend": "Falling",
+      "reason": "Explosive mishaps and poor decisions.",
+      "advice": "Running away is statistically underused."
+    },
+    {
+      "mode": "death_odds",
+      "headline": "Today's Death Odds",
+      "survival": "21%",
+      "trend": "Unstable",
+      "reason": "Three active bosses and a lava escalator.",
+      "advice": "Avoid vertical movement."
+    },
+    {
+      "mode": "death_odds",
+      "headline": "Today's Death Odds",
+      "survival": "8%",
+      "trend": "Catastrophic",
+      "reason": "The floor AI is bored.",
+      "advice": "Entertain it or die tired."
+    },
+    {
+      "mode": "death_odds",
+      "headline": "Today's Death Odds",
+      "survival": "33%",
+      "trend": "Improving",
+      "reason": "Several competitors already exploded.",
+      "advice": "Stay behind slower contestants."
+    },
+    {
+      "mode": "death_odds",
+      "headline": "Today's Death Odds",
+      "survival": "5%",
+      "trend": "Very bad",
+      "reason": "Clown biome activation detected.",
+      "advice": "Never trust balloons."
+    },
+    {
+      "mode": "sponsor_message",
+      "headline": "Sponsor Message",
+      "sponsor": "Explodium™",
+      "message": "When subtlety fails, use more explosions.",
+      "offer": "Use code BOOM for +5% blast radius."
+    },
+    {
+      "mode": "sponsor_message",
+      "headline": "Sponsor Message",
+      "sponsor": "Goblin Meal Kits",
+      "message": "Dinner in under 6 minutes or we eat you.",
+      "offer": "First bite free."
+    },
+    {
+      "mode": "sponsor_message",
+      "headline": "Sponsor Message",
+      "sponsor": "ArmorFlex",
+      "message": "Because ribs are expensive.",
+      "offer": "Survive one extra stabbing!"
+    },
+    {
+      "mode": "sponsor_message",
+      "headline": "Sponsor Message",
+      "sponsor": "AudienceBet",
+      "message": "Bet on survival. Bet on carnage.",
+      "offer": "New users get a free corpse credit."
+    },
+    {
+      "mode": "sponsor_message",
+      "headline": "Sponsor Message",
+      "sponsor": "Prestige Cat Food",
+      "message": "Approved by Princess Donut.",
+      "offer": "Royal flavor upgrade available."
+    },
+    {
+      "mode": "floor_fact",
+      "headline": "Dungeon Fact",
+      "fact": "Escalators on Floor 7 are carnivorous.",
+      "tip": "Use stairs or explosives."
+    },
+    {
+      "mode": "floor_fact",
+      "headline": "Dungeon Fact",
+      "fact": "Blood stains increase viewer ratings by 3%.",
+      "tip": "Placement matters."
+    },
+    {
+      "mode": "floor_fact",
+      "headline": "Dungeon Fact",
+      "fact": "The dungeon AI prefers dramatic irony.",
+      "tip": "Do not say 'What could go wrong?'"
+    },
+    {
+      "mode": "floor_fact",
+      "headline": "Dungeon Fact",
+      "fact": "Most traps are installed by interns.",
+      "tip": "But they are enthusiastic."
+    },
+    {
+      "mode": "floor_fact",
+      "headline": "Dungeon Fact",
+      "fact": "Audience laughter boosts loot quality.",
+      "tip": "Embarrassment is profitable."
+    },
+    {
+      "mode": "trap_warning",
+      "headline": "Trap Warning",
+      "trap": "Exploding vending machines",
+      "location": "Food court",
+      "danger": "High",
+      "note": "Selecting diet soda triggers grenades."
+    },
+    {
+      "mode": "trap_warning",
+      "headline": "Trap Warning",
+      "trap": "Mimic ATM",
+      "location": "Central plaza",
+      "danger": "Extreme",
+      "note": "Withdrawals are permanent."
+    },
+    {
+      "mode": "trap_warning",
+      "headline": "Trap Warning",
+      "trap": "Gravity flip tile",
+      "location": "Hallway B",
+      "danger": "Moderate",
+      "note": "Look for suspicious arrows."
+    },
+    {
+      "mode": "trap_warning",
+      "headline": "Trap Warning",
+      "trap": "Tax collector skeleton",
+      "location": "Merchant corridor",
+      "danger": "High",
+      "note": "He audits aggressively."
+    },
+    {
+      "mode": "trap_warning",
+      "headline": "Trap Warning",
+      "trap": "Screaming statues",
+      "location": "Atrium",
+      "danger": "Psychological",
+      "note": "Do not make eye contact."
+    },
+    {
+      "mode": "survival_tip",
+      "headline": "Survival Tip",
+      "tip": "Always kick treasure chests first.",
+      "reason": "Mimics hate being kicked."
+    },
+    {
+      "mode": "survival_tip",
+      "headline": "Survival Tip",
+      "tip": "Carry two bombs.",
+      "reason": "One will not be enough."
+    },
+    {
+      "mode": "survival_tip",
+      "headline": "Survival Tip",
+      "tip": "If a hallway is quiet...",
+      "reason": "...the hallway is lying."
+    },
+    {
+      "mode": "survival_tip",
+      "headline": "Survival Tip",
+      "tip": "Never insult the dungeon AI.",
+      "reason": "It remembers."
+    },
+    {
+      "mode": "survival_tip",
+      "headline": "Survival Tip",
+      "tip": "Keep snacks for Mongo.",
+      "reason": "This reduces property damage."
+    },
+    {
+      "mode": "betting_line",
+      "headline": "Audience Betting Line",
+      "contestant": "Carl",
+      "odds": "3:1 survival",
+      "trend": "Improving",
+      "note": "Explosive creativity impresses viewers."
+    },
+    {
+      "mode": "betting_line",
+      "headline": "Audience Betting Line",
+      "contestant": "Princess Donut",
+      "odds": "5:1 victory",
+      "trend": "Stable",
+      "note": "Royal confidence increases ratings."
+    },
+    {
+      "mode": "betting_line",
+      "headline": "Audience Betting Line",
+      "contestant": "Random New Guy",
+      "odds": "50:1 survival",
+      "trend": "Falling",
+      "note": "Already screaming."
+    },
+    {
+      "mode": "betting_line",
+      "headline": "Audience Betting Line",
+      "contestant": "Mongo",
+      "odds": "1:1 chaos",
+      "trend": "Rising",
+      "note": "Insurance companies concerned."
+    },
+    {
+      "mode": "betting_line",
+      "headline": "Audience Betting Line",
+      "contestant": "The Audience",
+      "odds": "Always wins",
+      "trend": "Guaranteed",
+      "note": "Blood sells."
+    },
+    {
+      "mode": "crowd_poll",
+      "headline": "Audience Poll",
+      "question": "Should Carl open the glowing door?",
+      "results": "Yes: 78%  No: 22%",
+      "note": "Audience enjoys bad ideas."
+    },
+    {
+      "mode": "crowd_poll",
+      "headline": "Audience Poll",
+      "question": "Should Donut get the crown?",
+      "results": "Yes: 92%",
+      "note": "Royal approval trending."
+    },
+    {
+      "mode": "crowd_poll",
+      "headline": "Audience Poll",
+      "question": "Should someone kick the mimic?",
+      "results": "Yes: 100%",
+      "note": "Consensus achieved."
+    },
+    {
+      "mode": "crowd_poll",
+      "headline": "Audience Poll",
+      "question": "More explosions?",
+      "results": "Yes: 99%",
+      "note": "Viewer engagement excellent."
+    },
+    {
+      "mode": "crowd_poll",
+      "headline": "Audience Poll",
+      "question": "Should the dungeon be nicer?",
+      "results": "No: 100%",
+      "note": "Cruelty performs well."
+    }
   ]
 }
