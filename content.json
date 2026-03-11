@@ -1,0 +1,243 @@
+{
+  "title": "Dungeon Crawl Feed",
+  "subtitle": "Floor Broadcast // Princess Donut Network",
+  "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
+  "cards": [
+    {
+      "mode": "quote",
+      "headline": "Survivor's Note",
+      "speaker": "Carl",
+      "quote": "You will not break me.",
+      "flavor": "Filed after explosions, blood loss, and one very bad idea."
+    },
+    {
+      "mode": "quote",
+      "headline": "Operational Update",
+      "speaker": "Carl",
+      "quote": "Every floor finds a new way to be worse.",
+      "flavor": "Assessment delivered while already sprinting."
+    },
+    {
+      "mode": "famous_line",
+      "headline": "Royal Outrage",
+      "speaker": "Princess Donut",
+      "quote": "Mongo is appalled!",
+      "flavor": "A timeless judgment suitable for nearly any situation."
+    },
+    {
+      "mode": "famous_line",
+      "headline": "Formal Complaint",
+      "speaker": "Princess Donut",
+      "quote": "This is unacceptable. Completely unacceptable.",
+      "flavor": "Issued with full sovereign authority."
+    },
+    {
+      "mode": "quest",
+      "headline": "Active Quest",
+      "quest_name": "Escort the Screaming Merchant",
+      "difficulty": "Catastrophic",
+      "objective": "Move one unstable merchant across the food court without waking the clown nest.",
+      "reward": "3200 XP, 410 gold, 1 mystery box",
+      "warning": "Merchant may scream, bargain, and attract knives."
+    },
+    {
+      "mode": "quest",
+      "headline": "Bonus Objective",
+      "quest_name": "Feed Mongo Properly",
+      "difficulty": "Urgent",
+      "objective": "Acquire acceptable monster-grade snacks before Mongo samples the locals.",
+      "reward": "1500 XP, pet approval, reduced chaos",
+      "warning": "Substitutions will be judged harshly."
+    },
+    {
+      "mode": "boss_reward",
+      "headline": "Boss Rewards",
+      "boss_name": "Gorthok the Consumer Prince",
+      "boss_status": "Defeated messily",
+      "rewards": [
+        "Jeweled Collar of Minor Majesty",
+        "860 gold",
+        "Rare bomb component",
+        "Reputation +12 with questionable factions"
+      ],
+      "bonus": "Audience delight increased by 18%."
+    },
+    {
+      "mode": "boss_reward",
+      "headline": "Boss Rewards",
+      "boss_name": "King Discountus",
+      "boss_status": "Crowned into the pavement",
+      "rewards": [
+        "Crown of Aggressive Savings",
+        "1500 gold",
+        "Bulk ammo coupon",
+        "Title: Pricebreaker"
+      ],
+      "bonus": "One merchant now fears you on sight."
+    },
+    {
+      "mode": "store_price",
+      "headline": "Store Prices",
+      "shop_name": "Goblin Bazaar Express",
+      "items": [
+        { "name": "Health Potion", "price": 85 },
+        { "name": "Exploding Chicken Skewer", "price": 42 },
+        { "name": "Trap Disarm Kit", "price": 130 },
+        { "name": "Royal Cat Brush", "price": 999 },
+        { "name": "Questionable Meat Wrap", "price": 17 }
+      ],
+      "note": "All sales final. Screaming at staff incurs a handling fee."
+    },
+    {
+      "mode": "store_price",
+      "headline": "Goblin Market Deals",
+      "shop_name": "Bombs & Feelings",
+      "items": [
+        { "name": "Basic Fuse Bundle", "price": 40 },
+        { "name": "Sticky Blast Gel", "price": 165 },
+        { "name": "Shrapnel Capsule", "price": 95 },
+        { "name": "Timer Beetle", "price": 130 },
+        { "name": "Apology Card", "price": 5 }
+      ],
+      "note": "Bundle discounts available after verified destruction."
+    },
+    {
+      "mode": "receipt",
+      "headline": "Dungeon Receipt",
+      "customer": "Carl & Princess Donut",
+      "status": "Alive, irritated, and under-tipped",
+      "line_items": [
+        { "name": "Goblin Teeth", "qty": 14, "value": 84 },
+        { "name": "Exploded Potion Refund", "qty": 1, "value": 37 },
+        { "name": "Suspicious Meat Wrap", "qty": 2, "value": 26 },
+        { "name": "Boss Room Gratuity", "qty": 1, "value": 666 },
+        { "name": "Emotional Damages", "qty": 1, "value": 1029 }
+      ],
+      "gold_total": 1842,
+      "xp_gained": 9200,
+      "warning": "No refunds after floor collapse."
+    },
+    {
+      "mode": "achievement",
+      "headline": "Achievement Unlocked",
+      "achievement_name": "Still Not Dead",
+      "rarity": "Uncommon",
+      "effect": "+5 morale, +1 audience sympathy, +0 actual safety",
+      "flavor": "Awarded for surviving a situation clearly designed by a lunatic."
+    },
+    {
+      "mode": "achievement",
+      "headline": "Achievement Unlocked",
+      "achievement_name": "Mongo Approved",
+      "rarity": "Epic",
+      "effect": "Pet loyalty boosted, fear radius widened",
+      "flavor": "A rare honor accompanied by property damage."
+    },
+    {
+      "mode": "broadcast_alert",
+      "headline": "Dungeon Broadcast Alert",
+      "alert_type": "System Warning",
+      "message": "A sponsored slaughter event will begin in 11 minutes. Please die entertainingly.",
+      "severity": "High",
+      "advisory": "Audience ratings are doubled during public dismemberment."
+    },
+    {
+      "mode": "broadcast_alert",
+      "headline": "Dungeon Broadcast Alert",
+      "alert_type": "Floor Event",
+      "message": "The escalators are now carnivorous. Avoid upward travel unless armed.",
+      "severity": "Severe",
+      "advisory": "Management recommends screaming with confidence."
+    },
+    {
+      "mode": "loot_drop",
+      "headline": "Loot Drop",
+      "loot_name": "Box of Dubious Triumph",
+      "rarity": "Rare",
+      "contents": "Bomb parts, jerky, 220 gold, one passive-aggressive note",
+      "flavor": "The box hums like it disapproves of your choices."
+    },
+    {
+      "mode": "loot_drop",
+      "headline": "Loot Drop",
+      "loot_name": "Royal Audience Crate",
+      "rarity": "Epic",
+      "contents": "Prestige collar gem, luxury treats, upgrade token",
+      "flavor": "Princess-grade rewards for maximum spectacle."
+    },
+    {
+      "mode": "audience_meter",
+      "headline": "Audience Popularity",
+      "rating": "8.7 / 10",
+      "trend": "Rising",
+      "reason": "Recent explosions, sarcasm, and cat-based leadership improved engagement.",
+      "bonus": "Sponsor interest +6%"
+    },
+    {
+      "mode": "audience_meter",
+      "headline": "Audience Popularity",
+      "rating": "6.1 / 10",
+      "trend": "Volatile",
+      "reason": "Viewers enjoyed the violence but disliked the inventory management segment.",
+      "bonus": "Crowd pity +2%"
+    },
+    {
+      "mode": "damage_report",
+      "headline": "Carl Damage Report",
+      "condition": "Walking wounded",
+      "hp_state": "Bad but functional",
+      "injuries": [
+        "Bruised ribs",
+        "Singed eyebrows",
+        "Shrapnel scratches",
+        "Existential fatigue"
+      ],
+      "note": "Recommended treatment: sleep, revenge, and antiseptic."
+    },
+    {
+      "mode": "damage_report",
+      "headline": "Carl Damage Report",
+      "condition": "Operational rage",
+      "hp_state": "Technically alive",
+      "injuries": [
+        "Knife graze",
+        "Acid splash on boot",
+        "Shoulder strain",
+        "General disgust"
+      ],
+      "note": "Condition improves when enemies explode nearby."
+    },
+    {
+      "mode": "mongo_status",
+      "headline": "Mongo Status",
+      "mood": "Appalled",
+      "energy": "Maximum",
+      "diet": "Acceptable but judged",
+      "threat": "Significant",
+      "note": "Do not stand between Mongo and snack-sized enemies."
+    },
+    {
+      "mode": "mongo_status",
+      "headline": "Mongo Status",
+      "mood": "Enthusiastic",
+      "energy": "Unwise",
+      "diet": "Seeking upgrades",
+      "threat": "Catastrophic",
+      "note": "Mongo would like it known that this is everyone else's fault."
+    },
+    {
+      "mode": "showrunner_notice",
+      "headline": "AI Showrunner Notice",
+      "showrunner": "Bored Entertainment Cluster 9",
+      "message": "Your recent behavior tests well with the 18-34 bloodthirst demographic.",
+      "directive": "Maintain momentum. Betray someone photogenically if possible."
+    },
+    {
+      "mode": "showrunner_notice",
+      "headline": "AI Showrunner Notice",
+      "showrunner": "Content Optimization Nexus",
+      "message": "Viewer retention dips when you shop too carefully.",
+      "directive": "Please combine purchasing with panic."
+    }
+  ]
+}
