@@ -2,14 +2,35 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-11T21:49:13.679363+00:00",
-  "floor_label": "F8",
+  "generated_at_utc": "2026-03-11T22:02:40.726817+00:00",
+  "floor_label": "F7",
   "trend_label": "VOLATILE",
-  "threat_label": "HIGH",
-  "sponsor_label": "INVESTED",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should someone kick the mimic?",
-  "results": "Yes: 100%",
-  "note": "Consensus achieved."
+  "threat_label": "MED",
+  "sponsor_label": "WATCHING",
+  "mode": "store_price",
+  "headline": "Goblin Market Deals",
+  "shop_name": "Bombs & Feelings",
+  "items": [
+    {
+      "name": "Basic Fuse Bundle",
+      "price": 40
+    },
+    {
+      "name": "Sticky Blast Gel",
+      "price": 165
+    },
+    {
+      "name": "Shrapnel Capsule",
+      "price": 95
+    },
+    {
+      "name": "Timer Beetle",
+      "price": 130
+    },
+    {
+      "name": "Apology Card",
+      "price": 5
+    }
+  ],
+  "note": "Bundle discounts available after verified destruction."
 }
