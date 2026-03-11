@@ -2,14 +2,43 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-11T16:29:27.691689+00:00",
-  "floor_label": "F7",
+  "generated_at_utc": "2026-03-11T17:29:15.636328+00:00",
+  "floor_label": "F8",
   "trend_label": "SPIKING",
-  "threat_label": "HIGH",
+  "threat_label": "MED",
   "sponsor_label": "INVESTED",
-  "mode": "showrunner_notice",
-  "headline": "AI Showrunner Notice",
-  "showrunner": "Bored Entertainment Cluster 9",
-  "message": "Your recent behavior tests well with the 18-34 bloodthirst demographic.",
-  "directive": "Maintain momentum. Betray someone photogenically if possible."
+  "mode": "receipt",
+  "headline": "Dungeon Receipt",
+  "customer": "Carl & Princess Donut",
+  "status": "Alive, irritated, and under-tipped",
+  "line_items": [
+    {
+      "name": "Goblin Teeth",
+      "qty": 14,
+      "value": 84
+    },
+    {
+      "name": "Exploded Potion Refund",
+      "qty": 1,
+      "value": 37
+    },
+    {
+      "name": "Suspicious Meat Wrap",
+      "qty": 2,
+      "value": 26
+    },
+    {
+      "name": "Boss Room Gratuity",
+      "qty": 1,
+      "value": 666
+    },
+    {
+      "name": "Emotional Damages",
+      "qty": 1,
+      "value": 1029
+    }
+  ],
+  "gold_total": 1842,
+  "xp_gained": 9200,
+  "warning": "No refunds after floor collapse."
 }
