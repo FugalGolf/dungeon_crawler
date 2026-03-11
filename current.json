@@ -2,10 +2,10 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "mode": "betting_line",
-  "headline": "Audience Betting Line",
-  "contestant": "Random New Guy",
-  "odds": "50:1 survival",
-  "trend": "Falling",
-  "note": "Already screaming."
+  "mode": "trap_warning",
+  "headline": "Trap Warning",
+  "trap": "Screaming statues",
+  "location": "Atrium",
+  "danger": "Psychological",
+  "note": "Do not make eye contact."
 }
