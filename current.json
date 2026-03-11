@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-11T15:25:48.270989+00:00",
-  "floor_label": "F5",
-  "trend_label": "VOLATILE",
-  "threat_label": "LETHAL",
-  "sponsor_label": "PLEASED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Most traps are installed by interns.",
-  "tip": "But they are enthusiastic."
+  "generated_at_utc": "2026-03-11T16:29:27.691689+00:00",
+  "floor_label": "F7",
+  "trend_label": "SPIKING",
+  "threat_label": "HIGH",
+  "sponsor_label": "INVESTED",
+  "mode": "showrunner_notice",
+  "headline": "AI Showrunner Notice",
+  "showrunner": "Bored Entertainment Cluster 9",
+  "message": "Your recent behavior tests well with the 18-34 bloodthirst demographic.",
+  "directive": "Maintain momentum. Betray someone photogenically if possible."
 }
