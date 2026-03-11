@@ -2,43 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-11T17:29:15.636328+00:00",
+  "generated_at_utc": "2026-03-11T18:29:16.713831+00:00",
   "floor_label": "F8",
-  "trend_label": "SPIKING",
+  "trend_label": "FALLING",
   "threat_label": "MED",
-  "sponsor_label": "INVESTED",
-  "mode": "receipt",
-  "headline": "Dungeon Receipt",
-  "customer": "Carl & Princess Donut",
-  "status": "Alive, irritated, and under-tipped",
-  "line_items": [
-    {
-      "name": "Goblin Teeth",
-      "qty": 14,
-      "value": 84
-    },
-    {
-      "name": "Exploded Potion Refund",
-      "qty": 1,
-      "value": 37
-    },
-    {
-      "name": "Suspicious Meat Wrap",
-      "qty": 2,
-      "value": 26
-    },
-    {
-      "name": "Boss Room Gratuity",
-      "qty": 1,
-      "value": 666
-    },
-    {
-      "name": "Emotional Damages",
-      "qty": 1,
-      "value": 1029
-    }
-  ],
-  "gold_total": 1842,
-  "xp_gained": 9200,
-  "warning": "No refunds after floor collapse."
+  "sponsor_label": "WATCHING",
+  "mode": "loot_drop",
+  "headline": "Loot Drop",
+  "loot_name": "Royal Audience Crate",
+  "rarity": "Epic",
+  "contents": "Prestige collar gem, luxury treats, upgrade token",
+  "flavor": "Princess-grade rewards for maximum spectacle."
 }
