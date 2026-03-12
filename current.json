@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-12T08:03:19.750138+00:00",
-  "floor_label": "F7",
-  "trend_label": "VOLATILE",
-  "threat_label": "LETHAL",
+  "generated_at_utc": "2026-03-12T08:56:37.415687+00:00",
+  "floor_label": "F5",
+  "trend_label": "FALLING",
+  "threat_label": "HIGH",
   "sponsor_label": "BORED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Escalators on Floor 7 are carnivorous.",
-  "tip": "Use stairs or explosives."
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should Carl open the glowing door?",
+  "results": "Yes: 78%  No: 22%",
+  "note": "Audience enjoys bad ideas."
 }
