@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-12T20:47:58.669270+00:00",
+  "generated_at_utc": "2026-03-12T21:18:37.254524+00:00",
   "floor_label": "F9",
-  "trend_label": "FALLING",
-  "threat_label": "LETHAL",
-  "sponsor_label": "INVESTED",
-  "mode": "sponsor_message",
-  "headline": "Sponsor Message",
-  "sponsor": "Goblin Meal Kits",
-  "message": "Dinner in under 6 minutes or we eat you.",
-  "offer": "First bite free."
+  "trend_label": "RISING",
+  "threat_label": "MED",
+  "sponsor_label": "PLEASED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "The dungeon AI prefers dramatic irony.",
+  "tip": "Do not say 'What could go wrong?'"
 }
