@@ -2,14 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-12T04:28:14.669925+00:00",
-  "floor_label": "F8",
+  "generated_at_utc": "2026-03-12T05:37:51.957530+00:00",
+  "floor_label": "F9",
   "trend_label": "FALLING",
-  "threat_label": "LETHAL",
+  "threat_label": "SEVERE",
   "sponsor_label": "INVESTED",
-  "mode": "showrunner_notice",
-  "headline": "AI Showrunner Notice",
-  "showrunner": "Bored Entertainment Cluster 9",
-  "message": "Your recent behavior tests well with the 18-34 bloodthirst demographic.",
-  "directive": "Maintain momentum. Betray someone photogenically if possible."
+  "mode": "loot_drop",
+  "headline": "Loot Drop",
+  "loot_name": "Box of Dubious Triumph",
+  "rarity": "Rare",
+  "contents": "Bomb parts, jerky, 220 gold, one passive-aggressive note",
+  "flavor": "The box hums like it disapproves of your choices."
 }
