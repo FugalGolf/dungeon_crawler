@@ -2,14 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-12T08:56:37.415687+00:00",
-  "floor_label": "F5",
-  "trend_label": "FALLING",
-  "threat_label": "HIGH",
-  "sponsor_label": "BORED",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should Carl open the glowing door?",
-  "results": "Yes: 78%  No: 22%",
-  "note": "Audience enjoys bad ideas."
+  "generated_at_utc": "2026-03-12T09:55:32.617899+00:00",
+  "floor_label": "F6",
+  "trend_label": "VOLATILE",
+  "threat_label": "MED",
+  "sponsor_label": "WATCHING",
+  "mode": "damage_report",
+  "headline": "Carl Damage Report",
+  "condition": "Operational rage",
+  "hp_state": "Technically alive",
+  "injuries": [
+    "Knife graze",
+    "Acid splash on boot",
+    "Shoulder strain",
+    "General disgust"
+  ],
+  "note": "Condition improves when enemies explode nearby."
 }
