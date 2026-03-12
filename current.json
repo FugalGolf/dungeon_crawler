@@ -2,16 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-12T21:50:24.842347+00:00",
-  "floor_label": "F7",
+  "generated_at_utc": "2026-03-12T22:12:00.146841+00:00",
+  "floor_label": "F9",
   "trend_label": "FALLING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "INVESTED",
-  "mode": "quest",
-  "headline": "Active Quest",
-  "quest_name": "Escort the Screaming Merchant",
-  "difficulty": "Catastrophic",
-  "objective": "Move one unstable merchant across the food court without waking the clown nest.",
-  "reward": "3200 XP, 410 gold, 1 mystery box",
-  "warning": "Merchant may scream, bargain, and attract knives."
+  "threat_label": "HIGH",
+  "sponsor_label": "BORED",
+  "mode": "damage_report",
+  "headline": "Carl Damage Report",
+  "condition": "Operational rage",
+  "hp_state": "Technically alive",
+  "injuries": [
+    "Knife graze",
+    "Acid splash on boot",
+    "Shoulder strain",
+    "General disgust"
+  ],
+  "note": "Condition improves when enemies explode nearby."
 }
