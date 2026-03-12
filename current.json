@@ -2,20 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-12T09:55:32.617899+00:00",
+  "generated_at_utc": "2026-03-12T10:52:59.042230+00:00",
   "floor_label": "F6",
   "trend_label": "VOLATILE",
-  "threat_label": "MED",
-  "sponsor_label": "WATCHING",
-  "mode": "damage_report",
-  "headline": "Carl Damage Report",
-  "condition": "Operational rage",
-  "hp_state": "Technically alive",
-  "injuries": [
-    "Knife graze",
-    "Acid splash on boot",
-    "Shoulder strain",
-    "General disgust"
+  "threat_label": "HIGH",
+  "sponsor_label": "PLEASED",
+  "mode": "boss_reward",
+  "headline": "Boss Rewards",
+  "boss_name": "King Discountus",
+  "boss_status": "Crowned into the pavement",
+  "rewards": [
+    "Crown of Aggressive Savings",
+    "1500 gold",
+    "Bulk ammo coupon",
+    "Title: Pricebreaker"
   ],
-  "note": "Condition improves when enemies explode nearby."
+  "bonus": "One merchant now fears you on sight."
 }
