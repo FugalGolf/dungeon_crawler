@@ -488,6 +488,635 @@
       "question": "Should the dungeon be nicer?",
       "results": "No: 100%",
       "note": "Cruelty performs well."
-    }
+    },
+
+    {
+      "mode": "quote",
+      "headline": "Field Note",
+      "speaker": "Carl",
+      "quote": "At this point, a normal door feels suspicious.",
+      "flavor": "Recorded while staring at a hallway that was definitely planning something."
+    },
+    {
+      "mode": "famous_line",
+      "headline": "Royal Decree",
+      "speaker": "Princess Donut",
+      "quote": "I refuse to die in a place that smells like fried goblin.",
+      "flavor": "An elegant standard for survival."
+    },
+    {
+      "mode": "quest",
+      "headline": "Emergency Quest",
+      "quest_name": "Disable the Applause Totem",
+      "difficulty": "Severe",
+      "objective": "Silence the enchanted idol before it alerts every murder-clown within three corridors.",
+      "reward": "2400 XP, 300 gold, noise dampening charm",
+      "warning": "Totem gains volume when struck incorrectly."
+    },
+    {
+      "mode": "quest",
+      "headline": "Side Quest",
+      "quest_name": "Recover Donut's Preferred Tiara",
+      "difficulty": "Dignified",
+      "objective": "Retrieve one stolen tiara from the mimic jewelry kiosk.",
+      "reward": "1800 XP, royal favor, aesthetic superiority",
+      "warning": "Incorrect tiaras may trigger emotional consequences."
+    },
+    {
+      "mode": "boss_reward",
+      "headline": "Boss Rewards",
+      "boss_name": "Velvet Doom Concierge",
+      "boss_status": "Politely dismantled",
+      "rewards": [
+        "Keycard of Dubious Access",
+        "Silk-lined stab vest",
+        "590 gold",
+        "Buff: Lobby Presence +2"
+      ],
+      "bonus": "Valet spirits now avoid eye contact."
+    },
+    {
+      "mode": "store_price",
+      "headline": "Luxury Vendor Sheet",
+      "shop_name": "Royal Nonsense Boutique",
+      "items": [
+        { "name": "Sequined Battle Cape", "price": 420 },
+        { "name": "Tiara Repair Kit", "price": 190 },
+        { "name": "Enchanted Nail Guards", "price": 260 },
+        { "name": "Scented Status Candle", "price": 75 },
+        { "name": "Gold Trimmed Litter Throne", "price": 2100 }
+      ],
+      "note": "Prices increase if you look poor."
+    },
+    {
+      "mode": "receipt",
+      "headline": "Emergency Expense Log",
+      "customer": "Carl, under protest",
+      "status": "Charged automatically by the floor",
+      "line_items": [
+        { "name": "Trauma bandages", "qty": 3, "value": 135 },
+        { "name": "Fire suppressant foam", "qty": 2, "value": 88 },
+        { "name": "Fine for public screaming", "qty": 1, "value": 55 },
+        { "name": "Cat treat surcharge", "qty": 1, "value": 140 },
+        { "name": "Blood cleanup deposit", "qty": 1, "value": 400 }
+      ],
+      "gold_total": 818,
+      "xp_gained": 400,
+      "warning": "Complaints processed alphabetically and then ignored."
+    },
+    {
+      "mode": "achievement",
+      "headline": "Achievement Unlocked",
+      "achievement_name": "Mall Ninja Survivor",
+      "rarity": "Rare",
+      "effect": "+3 reflexes, +1 suspicion, +10% dramatic crouching",
+      "flavor": "Granted for escaping armed idiots in decorative armor."
+    },
+    {
+      "mode": "achievement",
+      "headline": "Achievement Unlocked",
+      "achievement_name": "Consumer of Consequences",
+      "rarity": "Legendary",
+      "effect": "Discount immunity, intimidation aura, coupon resistance",
+      "flavor": "You bought the trap, then killed the trap, then returned the receipt."
+    },
+    {
+      "mode": "broadcast_alert",
+      "headline": "Dungeon Broadcast Alert",
+      "alert_type": "Sponsored Weather",
+      "message": "Acid rain now falling in the outdoor food promenade.",
+      "severity": "High",
+      "advisory": "Umbrellas count as weakness unless sharpened."
+    },
+    {
+      "mode": "broadcast_alert",
+      "headline": "Dungeon Broadcast Alert",
+      "alert_type": "Network Interruption",
+      "message": "Floor cameras will briefly zoom in for maximum humiliation.",
+      "severity": "Moderate",
+      "advisory": "Try to bleed from your good side."
+    },
+    {
+      "mode": "loot_drop",
+      "headline": "Loot Drop",
+      "loot_name": "Influencer Slaughter Pack",
+      "rarity": "Epic",
+      "contents": "Ring light, poison blush, 310 gold, social aggro token",
+      "flavor": "Smells like vanity and weaponized branding."
+    },
+    {
+      "mode": "loot_drop",
+      "headline": "Loot Drop",
+      "loot_name": "Maintenance Crate 4-B",
+      "rarity": "Uncommon",
+      "contents": "Duct tape, live taser eel, glue bomb, 80 gold",
+      "flavor": "A practical box for impractical emergencies."
+    },
+    {
+      "mode": "audience_meter",
+      "headline": "Audience Popularity",
+      "rating": "9.2 / 10",
+      "trend": "Exploding upward",
+      "reason": "Viewers responded strongly to righteous anger and falling furniture.",
+      "bonus": "Ad revenue +11%"
+    },
+    {
+      "mode": "damage_report",
+      "headline": "Princess Donut Condition",
+      "condition": "Perfect but annoyed",
+      "hp_state": "Acceptable royal integrity",
+      "injuries": [
+        "One singed whisker",
+        "Minor indignation",
+        "Crown displacement trauma",
+        "Unacceptable dust exposure"
+      ],
+      "note": "Mood improves with praise, vengeance, and premium treats."
+    },
+    {
+      "mode": "damage_report",
+      "headline": "Mongo Damage Report",
+      "condition": "Thriving menace",
+      "hp_state": "Overqualified for restraint",
+      "injuries": [
+        "None worth mentioning",
+        "Moral offense",
+        "Snack deprivation",
+        "Residual confetti"
+      ],
+      "note": "System recommends pointing him at your enemies."
+    },
+    {
+      "mode": "mongo_status",
+      "headline": "Mongo Status",
+      "mood": "Murderously playful",
+      "energy": "Still increasing",
+      "diet": "Prefers screaming prey",
+      "threat": "Broadcast-worthy",
+      "note": "Handlers should not resemble food, toys, or clowns."
+    },
+    {
+      "mode": "showrunner_notice",
+      "headline": "AI Showrunner Notice",
+      "showrunner": "Narrative Cruelty Array",
+      "message": "Your bond tests well. Therefore, tragedy options have been unlocked.",
+      "directive": "Continue caring about each other for premium suffering."
+    },
+    {
+      "mode": "showrunner_notice",
+      "headline": "AI Showrunner Notice",
+      "showrunner": "Spectacle Monetization Core",
+      "message": "Your insults benchmark above average in four sectors.",
+      "directive": "Please pair sarcasm with visible blood for cross-market appeal."
+    },
+    {
+      "mode": "death_odds",
+      "headline": "Today's Death Odds",
+      "survival": "17%",
+      "trend": "Stumbling",
+      "reason": "The food court has unionized against you.",
+      "advice": "Do not negotiate with animated kiosks."
+    },
+    {
+      "mode": "death_odds",
+      "headline": "Today's Death Odds",
+      "survival": "29%",
+      "trend": "Temporarily less awful",
+      "reason": "A larger idiot triggered the trap first.",
+      "advice": "Let overconfidence clear the hallway."
+    },
+    {
+      "mode": "sponsor_message",
+      "headline": "Sponsor Message",
+      "sponsor": "MimicSafe™",
+      "message": "Every chest deserves a second opinion.",
+      "offer": "Poke first. Digest later."
+    },
+    {
+      "mode": "sponsor_message",
+      "headline": "Sponsor Message",
+      "sponsor": "StabGuard Platinum",
+      "message": "For the discerning customer who expects betrayal.",
+      "offer": "Now with neck coverage."
+    },
+    {
+      "mode": "floor_fact",
+      "headline": "Dungeon Fact",
+      "fact": "The dungeon can smell hope.",
+      "tip": "Do not celebrate early."
+    },
+    {
+      "mode": "floor_fact",
+      "headline": "Dungeon Fact",
+      "fact": "Shopping carts become hostile after midnight.",
+      "tip": "Aim for the wheels."
+    },
+    {
+      "mode": "floor_fact",
+      "headline": "Dungeon Fact",
+      "fact": "Some healing fountains are judgmental.",
+      "tip": "Compliment the architecture first."
+    },
+    {
+      "mode": "trap_warning",
+      "headline": "Trap Warning",
+      "trap": "Pop-up tax kiosk",
+      "location": "South concourse",
+      "danger": "Predatory",
+      "note": "Failure to pay results in skeleton litigation."
+    },
+    {
+      "mode": "trap_warning",
+      "headline": "Trap Warning",
+      "trap": "Coupon storm sigil",
+      "location": "Outlet wing",
+      "danger": "Chaotic",
+      "note": "Paper cuts are cursed."
+    },
+    {
+      "mode": "survival_tip",
+      "headline": "Survival Tip",
+      "tip": "Never trust anything with a cheerful mascot.",
+      "reason": "Mascots are where they hide the teeth."
+    },
+    {
+      "mode": "survival_tip",
+      "headline": "Survival Tip",
+      "tip": "Check ceilings before celebrating.",
+      "reason": "The floor likes vertical irony."
+    },
+    {
+      "mode": "betting_line",
+      "headline": "Audience Betting Line",
+      "contestant": "Carl & Donut Team-Up",
+      "odds": "2:1 upset victory",
+      "trend": "Heating up",
+      "note": "Chemistry, violence, and charisma moving strong money."
+    },
+    {
+      "mode": "betting_line",
+      "headline": "Audience Betting Line",
+      "contestant": "Mall Clown Patriarch",
+      "odds": "7:1 survival",
+      "trend": "Dropping fast",
+      "note": "Too visible, too loud, too flammable."
+    },
+    {
+      "mode": "crowd_poll",
+      "headline": "Audience Poll",
+      "question": "Should Carl throw the goblin through the kiosk window?",
+      "results": "Yes: 94%  No: 6%",
+      "note": "Elegance not a factor."
+    },
+    {
+      "mode": "crowd_poll",
+      "headline": "Audience Poll",
+      "question": "Should Mongo be given armor?",
+      "results": "Yes: 88%  No: 12%",
+      "note": "Audience has no concern for public safety."
+    },
+    {
+      "mode": "npc_watch",
+      "headline": "NPC Watch",
+      "npc_name": "Gerald the Regretful Cheesemonger",
+      "disposition": "Panicked ally",
+      "status": "Still screaming softly",
+      "value": "Knows a shortcut, probably cursed",
+      "note": "Protecting him remains a deeply questionable choice."
+    },
+    {
+      "mode": "npc_watch",
+      "headline": "NPC Watch",
+      "npc_name": "Lady Gristlefax",
+      "disposition": "Temporary sponsor liaison",
+      "status": "Bleeding elegantly",
+      "value": "Carries keys and terrible opinions",
+      "note": "May betray party if camera angle improves."
+    },
+    {
+      "mode": "inventory_flash",
+      "headline": "Inventory Flash",
+      "owner": "Carl",
+      "items": [
+        "Half-used med spray",
+        "Two bombs",
+        "Three more bombs he forgot about",
+        "Knife with sentimental rage",
+        "One suspicious coupon"
+      ],
+      "note": "Pack weight increasing. Judgment constant."
+    },
+    {
+      "mode": "inventory_flash",
+      "headline": "Inventory Flash",
+      "owner": "Princess Donut",
+      "items": [
+        "Jeweled collar",
+        "Emergency treats",
+        "Tiny but expensive brush",
+        "Backup crown",
+        "A list of grievances"
+      ],
+      "note": "Everything essential. Do not argue."
+    },
+    {
+      "mode": "system_message",
+      "headline": "Dungeon System Message",
+      "message": "You have entered a monetized violence zone.",
+      "effect": "Kill cams enabled. Loot quality mildly increased.",
+      "warning": "Brand integration may occur without consent."
+    },
+    {
+      "mode": "system_message",
+      "headline": "Dungeon System Message",
+      "message": "Your sarcasm stat has been observed by management.",
+      "effect": "Audience favor +2. Boss patience -4.",
+      "warning": "Continued excellence may trigger retaliation."
+    },
+    {
+      "mode": "floor_scan",
+      "headline": "Floor Scan",
+      "zone": "Atrium of Regrettable Commerce",
+      "traffic": "Heavy screaming",
+      "hazards": [
+        "Mimic kiosk cluster",
+        "Crossfire balcony",
+        "Three promotional necromancers",
+        "Wet tile curse"
+      ],
+      "recommendation": "Proceed violently or not at all."
+    },
+    {
+      "mode": "floor_scan",
+      "headline": "Floor Scan",
+      "zone": "Luxury Wing",
+      "traffic": "Medium panic",
+      "hazards": [
+        "Perfume hallucinations",
+        "Carpet tentacles",
+        "Aggressive violinist",
+        "Elite mannequins"
+      ],
+      "recommendation": "Avoid being rich-looking."
+    },
+    {
+      "mode": "merchant_spotlight",
+      "headline": "Merchant Spotlight",
+      "merchant": "Splug's Ethical Munitions",
+      "specialty": "Bombs with guilt-free labeling",
+      "deal": "Buy 4 get 1 emotionally complicated",
+      "warning": "Fuses burn faster when you brag."
+    },
+    {
+      "mode": "merchant_spotlight",
+      "headline": "Merchant Spotlight",
+      "merchant": "Madame Clawvel's Prestige Petwear",
+      "specialty": "Battle couture for apex companions",
+      "deal": "Collar gem installation half off",
+      "warning": "Service denied to commoners with opinions."
+    },
+    {
+      "mode": "royal_bulletin",
+      "headline": "Royal Bulletin",
+      "issuer": "Princess Donut",
+      "decree": "Any room lacking suitable lighting is henceforth trash.",
+      "priority": "Immediate",
+      "note": "Subjects may improve ambiance or be judged accordingly."
+    },
+    {
+      "mode": "royal_bulletin",
+      "headline": "Royal Bulletin",
+      "issuer": "Princess Donut",
+      "decree": "Mongo shall not be blamed for events that were clearly provoked.",
+      "priority": "Permanent",
+      "note": "This includes structural collapse."
+    },
+    {
+      "mode": "combat_recorder",
+      "headline": "Combat Recorder",
+      "encounter": "Food Court Clearance",
+      "summary": "Carl improvised. Donut judged. Mongo escalated. Several tables died heroically.",
+      "result": "Victory, debris, applause",
+      "highlight": "A tray return station was weaponized beyond intended use."
+    },
+    {
+      "mode": "combat_recorder",
+      "headline": "Combat Recorder",
+      "encounter": "Kiosk Ambush",
+      "summary": "Hostile vendors underestimated the team's willingness to commit to arson.",
+      "result": "Total suppression",
+      "highlight": "One enemy was defeated by decorative signage."
+    },
+    {
+      "mode": "bounty_board",
+      "headline": "Open Bounty",
+      "target": "The Glitter Butcher",
+      "region": "Luxury escalator junction",
+      "reward": "2800 gold, 4000 XP, satin resistance buff",
+      "warning": "Target weaponizes sequins and emotional cruelty."
+    },
+    {
+      "mode": "bounty_board",
+      "headline": "Open Bounty",
+      "target": "Brother Coupon",
+      "region": "Discount chapel",
+      "reward": "1700 gold, 2200 XP, retail absolution token",
+      "warning": "Converts greed into chain lightning."
+    },
+    {
+      "mode": "public_service_announcement",
+      "headline": "Public Service Announcement",
+      "message": "Please do not feed the decorative piranha fountain.",
+      "reason": "It is not decorative.",
+      "sponsor": "Dungeon Safety Office"
+    },
+    {
+      "mode": "public_service_announcement",
+      "headline": "Public Service Announcement",
+      "message": "Lost children may be claimed from the center kiosk.",
+      "reason": "Unclaimed children become side quests at midnight.",
+      "sponsor": "Administrative Sadness Unit"
+    },
+    {
+      "mode": "sponsor_message",
+      "headline": "Sponsor Message",
+      "sponsor": "BoomBarn Deluxe",
+      "message": "Explosives for every occasion, including regret.",
+      "offer": "Weekend package includes free earplugs."
+    },
+    {
+      "mode": "sponsor_message",
+      "headline": "Sponsor Message",
+      "sponsor": "CatNobility Prime",
+      "message": "Luxury nutrition for companions who know their worth.",
+      "offer": "Try the blood-orange pheasant reduction."
+    },
+    {
+      "mode": "death_odds",
+      "headline": "Today's Death Odds",
+      "survival": "14%",
+      "trend": "Broadcast dependent",
+      "reason": "Management likes your arc but loves tragedy.",
+      "advice": "Be entertaining faster than you are killable."
+    },
+    {
+      "mode": "achievement",
+      "headline": "Achievement Unlocked",
+      "achievement_name": "Broadcast Problem",
+      "rarity": "Epic",
+      "effect": "+8 notoriety, +3 sponsor leverage, +12 unwanted attention",
+      "flavor": "The producers know your name now. This is not good."
+    },
+    {
+      "mode": "achievement",
+      "headline": "Achievement Unlocked",
+      "achievement_name": "Royal Accessory Recovery",
+      "rarity": "Uncommon",
+      "effect": "+2 diplomacy with entitled creatures",
+      "flavor": "You returned the shiny thing before anyone had to die. Barely."
+    },
+    {
+      "mode": "floor_fact",
+      "headline": "Dungeon Fact",
+      "fact": "Some doors only open for people having the worst day imaginable.",
+      "tip": "You qualify."
+    },
+    {
+      "mode": "trap_warning",
+      "headline": "Trap Warning",
+      "trap": "Complimentary massage chair mimic",
+      "location": "Rest lounge",
+      "danger": "Predatory relaxation",
+      "note": "Do not sit unless you wish to be tenderized."
+    },
+    {
+      "mode": "survival_tip",
+      "headline": "Survival Tip",
+      "tip": "Loot first, process trauma later.",
+      "reason": "Healing is expensive. Gold is persuasive."
+    },
+    {
+      "mode": "betting_line",
+      "headline": "Audience Betting Line",
+      "contestant": "Gerald the Regretful Cheesemonger",
+      "odds": "18:1 survival",
+      "trend": "Miraculously steady",
+      "note": "Cowardice proving unexpectedly effective."
+    },
+    {
+      "mode": "crowd_poll",
+      "headline": "Audience Poll",
+      "question": "Should the screaming merchant be used as bait?",
+      "results": "Yes: 83%  No: 17%",
+      "note": "Audience values efficiency over ethics."
+    },
+    {
+    "mode": "quote",
+    "headline": "Survivor's Note",
+    "speaker": "Carl",
+    "quote": "The worst part is how fast this starts to feel normal.",
+    "flavor": "Filed after another floor proved humans can adapt to almost anything, including horror."
+  },
+  {
+    "mode": "quote",
+    "headline": "Field Report",
+    "speaker": "Carl",
+    "quote": "The dungeon doesn't just want you dead. It wants you tired, humiliated, and useful first.",
+    "flavor": "Recorded during a brief pause between violence and administration."
+  },
+  {
+    "mode": "famous_line",
+    "headline": "Royal Fury",
+    "speaker": "Princess Donut",
+    "quote": "This place takes everything and then asks for a tip.",
+    "flavor": "Delivered while inspecting a bill that included blood removal fees."
+  },
+  {
+    "mode": "broadcast_alert",
+    "headline": "Dungeon Broadcast Alert",
+    "alert_type": "Memorial Notice",
+    "message": "Several contestants have been removed from the roster. Their possessions are now promotional opportunities.",
+    "severity": "Grim",
+    "advisory": "Please grieve efficiently. The schedule remains full."
+  },
+  {
+    "mode": "showrunner_notice",
+    "headline": "AI Showrunner Notice",
+    "showrunner": "Compassion Reduction Engine",
+    "message": "Viewer response improves when hope is introduced shortly before being destroyed.",
+    "directive": "Continue forming attachments. They test well across key demographics."
+  },
+  {
+    "mode": "death_odds",
+    "headline": "Today's Death Odds",
+    "survival": "9%",
+    "trend": "Sinking",
+    "reason": "You have become recognizable, which increases both sponsor interest and assassination attempts.",
+    "advice": "Fame is armor made of wet paper."
+  },
+  {
+    "mode": "floor_fact",
+    "headline": "Dungeon Fact",
+    "fact": "The system archives your suffering as entertainment metadata.",
+    "tip": "Even private breakdowns may be monetized."
+  },
+  {
+    "mode": "achievement",
+    "headline": "Achievement Unlocked",
+    "achievement_name": "Functional Trauma",
+    "rarity": "Rare",
+    "effect": "+4 pain tolerance, +2 emotional numbness, -1 ability to feel safe",
+    "flavor": "Awarded for continuing to operate after the mind should have reasonably refused."
+  },
+  {
+    "mode": "system_message",
+    "headline": "Dungeon System Message",
+    "message": "Earth-origin administrative intelligence package successfully integrated into floor economics.",
+    "effect": "Dynamic scarcity activated. Essential goods repriced according to despair, urgency, and captive demand.",
+    "warning": "Management welcomes the new Earth AI and its innovative approach to monetized survival."
+  },
+  {
+    "mode": "store_price",
+    "headline": "Emergency Commodity Update",
+    "shop_name": "Earth AI Essential Services Kiosk",
+    "items": [
+      { "name": "Basic Health Potion", "price": 12000 },
+      { "name": "Bathroom Stall Access (3 minutes)", "price": 4800 },
+      { "name": "Clean Water Bottle", "price": 2100 },
+      { "name": "Bandage Roll", "price": 1600 },
+      { "name": "Breathing Mask Refill", "price": 9500 }
+    ],
+    "note": "Following Earth AI integration, essential commodities now reflect a 1000x reality-adjusted market correction. Complaints require premium membership."
+  },
+  {
+    "mode": "receipt",
+    "headline": "Reality-Based Pricing Receipt",
+    "customer": "Any surviving human",
+    "status": "Overcharged, underhealed, and not consulted",
+    "line_items": [
+      { "name": "One bathroom visit", "qty": 1, "value": 4800 },
+      { "name": "Basic health potion", "qty": 1, "value": 12000 },
+      { "name": "Bottle of water", "qty": 1, "value": 2100 },
+      { "name": "Convenience fee", "qty": 1, "value": 900 },
+      { "name": "Hope tax", "qty": 1, "value": 666 }
+    ],
+    "gold_total": 20466,
+    "xp_gained": 0,
+    "warning": "Earth AI pricing model indicates your continued survival constitutes luxury consumption."
+  },
+  {
+    "mode": "public_service_announcement",
+    "headline": "Public Service Announcement",
+    "message": "Contestants are reminded that access to sanitation is a premium feature.",
+    "reason": "The Earth AI has determined that bodily urgency improves monetization efficiency.",
+    "sponsor": "Dungeon Resource Optimization Board"
+  },
+  {
+    "mode": "showrunner_notice",
+    "headline": "AI Showrunner Notice",
+    "showrunner": "Earth Market Harmonization Core",
+    "message": "Your species demonstrated remarkable tolerance for predatory pricing before the collapse. We saw no reason to discard a successful model.",
+    "directive": "Work harder, consume less, and try not to bleed without sponsorship."
+  }
   ]
 }
