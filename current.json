@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-13T13:42:14.442410+00:00",
-  "floor_label": "F5",
+  "generated_at_utc": "2026-03-13T14:31:08.339719+00:00",
+  "floor_label": "F9",
   "trend_label": "SPIKING",
-  "threat_label": "SEVERE",
+  "threat_label": "LETHAL",
   "sponsor_label": "INVESTED",
-  "mode": "famous_line",
-  "headline": "Formal Complaint",
-  "speaker": "Princess Donut",
-  "quote": "This is unacceptable. Completely unacceptable.",
-  "flavor": "Issued with full sovereign authority."
+  "mode": "system_message",
+  "headline": "Dungeon System Message",
+  "message": "Earth-origin administrative intelligence package successfully integrated into floor economics.",
+  "effect": "Dynamic scarcity activated. Essential goods repriced according to despair, urgency, and captive demand.",
+  "warning": "Management welcomes the new Earth AI and its innovative approach to monetized survival."
 }
