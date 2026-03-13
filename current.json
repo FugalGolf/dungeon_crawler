@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-13T08:03:11.921345+00:00",
-  "floor_label": "F7",
-  "trend_label": "RISING",
+  "generated_at_utc": "2026-03-13T08:54:15.897843+00:00",
+  "floor_label": "F9",
+  "trend_label": "FALLING",
   "threat_label": "SEVERE",
   "sponsor_label": "PLEASED",
-  "mode": "quote",
-  "headline": "Field Note",
-  "speaker": "Carl",
-  "quote": "At this point, a normal door feels suspicious.",
-  "flavor": "Recorded while staring at a hallway that was definitely planning something."
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Blood stains increase viewer ratings by 3%.",
+  "tip": "Placement matters."
 }
