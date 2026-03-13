@@ -2,20 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-12T23:37:46.827679+00:00",
-  "floor_label": "F5",
-  "trend_label": "FALLING",
+  "generated_at_utc": "2026-03-13T00:01:02.172903+00:00",
+  "floor_label": "F7",
+  "trend_label": "RISING",
   "threat_label": "SEVERE",
   "sponsor_label": "PLEASED",
-  "mode": "boss_reward",
-  "headline": "Boss Rewards",
-  "boss_name": "King Discountus",
-  "boss_status": "Crowned into the pavement",
-  "rewards": [
-    "Crown of Aggressive Savings",
-    "1500 gold",
-    "Bulk ammo coupon",
-    "Title: Pricebreaker"
-  ],
-  "bonus": "One merchant now fears you on sight."
+  "mode": "sponsor_message",
+  "headline": "Sponsor Message",
+  "sponsor": "ArmorFlex",
+  "message": "Because ribs are expensive.",
+  "offer": "Survive one extra stabbing!"
 }
