@@ -2,13 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-13T15:23:39.068930+00:00",
-  "floor_label": "F9",
-  "trend_label": "VOLATILE",
+  "generated_at_utc": "2026-03-13T16:08:35.734615+00:00",
+  "floor_label": "F8",
+  "trend_label": "SPIKING",
   "threat_label": "LETHAL",
-  "sponsor_label": "BORED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "The dungeon can smell hope.",
-  "tip": "Do not celebrate early."
+  "sponsor_label": "WATCHING",
+  "mode": "damage_report",
+  "headline": "Carl Damage Report",
+  "condition": "Walking wounded",
+  "hp_state": "Bad but functional",
+  "injuries": [
+    "Bruised ribs",
+    "Singed eyebrows",
+    "Shrapnel scratches",
+    "Existential fatigue"
+  ],
+  "note": "Recommended treatment: sleep, revenge, and antiseptic."
 }
