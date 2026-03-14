@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-14T06:08:30.485632+00:00",
+  "generated_at_utc": "2026-03-14T07:07:23.762865+00:00",
   "floor_label": "F8",
   "trend_label": "VOLATILE",
-  "threat_label": "SEVERE",
-  "sponsor_label": "WATCHING",
-  "mode": "broadcast_alert",
-  "headline": "Dungeon Broadcast Alert",
-  "alert_type": "Memorial Notice",
-  "message": "Several contestants have been removed from the roster. Their possessions are now promotional opportunities.",
-  "severity": "Grim",
-  "advisory": "Please grieve efficiently. The schedule remains full."
+  "threat_label": "MED",
+  "sponsor_label": "BORED",
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should the screaming merchant be used as bait?",
+  "results": "Yes: 83%  No: 17%",
+  "note": "Audience values efficiency over ethics."
 }
