@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-14T20:01:44.538712+00:00",
-  "floor_label": "F6",
-  "trend_label": "VOLATILE",
+  "generated_at_utc": "2026-03-14T20:39:26.847539+00:00",
+  "floor_label": "F5",
+  "trend_label": "RISING",
   "threat_label": "MED",
-  "sponsor_label": "PLEASED",
-  "mode": "damage_report",
-  "headline": "Carl Damage Report",
-  "condition": "Walking wounded",
-  "hp_state": "Bad but functional",
-  "injuries": [
-    "Bruised ribs",
-    "Singed eyebrows",
-    "Shrapnel scratches",
-    "Existential fatigue"
-  ],
-  "note": "Recommended treatment: sleep, revenge, and antiseptic."
+  "sponsor_label": "INVESTED",
+  "mode": "death_odds",
+  "headline": "Today's Death Odds",
+  "survival": "9%",
+  "trend": "Sinking",
+  "reason": "You have become recognizable, which increases both sponsor interest and assassination attempts.",
+  "advice": "Fame is armor made of wet paper."
 }
