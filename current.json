@@ -2,14 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-14T10:02:18.617807+00:00",
+  "generated_at_utc": "2026-03-14T10:39:32.056872+00:00",
   "floor_label": "F8",
   "trend_label": "SPIKING",
-  "threat_label": "HIGH",
-  "sponsor_label": "BORED",
-  "mode": "sponsor_message",
-  "headline": "Sponsor Message",
-  "sponsor": "ArmorFlex",
-  "message": "Because ribs are expensive.",
-  "offer": "Survive one extra stabbing!"
+  "threat_label": "LETHAL",
+  "sponsor_label": "WATCHING",
+  "mode": "betting_line",
+  "headline": "Audience Betting Line",
+  "contestant": "Carl & Donut Team-Up",
+  "odds": "2:1 upset victory",
+  "trend": "Heating up",
+  "note": "Chemistry, violence, and charisma moving strong money."
 }
