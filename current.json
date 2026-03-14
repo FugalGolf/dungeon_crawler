@@ -2,14 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-14T19:52:03.100462+00:00",
-  "floor_label": "F5",
+  "generated_at_utc": "2026-03-14T20:01:44.538712+00:00",
+  "floor_label": "F6",
   "trend_label": "VOLATILE",
   "threat_label": "MED",
-  "sponsor_label": "WATCHING",
-  "mode": "quote",
-  "headline": "Field Report",
-  "speaker": "Carl",
-  "quote": "The dungeon doesn't just want you dead. It wants you tired, humiliated, and useful first.",
-  "flavor": "Recorded during a brief pause between violence and administration."
+  "sponsor_label": "PLEASED",
+  "mode": "damage_report",
+  "headline": "Carl Damage Report",
+  "condition": "Walking wounded",
+  "hp_state": "Bad but functional",
+  "injuries": [
+    "Bruised ribs",
+    "Singed eyebrows",
+    "Shrapnel scratches",
+    "Existential fatigue"
+  ],
+  "note": "Recommended treatment: sleep, revenge, and antiseptic."
 }
