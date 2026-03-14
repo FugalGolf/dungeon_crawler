@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-14T22:36:26.749795+00:00",
-  "floor_label": "F5",
-  "trend_label": "RISING",
+  "generated_at_utc": "2026-03-14T22:57:51.193877+00:00",
+  "floor_label": "F6",
+  "trend_label": "FALLING",
   "threat_label": "LETHAL",
-  "sponsor_label": "PLEASED",
-  "mode": "inventory_flash",
-  "headline": "Inventory Flash",
-  "owner": "Carl",
-  "items": [
-    "Half-used med spray",
-    "Two bombs",
-    "Three more bombs he forgot about",
-    "Knife with sentimental rage",
-    "One suspicious coupon"
-  ],
-  "note": "Pack weight increasing. Judgment constant."
+  "sponsor_label": "INVESTED",
+  "mode": "bounty_board",
+  "headline": "Open Bounty",
+  "target": "The Glitter Butcher",
+  "region": "Luxury escalator junction",
+  "reward": "2800 gold, 4000 XP, satin resistance buff",
+  "warning": "Target weaponizes sequins and emotional cruelty."
 }
