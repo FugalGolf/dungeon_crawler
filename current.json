@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-14T07:51:03.879378+00:00",
-  "floor_label": "F9",
+  "generated_at_utc": "2026-03-14T08:18:19.585949+00:00",
+  "floor_label": "F6",
   "trend_label": "VOLATILE",
-  "threat_label": "HIGH",
-  "sponsor_label": "WATCHING",
-  "mode": "royal_bulletin",
-  "headline": "Royal Bulletin",
-  "issuer": "Princess Donut",
-  "decree": "Mongo shall not be blamed for events that were clearly provoked.",
-  "priority": "Permanent",
-  "note": "This includes structural collapse."
+  "threat_label": "SEVERE",
+  "sponsor_label": "INVESTED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Blood stains increase viewer ratings by 3%.",
+  "tip": "Placement matters."
 }
