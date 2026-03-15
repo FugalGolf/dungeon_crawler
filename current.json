@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-15T03:25:50.504829+00:00",
+  "generated_at_utc": "2026-03-15T05:19:27.221300+00:00",
   "floor_label": "F5",
-  "trend_label": "SPIKING",
+  "trend_label": "FALLING",
   "threat_label": "SEVERE",
-  "sponsor_label": "INVESTED",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should Mongo be given armor?",
-  "results": "Yes: 88%  No: 12%",
-  "note": "Audience has no concern for public safety."
+  "sponsor_label": "WATCHING",
+  "mode": "sponsor_message",
+  "headline": "Sponsor Message",
+  "sponsor": "ArmorFlex",
+  "message": "Because ribs are expensive.",
+  "offer": "Survive one extra stabbing!"
 }
