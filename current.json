@@ -2,14 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-15T21:04:06.782962+00:00",
-  "floor_label": "F7",
-  "trend_label": "FALLING",
-  "threat_label": "HIGH",
-  "sponsor_label": "WATCHING",
-  "mode": "quote",
-  "headline": "Operational Update",
-  "speaker": "Carl",
-  "quote": "Every floor finds a new way to be worse.",
-  "flavor": "Assessment delivered while already sprinting."
+  "generated_at_utc": "2026-03-15T21:37:31.667387+00:00",
+  "floor_label": "F6",
+  "trend_label": "VOLATILE",
+  "threat_label": "LETHAL",
+  "sponsor_label": "BORED",
+  "mode": "damage_report",
+  "headline": "Carl Damage Report",
+  "condition": "Operational rage",
+  "hp_state": "Technically alive",
+  "injuries": [
+    "Knife graze",
+    "Acid splash on boot",
+    "Shoulder strain",
+    "General disgust"
+  ],
+  "note": "Condition improves when enemies explode nearby."
 }
