@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-15T17:13:19.238031+00:00",
-  "floor_label": "F5",
-  "trend_label": "SPIKING",
-  "threat_label": "SEVERE",
+  "generated_at_utc": "2026-03-15T17:46:53.797273+00:00",
+  "floor_label": "F9",
+  "trend_label": "FALLING",
+  "threat_label": "LETHAL",
   "sponsor_label": "BORED",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Functional Trauma",
-  "rarity": "Rare",
-  "effect": "+4 pain tolerance, +2 emotional numbness, -1 ability to feel safe",
-  "flavor": "Awarded for continuing to operate after the mind should have reasonably refused."
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "The dungeon AI prefers dramatic irony.",
+  "tip": "Do not say 'What could go wrong?'"
 }
