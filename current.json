@@ -2,13 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-15T15:46:21.353872+00:00",
-  "floor_label": "F5",
-  "trend_label": "VOLATILE",
-  "threat_label": "SEVERE",
-  "sponsor_label": "INVESTED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "The dungeon can smell hope.",
-  "tip": "Do not celebrate early."
+  "generated_at_utc": "2026-03-15T16:01:39.825539+00:00",
+  "floor_label": "F6",
+  "trend_label": "SPIKING",
+  "threat_label": "HIGH",
+  "sponsor_label": "WATCHING",
+  "mode": "inventory_flash",
+  "headline": "Inventory Flash",
+  "owner": "Carl",
+  "items": [
+    "Half-used med spray",
+    "Two bombs",
+    "Three more bombs he forgot about",
+    "Knife with sentimental rage",
+    "One suspicious coupon"
+  ],
+  "note": "Pack weight increasing. Judgment constant."
 }
