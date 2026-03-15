@@ -2,14 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-15T07:54:40.929865+00:00",
-  "floor_label": "F7",
-  "trend_label": "SPIKING",
+  "generated_at_utc": "2026-03-15T08:50:18.810884+00:00",
+  "floor_label": "F6",
+  "trend_label": "VOLATILE",
   "threat_label": "MED",
   "sponsor_label": "PLEASED",
-  "mode": "sponsor_message",
-  "headline": "Sponsor Message",
-  "sponsor": "CatNobility Prime",
-  "message": "Luxury nutrition for companions who know their worth.",
-  "offer": "Try the blood-orange pheasant reduction."
+  "mode": "achievement",
+  "headline": "Achievement Unlocked",
+  "achievement_name": "Still Not Dead",
+  "rarity": "Uncommon",
+  "effect": "+5 morale, +1 audience sympathy, +0 actual safety",
+  "flavor": "Awarded for surviving a situation clearly designed by a lunatic."
 }
