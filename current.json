@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-15T19:36:21.275008+00:00",
-  "floor_label": "F8",
+  "generated_at_utc": "2026-03-15T19:53:37.198513+00:00",
+  "floor_label": "F9",
   "trend_label": "RISING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "BORED",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should the dungeon be nicer?",
-  "results": "No: 100%",
-  "note": "Cruelty performs well."
+  "threat_label": "MED",
+  "sponsor_label": "INVESTED",
+  "mode": "quote",
+  "headline": "Field Report",
+  "speaker": "Carl",
+  "quote": "The dungeon doesn't just want you dead. It wants you tired, humiliated, and useful first.",
+  "flavor": "Recorded during a brief pause between violence and administration."
 }
