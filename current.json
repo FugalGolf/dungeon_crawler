@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-15T22:38:31.441113+00:00",
-  "floor_label": "F8",
+  "generated_at_utc": "2026-03-15T23:13:58.378868+00:00",
+  "floor_label": "F9",
   "trend_label": "VOLATILE",
-  "threat_label": "LETHAL",
-  "sponsor_label": "INVESTED",
-  "mode": "famous_line",
-  "headline": "Royal Fury",
-  "speaker": "Princess Donut",
-  "quote": "This place takes everything and then asks for a tip.",
-  "flavor": "Delivered while inspecting a bill that included blood removal fees."
+  "threat_label": "MED",
+  "sponsor_label": "PLEASED",
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should Mongo be given armor?",
+  "results": "Yes: 88%  No: 12%",
+  "note": "Audience has no concern for public safety."
 }
