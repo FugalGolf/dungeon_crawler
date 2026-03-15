@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-15T23:13:58.378868+00:00",
-  "floor_label": "F9",
+  "generated_at_utc": "2026-03-15T23:46:44.452465+00:00",
+  "floor_label": "F8",
   "trend_label": "VOLATILE",
-  "threat_label": "MED",
-  "sponsor_label": "PLEASED",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should Mongo be given armor?",
-  "results": "Yes: 88%  No: 12%",
-  "note": "Audience has no concern for public safety."
+  "threat_label": "LETHAL",
+  "sponsor_label": "WATCHING",
+  "mode": "system_message",
+  "headline": "Dungeon System Message",
+  "message": "Earth-origin administrative intelligence package successfully integrated into floor economics.",
+  "effect": "Dynamic scarcity activated. Essential goods repriced according to despair, urgency, and captive demand.",
+  "warning": "Management welcomes the new Earth AI and its innovative approach to monetized survival."
 }
