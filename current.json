@@ -2,20 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-15T22:00:14.337549+00:00",
-  "floor_label": "F6",
-  "trend_label": "SPIKING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "PLEASED",
-  "mode": "damage_report",
-  "headline": "Mongo Damage Report",
-  "condition": "Thriving menace",
-  "hp_state": "Overqualified for restraint",
-  "injuries": [
-    "None worth mentioning",
-    "Moral offense",
-    "Snack deprivation",
-    "Residual confetti"
-  ],
-  "note": "System recommends pointing him at your enemies."
+  "generated_at_utc": "2026-03-15T22:38:31.441113+00:00",
+  "floor_label": "F8",
+  "trend_label": "VOLATILE",
+  "threat_label": "LETHAL",
+  "sponsor_label": "INVESTED",
+  "mode": "famous_line",
+  "headline": "Royal Fury",
+  "speaker": "Princess Donut",
+  "quote": "This place takes everything and then asks for a tip.",
+  "flavor": "Delivered while inspecting a bill that included blood removal fees."
 }
