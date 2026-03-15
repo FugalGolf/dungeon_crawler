@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-15T16:01:39.825539+00:00",
-  "floor_label": "F6",
+  "generated_at_utc": "2026-03-15T16:43:09.655211+00:00",
+  "floor_label": "F9",
   "trend_label": "SPIKING",
   "threat_label": "HIGH",
-  "sponsor_label": "WATCHING",
-  "mode": "inventory_flash",
-  "headline": "Inventory Flash",
-  "owner": "Carl",
-  "items": [
-    "Half-used med spray",
-    "Two bombs",
-    "Three more bombs he forgot about",
-    "Knife with sentimental rage",
-    "One suspicious coupon"
-  ],
-  "note": "Pack weight increasing. Judgment constant."
+  "sponsor_label": "BORED",
+  "mode": "trap_warning",
+  "headline": "Trap Warning",
+  "trap": "Screaming statues",
+  "location": "Atrium",
+  "danger": "Psychological",
+  "note": "Do not make eye contact."
 }
