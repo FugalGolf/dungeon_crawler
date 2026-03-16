@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-16T11:59:36.258960+00:00",
-  "floor_label": "F5",
-  "trend_label": "VOLATILE",
-  "threat_label": "MED",
+  "generated_at_utc": "2026-03-16T13:47:30.077245+00:00",
+  "floor_label": "F7",
+  "trend_label": "SPIKING",
+  "threat_label": "LETHAL",
   "sponsor_label": "PLEASED",
-  "mode": "public_service_announcement",
-  "headline": "Public Service Announcement",
-  "message": "Lost children may be claimed from the center kiosk.",
-  "reason": "Unclaimed children become side quests at midnight.",
-  "sponsor": "Administrative Sadness Unit"
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "More explosions?",
+  "results": "Yes: 99%",
+  "note": "Viewer engagement excellent."
 }
