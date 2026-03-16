@@ -2,13 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-16T06:54:33.019683+00:00",
+  "generated_at_utc": "2026-03-16T08:12:19.425235+00:00",
   "floor_label": "F9",
-  "trend_label": "VOLATILE",
-  "threat_label": "SEVERE",
-  "sponsor_label": "INVESTED",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Loot first, process trauma later.",
-  "reason": "Healing is expensive. Gold is persuasive."
+  "trend_label": "FALLING",
+  "threat_label": "LETHAL",
+  "sponsor_label": "WATCHING",
+  "mode": "trap_warning",
+  "headline": "Trap Warning",
+  "trap": "Pop-up tax kiosk",
+  "location": "South concourse",
+  "danger": "Predatory",
+  "note": "Failure to pay results in skeleton litigation."
 }
