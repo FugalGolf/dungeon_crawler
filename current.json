@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-16T00:03:04.618471+00:00",
-  "floor_label": "F6",
-  "trend_label": "FALLING",
-  "threat_label": "MED",
-  "sponsor_label": "BORED",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Never insult the dungeon AI.",
-  "reason": "It remembers."
+  "generated_at_utc": "2026-03-16T03:28:49.555526+00:00",
+  "floor_label": "F5",
+  "trend_label": "RISING",
+  "threat_label": "SEVERE",
+  "sponsor_label": "WATCHING",
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should Carl throw the goblin through the kiosk window?",
+  "results": "Yes: 94%  No: 6%",
+  "note": "Elegance not a factor."
 }
