@@ -2,15 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-16T09:16:15.467041+00:00",
-  "floor_label": "F7",
-  "trend_label": "RISING",
+  "generated_at_utc": "2026-03-16T10:17:12.669720+00:00",
+  "floor_label": "F6",
+  "trend_label": "FALLING",
   "threat_label": "LETHAL",
   "sponsor_label": "BORED",
-  "mode": "death_odds",
-  "headline": "Today's Death Odds",
-  "survival": "14%",
-  "trend": "Broadcast dependent",
-  "reason": "Management likes your arc but loves tragedy.",
-  "advice": "Be entertaining faster than you are killable."
+  "mode": "damage_report",
+  "headline": "Carl Damage Report",
+  "condition": "Walking wounded",
+  "hp_state": "Bad but functional",
+  "injuries": [
+    "Bruised ribs",
+    "Singed eyebrows",
+    "Shrapnel scratches",
+    "Existential fatigue"
+  ],
+  "note": "Recommended treatment: sleep, revenge, and antiseptic."
 }
