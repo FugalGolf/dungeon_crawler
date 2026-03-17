@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-17T14:43:49.909123+00:00",
-  "floor_label": "F7",
-  "trend_label": "RISING",
+  "generated_at_utc": "2026-03-17T15:46:58.468527+00:00",
+  "floor_label": "F8",
+  "trend_label": "FALLING",
   "threat_label": "MED",
   "sponsor_label": "PLEASED",
-  "mode": "loot_drop",
-  "headline": "Loot Drop",
-  "loot_name": "Royal Audience Crate",
-  "rarity": "Epic",
-  "contents": "Prestige collar gem, luxury treats, upgrade token",
-  "flavor": "Princess-grade rewards for maximum spectacle."
+  "mode": "sponsor_message",
+  "headline": "Sponsor Message",
+  "sponsor": "CatNobility Prime",
+  "message": "Luxury nutrition for companions who know their worth.",
+  "offer": "Try the blood-orange pheasant reduction."
 }
