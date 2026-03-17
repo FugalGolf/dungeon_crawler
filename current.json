@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-17T16:47:01.556074+00:00",
+  "generated_at_utc": "2026-03-17T17:45:13.602036+00:00",
   "floor_label": "F7",
-  "trend_label": "RISING",
-  "threat_label": "MED",
-  "sponsor_label": "INVESTED",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should the dungeon be nicer?",
-  "results": "No: 100%",
-  "note": "Cruelty performs well."
+  "trend_label": "VOLATILE",
+  "threat_label": "HIGH",
+  "sponsor_label": "BORED",
+  "mode": "showrunner_notice",
+  "headline": "AI Showrunner Notice",
+  "showrunner": "Content Optimization Nexus",
+  "message": "Viewer retention dips when you shop too carefully.",
+  "directive": "Please combine purchasing with panic."
 }
