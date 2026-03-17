@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-17T05:43:51.331252+00:00",
+  "generated_at_utc": "2026-03-17T06:44:31.964229+00:00",
   "floor_label": "F9",
-  "trend_label": "SPIKING",
-  "threat_label": "LETHAL",
-  "sponsor_label": "BORED",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should Carl throw the goblin through the kiosk window?",
-  "results": "Yes: 94%  No: 6%",
-  "note": "Elegance not a factor."
+  "trend_label": "FALLING",
+  "threat_label": "HIGH",
+  "sponsor_label": "INVESTED",
+  "mode": "sponsor_message",
+  "headline": "Sponsor Message",
+  "sponsor": "AudienceBet",
+  "message": "Bet on survival. Bet on carnage.",
+  "offer": "New users get a free corpse credit."
 }
