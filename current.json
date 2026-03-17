@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-17T22:45:22.752359+00:00",
+  "generated_at_utc": "2026-03-17T23:17:36.805441+00:00",
   "floor_label": "F6",
-  "trend_label": "VOLATILE",
+  "trend_label": "FALLING",
   "threat_label": "MED",
-  "sponsor_label": "PLEASED",
-  "mode": "public_service_announcement",
-  "headline": "Public Service Announcement",
-  "message": "Contestants are reminded that access to sanitation is a premium feature.",
-  "reason": "The Earth AI has determined that bodily urgency improves monetization efficiency.",
-  "sponsor": "Dungeon Resource Optimization Board"
+  "sponsor_label": "WATCHING",
+  "mode": "system_message",
+  "headline": "Dungeon System Message",
+  "message": "Your sarcasm stat has been observed by management.",
+  "effect": "Audience favor +2. Boss patience -4.",
+  "warning": "Continued excellence may trigger retaliation."
 }
