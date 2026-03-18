@@ -2,35 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-18T10:05:59.908871+00:00",
+  "generated_at_utc": "2026-03-18T11:04:53.310802+00:00",
   "floor_label": "F8",
-  "trend_label": "FALLING",
+  "trend_label": "SPIKING",
   "threat_label": "LETHAL",
-  "sponsor_label": "INVESTED",
-  "mode": "store_price",
-  "headline": "Goblin Market Deals",
-  "shop_name": "Bombs & Feelings",
-  "items": [
-    {
-      "name": "Basic Fuse Bundle",
-      "price": 40
-    },
-    {
-      "name": "Sticky Blast Gel",
-      "price": 165
-    },
-    {
-      "name": "Shrapnel Capsule",
-      "price": 95
-    },
-    {
-      "name": "Timer Beetle",
-      "price": 130
-    },
-    {
-      "name": "Apology Card",
-      "price": 5
-    }
-  ],
-  "note": "Bundle discounts available after verified destruction."
+  "sponsor_label": "WATCHING",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Some healing fountains are judgmental.",
+  "tip": "Compliment the architecture first."
 }
