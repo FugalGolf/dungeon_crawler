@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-19T21:57:31.477757+00:00",
+  "generated_at_utc": "2026-03-19T22:39:22.632208+00:00",
   "floor_label": "F6",
   "trend_label": "FALLING",
-  "threat_label": "LETHAL",
-  "sponsor_label": "INVESTED",
-  "mode": "loot_drop",
-  "headline": "Loot Drop",
-  "loot_name": "Maintenance Crate 4-B",
-  "rarity": "Uncommon",
-  "contents": "Duct tape, live taser eel, glue bomb, 80 gold",
-  "flavor": "A practical box for impractical emergencies."
+  "threat_label": "HIGH",
+  "sponsor_label": "WATCHING",
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Never insult the dungeon AI.",
+  "reason": "It remembers."
 }
