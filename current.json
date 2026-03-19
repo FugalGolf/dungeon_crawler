@@ -2,15 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-19T08:56:07.859608+00:00",
+  "generated_at_utc": "2026-03-19T09:57:02.276504+00:00",
   "floor_label": "F8",
   "trend_label": "FALLING",
-  "threat_label": "LETHAL",
-  "sponsor_label": "WATCHING",
-  "mode": "death_odds",
-  "headline": "Today's Death Odds",
-  "survival": "21%",
-  "trend": "Unstable",
-  "reason": "Three active bosses and a lava escalator.",
-  "advice": "Avoid vertical movement."
+  "threat_label": "SEVERE",
+  "sponsor_label": "BORED",
+  "mode": "damage_report",
+  "headline": "Carl Damage Report",
+  "condition": "Operational rage",
+  "hp_state": "Technically alive",
+  "injuries": [
+    "Knife graze",
+    "Acid splash on boot",
+    "Shoulder strain",
+    "General disgust"
+  ],
+  "note": "Condition improves when enemies explode nearby."
 }
