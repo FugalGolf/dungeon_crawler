@@ -2,13 +2,16 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-19T23:14:54.901450+00:00",
-  "floor_label": "F5",
-  "trend_label": "RISING",
+  "generated_at_utc": "2026-03-19T23:46:42.712091+00:00",
+  "floor_label": "F9",
+  "trend_label": "FALLING",
   "threat_label": "LETHAL",
   "sponsor_label": "WATCHING",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Some healing fountains are judgmental.",
-  "tip": "Compliment the architecture first."
+  "mode": "mongo_status",
+  "headline": "Mongo Status",
+  "mood": "Appalled",
+  "energy": "Maximum",
+  "diet": "Acceptable but judged",
+  "threat": "Significant",
+  "note": "Do not stand between Mongo and snack-sized enemies."
 }
