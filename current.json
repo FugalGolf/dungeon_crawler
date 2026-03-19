@@ -2,20 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-19T16:41:47.569328+00:00",
-  "floor_label": "F9",
+  "generated_at_utc": "2026-03-19T17:44:06.398263+00:00",
+  "floor_label": "F6",
   "trend_label": "FALLING",
-  "threat_label": "HIGH",
+  "threat_label": "SEVERE",
   "sponsor_label": "INVESTED",
-  "mode": "damage_report",
-  "headline": "Carl Damage Report",
-  "condition": "Walking wounded",
-  "hp_state": "Bad but functional",
-  "injuries": [
-    "Bruised ribs",
-    "Singed eyebrows",
-    "Shrapnel scratches",
-    "Existential fatigue"
-  ],
-  "note": "Recommended treatment: sleep, revenge, and antiseptic."
+  "mode": "sponsor_message",
+  "headline": "Sponsor Message",
+  "sponsor": "Goblin Meal Kits",
+  "message": "Dinner in under 6 minutes or we eat you.",
+  "offer": "First bite free."
 }
