@@ -2,13 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-21T11:01:34.364154+00:00",
+  "generated_at_utc": "2026-03-21T11:31:25.759019+00:00",
   "floor_label": "F9",
   "trend_label": "VOLATILE",
-  "threat_label": "SEVERE",
-  "sponsor_label": "INVESTED",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Check ceilings before celebrating.",
-  "reason": "The floor likes vertical irony."
+  "threat_label": "MED",
+  "sponsor_label": "BORED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Shopping carts become hostile after midnight.",
+  "tip": "Aim for the wheels."
 }
