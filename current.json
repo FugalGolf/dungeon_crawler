@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-21T22:00:46.666317+00:00",
-  "floor_label": "F9",
-  "trend_label": "FALLING",
-  "threat_label": "LETHAL",
+  "generated_at_utc": "2026-03-21T22:35:59.132080+00:00",
+  "floor_label": "F8",
+  "trend_label": "VOLATILE",
+  "threat_label": "MED",
   "sponsor_label": "INVESTED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Most traps are installed by interns.",
-  "tip": "But they are enthusiastic."
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should the screaming merchant be used as bait?",
+  "results": "Yes: 83%  No: 17%",
+  "note": "Audience values efficiency over ethics."
 }
