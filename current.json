@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-22T16:41:36.525740+00:00",
-  "floor_label": "F7",
-  "trend_label": "SPIKING",
+  "generated_at_utc": "2026-03-22T17:02:47.238005+00:00",
+  "floor_label": "F9",
+  "trend_label": "FALLING",
   "threat_label": "HIGH",
   "sponsor_label": "PLEASED",
-  "mode": "broadcast_alert",
-  "headline": "Dungeon Broadcast Alert",
-  "alert_type": "Sponsored Weather",
-  "message": "Acid rain now falling in the outdoor food promenade.",
-  "severity": "High",
-  "advisory": "Umbrellas count as weakness unless sharpened."
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should Donut get the crown?",
+  "results": "Yes: 92%",
+  "note": "Royal approval trending."
 }
