@@ -2,15 +2,43 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-22T13:54:12.304675+00:00",
-  "floor_label": "F7",
+  "generated_at_utc": "2026-03-22T14:37:36.986412+00:00",
+  "floor_label": "F5",
   "trend_label": "SPIKING",
-  "threat_label": "HIGH",
-  "sponsor_label": "WATCHING",
-  "mode": "broadcast_alert",
-  "headline": "Dungeon Broadcast Alert",
-  "alert_type": "Floor Event",
-  "message": "The escalators are now carnivorous. Avoid upward travel unless armed.",
-  "severity": "Severe",
-  "advisory": "Management recommends screaming with confidence."
+  "threat_label": "SEVERE",
+  "sponsor_label": "PLEASED",
+  "mode": "receipt",
+  "headline": "Emergency Expense Log",
+  "customer": "Carl, under protest",
+  "status": "Charged automatically by the floor",
+  "line_items": [
+    {
+      "name": "Trauma bandages",
+      "qty": 3,
+      "value": 135
+    },
+    {
+      "name": "Fire suppressant foam",
+      "qty": 2,
+      "value": 88
+    },
+    {
+      "name": "Fine for public screaming",
+      "qty": 1,
+      "value": 55
+    },
+    {
+      "name": "Cat treat surcharge",
+      "qty": 1,
+      "value": 140
+    },
+    {
+      "name": "Blood cleanup deposit",
+      "qty": 1,
+      "value": 400
+    }
+  ],
+  "gold_total": 818,
+  "xp_gained": 400,
+  "warning": "Complaints processed alphabetically and then ignored."
 }
