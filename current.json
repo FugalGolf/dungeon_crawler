@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-22T07:02:06.446388+00:00",
-  "floor_label": "F7",
+  "generated_at_utc": "2026-03-22T07:43:16.810682+00:00",
+  "floor_label": "F8",
   "trend_label": "VOLATILE",
-  "threat_label": "LETHAL",
-  "sponsor_label": "PLEASED",
-  "mode": "inventory_flash",
-  "headline": "Inventory Flash",
-  "owner": "Princess Donut",
-  "items": [
-    "Jeweled collar",
-    "Emergency treats",
-    "Tiny but expensive brush",
-    "Backup crown",
-    "A list of grievances"
-  ],
-  "note": "Everything essential. Do not argue."
+  "threat_label": "SEVERE",
+  "sponsor_label": "WATCHING",
+  "mode": "trap_warning",
+  "headline": "Trap Warning",
+  "trap": "Exploding vending machines",
+  "location": "Food court",
+  "danger": "High",
+  "note": "Selecting diet soda triggers grenades."
 }
