@@ -2,16 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-22T11:49:01.682669+00:00",
-  "floor_label": "F6",
-  "trend_label": "FALLING",
-  "threat_label": "HIGH",
-  "sponsor_label": "INVESTED",
-  "mode": "quest",
-  "headline": "Side Quest",
-  "quest_name": "Recover Donut's Preferred Tiara",
-  "difficulty": "Dignified",
-  "objective": "Retrieve one stolen tiara from the mimic jewelry kiosk.",
-  "reward": "1800 XP, royal favor, aesthetic superiority",
-  "warning": "Incorrect tiaras may trigger emotional consequences."
+  "generated_at_utc": "2026-03-22T11:59:49.593636+00:00",
+  "floor_label": "F8",
+  "trend_label": "VOLATILE",
+  "threat_label": "MED",
+  "sponsor_label": "PLEASED",
+  "mode": "boss_reward",
+  "headline": "Boss Rewards",
+  "boss_name": "King Discountus",
+  "boss_status": "Crowned into the pavement",
+  "rewards": [
+    "Crown of Aggressive Savings",
+    "1500 gold",
+    "Bulk ammo coupon",
+    "Title: Pricebreaker"
+  ],
+  "bonus": "One merchant now fears you on sight."
 }
