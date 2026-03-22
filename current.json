@@ -2,15 +2,35 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-22T17:54:10.465461+00:00",
+  "generated_at_utc": "2026-03-22T18:51:14.067858+00:00",
   "floor_label": "F5",
-  "trend_label": "RISING",
-  "threat_label": "HIGH",
-  "sponsor_label": "PLEASED",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Mall Ninja Survivor",
-  "rarity": "Rare",
-  "effect": "+3 reflexes, +1 suspicion, +10% dramatic crouching",
-  "flavor": "Granted for escaping armed idiots in decorative armor."
+  "trend_label": "VOLATILE",
+  "threat_label": "MED",
+  "sponsor_label": "BORED",
+  "mode": "store_price",
+  "headline": "Emergency Commodity Update",
+  "shop_name": "Earth AI Essential Services Kiosk",
+  "items": [
+    {
+      "name": "Basic Health Potion",
+      "price": 12000
+    },
+    {
+      "name": "Bathroom Stall Access (3 minutes)",
+      "price": 4800
+    },
+    {
+      "name": "Clean Water Bottle",
+      "price": 2100
+    },
+    {
+      "name": "Bandage Roll",
+      "price": 1600
+    },
+    {
+      "name": "Breathing Mask Refill",
+      "price": 9500
+    }
+  ],
+  "note": "Following Earth AI integration, essential commodities now reflect a 1000x reality-adjusted market correction. Complaints require premium membership."
 }
