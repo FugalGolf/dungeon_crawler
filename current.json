@@ -2,20 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-22T21:53:40.847463+00:00",
-  "floor_label": "F5",
-  "trend_label": "VOLATILE",
-  "threat_label": "LETHAL",
+  "generated_at_utc": "2026-03-22T22:36:18.428893+00:00",
+  "floor_label": "F6",
+  "trend_label": "SPIKING",
+  "threat_label": "HIGH",
   "sponsor_label": "WATCHING",
-  "mode": "damage_report",
-  "headline": "Princess Donut Condition",
-  "condition": "Perfect but annoyed",
-  "hp_state": "Acceptable royal integrity",
-  "injuries": [
-    "One singed whisker",
-    "Minor indignation",
-    "Crown displacement trauma",
-    "Unacceptable dust exposure"
-  ],
-  "note": "Mood improves with praise, vengeance, and premium treats."
+  "mode": "sponsor_message",
+  "headline": "Sponsor Message",
+  "sponsor": "StabGuard Platinum",
+  "message": "For the discerning customer who expects betrayal.",
+  "offer": "Now with neck coverage."
 }
