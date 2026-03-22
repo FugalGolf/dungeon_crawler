@@ -2,35 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-22T18:51:14.067858+00:00",
-  "floor_label": "F5",
+  "generated_at_utc": "2026-03-22T19:15:49.914796+00:00",
+  "floor_label": "F7",
   "trend_label": "VOLATILE",
-  "threat_label": "MED",
-  "sponsor_label": "BORED",
-  "mode": "store_price",
-  "headline": "Emergency Commodity Update",
-  "shop_name": "Earth AI Essential Services Kiosk",
-  "items": [
-    {
-      "name": "Basic Health Potion",
-      "price": 12000
-    },
-    {
-      "name": "Bathroom Stall Access (3 minutes)",
-      "price": 4800
-    },
-    {
-      "name": "Clean Water Bottle",
-      "price": 2100
-    },
-    {
-      "name": "Bandage Roll",
-      "price": 1600
-    },
-    {
-      "name": "Breathing Mask Refill",
-      "price": 9500
-    }
-  ],
-  "note": "Following Earth AI integration, essential commodities now reflect a 1000x reality-adjusted market correction. Complaints require premium membership."
+  "threat_label": "LETHAL",
+  "sponsor_label": "WATCHING",
+  "mode": "betting_line",
+  "headline": "Audience Betting Line",
+  "contestant": "Gerald the Regretful Cheesemonger",
+  "odds": "18:1 survival",
+  "trend": "Miraculously steady",
+  "note": "Cowardice proving unexpectedly effective."
 }
