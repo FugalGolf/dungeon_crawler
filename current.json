@@ -2,13 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-23T18:34:20.166246+00:00",
-  "floor_label": "F8",
-  "trend_label": "RISING",
+  "generated_at_utc": "2026-03-23T19:31:31.053749+00:00",
+  "floor_label": "F9",
+  "trend_label": "FALLING",
   "threat_label": "LETHAL",
-  "sponsor_label": "INVESTED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Some healing fountains are judgmental.",
-  "tip": "Compliment the architecture first."
+  "sponsor_label": "PLEASED",
+  "mode": "boss_reward",
+  "headline": "Boss Rewards",
+  "boss_name": "Gorthok the Consumer Prince",
+  "boss_status": "Defeated messily",
+  "rewards": [
+    "Jeweled Collar of Minor Majesty",
+    "860 gold",
+    "Rare bomb component",
+    "Reputation +12 with questionable factions"
+  ],
+  "bonus": "Audience delight increased by 18%."
 }
