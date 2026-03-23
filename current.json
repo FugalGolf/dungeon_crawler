@@ -2,20 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-23T16:38:33.665520+00:00",
-  "floor_label": "F5",
-  "trend_label": "SPIKING",
-  "threat_label": "LETHAL",
-  "sponsor_label": "WATCHING",
-  "mode": "damage_report",
-  "headline": "Princess Donut Condition",
-  "condition": "Perfect but annoyed",
-  "hp_state": "Acceptable royal integrity",
-  "injuries": [
-    "One singed whisker",
-    "Minor indignation",
-    "Crown displacement trauma",
-    "Unacceptable dust exposure"
-  ],
-  "note": "Mood improves with praise, vengeance, and premium treats."
+  "generated_at_utc": "2026-03-23T17:39:42.857783+00:00",
+  "floor_label": "F7",
+  "trend_label": "VOLATILE",
+  "threat_label": "MED",
+  "sponsor_label": "BORED",
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should Carl throw the goblin through the kiosk window?",
+  "results": "Yes: 94%  No: 6%",
+  "note": "Elegance not a factor."
 }
