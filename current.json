@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-23T22:44:17.440837+00:00",
+  "generated_at_utc": "2026-03-23T23:17:08.055958+00:00",
   "floor_label": "F7",
-  "trend_label": "SPIKING",
+  "trend_label": "RISING",
   "threat_label": "HIGH",
-  "sponsor_label": "INVESTED",
-  "mode": "inventory_flash",
-  "headline": "Inventory Flash",
-  "owner": "Carl",
-  "items": [
-    "Half-used med spray",
-    "Two bombs",
-    "Three more bombs he forgot about",
-    "Knife with sentimental rage",
-    "One suspicious coupon"
-  ],
-  "note": "Pack weight increasing. Judgment constant."
+  "sponsor_label": "WATCHING",
+  "mode": "death_odds",
+  "headline": "Today's Death Odds",
+  "survival": "17%",
+  "trend": "Stumbling",
+  "reason": "The food court has unionized against you.",
+  "advice": "Do not negotiate with animated kiosks."
 }
