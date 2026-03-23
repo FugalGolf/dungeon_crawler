@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-23T06:18:02.205097+00:00",
-  "floor_label": "F8",
-  "trend_label": "SPIKING",
+  "generated_at_utc": "2026-03-23T07:41:13.258044+00:00",
+  "floor_label": "F7",
+  "trend_label": "FALLING",
   "threat_label": "LETHAL",
-  "sponsor_label": "INVESTED",
-  "mode": "boss_reward",
-  "headline": "Boss Rewards",
-  "boss_name": "Velvet Doom Concierge",
-  "boss_status": "Politely dismantled",
-  "rewards": [
-    "Keycard of Dubious Access",
-    "Silk-lined stab vest",
-    "590 gold",
-    "Buff: Lobby Presence +2"
-  ],
-  "bonus": "Valet spirits now avoid eye contact."
+  "sponsor_label": "PLEASED",
+  "mode": "achievement",
+  "headline": "Achievement Unlocked",
+  "achievement_name": "Mall Ninja Survivor",
+  "rarity": "Rare",
+  "effect": "+3 reflexes, +1 suspicion, +10% dramatic crouching",
+  "flavor": "Granted for escaping armed idiots in decorative armor."
 }
