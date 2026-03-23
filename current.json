@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-23T07:41:13.258044+00:00",
-  "floor_label": "F7",
-  "trend_label": "FALLING",
-  "threat_label": "LETHAL",
+  "generated_at_utc": "2026-03-23T08:36:43.010728+00:00",
+  "floor_label": "F8",
+  "trend_label": "RISING",
+  "threat_label": "HIGH",
   "sponsor_label": "PLEASED",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Mall Ninja Survivor",
-  "rarity": "Rare",
-  "effect": "+3 reflexes, +1 suspicion, +10% dramatic crouching",
-  "flavor": "Granted for escaping armed idiots in decorative armor."
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Audience laughter boosts loot quality.",
+  "tip": "Embarrassment is profitable."
 }
