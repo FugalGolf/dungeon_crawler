@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-23T13:44:23.363369+00:00",
-  "floor_label": "F6",
-  "trend_label": "VOLATILE",
+  "generated_at_utc": "2026-03-23T14:44:15.402046+00:00",
+  "floor_label": "F8",
+  "trend_label": "FALLING",
   "threat_label": "MED",
   "sponsor_label": "BORED",
-  "mode": "death_odds",
-  "headline": "Today's Death Odds",
-  "survival": "8%",
-  "trend": "Catastrophic",
-  "reason": "The floor AI is bored.",
-  "advice": "Entertain it or die tired."
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should Donut get the crown?",
+  "results": "Yes: 92%",
+  "note": "Royal approval trending."
 }
