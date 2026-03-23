@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-23T17:39:42.857783+00:00",
-  "floor_label": "F7",
-  "trend_label": "VOLATILE",
-  "threat_label": "MED",
-  "sponsor_label": "BORED",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should Carl throw the goblin through the kiosk window?",
-  "results": "Yes: 94%  No: 6%",
-  "note": "Elegance not a factor."
+  "generated_at_utc": "2026-03-23T18:34:20.166246+00:00",
+  "floor_label": "F8",
+  "trend_label": "RISING",
+  "threat_label": "LETHAL",
+  "sponsor_label": "INVESTED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Some healing fountains are judgmental.",
+  "tip": "Compliment the architecture first."
 }
