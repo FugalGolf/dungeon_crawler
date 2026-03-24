@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-24T21:54:32.980530+00:00",
-  "floor_label": "F9",
-  "trend_label": "VOLATILE",
-  "threat_label": "LETHAL",
-  "sponsor_label": "INVESTED",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should someone kick the mimic?",
-  "results": "Yes: 100%",
-  "note": "Consensus achieved."
+  "generated_at_utc": "2026-03-24T22:41:51.478172+00:00",
+  "floor_label": "F8",
+  "trend_label": "FALLING",
+  "threat_label": "SEVERE",
+  "sponsor_label": "BORED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Some healing fountains are judgmental.",
+  "tip": "Compliment the architecture first."
 }
