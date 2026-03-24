@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-24T22:41:51.478172+00:00",
-  "floor_label": "F8",
-  "trend_label": "FALLING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "BORED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Some healing fountains are judgmental.",
-  "tip": "Compliment the architecture first."
+  "generated_at_utc": "2026-03-24T23:16:28.305084+00:00",
+  "floor_label": "F7",
+  "trend_label": "VOLATILE",
+  "threat_label": "MED",
+  "sponsor_label": "INVESTED",
+  "mode": "public_service_announcement",
+  "headline": "Public Service Announcement",
+  "message": "Please do not feed the decorative piranha fountain.",
+  "reason": "It is not decorative.",
+  "sponsor": "Dungeon Safety Office"
 }
