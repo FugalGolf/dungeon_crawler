@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-25T11:58:34.868929+00:00",
+  "generated_at_utc": "2026-03-25T13:43:29.764386+00:00",
   "floor_label": "F5",
-  "trend_label": "SPIKING",
+  "trend_label": "VOLATILE",
   "threat_label": "LETHAL",
   "sponsor_label": "BORED",
-  "mode": "broadcast_alert",
-  "headline": "Dungeon Broadcast Alert",
-  "alert_type": "Floor Event",
-  "message": "The escalators are now carnivorous. Avoid upward travel unless armed.",
-  "severity": "Severe",
-  "advisory": "Management recommends screaming with confidence."
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should Mongo be given armor?",
+  "results": "Yes: 88%  No: 12%",
+  "note": "Audience has no concern for public safety."
 }
