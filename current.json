@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-25T19:56:04.032564+00:00",
-  "floor_label": "F7",
+  "generated_at_utc": "2026-03-25T20:51:35.569554+00:00",
+  "floor_label": "F6",
   "trend_label": "VOLATILE",
-  "threat_label": "MED",
+  "threat_label": "SEVERE",
   "sponsor_label": "WATCHING",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Royal Accessory Recovery",
-  "rarity": "Uncommon",
-  "effect": "+2 diplomacy with entitled creatures",
-  "flavor": "You returned the shiny thing before anyone had to die. Barely."
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Keep snacks for Mongo.",
+  "reason": "This reduces property damage."
 }
