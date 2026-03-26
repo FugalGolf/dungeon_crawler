@@ -2,20 +2,16 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-26T17:45:31.919015+00:00",
-  "floor_label": "F7",
-  "trend_label": "VOLATILE",
+  "generated_at_utc": "2026-03-26T18:41:44.026335+00:00",
+  "floor_label": "F6",
+  "trend_label": "FALLING",
   "threat_label": "MED",
-  "sponsor_label": "WATCHING",
-  "mode": "boss_reward",
-  "headline": "Boss Rewards",
-  "boss_name": "Velvet Doom Concierge",
-  "boss_status": "Politely dismantled",
-  "rewards": [
-    "Keycard of Dubious Access",
-    "Silk-lined stab vest",
-    "590 gold",
-    "Buff: Lobby Presence +2"
-  ],
-  "bonus": "Valet spirits now avoid eye contact."
+  "sponsor_label": "INVESTED",
+  "mode": "mongo_status",
+  "headline": "Mongo Status",
+  "mood": "Appalled",
+  "energy": "Maximum",
+  "diet": "Acceptable but judged",
+  "threat": "Significant",
+  "note": "Do not stand between Mongo and snack-sized enemies."
 }
