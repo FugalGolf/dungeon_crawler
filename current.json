@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-26T03:20:42.729085+00:00",
+  "generated_at_utc": "2026-03-26T05:18:37.369521+00:00",
   "floor_label": "F9",
-  "trend_label": "RISING",
-  "threat_label": "LETHAL",
-  "sponsor_label": "INVESTED",
-  "mode": "loot_drop",
-  "headline": "Loot Drop",
-  "loot_name": "Royal Audience Crate",
-  "rarity": "Epic",
-  "contents": "Prestige collar gem, luxury treats, upgrade token",
-  "flavor": "Princess-grade rewards for maximum spectacle."
+  "trend_label": "SPIKING",
+  "threat_label": "MED",
+  "sponsor_label": "BORED",
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Never trust anything with a cheerful mascot.",
+  "reason": "Mascots are where they hide the teeth."
 }
