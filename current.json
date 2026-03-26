@@ -2,15 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-26T22:01:02.948386+00:00",
+  "generated_at_utc": "2026-03-26T22:41:40.139022+00:00",
   "floor_label": "F5",
-  "trend_label": "SPIKING",
-  "threat_label": "HIGH",
-  "sponsor_label": "BORED",
-  "mode": "betting_line",
-  "headline": "Audience Betting Line",
-  "contestant": "Mall Clown Patriarch",
-  "odds": "7:1 survival",
-  "trend": "Dropping fast",
-  "note": "Too visible, too loud, too flammable."
+  "trend_label": "RISING",
+  "threat_label": "LETHAL",
+  "sponsor_label": "INVESTED",
+  "mode": "boss_reward",
+  "headline": "Boss Rewards",
+  "boss_name": "Gorthok the Consumer Prince",
+  "boss_status": "Defeated messily",
+  "rewards": [
+    "Jeweled Collar of Minor Majesty",
+    "860 gold",
+    "Rare bomb component",
+    "Reputation +12 with questionable factions"
+  ],
+  "bonus": "Audience delight increased by 18%."
 }
