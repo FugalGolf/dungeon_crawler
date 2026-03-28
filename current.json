@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-27T23:48:15.877839+00:00",
-  "floor_label": "F6",
+  "generated_at_utc": "2026-03-28T00:03:06.223476+00:00",
+  "floor_label": "F8",
   "trend_label": "RISING",
-  "threat_label": "HIGH",
-  "sponsor_label": "PLEASED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Audience laughter boosts loot quality.",
-  "tip": "Embarrassment is profitable."
+  "threat_label": "SEVERE",
+  "sponsor_label": "BORED",
+  "mode": "system_message",
+  "headline": "Dungeon System Message",
+  "message": "Your sarcasm stat has been observed by management.",
+  "effect": "Audience favor +2. Boss patience -4.",
+  "warning": "Continued excellence may trigger retaliation."
 }
