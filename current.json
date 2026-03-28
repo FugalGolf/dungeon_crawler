@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-28T20:42:19.127276+00:00",
-  "floor_label": "F7",
+  "generated_at_utc": "2026-03-28T21:14:20.106451+00:00",
+  "floor_label": "F9",
   "trend_label": "RISING",
-  "threat_label": "MED",
+  "threat_label": "HIGH",
   "sponsor_label": "WATCHING",
-  "mode": "public_service_announcement",
-  "headline": "Public Service Announcement",
-  "message": "Contestants are reminded that access to sanitation is a premium feature.",
-  "reason": "The Earth AI has determined that bodily urgency improves monetization efficiency.",
-  "sponsor": "Dungeon Resource Optimization Board"
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Check ceilings before celebrating.",
+  "reason": "The floor likes vertical irony."
 }
