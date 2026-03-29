@@ -2,43 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-29T19:42:06.511592+00:00",
-  "floor_label": "F6",
-  "trend_label": "FALLING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "PLEASED",
-  "mode": "receipt",
-  "headline": "Dungeon Receipt",
-  "customer": "Carl & Princess Donut",
-  "status": "Alive, irritated, and under-tipped",
-  "line_items": [
-    {
-      "name": "Goblin Teeth",
-      "qty": 14,
-      "value": 84
-    },
-    {
-      "name": "Exploded Potion Refund",
-      "qty": 1,
-      "value": 37
-    },
-    {
-      "name": "Suspicious Meat Wrap",
-      "qty": 2,
-      "value": 26
-    },
-    {
-      "name": "Boss Room Gratuity",
-      "qty": 1,
-      "value": 666
-    },
-    {
-      "name": "Emotional Damages",
-      "qty": 1,
-      "value": 1029
-    }
-  ],
-  "gold_total": 1842,
-  "xp_gained": 9200,
-  "warning": "No refunds after floor collapse."
+  "generated_at_utc": "2026-03-29T20:02:10.234948+00:00",
+  "floor_label": "F5",
+  "trend_label": "SPIKING",
+  "threat_label": "MED",
+  "sponsor_label": "WATCHING",
+  "mode": "betting_line",
+  "headline": "Audience Betting Line",
+  "contestant": "Mall Clown Patriarch",
+  "odds": "7:1 survival",
+  "trend": "Dropping fast",
+  "note": "Too visible, too loud, too flammable."
 }
