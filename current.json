@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-29T04:07:33.028767+00:00",
-  "floor_label": "F8",
-  "trend_label": "VOLATILE",
+  "generated_at_utc": "2026-03-29T05:52:38.904589+00:00",
+  "floor_label": "F6",
+  "trend_label": "RISING",
   "threat_label": "MED",
-  "sponsor_label": "BORED",
-  "mode": "betting_line",
-  "headline": "Audience Betting Line",
-  "contestant": "Carl",
-  "odds": "3:1 survival",
-  "trend": "Improving",
-  "note": "Explosive creativity impresses viewers."
+  "sponsor_label": "INVESTED",
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Loot first, process trauma later.",
+  "reason": "Healing is expensive. Gold is persuasive."
 }
