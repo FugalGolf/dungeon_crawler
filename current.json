@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-29T15:16:14.752470+00:00",
-  "floor_label": "F7",
-  "trend_label": "SPIKING",
-  "threat_label": "MED",
-  "sponsor_label": "WATCHING",
-  "mode": "inventory_flash",
-  "headline": "Inventory Flash",
-  "owner": "Princess Donut",
-  "items": [
-    "Jeweled collar",
-    "Emergency treats",
-    "Tiny but expensive brush",
-    "Backup crown",
-    "A list of grievances"
-  ],
-  "note": "Everything essential. Do not argue."
+  "generated_at_utc": "2026-03-29T15:48:07.951166+00:00",
+  "floor_label": "F6",
+  "trend_label": "FALLING",
+  "threat_label": "LETHAL",
+  "sponsor_label": "PLEASED",
+  "mode": "betting_line",
+  "headline": "Audience Betting Line",
+  "contestant": "Gerald the Regretful Cheesemonger",
+  "odds": "18:1 survival",
+  "trend": "Miraculously steady",
+  "note": "Cowardice proving unexpectedly effective."
 }
