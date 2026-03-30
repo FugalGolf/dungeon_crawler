@@ -2,20 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-30T08:02:50.557811+00:00",
-  "floor_label": "F9",
-  "trend_label": "SPIKING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "INVESTED",
-  "mode": "inventory_flash",
-  "headline": "Inventory Flash",
-  "owner": "Carl",
-  "items": [
-    "Half-used med spray",
-    "Two bombs",
-    "Three more bombs he forgot about",
-    "Knife with sentimental rage",
-    "One suspicious coupon"
+  "generated_at_utc": "2026-03-30T09:24:33.909407+00:00",
+  "floor_label": "F7",
+  "trend_label": "VOLATILE",
+  "threat_label": "MED",
+  "sponsor_label": "BORED",
+  "mode": "boss_reward",
+  "headline": "Boss Rewards",
+  "boss_name": "Gorthok the Consumer Prince",
+  "boss_status": "Defeated messily",
+  "rewards": [
+    "Jeweled Collar of Minor Majesty",
+    "860 gold",
+    "Rare bomb component",
+    "Reputation +12 with questionable factions"
   ],
-  "note": "Pack weight increasing. Judgment constant."
+  "bonus": "Audience delight increased by 18%."
 }
