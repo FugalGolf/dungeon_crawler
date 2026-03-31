@@ -2,15 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-31T16:16:35.588411+00:00",
-  "floor_label": "F5",
+  "generated_at_utc": "2026-03-31T17:15:38.977770+00:00",
+  "floor_label": "F8",
   "trend_label": "SPIKING",
   "threat_label": "SEVERE",
   "sponsor_label": "WATCHING",
-  "mode": "betting_line",
-  "headline": "Audience Betting Line",
-  "contestant": "Carl & Donut Team-Up",
-  "odds": "2:1 upset victory",
-  "trend": "Heating up",
-  "note": "Chemistry, violence, and charisma moving strong money."
+  "mode": "achievement",
+  "headline": "Achievement Unlocked",
+  "achievement_name": "Still Not Dead",
+  "rarity": "Uncommon",
+  "effect": "+5 morale, +1 audience sympathy, +0 actual safety",
+  "flavor": "Awarded for surviving a situation clearly designed by a lunatic."
 }
