@@ -2,13 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-31T10:15:25.570072+00:00",
-  "floor_label": "F5",
+  "generated_at_utc": "2026-03-31T11:12:32.309463+00:00",
+  "floor_label": "F9",
   "trend_label": "VOLATILE",
-  "threat_label": "MED",
+  "threat_label": "LETHAL",
   "sponsor_label": "PLEASED",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Keep snacks for Mongo.",
-  "reason": "This reduces property damage."
+  "mode": "damage_report",
+  "headline": "Princess Donut Condition",
+  "condition": "Perfect but annoyed",
+  "hp_state": "Acceptable royal integrity",
+  "injuries": [
+    "One singed whisker",
+    "Minor indignation",
+    "Crown displacement trauma",
+    "Unacceptable dust exposure"
+  ],
+  "note": "Mood improves with praise, vengeance, and premium treats."
 }
