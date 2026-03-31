@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-31T20:06:42.898000+00:00",
-  "floor_label": "F9",
+  "generated_at_utc": "2026-03-31T20:55:23.839029+00:00",
+  "floor_label": "F5",
   "trend_label": "FALLING",
-  "threat_label": "LETHAL",
+  "threat_label": "HIGH",
   "sponsor_label": "BORED",
-  "mode": "famous_line",
-  "headline": "Royal Fury",
-  "speaker": "Princess Donut",
-  "quote": "This place takes everything and then asks for a tip.",
-  "flavor": "Delivered while inspecting a bill that included blood removal fees."
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Never trust anything with a cheerful mascot.",
+  "reason": "Mascots are where they hide the teeth."
 }
