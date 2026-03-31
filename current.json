@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-03-31T21:50:36.428508+00:00",
+  "generated_at_utc": "2026-03-31T22:22:08.993304+00:00",
   "floor_label": "F5",
-  "trend_label": "SPIKING",
-  "threat_label": "HIGH",
-  "sponsor_label": "INVESTED",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should someone kick the mimic?",
-  "results": "Yes: 100%",
-  "note": "Consensus achieved."
+  "trend_label": "RISING",
+  "threat_label": "LETHAL",
+  "sponsor_label": "WATCHING",
+  "mode": "sponsor_message",
+  "headline": "Sponsor Message",
+  "sponsor": "StabGuard Platinum",
+  "message": "For the discerning customer who expects betrayal.",
+  "offer": "Now with neck coverage."
 }
