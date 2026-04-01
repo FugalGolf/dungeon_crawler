@@ -2,14 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-01T19:18:40.642835+00:00",
-  "floor_label": "F9",
+  "generated_at_utc": "2026-04-01T20:03:56.219355+00:00",
+  "floor_label": "F8",
   "trend_label": "VOLATILE",
-  "threat_label": "LETHAL",
-  "sponsor_label": "PLEASED",
-  "mode": "system_message",
-  "headline": "Dungeon System Message",
-  "message": "Earth-origin administrative intelligence package successfully integrated into floor economics.",
-  "effect": "Dynamic scarcity activated. Essential goods repriced according to despair, urgency, and captive demand.",
-  "warning": "Management welcomes the new Earth AI and its innovative approach to monetized survival."
+  "threat_label": "SEVERE",
+  "sponsor_label": "INVESTED",
+  "mode": "inventory_flash",
+  "headline": "Inventory Flash",
+  "owner": "Carl",
+  "items": [
+    "Half-used med spray",
+    "Two bombs",
+    "Three more bombs he forgot about",
+    "Knife with sentimental rage",
+    "One suspicious coupon"
+  ],
+  "note": "Pack weight increasing. Judgment constant."
 }
