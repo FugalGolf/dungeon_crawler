@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-01T11:15:55.224128+00:00",
-  "floor_label": "F7",
-  "trend_label": "FALLING",
-  "threat_label": "HIGH",
+  "generated_at_utc": "2026-04-01T12:03:11.362773+00:00",
+  "floor_label": "F9",
+  "trend_label": "SPIKING",
+  "threat_label": "MED",
   "sponsor_label": "PLEASED",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Check ceilings before celebrating.",
-  "reason": "The floor likes vertical irony."
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should the screaming merchant be used as bait?",
+  "results": "Yes: 83%  No: 17%",
+  "note": "Audience values efficiency over ethics."
 }
