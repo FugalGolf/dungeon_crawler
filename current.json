@@ -2,20 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-02T20:03:35.896254+00:00",
-  "floor_label": "F5",
-  "trend_label": "RISING",
-  "threat_label": "HIGH",
-  "sponsor_label": "PLEASED",
-  "mode": "boss_reward",
-  "headline": "Boss Rewards",
-  "boss_name": "Gorthok the Consumer Prince",
-  "boss_status": "Defeated messily",
-  "rewards": [
-    "Jeweled Collar of Minor Majesty",
-    "860 gold",
-    "Rare bomb component",
-    "Reputation +12 with questionable factions"
-  ],
-  "bonus": "Audience delight increased by 18%."
+  "generated_at_utc": "2026-04-02T20:48:07.554253+00:00",
+  "floor_label": "F8",
+  "trend_label": "SPIKING",
+  "threat_label": "LETHAL",
+  "sponsor_label": "WATCHING",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Audience laughter boosts loot quality.",
+  "tip": "Embarrassment is profitable."
 }
