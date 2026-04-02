@@ -2,15 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-02T07:52:43.319656+00:00",
+  "generated_at_utc": "2026-04-02T09:11:14.638483+00:00",
   "floor_label": "F7",
-  "trend_label": "RISING",
-  "threat_label": "SEVERE",
+  "trend_label": "VOLATILE",
+  "threat_label": "MED",
   "sponsor_label": "WATCHING",
-  "mode": "death_odds",
-  "headline": "Today's Death Odds",
-  "survival": "29%",
-  "trend": "Temporarily less awful",
-  "reason": "A larger idiot triggered the trap first.",
-  "advice": "Let overconfidence clear the hallway."
+  "mode": "floor_scan",
+  "headline": "Floor Scan",
+  "zone": "Luxury Wing",
+  "traffic": "Medium panic",
+  "hazards": [
+    "Perfume hallucinations",
+    "Carpet tentacles",
+    "Aggressive violinist",
+    "Elite mannequins"
+  ],
+  "recommendation": "Avoid being rich-looking."
 }
