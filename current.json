@@ -2,16 +2,35 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-03T06:48:55.908912+00:00",
-  "floor_label": "F6",
-  "trend_label": "VOLATILE",
+  "generated_at_utc": "2026-04-03T07:51:10.915206+00:00",
+  "floor_label": "F7",
+  "trend_label": "FALLING",
   "threat_label": "SEVERE",
-  "sponsor_label": "BORED",
-  "mode": "quest",
-  "headline": "Bonus Objective",
-  "quest_name": "Feed Mongo Properly",
-  "difficulty": "Urgent",
-  "objective": "Acquire acceptable monster-grade snacks before Mongo samples the locals.",
-  "reward": "1500 XP, pet approval, reduced chaos",
-  "warning": "Substitutions will be judged harshly."
+  "sponsor_label": "PLEASED",
+  "mode": "store_price",
+  "headline": "Store Prices",
+  "shop_name": "Goblin Bazaar Express",
+  "items": [
+    {
+      "name": "Health Potion",
+      "price": 85
+    },
+    {
+      "name": "Exploding Chicken Skewer",
+      "price": 42
+    },
+    {
+      "name": "Trap Disarm Kit",
+      "price": 130
+    },
+    {
+      "name": "Royal Cat Brush",
+      "price": 999
+    },
+    {
+      "name": "Questionable Meat Wrap",
+      "price": 17
+    }
+  ],
+  "note": "All sales final. Screaming at staff incurs a handling fee."
 }
