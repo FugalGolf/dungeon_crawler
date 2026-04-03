@@ -2,13 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-03T16:54:00.079002+00:00",
-  "floor_label": "F8",
-  "trend_label": "RISING",
+  "generated_at_utc": "2026-04-03T17:45:37.205946+00:00",
+  "floor_label": "F7",
+  "trend_label": "FALLING",
   "threat_label": "HIGH",
   "sponsor_label": "PLEASED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Most traps are installed by interns.",
-  "tip": "But they are enthusiastic."
+  "mode": "betting_line",
+  "headline": "Audience Betting Line",
+  "contestant": "Princess Donut",
+  "odds": "5:1 victory",
+  "trend": "Stable",
+  "note": "Royal confidence increases ratings."
 }
