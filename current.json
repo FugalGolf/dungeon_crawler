@@ -2,16 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-03T20:48:29.022420+00:00",
+  "generated_at_utc": "2026-04-03T21:18:50.185092+00:00",
   "floor_label": "F9",
-  "trend_label": "RISING",
+  "trend_label": "FALLING",
   "threat_label": "MED",
-  "sponsor_label": "PLEASED",
-  "mode": "quest",
-  "headline": "Active Quest",
-  "quest_name": "Escort the Screaming Merchant",
-  "difficulty": "Catastrophic",
-  "objective": "Move one unstable merchant across the food court without waking the clown nest.",
-  "reward": "3200 XP, 410 gold, 1 mystery box",
-  "warning": "Merchant may scream, bargain, and attract knives."
+  "sponsor_label": "WATCHING",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Most traps are installed by interns.",
+  "tip": "But they are enthusiastic."
 }
