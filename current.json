@@ -2,15 +2,43 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-03T14:24:51.649393+00:00",
+  "generated_at_utc": "2026-04-03T15:23:24.977440+00:00",
   "floor_label": "F7",
-  "trend_label": "RISING",
-  "threat_label": "LETHAL",
-  "sponsor_label": "PLEASED",
-  "mode": "bounty_board",
-  "headline": "Open Bounty",
-  "target": "The Glitter Butcher",
-  "region": "Luxury escalator junction",
-  "reward": "2800 gold, 4000 XP, satin resistance buff",
-  "warning": "Target weaponizes sequins and emotional cruelty."
+  "trend_label": "FALLING",
+  "threat_label": "SEVERE",
+  "sponsor_label": "BORED",
+  "mode": "receipt",
+  "headline": "Reality-Based Pricing Receipt",
+  "customer": "Any surviving human",
+  "status": "Overcharged, underhealed, and not consulted",
+  "line_items": [
+    {
+      "name": "One bathroom visit",
+      "qty": 1,
+      "value": 4800
+    },
+    {
+      "name": "Basic health potion",
+      "qty": 1,
+      "value": 12000
+    },
+    {
+      "name": "Bottle of water",
+      "qty": 1,
+      "value": 2100
+    },
+    {
+      "name": "Convenience fee",
+      "qty": 1,
+      "value": 900
+    },
+    {
+      "name": "Hope tax",
+      "qty": 1,
+      "value": 666
+    }
+  ],
+  "gold_total": 20466,
+  "xp_gained": 0,
+  "warning": "Earth AI pricing model indicates your continued survival constitutes luxury consumption."
 }
