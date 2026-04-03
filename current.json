@@ -2,14 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-03T19:23:26.023534+00:00",
+  "generated_at_utc": "2026-04-03T20:01:46.727769+00:00",
   "floor_label": "F6",
-  "trend_label": "FALLING",
-  "threat_label": "SEVERE",
+  "trend_label": "VOLATILE",
+  "threat_label": "HIGH",
   "sponsor_label": "INVESTED",
-  "mode": "showrunner_notice",
-  "headline": "AI Showrunner Notice",
-  "showrunner": "Compassion Reduction Engine",
-  "message": "Viewer response improves when hope is introduced shortly before being destroyed.",
-  "directive": "Continue forming attachments. They test well across key demographics."
+  "mode": "death_odds",
+  "headline": "Today's Death Odds",
+  "survival": "21%",
+  "trend": "Unstable",
+  "reason": "Three active bosses and a lava escalator.",
+  "advice": "Avoid vertical movement."
 }
