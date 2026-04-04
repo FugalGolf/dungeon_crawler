@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-04T07:28:52.127312+00:00",
-  "floor_label": "F9",
+  "generated_at_utc": "2026-04-04T08:04:05.540227+00:00",
+  "floor_label": "F5",
   "trend_label": "SPIKING",
   "threat_label": "MED",
   "sponsor_label": "BORED",
-  "mode": "broadcast_alert",
-  "headline": "Dungeon Broadcast Alert",
-  "alert_type": "Floor Event",
-  "message": "The escalators are now carnivorous. Avoid upward travel unless armed.",
-  "severity": "Severe",
-  "advisory": "Management recommends screaming with confidence."
+  "mode": "showrunner_notice",
+  "headline": "AI Showrunner Notice",
+  "showrunner": "Content Optimization Nexus",
+  "message": "Viewer retention dips when you shop too carefully.",
+  "directive": "Please combine purchasing with panic."
 }
