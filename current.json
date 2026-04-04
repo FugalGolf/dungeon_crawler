@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-04T14:00:37.170881+00:00",
+  "generated_at_utc": "2026-04-04T14:42:31.842877+00:00",
   "floor_label": "F9",
   "trend_label": "SPIKING",
-  "threat_label": "MED",
+  "threat_label": "LETHAL",
   "sponsor_label": "BORED",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Royal Accessory Recovery",
-  "rarity": "Uncommon",
-  "effect": "+2 diplomacy with entitled creatures",
-  "flavor": "You returned the shiny thing before anyone had to die. Barely."
+  "mode": "famous_line",
+  "headline": "Royal Decree",
+  "speaker": "Princess Donut",
+  "quote": "I refuse to die in a place that smells like fried goblin.",
+  "flavor": "An elegant standard for survival."
 }
