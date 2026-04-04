@@ -2,35 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-04T13:15:50.402035+00:00",
-  "floor_label": "F5",
-  "trend_label": "FALLING",
-  "threat_label": "HIGH",
-  "sponsor_label": "WATCHING",
-  "mode": "store_price",
-  "headline": "Store Prices",
-  "shop_name": "Goblin Bazaar Express",
-  "items": [
-    {
-      "name": "Health Potion",
-      "price": 85
-    },
-    {
-      "name": "Exploding Chicken Skewer",
-      "price": 42
-    },
-    {
-      "name": "Trap Disarm Kit",
-      "price": 130
-    },
-    {
-      "name": "Royal Cat Brush",
-      "price": 999
-    },
-    {
-      "name": "Questionable Meat Wrap",
-      "price": 17
-    }
-  ],
-  "note": "All sales final. Screaming at staff incurs a handling fee."
+  "generated_at_utc": "2026-04-04T14:00:37.170881+00:00",
+  "floor_label": "F9",
+  "trend_label": "SPIKING",
+  "threat_label": "MED",
+  "sponsor_label": "BORED",
+  "mode": "achievement",
+  "headline": "Achievement Unlocked",
+  "achievement_name": "Royal Accessory Recovery",
+  "rarity": "Uncommon",
+  "effect": "+2 diplomacy with entitled creatures",
+  "flavor": "You returned the shiny thing before anyone had to die. Barely."
 }
