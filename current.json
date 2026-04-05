@@ -2,15 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-05T16:18:59.234624+00:00",
+  "generated_at_utc": "2026-04-05T16:56:46.735702+00:00",
   "floor_label": "F8",
   "trend_label": "VOLATILE",
   "threat_label": "HIGH",
   "sponsor_label": "INVESTED",
-  "mode": "merchant_spotlight",
-  "headline": "Merchant Spotlight",
-  "merchant": "Madame Clawvel's Prestige Petwear",
-  "specialty": "Battle couture for apex companions",
-  "deal": "Collar gem installation half off",
-  "warning": "Service denied to commoners with opinions."
+  "mode": "damage_report",
+  "headline": "Princess Donut Condition",
+  "condition": "Perfect but annoyed",
+  "hp_state": "Acceptable royal integrity",
+  "injuries": [
+    "One singed whisker",
+    "Minor indignation",
+    "Crown displacement trauma",
+    "Unacceptable dust exposure"
+  ],
+  "note": "Mood improves with praise, vengeance, and premium treats."
 }
