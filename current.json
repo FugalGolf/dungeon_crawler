@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-05T21:48:47.109519+00:00",
+  "generated_at_utc": "2026-04-05T22:03:15.754752+00:00",
   "floor_label": "F5",
-  "trend_label": "VOLATILE",
-  "threat_label": "MED",
+  "trend_label": "RISING",
+  "threat_label": "SEVERE",
   "sponsor_label": "PLEASED",
-  "mode": "loot_drop",
-  "headline": "Loot Drop",
-  "loot_name": "Influencer Slaughter Pack",
-  "rarity": "Epic",
-  "contents": "Ring light, poison blush, 310 gold, social aggro token",
-  "flavor": "Smells like vanity and weaponized branding."
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Never insult the dungeon AI.",
+  "reason": "It remembers."
 }
