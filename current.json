@@ -2,14 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-05T18:21:19.121451+00:00",
-  "floor_label": "F6",
-  "trend_label": "RISING",
-  "threat_label": "SEVERE",
+  "generated_at_utc": "2026-04-05T19:06:30.321397+00:00",
+  "floor_label": "F8",
+  "trend_label": "FALLING",
+  "threat_label": "LETHAL",
   "sponsor_label": "INVESTED",
-  "mode": "showrunner_notice",
-  "headline": "AI Showrunner Notice",
-  "showrunner": "Earth Market Harmonization Core",
-  "message": "Your species demonstrated remarkable tolerance for predatory pricing before the collapse. We saw no reason to discard a successful model.",
-  "directive": "Work harder, consume less, and try not to bleed without sponsorship."
+  "mode": "boss_reward",
+  "headline": "Boss Rewards",
+  "boss_name": "Velvet Doom Concierge",
+  "boss_status": "Politely dismantled",
+  "rewards": [
+    "Keycard of Dubious Access",
+    "Silk-lined stab vest",
+    "590 gold",
+    "Buff: Lobby Presence +2"
+  ],
+  "bonus": "Valet spirits now avoid eye contact."
 }
