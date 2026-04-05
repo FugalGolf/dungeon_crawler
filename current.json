@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-05T16:56:46.735702+00:00",
-  "floor_label": "F8",
-  "trend_label": "VOLATILE",
-  "threat_label": "HIGH",
+  "generated_at_utc": "2026-04-05T17:40:30.601307+00:00",
+  "floor_label": "F5",
+  "trend_label": "FALLING",
+  "threat_label": "SEVERE",
   "sponsor_label": "INVESTED",
-  "mode": "damage_report",
-  "headline": "Princess Donut Condition",
-  "condition": "Perfect but annoyed",
-  "hp_state": "Acceptable royal integrity",
-  "injuries": [
-    "One singed whisker",
-    "Minor indignation",
-    "Crown displacement trauma",
-    "Unacceptable dust exposure"
-  ],
-  "note": "Mood improves with praise, vengeance, and premium treats."
+  "mode": "broadcast_alert",
+  "headline": "Dungeon Broadcast Alert",
+  "alert_type": "System Warning",
+  "message": "A sponsored slaughter event will begin in 11 minutes. Please die entertainingly.",
+  "severity": "High",
+  "advisory": "Audience ratings are doubled during public dismemberment."
 }
