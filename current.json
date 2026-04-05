@@ -2,15 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-05T01:05:12.267247+00:00",
-  "floor_label": "F8",
-  "trend_label": "SPIKING",
+  "generated_at_utc": "2026-04-05T04:07:31.140394+00:00",
+  "floor_label": "F7",
+  "trend_label": "FALLING",
   "threat_label": "LETHAL",
-  "sponsor_label": "PLEASED",
-  "mode": "combat_recorder",
-  "headline": "Combat Recorder",
-  "encounter": "Food Court Clearance",
-  "summary": "Carl improvised. Donut judged. Mongo escalated. Several tables died heroically.",
-  "result": "Victory, debris, applause",
-  "highlight": "A tray return station was weaponized beyond intended use."
+  "sponsor_label": "WATCHING",
+  "mode": "boss_reward",
+  "headline": "Boss Rewards",
+  "boss_name": "Velvet Doom Concierge",
+  "boss_status": "Politely dismantled",
+  "rewards": [
+    "Keycard of Dubious Access",
+    "Silk-lined stab vest",
+    "590 gold",
+    "Buff: Lobby Presence +2"
+  ],
+  "bonus": "Valet spirits now avoid eye contact."
 }
