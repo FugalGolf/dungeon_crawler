@@ -2,15 +2,35 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-06T12:07:30.622989+00:00",
-  "floor_label": "F7",
-  "trend_label": "SPIKING",
-  "threat_label": "HIGH",
-  "sponsor_label": "BORED",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Consumer of Consequences",
-  "rarity": "Legendary",
-  "effect": "Discount immunity, intimidation aura, coupon resistance",
-  "flavor": "You bought the trap, then killed the trap, then returned the receipt."
+  "generated_at_utc": "2026-04-06T13:48:01.108513+00:00",
+  "floor_label": "F5",
+  "trend_label": "FALLING",
+  "threat_label": "SEVERE",
+  "sponsor_label": "INVESTED",
+  "mode": "store_price",
+  "headline": "Luxury Vendor Sheet",
+  "shop_name": "Royal Nonsense Boutique",
+  "items": [
+    {
+      "name": "Sequined Battle Cape",
+      "price": 420
+    },
+    {
+      "name": "Tiara Repair Kit",
+      "price": 190
+    },
+    {
+      "name": "Enchanted Nail Guards",
+      "price": 260
+    },
+    {
+      "name": "Scented Status Candle",
+      "price": 75
+    },
+    {
+      "name": "Gold Trimmed Litter Throne",
+      "price": 2100
+    }
+  ],
+  "note": "Prices increase if you look poor."
 }
