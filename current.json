@@ -2,14 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-07T22:07:17.909783+00:00",
-  "floor_label": "F7",
-  "trend_label": "FALLING",
+  "generated_at_utc": "2026-04-07T23:00:21.682470+00:00",
+  "floor_label": "F6",
+  "trend_label": "RISING",
   "threat_label": "SEVERE",
-  "sponsor_label": "WATCHING",
-  "mode": "famous_line",
-  "headline": "Royal Outrage",
-  "speaker": "Princess Donut",
-  "quote": "Mongo is appalled!",
-  "flavor": "A timeless judgment suitable for nearly any situation."
+  "sponsor_label": "PLEASED",
+  "mode": "damage_report",
+  "headline": "Carl Damage Report",
+  "condition": "Walking wounded",
+  "hp_state": "Bad but functional",
+  "injuries": [
+    "Bruised ribs",
+    "Singed eyebrows",
+    "Shrapnel scratches",
+    "Existential fatigue"
+  ],
+  "note": "Recommended treatment: sleep, revenge, and antiseptic."
 }
