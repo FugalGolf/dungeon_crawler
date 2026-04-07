@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-07T21:25:27.458063+00:00",
-  "floor_label": "F5",
+  "generated_at_utc": "2026-04-07T22:07:17.909783+00:00",
+  "floor_label": "F7",
   "trend_label": "FALLING",
-  "threat_label": "HIGH",
-  "sponsor_label": "PLEASED",
-  "mode": "system_message",
-  "headline": "Dungeon System Message",
-  "message": "Your sarcasm stat has been observed by management.",
-  "effect": "Audience favor +2. Boss patience -4.",
-  "warning": "Continued excellence may trigger retaliation."
+  "threat_label": "SEVERE",
+  "sponsor_label": "WATCHING",
+  "mode": "famous_line",
+  "headline": "Royal Outrage",
+  "speaker": "Princess Donut",
+  "quote": "Mongo is appalled!",
+  "flavor": "A timeless judgment suitable for nearly any situation."
 }
