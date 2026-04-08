@@ -2,13 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-08T15:22:30.818550+00:00",
-  "floor_label": "F8",
-  "trend_label": "SPIKING",
-  "threat_label": "LETHAL",
+  "generated_at_utc": "2026-04-08T16:42:32.975195+00:00",
+  "floor_label": "F5",
+  "trend_label": "VOLATILE",
+  "threat_label": "HIGH",
   "sponsor_label": "WATCHING",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Some healing fountains are judgmental.",
-  "tip": "Compliment the architecture first."
+  "mode": "boss_reward",
+  "headline": "Boss Rewards",
+  "boss_name": "King Discountus",
+  "boss_status": "Crowned into the pavement",
+  "rewards": [
+    "Crown of Aggressive Savings",
+    "1500 gold",
+    "Bulk ammo coupon",
+    "Title: Pricebreaker"
+  ],
+  "bonus": "One merchant now fears you on sight."
 }
