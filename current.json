@@ -2,35 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-08T04:04:58.170700+00:00",
-  "floor_label": "F6",
+  "generated_at_utc": "2026-04-08T05:53:43.873249+00:00",
+  "floor_label": "F9",
   "trend_label": "VOLATILE",
-  "threat_label": "LETHAL",
-  "sponsor_label": "BORED",
-  "mode": "store_price",
-  "headline": "Emergency Commodity Update",
-  "shop_name": "Earth AI Essential Services Kiosk",
-  "items": [
-    {
-      "name": "Basic Health Potion",
-      "price": 12000
-    },
-    {
-      "name": "Bathroom Stall Access (3 minutes)",
-      "price": 4800
-    },
-    {
-      "name": "Clean Water Bottle",
-      "price": 2100
-    },
-    {
-      "name": "Bandage Roll",
-      "price": 1600
-    },
-    {
-      "name": "Breathing Mask Refill",
-      "price": 9500
-    }
-  ],
-  "note": "Following Earth AI integration, essential commodities now reflect a 1000x reality-adjusted market correction. Complaints require premium membership."
+  "threat_label": "MED",
+  "sponsor_label": "PLEASED",
+  "mode": "achievement",
+  "headline": "Achievement Unlocked",
+  "achievement_name": "Functional Trauma",
+  "rarity": "Rare",
+  "effect": "+4 pain tolerance, +2 emotional numbness, -1 ability to feel safe",
+  "flavor": "Awarded for continuing to operate after the mind should have reasonably refused."
 }
