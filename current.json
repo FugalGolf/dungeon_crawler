@@ -2,14 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-09T15:56:33.750677+00:00",
+  "generated_at_utc": "2026-04-09T17:17:24.178815+00:00",
   "floor_label": "F8",
-  "trend_label": "SPIKING",
+  "trend_label": "VOLATILE",
   "threat_label": "HIGH",
-  "sponsor_label": "INVESTED",
-  "mode": "sponsor_message",
-  "headline": "Sponsor Message",
-  "sponsor": "CatNobility Prime",
-  "message": "Luxury nutrition for companions who know their worth.",
-  "offer": "Try the blood-orange pheasant reduction."
+  "sponsor_label": "BORED",
+  "mode": "floor_scan",
+  "headline": "Floor Scan",
+  "zone": "Atrium of Regrettable Commerce",
+  "traffic": "Heavy screaming",
+  "hazards": [
+    "Mimic kiosk cluster",
+    "Crossfire balcony",
+    "Three promotional necromancers",
+    "Wet tile curse"
+  ],
+  "recommendation": "Proceed violently or not at all."
 }
