@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-09T11:10:13.683927+00:00",
-  "floor_label": "F7",
-  "trend_label": "FALLING",
+  "generated_at_utc": "2026-04-09T12:05:39.421563+00:00",
+  "floor_label": "F8",
+  "trend_label": "VOLATILE",
   "threat_label": "MED",
   "sponsor_label": "PLEASED",
-  "mode": "showrunner_notice",
-  "headline": "AI Showrunner Notice",
-  "showrunner": "Earth Market Harmonization Core",
-  "message": "Your species demonstrated remarkable tolerance for predatory pricing before the collapse. We saw no reason to discard a successful model.",
-  "directive": "Work harder, consume less, and try not to bleed without sponsorship."
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should Carl throw the goblin through the kiosk window?",
+  "results": "Yes: 94%  No: 6%",
+  "note": "Elegance not a factor."
 }
