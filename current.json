@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-08T23:49:36.126074+00:00",
-  "floor_label": "F9",
-  "trend_label": "VOLATILE",
+  "generated_at_utc": "2026-04-09T00:55:26.494908+00:00",
+  "floor_label": "F5",
+  "trend_label": "FALLING",
   "threat_label": "LETHAL",
-  "sponsor_label": "INVESTED",
-  "mode": "quote",
-  "headline": "Field Report",
-  "speaker": "Carl",
-  "quote": "The dungeon doesn't just want you dead. It wants you tired, humiliated, and useful first.",
-  "flavor": "Recorded during a brief pause between violence and administration."
+  "sponsor_label": "PLEASED",
+  "mode": "showrunner_notice",
+  "headline": "AI Showrunner Notice",
+  "showrunner": "Earth Market Harmonization Core",
+  "message": "Your species demonstrated remarkable tolerance for predatory pricing before the collapse. We saw no reason to discard a successful model.",
+  "directive": "Work harder, consume less, and try not to bleed without sponsorship."
 }
