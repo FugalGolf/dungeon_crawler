@@ -2,14 +2,16 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-10T09:19:58.747960+00:00",
-  "floor_label": "F7",
+  "generated_at_utc": "2026-04-10T10:30:24.684979+00:00",
+  "floor_label": "F9",
   "trend_label": "RISING",
   "threat_label": "MED",
   "sponsor_label": "WATCHING",
-  "mode": "famous_line",
-  "headline": "Royal Fury",
-  "speaker": "Princess Donut",
-  "quote": "This place takes everything and then asks for a tip.",
-  "flavor": "Delivered while inspecting a bill that included blood removal fees."
+  "mode": "quest",
+  "headline": "Side Quest",
+  "quest_name": "Recover Donut's Preferred Tiara",
+  "difficulty": "Dignified",
+  "objective": "Retrieve one stolen tiara from the mimic jewelry kiosk.",
+  "reward": "1800 XP, royal favor, aesthetic superiority",
+  "warning": "Incorrect tiaras may trigger emotional consequences."
 }
