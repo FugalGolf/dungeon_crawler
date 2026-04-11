@@ -2,20 +2,16 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-11T10:48:07.743989+00:00",
+  "generated_at_utc": "2026-04-11T11:17:33.110623+00:00",
   "floor_label": "F6",
-  "trend_label": "VOLATILE",
-  "threat_label": "SEVERE",
-  "sponsor_label": "INVESTED",
-  "mode": "boss_reward",
-  "headline": "Boss Rewards",
-  "boss_name": "King Discountus",
-  "boss_status": "Crowned into the pavement",
-  "rewards": [
-    "Crown of Aggressive Savings",
-    "1500 gold",
-    "Bulk ammo coupon",
-    "Title: Pricebreaker"
-  ],
-  "bonus": "One merchant now fears you on sight."
+  "trend_label": "FALLING",
+  "threat_label": "HIGH",
+  "sponsor_label": "PLEASED",
+  "mode": "npc_watch",
+  "headline": "NPC Watch",
+  "npc_name": "Lady Gristlefax",
+  "disposition": "Temporary sponsor liaison",
+  "status": "Bleeding elegantly",
+  "value": "Carries keys and terrible opinions",
+  "note": "May betray party if camera angle improves."
 }
