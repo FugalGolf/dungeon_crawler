@@ -2,15 +2,35 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-11T06:15:28.105741+00:00",
+  "generated_at_utc": "2026-04-11T07:29:37.848154+00:00",
   "floor_label": "F8",
-  "trend_label": "VOLATILE",
+  "trend_label": "FALLING",
   "threat_label": "SEVERE",
-  "sponsor_label": "PLEASED",
-  "mode": "combat_recorder",
-  "headline": "Combat Recorder",
-  "encounter": "Kiosk Ambush",
-  "summary": "Hostile vendors underestimated the team's willingness to commit to arson.",
-  "result": "Total suppression",
-  "highlight": "One enemy was defeated by decorative signage."
+  "sponsor_label": "BORED",
+  "mode": "store_price",
+  "headline": "Goblin Market Deals",
+  "shop_name": "Bombs & Feelings",
+  "items": [
+    {
+      "name": "Basic Fuse Bundle",
+      "price": 40
+    },
+    {
+      "name": "Sticky Blast Gel",
+      "price": 165
+    },
+    {
+      "name": "Shrapnel Capsule",
+      "price": 95
+    },
+    {
+      "name": "Timer Beetle",
+      "price": 130
+    },
+    {
+      "name": "Apology Card",
+      "price": 5
+    }
+  ],
+  "note": "Bundle discounts available after verified destruction."
 }
