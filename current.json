@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-10T23:47:02.779900+00:00",
-  "floor_label": "F7",
-  "trend_label": "SPIKING",
+  "generated_at_utc": "2026-04-11T01:00:16.592194+00:00",
+  "floor_label": "F8",
+  "trend_label": "RISING",
   "threat_label": "LETHAL",
-  "sponsor_label": "WATCHING",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Consumer of Consequences",
-  "rarity": "Legendary",
-  "effect": "Discount immunity, intimidation aura, coupon resistance",
-  "flavor": "You bought the trap, then killed the trap, then returned the receipt."
+  "sponsor_label": "INVESTED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Blood stains increase viewer ratings by 3%.",
+  "tip": "Placement matters."
 }
