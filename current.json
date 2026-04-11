@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-11T19:07:26.496092+00:00",
+  "generated_at_utc": "2026-04-11T19:51:19.496457+00:00",
   "floor_label": "F8",
   "trend_label": "SPIKING",
   "threat_label": "MED",
-  "sponsor_label": "WATCHING",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Never trust anything with a cheerful mascot.",
-  "reason": "Mascots are where they hide the teeth."
+  "sponsor_label": "PLEASED",
+  "mode": "sponsor_message",
+  "headline": "Sponsor Message",
+  "sponsor": "AudienceBet",
+  "message": "Bet on survival. Bet on carnage.",
+  "offer": "New users get a free corpse credit."
 }
