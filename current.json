@@ -2,15 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-12T06:58:44.327598+00:00",
-  "floor_label": "F9",
-  "trend_label": "FALLING",
+  "generated_at_utc": "2026-04-12T08:06:35.341949+00:00",
+  "floor_label": "F8",
+  "trend_label": "SPIKING",
   "threat_label": "MED",
   "sponsor_label": "INVESTED",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Broadcast Problem",
+  "mode": "loot_drop",
+  "headline": "Loot Drop",
+  "loot_name": "Influencer Slaughter Pack",
   "rarity": "Epic",
-  "effect": "+8 notoriety, +3 sponsor leverage, +12 unwanted attention",
-  "flavor": "The producers know your name now. This is not good."
+  "contents": "Ring light, poison blush, 310 gold, social aggro token",
+  "flavor": "Smells like vanity and weaponized branding."
 }
