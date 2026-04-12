@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-12T21:19:36.157053+00:00",
-  "floor_label": "F7",
+  "generated_at_utc": "2026-04-12T21:53:26.963414+00:00",
+  "floor_label": "F8",
   "trend_label": "FALLING",
-  "threat_label": "HIGH",
-  "sponsor_label": "PLEASED",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should Mongo be given armor?",
-  "results": "Yes: 88%  No: 12%",
-  "note": "Audience has no concern for public safety."
+  "threat_label": "LETHAL",
+  "sponsor_label": "BORED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Most traps are installed by interns.",
+  "tip": "But they are enthusiastic."
 }
