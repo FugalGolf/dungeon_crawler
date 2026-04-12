@@ -2,35 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-12T19:24:08.589074+00:00",
-  "floor_label": "F9",
+  "generated_at_utc": "2026-04-12T20:01:53.140476+00:00",
+  "floor_label": "F5",
   "trend_label": "SPIKING",
-  "threat_label": "MED",
-  "sponsor_label": "PLEASED",
-  "mode": "store_price",
-  "headline": "Goblin Market Deals",
-  "shop_name": "Bombs & Feelings",
-  "items": [
-    {
-      "name": "Basic Fuse Bundle",
-      "price": 40
-    },
-    {
-      "name": "Sticky Blast Gel",
-      "price": 165
-    },
-    {
-      "name": "Shrapnel Capsule",
-      "price": 95
-    },
-    {
-      "name": "Timer Beetle",
-      "price": 130
-    },
-    {
-      "name": "Apology Card",
-      "price": 5
-    }
-  ],
-  "note": "Bundle discounts available after verified destruction."
+  "threat_label": "SEVERE",
+  "sponsor_label": "BORED",
+  "mode": "death_odds",
+  "headline": "Today's Death Odds",
+  "survival": "21%",
+  "trend": "Unstable",
+  "reason": "Three active bosses and a lava escalator.",
+  "advice": "Avoid vertical movement."
 }
