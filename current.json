@@ -2,13 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-13T17:15:08.300973+00:00",
+  "generated_at_utc": "2026-04-13T18:18:24.794843+00:00",
   "floor_label": "F7",
-  "trend_label": "RISING",
-  "threat_label": "SEVERE",
+  "trend_label": "VOLATILE",
+  "threat_label": "HIGH",
   "sponsor_label": "PLEASED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Shopping carts become hostile after midnight.",
-  "tip": "Aim for the wheels."
+  "mode": "trap_warning",
+  "headline": "Trap Warning",
+  "trap": "Complimentary massage chair mimic",
+  "location": "Rest lounge",
+  "danger": "Predatory relaxation",
+  "note": "Do not sit unless you wish to be tenderized."
 }
