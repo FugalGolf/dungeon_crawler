@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-13T08:19:10.917239+00:00",
-  "floor_label": "F7",
+  "generated_at_utc": "2026-04-13T10:08:03.639792+00:00",
+  "floor_label": "F8",
   "trend_label": "SPIKING",
-  "threat_label": "MED",
+  "threat_label": "HIGH",
   "sponsor_label": "PLEASED",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Consumer of Consequences",
-  "rarity": "Legendary",
-  "effect": "Discount immunity, intimidation aura, coupon resistance",
-  "flavor": "You bought the trap, then killed the trap, then returned the receipt."
+  "mode": "famous_line",
+  "headline": "Royal Fury",
+  "speaker": "Princess Donut",
+  "quote": "This place takes everything and then asks for a tip.",
+  "flavor": "Delivered while inspecting a bill that included blood removal fees."
 }
