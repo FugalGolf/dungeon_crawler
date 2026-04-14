@@ -2,13 +2,16 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-14T05:51:29.009745+00:00",
+  "generated_at_utc": "2026-04-14T07:12:45.648409+00:00",
   "floor_label": "F6",
   "trend_label": "SPIKING",
-  "threat_label": "MED",
-  "sponsor_label": "INVESTED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Shopping carts become hostile after midnight.",
-  "tip": "Aim for the wheels."
+  "threat_label": "SEVERE",
+  "sponsor_label": "WATCHING",
+  "mode": "mongo_status",
+  "headline": "Mongo Status",
+  "mood": "Appalled",
+  "energy": "Maximum",
+  "diet": "Acceptable but judged",
+  "threat": "Significant",
+  "note": "Do not stand between Mongo and snack-sized enemies."
 }
