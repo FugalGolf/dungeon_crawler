@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-14T18:13:38.106336+00:00",
-  "floor_label": "F5",
+  "generated_at_utc": "2026-04-14T19:43:52.114758+00:00",
+  "floor_label": "F9",
   "trend_label": "SPIKING",
   "threat_label": "LETHAL",
-  "sponsor_label": "BORED",
-  "mode": "death_odds",
-  "headline": "Today's Death Odds",
-  "survival": "33%",
-  "trend": "Improving",
-  "reason": "Several competitors already exploded.",
-  "advice": "Stay behind slower contestants."
+  "sponsor_label": "WATCHING",
+  "mode": "sponsor_message",
+  "headline": "Sponsor Message",
+  "sponsor": "StabGuard Platinum",
+  "message": "For the discerning customer who expects betrayal.",
+  "offer": "Now with neck coverage."
 }
