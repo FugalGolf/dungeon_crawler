@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-14T20:36:38.766485+00:00",
-  "floor_label": "F9",
-  "trend_label": "FALLING",
-  "threat_label": "MED",
+  "generated_at_utc": "2026-04-14T21:29:51.810572+00:00",
+  "floor_label": "F8",
+  "trend_label": "VOLATILE",
+  "threat_label": "SEVERE",
   "sponsor_label": "INVESTED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Audience laughter boosts loot quality.",
-  "tip": "Embarrassment is profitable."
+  "mode": "quote",
+  "headline": "Field Note",
+  "speaker": "Carl",
+  "quote": "At this point, a normal door feels suspicious.",
+  "flavor": "Recorded while staring at a hallway that was definitely planning something."
 }
