@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-15T20:07:34.315108+00:00",
-  "floor_label": "F7",
-  "trend_label": "FALLING",
-  "threat_label": "HIGH",
-  "sponsor_label": "INVESTED",
-  "mode": "floor_scan",
-  "headline": "Floor Scan",
-  "zone": "Atrium of Regrettable Commerce",
-  "traffic": "Heavy screaming",
-  "hazards": [
-    "Mimic kiosk cluster",
-    "Crossfire balcony",
-    "Three promotional necromancers",
-    "Wet tile curse"
-  ],
-  "recommendation": "Proceed violently or not at all."
+  "generated_at_utc": "2026-04-15T21:08:43.008154+00:00",
+  "floor_label": "F5",
+  "trend_label": "RISING",
+  "threat_label": "MED",
+  "sponsor_label": "WATCHING",
+  "mode": "betting_line",
+  "headline": "Audience Betting Line",
+  "contestant": "Carl & Donut Team-Up",
+  "odds": "2:1 upset victory",
+  "trend": "Heating up",
+  "note": "Chemistry, violence, and charisma moving strong money."
 }
