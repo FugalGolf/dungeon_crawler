@@ -2,15 +2,35 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-15T22:56:56.217892+00:00",
-  "floor_label": "F9",
-  "trend_label": "FALLING",
-  "threat_label": "LETHAL",
-  "sponsor_label": "BORED",
-  "mode": "trap_warning",
-  "headline": "Trap Warning",
-  "trap": "Coupon storm sigil",
-  "location": "Outlet wing",
-  "danger": "Chaotic",
-  "note": "Paper cuts are cursed."
+  "generated_at_utc": "2026-04-15T23:53:34.512455+00:00",
+  "floor_label": "F8",
+  "trend_label": "VOLATILE",
+  "threat_label": "SEVERE",
+  "sponsor_label": "WATCHING",
+  "mode": "store_price",
+  "headline": "Emergency Commodity Update",
+  "shop_name": "Earth AI Essential Services Kiosk",
+  "items": [
+    {
+      "name": "Basic Health Potion",
+      "price": 12000
+    },
+    {
+      "name": "Bathroom Stall Access (3 minutes)",
+      "price": 4800
+    },
+    {
+      "name": "Clean Water Bottle",
+      "price": 2100
+    },
+    {
+      "name": "Bandage Roll",
+      "price": 1600
+    },
+    {
+      "name": "Breathing Mask Refill",
+      "price": 9500
+    }
+  ],
+  "note": "Following Earth AI integration, essential commodities now reflect a 1000x reality-adjusted market correction. Complaints require premium membership."
 }
