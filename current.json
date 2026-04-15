@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-14T23:25:51.540334+00:00",
-  "floor_label": "F6",
+  "generated_at_utc": "2026-04-15T00:09:38.106339+00:00",
+  "floor_label": "F5",
   "trend_label": "VOLATILE",
   "threat_label": "LETHAL",
-  "sponsor_label": "BORED",
-  "mode": "royal_bulletin",
-  "headline": "Royal Bulletin",
-  "issuer": "Princess Donut",
-  "decree": "Any room lacking suitable lighting is henceforth trash.",
-  "priority": "Immediate",
-  "note": "Subjects may improve ambiance or be judged accordingly."
+  "sponsor_label": "INVESTED",
+  "mode": "showrunner_notice",
+  "headline": "AI Showrunner Notice",
+  "showrunner": "Spectacle Monetization Core",
+  "message": "Your insults benchmark above average in four sectors.",
+  "directive": "Please pair sarcasm with visible blood for cross-market appeal."
 }
