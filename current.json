@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-16T19:34:38.461401+00:00",
+  "generated_at_utc": "2026-04-16T20:25:12.885725+00:00",
   "floor_label": "F5",
   "trend_label": "FALLING",
   "threat_label": "MED",
-  "sponsor_label": "PLEASED",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Functional Trauma",
-  "rarity": "Rare",
-  "effect": "+4 pain tolerance, +2 emotional numbness, -1 ability to feel safe",
-  "flavor": "Awarded for continuing to operate after the mind should have reasonably refused."
+  "sponsor_label": "WATCHING",
+  "mode": "showrunner_notice",
+  "headline": "AI Showrunner Notice",
+  "showrunner": "Earth Market Harmonization Core",
+  "message": "Your species demonstrated remarkable tolerance for predatory pricing before the collapse. We saw no reason to discard a successful model.",
+  "directive": "Work harder, consume less, and try not to bleed without sponsorship."
 }
