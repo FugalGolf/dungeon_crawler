@@ -2,43 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-17T13:55:13.854716+00:00",
+  "generated_at_utc": "2026-04-17T15:05:30.179162+00:00",
   "floor_label": "F7",
-  "trend_label": "FALLING",
-  "threat_label": "LETHAL",
-  "sponsor_label": "BORED",
-  "mode": "receipt",
-  "headline": "Dungeon Receipt",
-  "customer": "Carl & Princess Donut",
-  "status": "Alive, irritated, and under-tipped",
-  "line_items": [
-    {
-      "name": "Goblin Teeth",
-      "qty": 14,
-      "value": 84
-    },
-    {
-      "name": "Exploded Potion Refund",
-      "qty": 1,
-      "value": 37
-    },
-    {
-      "name": "Suspicious Meat Wrap",
-      "qty": 2,
-      "value": 26
-    },
-    {
-      "name": "Boss Room Gratuity",
-      "qty": 1,
-      "value": 666
-    },
-    {
-      "name": "Emotional Damages",
-      "qty": 1,
-      "value": 1029
-    }
-  ],
-  "gold_total": 1842,
-  "xp_gained": 9200,
-  "warning": "No refunds after floor collapse."
+  "trend_label": "VOLATILE",
+  "threat_label": "HIGH",
+  "sponsor_label": "WATCHING",
+  "mode": "sponsor_message",
+  "headline": "Sponsor Message",
+  "sponsor": "AudienceBet",
+  "message": "Bet on survival. Bet on carnage.",
+  "offer": "New users get a free corpse credit."
 }
