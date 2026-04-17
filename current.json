@@ -2,13 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-16T23:53:57.369324+00:00",
+  "generated_at_utc": "2026-04-17T03:36:16.594223+00:00",
   "floor_label": "F8",
-  "trend_label": "RISING",
-  "threat_label": "LETHAL",
+  "trend_label": "FALLING",
+  "threat_label": "MED",
   "sponsor_label": "INVESTED",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Never insult the dungeon AI.",
-  "reason": "It remembers."
+  "mode": "trap_warning",
+  "headline": "Trap Warning",
+  "trap": "Exploding vending machines",
+  "location": "Food court",
+  "danger": "High",
+  "note": "Selecting diet soda triggers grenades."
 }
