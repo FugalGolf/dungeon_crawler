@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-17T21:05:17.847639+00:00",
+  "generated_at_utc": "2026-04-17T21:56:36.406696+00:00",
   "floor_label": "F6",
-  "trend_label": "RISING",
-  "threat_label": "HIGH",
-  "sponsor_label": "WATCHING",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "More explosions?",
-  "results": "Yes: 99%",
-  "note": "Viewer engagement excellent."
+  "trend_label": "SPIKING",
+  "threat_label": "LETHAL",
+  "sponsor_label": "BORED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Escalators on Floor 7 are carnivorous.",
+  "tip": "Use stairs or explosives."
 }
