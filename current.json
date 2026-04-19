@@ -2,13 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-19T20:03:06.981826+00:00",
-  "floor_label": "F8",
-  "trend_label": "SPIKING",
+  "generated_at_utc": "2026-04-19T20:50:15.403847+00:00",
+  "floor_label": "F9",
+  "trend_label": "RISING",
   "threat_label": "SEVERE",
   "sponsor_label": "INVESTED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Some doors only open for people having the worst day imaginable.",
-  "tip": "You qualify."
+  "mode": "combat_recorder",
+  "headline": "Combat Recorder",
+  "encounter": "Kiosk Ambush",
+  "summary": "Hostile vendors underestimated the team's willingness to commit to arson.",
+  "result": "Total suppression",
+  "highlight": "One enemy was defeated by decorative signage."
 }
