@@ -2,14 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-19T03:43:46.989157+00:00",
+  "generated_at_utc": "2026-04-19T05:50:04.836422+00:00",
   "floor_label": "F9",
   "trend_label": "SPIKING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "WATCHING",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should Donut get the crown?",
-  "results": "Yes: 92%",
-  "note": "Royal approval trending."
+  "threat_label": "MED",
+  "sponsor_label": "BORED",
+  "mode": "floor_scan",
+  "headline": "Floor Scan",
+  "zone": "Atrium of Regrettable Commerce",
+  "traffic": "Heavy screaming",
+  "hazards": [
+    "Mimic kiosk cluster",
+    "Crossfire balcony",
+    "Three promotional necromancers",
+    "Wet tile curse"
+  ],
+  "recommendation": "Proceed violently or not at all."
 }
