@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-19T19:26:13.496702+00:00",
-  "floor_label": "F6",
-  "trend_label": "FALLING",
-  "threat_label": "MED",
+  "generated_at_utc": "2026-04-19T20:03:06.981826+00:00",
+  "floor_label": "F8",
+  "trend_label": "SPIKING",
+  "threat_label": "SEVERE",
   "sponsor_label": "INVESTED",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Royal Accessory Recovery",
-  "rarity": "Uncommon",
-  "effect": "+2 diplomacy with entitled creatures",
-  "flavor": "You returned the shiny thing before anyone had to die. Barely."
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Some doors only open for people having the worst day imaginable.",
+  "tip": "You qualify."
 }
