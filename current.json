@@ -2,43 +2,35 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-20T16:18:25.322708+00:00",
-  "floor_label": "F9",
-  "trend_label": "VOLATILE",
+  "generated_at_utc": "2026-04-20T17:31:29.817228+00:00",
+  "floor_label": "F5",
+  "trend_label": "SPIKING",
   "threat_label": "MED",
-  "sponsor_label": "WATCHING",
-  "mode": "receipt",
-  "headline": "Reality-Based Pricing Receipt",
-  "customer": "Any surviving human",
-  "status": "Overcharged, underhealed, and not consulted",
-  "line_items": [
+  "sponsor_label": "BORED",
+  "mode": "store_price",
+  "headline": "Luxury Vendor Sheet",
+  "shop_name": "Royal Nonsense Boutique",
+  "items": [
     {
-      "name": "One bathroom visit",
-      "qty": 1,
-      "value": 4800
+      "name": "Sequined Battle Cape",
+      "price": 420
     },
     {
-      "name": "Basic health potion",
-      "qty": 1,
-      "value": 12000
+      "name": "Tiara Repair Kit",
+      "price": 190
     },
     {
-      "name": "Bottle of water",
-      "qty": 1,
-      "value": 2100
+      "name": "Enchanted Nail Guards",
+      "price": 260
     },
     {
-      "name": "Convenience fee",
-      "qty": 1,
-      "value": 900
+      "name": "Scented Status Candle",
+      "price": 75
     },
     {
-      "name": "Hope tax",
-      "qty": 1,
-      "value": 666
+      "name": "Gold Trimmed Litter Throne",
+      "price": 2100
     }
   ],
-  "gold_total": 20466,
-  "xp_gained": 0,
-  "warning": "Earth AI pricing model indicates your continued survival constitutes luxury consumption."
+  "note": "Prices increase if you look poor."
 }
