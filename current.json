@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-22T07:14:32.898934+00:00",
-  "floor_label": "F9",
-  "trend_label": "SPIKING",
-  "threat_label": "MED",
+  "generated_at_utc": "2026-04-22T08:58:47.871106+00:00",
+  "floor_label": "F7",
+  "trend_label": "VOLATILE",
+  "threat_label": "LETHAL",
   "sponsor_label": "PLEASED",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Always kick treasure chests first.",
-  "reason": "Mimics hate being kicked."
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should Carl throw the goblin through the kiosk window?",
+  "results": "Yes: 94%  No: 6%",
+  "note": "Elegance not a factor."
 }
