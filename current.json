@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-22T16:45:39.101407+00:00",
-  "floor_label": "F8",
+  "generated_at_utc": "2026-04-22T17:44:55.637359+00:00",
+  "floor_label": "F9",
   "trend_label": "FALLING",
   "threat_label": "HIGH",
-  "sponsor_label": "WATCHING",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Mongo Approved",
-  "rarity": "Epic",
-  "effect": "Pet loyalty boosted, fear radius widened",
-  "flavor": "A rare honor accompanied by property damage."
+  "sponsor_label": "INVESTED",
+  "mode": "showrunner_notice",
+  "headline": "AI Showrunner Notice",
+  "showrunner": "Earth Market Harmonization Core",
+  "message": "Your species demonstrated remarkable tolerance for predatory pricing before the collapse. We saw no reason to discard a successful model.",
+  "directive": "Work harder, consume less, and try not to bleed without sponsorship."
 }
