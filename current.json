@@ -2,35 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-23T17:48:42.387407+00:00",
-  "floor_label": "F5",
-  "trend_label": "VOLATILE",
-  "threat_label": "SEVERE",
-  "sponsor_label": "BORED",
-  "mode": "store_price",
-  "headline": "Emergency Commodity Update",
-  "shop_name": "Earth AI Essential Services Kiosk",
-  "items": [
-    {
-      "name": "Basic Health Potion",
-      "price": 12000
-    },
-    {
-      "name": "Bathroom Stall Access (3 minutes)",
-      "price": 4800
-    },
-    {
-      "name": "Clean Water Bottle",
-      "price": 2100
-    },
-    {
-      "name": "Bandage Roll",
-      "price": 1600
-    },
-    {
-      "name": "Breathing Mask Refill",
-      "price": 9500
-    }
-  ],
-  "note": "Following Earth AI integration, essential commodities now reflect a 1000x reality-adjusted market correction. Complaints require premium membership."
+  "generated_at_utc": "2026-04-23T18:47:07.681326+00:00",
+  "floor_label": "F6",
+  "trend_label": "SPIKING",
+  "threat_label": "LETHAL",
+  "sponsor_label": "INVESTED",
+  "mode": "achievement",
+  "headline": "Achievement Unlocked",
+  "achievement_name": "Still Not Dead",
+  "rarity": "Uncommon",
+  "effect": "+5 morale, +1 audience sympathy, +0 actual safety",
+  "flavor": "Awarded for surviving a situation clearly designed by a lunatic."
 }
