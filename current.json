@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-23T03:38:30.111838+00:00",
+  "generated_at_utc": "2026-04-23T05:55:38.481014+00:00",
   "floor_label": "F6",
-  "trend_label": "FALLING",
-  "threat_label": "MED",
-  "sponsor_label": "BORED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "The dungeon can smell hope.",
-  "tip": "Do not celebrate early."
+  "trend_label": "VOLATILE",
+  "threat_label": "SEVERE",
+  "sponsor_label": "INVESTED",
+  "mode": "system_message",
+  "headline": "Dungeon System Message",
+  "message": "Earth-origin administrative intelligence package successfully integrated into floor economics.",
+  "effect": "Dynamic scarcity activated. Essential goods repriced according to despair, urgency, and captive demand.",
+  "warning": "Management welcomes the new Earth AI and its innovative approach to monetized survival."
 }
