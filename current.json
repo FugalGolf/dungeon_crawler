@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-24T20:09:59.816898+00:00",
-  "floor_label": "F6",
-  "trend_label": "FALLING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "INVESTED",
-  "mode": "floor_scan",
-  "headline": "Floor Scan",
-  "zone": "Luxury Wing",
-  "traffic": "Medium panic",
-  "hazards": [
-    "Perfume hallucinations",
-    "Carpet tentacles",
-    "Aggressive violinist",
-    "Elite mannequins"
-  ],
-  "recommendation": "Avoid being rich-looking."
+  "generated_at_utc": "2026-04-24T21:08:19.610273+00:00",
+  "floor_label": "F9",
+  "trend_label": "SPIKING",
+  "threat_label": "MED",
+  "sponsor_label": "BORED",
+  "mode": "achievement",
+  "headline": "Achievement Unlocked",
+  "achievement_name": "Broadcast Problem",
+  "rarity": "Epic",
+  "effect": "+8 notoriety, +3 sponsor leverage, +12 unwanted attention",
+  "flavor": "The producers know your name now. This is not good."
 }
