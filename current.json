@@ -2,20 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-25T20:53:02.650105+00:00",
-  "floor_label": "F5",
-  "trend_label": "VOLATILE",
-  "threat_label": "LETHAL",
+  "generated_at_utc": "2026-04-25T21:47:52.419530+00:00",
+  "floor_label": "F6",
+  "trend_label": "SPIKING",
+  "threat_label": "MED",
   "sponsor_label": "WATCHING",
-  "mode": "damage_report",
-  "headline": "Carl Damage Report",
-  "condition": "Operational rage",
-  "hp_state": "Technically alive",
-  "injuries": [
-    "Knife graze",
-    "Acid splash on boot",
-    "Shoulder strain",
-    "General disgust"
-  ],
-  "note": "Condition improves when enemies explode nearby."
+  "mode": "quote",
+  "headline": "Survivor's Note",
+  "speaker": "Carl",
+  "quote": "The worst part is how fast this starts to feel normal.",
+  "flavor": "Filed after another floor proved humans can adapt to almost anything, including horror."
 }
