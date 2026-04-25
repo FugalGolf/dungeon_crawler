@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-25T22:19:16.410676+00:00",
-  "floor_label": "F7",
-  "trend_label": "SPIKING",
+  "generated_at_utc": "2026-04-25T22:58:39.232180+00:00",
+  "floor_label": "F9",
+  "trend_label": "RISING",
   "threat_label": "MED",
   "sponsor_label": "PLEASED",
-  "mode": "betting_line",
-  "headline": "Audience Betting Line",
-  "contestant": "Princess Donut",
-  "odds": "5:1 victory",
-  "trend": "Stable",
-  "note": "Royal confidence increases ratings."
+  "mode": "quote",
+  "headline": "Survivor's Note",
+  "speaker": "Carl",
+  "quote": "The worst part is how fast this starts to feel normal.",
+  "flavor": "Filed after another floor proved humans can adapt to almost anything, including horror."
 }
