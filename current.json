@@ -2,16 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-25T20:04:14.885384+00:00",
+  "generated_at_utc": "2026-04-25T20:53:02.650105+00:00",
   "floor_label": "F5",
-  "trend_label": "RISING",
+  "trend_label": "VOLATILE",
   "threat_label": "LETHAL",
-  "sponsor_label": "BORED",
-  "mode": "npc_watch",
-  "headline": "NPC Watch",
-  "npc_name": "Lady Gristlefax",
-  "disposition": "Temporary sponsor liaison",
-  "status": "Bleeding elegantly",
-  "value": "Carries keys and terrible opinions",
-  "note": "May betray party if camera angle improves."
+  "sponsor_label": "WATCHING",
+  "mode": "damage_report",
+  "headline": "Carl Damage Report",
+  "condition": "Operational rage",
+  "hp_state": "Technically alive",
+  "injuries": [
+    "Knife graze",
+    "Acid splash on boot",
+    "Shoulder strain",
+    "General disgust"
+  ],
+  "note": "Condition improves when enemies explode nearby."
 }
