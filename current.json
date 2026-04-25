@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-25T12:04:06.050628+00:00",
-  "floor_label": "F6",
+  "generated_at_utc": "2026-04-25T13:35:19.798225+00:00",
+  "floor_label": "F9",
   "trend_label": "FALLING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "PLEASED",
-  "mode": "sponsor_message",
-  "headline": "Sponsor Message",
-  "sponsor": "BoomBarn Deluxe",
-  "message": "Explosives for every occasion, including regret.",
-  "offer": "Weekend package includes free earplugs."
+  "threat_label": "HIGH",
+  "sponsor_label": "BORED",
+  "mode": "showrunner_notice",
+  "headline": "AI Showrunner Notice",
+  "showrunner": "Narrative Cruelty Array",
+  "message": "Your bond tests well. Therefore, tragedy options have been unlocked.",
+  "directive": "Continue caring about each other for premium suffering."
 }
