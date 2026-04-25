@@ -2,20 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-25T05:55:09.031517+00:00",
-  "floor_label": "F6",
-  "trend_label": "RISING",
-  "threat_label": "MED",
-  "sponsor_label": "INVESTED",
-  "mode": "floor_scan",
-  "headline": "Floor Scan",
-  "zone": "Luxury Wing",
-  "traffic": "Medium panic",
-  "hazards": [
-    "Perfume hallucinations",
-    "Carpet tentacles",
-    "Aggressive violinist",
-    "Elite mannequins"
-  ],
-  "recommendation": "Avoid being rich-looking."
+  "generated_at_utc": "2026-04-25T07:41:53.405104+00:00",
+  "floor_label": "F9",
+  "trend_label": "VOLATILE",
+  "threat_label": "HIGH",
+  "sponsor_label": "WATCHING",
+  "mode": "famous_line",
+  "headline": "Royal Decree",
+  "speaker": "Princess Donut",
+  "quote": "I refuse to die in a place that smells like fried goblin.",
+  "flavor": "An elegant standard for survival."
 }
