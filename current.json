@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-26T06:26:18.611710+00:00",
-  "floor_label": "F7",
+  "generated_at_utc": "2026-04-26T08:05:46.505337+00:00",
+  "floor_label": "F6",
   "trend_label": "RISING",
-  "threat_label": "LETHAL",
-  "sponsor_label": "INVESTED",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Always kick treasure chests first.",
-  "reason": "Mimics hate being kicked."
+  "threat_label": "MED",
+  "sponsor_label": "BORED",
+  "mode": "public_service_announcement",
+  "headline": "Public Service Announcement",
+  "message": "Lost children may be claimed from the center kiosk.",
+  "reason": "Unclaimed children become side quests at midnight.",
+  "sponsor": "Administrative Sadness Unit"
 }
