@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-26T09:11:43.714594+00:00",
+  "generated_at_utc": "2026-04-26T10:09:17.881812+00:00",
   "floor_label": "F7",
-  "trend_label": "FALLING",
-  "threat_label": "SEVERE",
+  "trend_label": "RISING",
+  "threat_label": "LETHAL",
   "sponsor_label": "WATCHING",
-  "mode": "death_odds",
-  "headline": "Today's Death Odds",
-  "survival": "12%",
-  "trend": "Falling",
-  "reason": "Explosive mishaps and poor decisions.",
-  "advice": "Running away is statistically underused."
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Shopping carts become hostile after midnight.",
+  "tip": "Aim for the wheels."
 }
