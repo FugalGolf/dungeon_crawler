@@ -2,14 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-26T15:23:05.863262+00:00",
-  "floor_label": "F9",
+  "generated_at_utc": "2026-04-26T16:08:55.189655+00:00",
+  "floor_label": "F7",
   "trend_label": "SPIKING",
-  "threat_label": "HIGH",
+  "threat_label": "LETHAL",
   "sponsor_label": "INVESTED",
-  "mode": "public_service_announcement",
-  "headline": "Public Service Announcement",
-  "message": "Lost children may be claimed from the center kiosk.",
-  "reason": "Unclaimed children become side quests at midnight.",
-  "sponsor": "Administrative Sadness Unit"
+  "mode": "bounty_board",
+  "headline": "Open Bounty",
+  "target": "The Glitter Butcher",
+  "region": "Luxury escalator junction",
+  "reward": "2800 gold, 4000 XP, satin resistance buff",
+  "warning": "Target weaponizes sequins and emotional cruelty."
 }
