@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-27T16:57:58.142059+00:00",
-  "floor_label": "F7",
-  "trend_label": "VOLATILE",
+  "generated_at_utc": "2026-04-27T18:13:35.534136+00:00",
+  "floor_label": "F5",
+  "trend_label": "SPIKING",
   "threat_label": "MED",
-  "sponsor_label": "INVESTED",
-  "mode": "sponsor_message",
-  "headline": "Sponsor Message",
-  "sponsor": "Goblin Meal Kits",
-  "message": "Dinner in under 6 minutes or we eat you.",
-  "offer": "First bite free."
+  "sponsor_label": "PLEASED",
+  "mode": "public_service_announcement",
+  "headline": "Public Service Announcement",
+  "message": "Please do not feed the decorative piranha fountain.",
+  "reason": "It is not decorative.",
+  "sponsor": "Dungeon Safety Office"
 }
