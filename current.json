@@ -2,14 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-29T20:04:17.038399+00:00",
-  "floor_label": "F6",
-  "trend_label": "SPIKING",
+  "generated_at_utc": "2026-04-29T21:15:53.261652+00:00",
+  "floor_label": "F9",
+  "trend_label": "RISING",
   "threat_label": "SEVERE",
   "sponsor_label": "INVESTED",
-  "mode": "sponsor_message",
-  "headline": "Sponsor Message",
-  "sponsor": "StabGuard Platinum",
-  "message": "For the discerning customer who expects betrayal.",
-  "offer": "Now with neck coverage."
+  "mode": "combat_recorder",
+  "headline": "Combat Recorder",
+  "encounter": "Kiosk Ambush",
+  "summary": "Hostile vendors underestimated the team's willingness to commit to arson.",
+  "result": "Total suppression",
+  "highlight": "One enemy was defeated by decorative signage."
 }
