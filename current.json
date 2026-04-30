@@ -2,13 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-30T12:19:26.590883+00:00",
-  "floor_label": "F6",
+  "generated_at_utc": "2026-04-30T14:26:34.827514+00:00",
+  "floor_label": "F9",
   "trend_label": "VOLATILE",
-  "threat_label": "LETHAL",
+  "threat_label": "MED",
   "sponsor_label": "INVESTED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Escalators on Floor 7 are carnivorous.",
-  "tip": "Use stairs or explosives."
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Never trust anything with a cheerful mascot.",
+  "reason": "Mascots are where they hide the teeth."
 }
