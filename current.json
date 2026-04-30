@@ -2,20 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-30T11:01:59.739388+00:00",
-  "floor_label": "F5",
-  "trend_label": "RISING",
+  "generated_at_utc": "2026-04-30T12:19:26.590883+00:00",
+  "floor_label": "F6",
+  "trend_label": "VOLATILE",
   "threat_label": "LETHAL",
-  "sponsor_label": "WATCHING",
-  "mode": "boss_reward",
-  "headline": "Boss Rewards",
-  "boss_name": "Gorthok the Consumer Prince",
-  "boss_status": "Defeated messily",
-  "rewards": [
-    "Jeweled Collar of Minor Majesty",
-    "860 gold",
-    "Rare bomb component",
-    "Reputation +12 with questionable factions"
-  ],
-  "bonus": "Audience delight increased by 18%."
+  "sponsor_label": "INVESTED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Escalators on Floor 7 are carnivorous.",
+  "tip": "Use stairs or explosives."
 }
