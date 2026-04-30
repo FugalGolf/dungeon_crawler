@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-30T17:40:15.276383+00:00",
-  "floor_label": "F7",
+  "generated_at_utc": "2026-04-30T18:59:38.331621+00:00",
+  "floor_label": "F9",
   "trend_label": "RISING",
   "threat_label": "MED",
   "sponsor_label": "PLEASED",
-  "mode": "inventory_flash",
-  "headline": "Inventory Flash",
-  "owner": "Princess Donut",
-  "items": [
-    "Jeweled collar",
-    "Emergency treats",
-    "Tiny but expensive brush",
-    "Backup crown",
-    "A list of grievances"
-  ],
-  "note": "Everything essential. Do not argue."
+  "mode": "broadcast_alert",
+  "headline": "Dungeon Broadcast Alert",
+  "alert_type": "System Warning",
+  "message": "A sponsored slaughter event will begin in 11 minutes. Please die entertainingly.",
+  "severity": "High",
+  "advisory": "Audience ratings are doubled during public dismemberment."
 }
