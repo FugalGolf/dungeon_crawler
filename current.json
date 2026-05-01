@@ -2,13 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-01T21:30:44.686245+00:00",
-  "floor_label": "F7",
-  "trend_label": "RISING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "WATCHING",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Keep snacks for Mongo.",
-  "reason": "This reduces property damage."
+  "generated_at_utc": "2026-05-01T22:27:16.582149+00:00",
+  "floor_label": "F5",
+  "trend_label": "FALLING",
+  "threat_label": "MED",
+  "sponsor_label": "INVESTED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Blood stains increase viewer ratings by 3%.",
+  "tip": "Placement matters."
 }
