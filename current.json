@@ -2,20 +2,16 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-04-30T23:12:37.312086+00:00",
-  "floor_label": "F8",
-  "trend_label": "FALLING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "BORED",
-  "mode": "boss_reward",
-  "headline": "Boss Rewards",
-  "boss_name": "Velvet Doom Concierge",
-  "boss_status": "Politely dismantled",
-  "rewards": [
-    "Keycard of Dubious Access",
-    "Silk-lined stab vest",
-    "590 gold",
-    "Buff: Lobby Presence +2"
-  ],
-  "bonus": "Valet spirits now avoid eye contact."
+  "generated_at_utc": "2026-05-01T00:08:59.731055+00:00",
+  "floor_label": "F6",
+  "trend_label": "RISING",
+  "threat_label": "HIGH",
+  "sponsor_label": "PLEASED",
+  "mode": "npc_watch",
+  "headline": "NPC Watch",
+  "npc_name": "Gerald the Regretful Cheesemonger",
+  "disposition": "Panicked ally",
+  "status": "Still screaming softly",
+  "value": "Knows a shortcut, probably cursed",
+  "note": "Protecting him remains a deeply questionable choice."
 }
