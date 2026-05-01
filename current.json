@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-01T18:13:31.479303+00:00",
-  "floor_label": "F7",
-  "trend_label": "VOLATILE",
+  "generated_at_utc": "2026-05-01T19:41:45.291053+00:00",
+  "floor_label": "F6",
+  "trend_label": "RISING",
   "threat_label": "MED",
   "sponsor_label": "INVESTED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Escalators on Floor 7 are carnivorous.",
-  "tip": "Use stairs or explosives."
+  "mode": "sponsor_message",
+  "headline": "Sponsor Message",
+  "sponsor": "Prestige Cat Food",
+  "message": "Approved by Princess Donut.",
+  "offer": "Royal flavor upgrade available."
 }
