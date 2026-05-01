@@ -2,20 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-01T20:36:04.576126+00:00",
-  "floor_label": "F8",
-  "trend_label": "VOLATILE",
-  "threat_label": "MED",
-  "sponsor_label": "INVESTED",
-  "mode": "damage_report",
-  "headline": "Carl Damage Report",
-  "condition": "Operational rage",
-  "hp_state": "Technically alive",
-  "injuries": [
-    "Knife graze",
-    "Acid splash on boot",
-    "Shoulder strain",
-    "General disgust"
-  ],
-  "note": "Condition improves when enemies explode nearby."
+  "generated_at_utc": "2026-05-01T21:30:44.686245+00:00",
+  "floor_label": "F7",
+  "trend_label": "RISING",
+  "threat_label": "SEVERE",
+  "sponsor_label": "WATCHING",
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Keep snacks for Mongo.",
+  "reason": "This reduces property damage."
 }
