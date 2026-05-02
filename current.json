@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-02T20:07:15.406053+00:00",
+  "generated_at_utc": "2026-05-02T21:02:13.802737+00:00",
   "floor_label": "F7",
-  "trend_label": "FALLING",
+  "trend_label": "VOLATILE",
   "threat_label": "LETHAL",
-  "sponsor_label": "WATCHING",
-  "mode": "showrunner_notice",
-  "headline": "AI Showrunner Notice",
-  "showrunner": "Bored Entertainment Cluster 9",
-  "message": "Your recent behavior tests well with the 18-34 bloodthirst demographic.",
-  "directive": "Maintain momentum. Betray someone photogenically if possible."
+  "sponsor_label": "INVESTED",
+  "mode": "quote",
+  "headline": "Field Note",
+  "speaker": "Carl",
+  "quote": "At this point, a normal door feels suspicious.",
+  "flavor": "Recorded while staring at a hallway that was definitely planning something."
 }
