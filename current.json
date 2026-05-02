@@ -2,14 +2,43 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-02T06:26:58.822572+00:00",
-  "floor_label": "F5",
-  "trend_label": "SPIKING",
+  "generated_at_utc": "2026-05-02T08:10:59.274842+00:00",
+  "floor_label": "F6",
+  "trend_label": "VOLATILE",
   "threat_label": "MED",
   "sponsor_label": "WATCHING",
-  "mode": "famous_line",
-  "headline": "Royal Fury",
-  "speaker": "Princess Donut",
-  "quote": "This place takes everything and then asks for a tip.",
-  "flavor": "Delivered while inspecting a bill that included blood removal fees."
+  "mode": "receipt",
+  "headline": "Dungeon Receipt",
+  "customer": "Carl & Princess Donut",
+  "status": "Alive, irritated, and under-tipped",
+  "line_items": [
+    {
+      "name": "Goblin Teeth",
+      "qty": 14,
+      "value": 84
+    },
+    {
+      "name": "Exploded Potion Refund",
+      "qty": 1,
+      "value": 37
+    },
+    {
+      "name": "Suspicious Meat Wrap",
+      "qty": 2,
+      "value": 26
+    },
+    {
+      "name": "Boss Room Gratuity",
+      "qty": 1,
+      "value": 666
+    },
+    {
+      "name": "Emotional Damages",
+      "qty": 1,
+      "value": 1029
+    }
+  ],
+  "gold_total": 1842,
+  "xp_gained": 9200,
+  "warning": "No refunds after floor collapse."
 }
