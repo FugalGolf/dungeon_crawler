@@ -2,14 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-02T09:34:33.693061+00:00",
+  "generated_at_utc": "2026-05-02T10:29:47.026047+00:00",
   "floor_label": "F8",
   "trend_label": "SPIKING",
   "threat_label": "HIGH",
-  "sponsor_label": "PLEASED",
-  "mode": "system_message",
-  "headline": "Dungeon System Message",
-  "message": "Your sarcasm stat has been observed by management.",
-  "effect": "Audience favor +2. Boss patience -4.",
-  "warning": "Continued excellence may trigger retaliation."
+  "sponsor_label": "BORED",
+  "mode": "death_odds",
+  "headline": "Today's Death Odds",
+  "survival": "17%",
+  "trend": "Stumbling",
+  "reason": "The food court has unionized against you.",
+  "advice": "Do not negotiate with animated kiosks."
 }
