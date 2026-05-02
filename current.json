@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-02T12:10:11.503372+00:00",
-  "floor_label": "F6",
+  "generated_at_utc": "2026-05-02T13:50:32.696120+00:00",
+  "floor_label": "F5",
   "trend_label": "VOLATILE",
-  "threat_label": "LETHAL",
-  "sponsor_label": "BORED",
-  "mode": "death_odds",
-  "headline": "Today's Death Odds",
-  "survival": "8%",
-  "trend": "Catastrophic",
-  "reason": "The floor AI is bored.",
-  "advice": "Entertain it or die tired."
+  "threat_label": "HIGH",
+  "sponsor_label": "WATCHING",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Some doors only open for people having the worst day imaginable.",
+  "tip": "You qualify."
 }
