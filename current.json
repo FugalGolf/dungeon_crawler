@@ -2,13 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-02T13:50:32.696120+00:00",
+  "generated_at_utc": "2026-05-02T14:37:58.241161+00:00",
   "floor_label": "F5",
   "trend_label": "VOLATILE",
   "threat_label": "HIGH",
-  "sponsor_label": "WATCHING",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Some doors only open for people having the worst day imaginable.",
-  "tip": "You qualify."
+  "sponsor_label": "BORED",
+  "mode": "damage_report",
+  "headline": "Princess Donut Condition",
+  "condition": "Perfect but annoyed",
+  "hp_state": "Acceptable royal integrity",
+  "injuries": [
+    "One singed whisker",
+    "Minor indignation",
+    "Crown displacement trauma",
+    "Unacceptable dust exposure"
+  ],
+  "note": "Mood improves with praise, vengeance, and premium treats."
 }
