@@ -2,43 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-02T08:10:59.274842+00:00",
-  "floor_label": "F6",
-  "trend_label": "VOLATILE",
-  "threat_label": "MED",
-  "sponsor_label": "WATCHING",
-  "mode": "receipt",
-  "headline": "Dungeon Receipt",
-  "customer": "Carl & Princess Donut",
-  "status": "Alive, irritated, and under-tipped",
-  "line_items": [
-    {
-      "name": "Goblin Teeth",
-      "qty": 14,
-      "value": 84
-    },
-    {
-      "name": "Exploded Potion Refund",
-      "qty": 1,
-      "value": 37
-    },
-    {
-      "name": "Suspicious Meat Wrap",
-      "qty": 2,
-      "value": 26
-    },
-    {
-      "name": "Boss Room Gratuity",
-      "qty": 1,
-      "value": 666
-    },
-    {
-      "name": "Emotional Damages",
-      "qty": 1,
-      "value": 1029
-    }
-  ],
-  "gold_total": 1842,
-  "xp_gained": 9200,
-  "warning": "No refunds after floor collapse."
+  "generated_at_utc": "2026-05-02T09:34:33.693061+00:00",
+  "floor_label": "F8",
+  "trend_label": "SPIKING",
+  "threat_label": "HIGH",
+  "sponsor_label": "PLEASED",
+  "mode": "system_message",
+  "headline": "Dungeon System Message",
+  "message": "Your sarcasm stat has been observed by management.",
+  "effect": "Audience favor +2. Boss patience -4.",
+  "warning": "Continued excellence may trigger retaliation."
 }
