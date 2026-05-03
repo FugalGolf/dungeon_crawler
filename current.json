@@ -2,14 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-03T22:55:40.785060+00:00",
-  "floor_label": "F7",
-  "trend_label": "FALLING",
+  "generated_at_utc": "2026-05-03T23:57:26.863730+00:00",
+  "floor_label": "F9",
+  "trend_label": "RISING",
   "threat_label": "LETHAL",
   "sponsor_label": "PLEASED",
-  "mode": "showrunner_notice",
-  "headline": "AI Showrunner Notice",
-  "showrunner": "Bored Entertainment Cluster 9",
-  "message": "Your recent behavior tests well with the 18-34 bloodthirst demographic.",
-  "directive": "Maintain momentum. Betray someone photogenically if possible."
+  "mode": "broadcast_alert",
+  "headline": "Dungeon Broadcast Alert",
+  "alert_type": "Sponsored Weather",
+  "message": "Acid rain now falling in the outdoor food promenade.",
+  "severity": "High",
+  "advisory": "Umbrellas count as weakness unless sharpened."
 }
