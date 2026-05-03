@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-03T12:07:56.084100+00:00",
-  "floor_label": "F9",
-  "trend_label": "SPIKING",
-  "threat_label": "MED",
+  "generated_at_utc": "2026-05-03T13:50:32.730981+00:00",
+  "floor_label": "F5",
+  "trend_label": "FALLING",
+  "threat_label": "SEVERE",
   "sponsor_label": "BORED",
-  "mode": "famous_line",
-  "headline": "Royal Fury",
-  "speaker": "Princess Donut",
-  "quote": "This place takes everything and then asks for a tip.",
-  "flavor": "Delivered while inspecting a bill that included blood removal fees."
+  "mode": "sponsor_message",
+  "headline": "Sponsor Message",
+  "sponsor": "CatNobility Prime",
+  "message": "Luxury nutrition for companions who know their worth.",
+  "offer": "Try the blood-orange pheasant reduction."
 }
