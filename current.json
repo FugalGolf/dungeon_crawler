@@ -2,14 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-03T06:33:10.963176+00:00",
-  "floor_label": "F5",
-  "trend_label": "VOLATILE",
+  "generated_at_utc": "2026-05-03T08:20:50.559939+00:00",
+  "floor_label": "F9",
+  "trend_label": "RISING",
   "threat_label": "LETHAL",
   "sponsor_label": "WATCHING",
-  "mode": "sponsor_message",
-  "headline": "Sponsor Message",
-  "sponsor": "Explodium™",
-  "message": "When subtlety fails, use more explosions.",
-  "offer": "Use code BOOM for +5% blast radius."
+  "mode": "betting_line",
+  "headline": "Audience Betting Line",
+  "contestant": "Carl & Donut Team-Up",
+  "odds": "2:1 upset victory",
+  "trend": "Heating up",
+  "note": "Chemistry, violence, and charisma moving strong money."
 }
