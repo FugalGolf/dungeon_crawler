@@ -2,14 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-04T20:04:23.210129+00:00",
+  "generated_at_utc": "2026-05-04T21:16:36.266506+00:00",
   "floor_label": "F7",
-  "trend_label": "SPIKING",
+  "trend_label": "FALLING",
   "threat_label": "HIGH",
-  "sponsor_label": "INVESTED",
-  "mode": "sponsor_message",
-  "headline": "Sponsor Message",
-  "sponsor": "CatNobility Prime",
-  "message": "Luxury nutrition for companions who know their worth.",
-  "offer": "Try the blood-orange pheasant reduction."
+  "sponsor_label": "WATCHING",
+  "mode": "loot_drop",
+  "headline": "Loot Drop",
+  "loot_name": "Box of Dubious Triumph",
+  "rarity": "Rare",
+  "contents": "Bomb parts, jerky, 220 gold, one passive-aggressive note",
+  "flavor": "The box hums like it disapproves of your choices."
 }
