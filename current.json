@@ -2,20 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-04T11:18:45.982827+00:00",
+  "generated_at_utc": "2026-05-04T12:58:40.792862+00:00",
   "floor_label": "F6",
-  "trend_label": "VOLATILE",
-  "threat_label": "MED",
+  "trend_label": "FALLING",
+  "threat_label": "HIGH",
   "sponsor_label": "PLEASED",
-  "mode": "damage_report",
-  "headline": "Carl Damage Report",
-  "condition": "Walking wounded",
-  "hp_state": "Bad but functional",
-  "injuries": [
-    "Bruised ribs",
-    "Singed eyebrows",
-    "Shrapnel scratches",
-    "Existential fatigue"
+  "mode": "boss_reward",
+  "headline": "Boss Rewards",
+  "boss_name": "Velvet Doom Concierge",
+  "boss_status": "Politely dismantled",
+  "rewards": [
+    "Keycard of Dubious Access",
+    "Silk-lined stab vest",
+    "590 gold",
+    "Buff: Lobby Presence +2"
   ],
-  "note": "Recommended treatment: sleep, revenge, and antiseptic."
+  "bonus": "Valet spirits now avoid eye contact."
 }
