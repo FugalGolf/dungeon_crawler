@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-05T06:25:15.725950+00:00",
+  "generated_at_utc": "2026-05-05T08:35:08.592981+00:00",
   "floor_label": "F9",
   "trend_label": "RISING",
   "threat_label": "HIGH",
-  "sponsor_label": "WATCHING",
-  "mode": "public_service_announcement",
-  "headline": "Public Service Announcement",
-  "message": "Lost children may be claimed from the center kiosk.",
-  "reason": "Unclaimed children become side quests at midnight.",
-  "sponsor": "Administrative Sadness Unit"
+  "sponsor_label": "BORED",
+  "mode": "sponsor_message",
+  "headline": "Sponsor Message",
+  "sponsor": "Prestige Cat Food",
+  "message": "Approved by Princess Donut.",
+  "offer": "Royal flavor upgrade available."
 }
