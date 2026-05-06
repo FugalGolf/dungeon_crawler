@@ -2,20 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-06T20:41:35.402152+00:00",
-  "floor_label": "F6",
+  "generated_at_utc": "2026-05-06T21:46:58.220701+00:00",
+  "floor_label": "F5",
   "trend_label": "VOLATILE",
-  "threat_label": "MED",
-  "sponsor_label": "PLEASED",
-  "mode": "damage_report",
-  "headline": "Mongo Damage Report",
-  "condition": "Thriving menace",
-  "hp_state": "Overqualified for restraint",
-  "injuries": [
-    "None worth mentioning",
-    "Moral offense",
-    "Snack deprivation",
-    "Residual confetti"
-  ],
-  "note": "System recommends pointing him at your enemies."
+  "threat_label": "HIGH",
+  "sponsor_label": "WATCHING",
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Always kick treasure chests first.",
+  "reason": "Mimics hate being kicked."
 }
