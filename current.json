@@ -2,13 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-07T21:11:29.885934+00:00",
-  "floor_label": "F9",
-  "trend_label": "VOLATILE",
-  "threat_label": "HIGH",
+  "generated_at_utc": "2026-05-07T22:18:08.264298+00:00",
+  "floor_label": "F5",
+  "trend_label": "RISING",
+  "threat_label": "SEVERE",
   "sponsor_label": "PLEASED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Audience laughter boosts loot quality.",
-  "tip": "Embarrassment is profitable."
+  "mode": "trap_warning",
+  "headline": "Trap Warning",
+  "trap": "Complimentary massage chair mimic",
+  "location": "Rest lounge",
+  "danger": "Predatory relaxation",
+  "note": "Do not sit unless you wish to be tenderized."
 }
