@@ -2,14 +2,16 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-08T09:47:37.807756+00:00",
+  "generated_at_utc": "2026-05-08T10:58:27.687757+00:00",
   "floor_label": "F6",
-  "trend_label": "FALLING",
+  "trend_label": "VOLATILE",
   "threat_label": "MED",
   "sponsor_label": "BORED",
-  "mode": "sponsor_message",
-  "headline": "Sponsor Message",
-  "sponsor": "BoomBarn Deluxe",
-  "message": "Explosives for every occasion, including regret.",
-  "offer": "Weekend package includes free earplugs."
+  "mode": "quest",
+  "headline": "Emergency Quest",
+  "quest_name": "Disable the Applause Totem",
+  "difficulty": "Severe",
+  "objective": "Silence the enchanted idol before it alerts every murder-clown within three corridors.",
+  "reward": "2400 XP, 300 gold, noise dampening charm",
+  "warning": "Totem gains volume when struck incorrectly."
 }
