@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-08T12:15:04.335059+00:00",
-  "floor_label": "F9",
+  "generated_at_utc": "2026-05-08T14:18:29.380306+00:00",
+  "floor_label": "F6",
   "trend_label": "VOLATILE",
-  "threat_label": "HIGH",
-  "sponsor_label": "PLEASED",
-  "mode": "merchant_spotlight",
-  "headline": "Merchant Spotlight",
-  "merchant": "Madame Clawvel's Prestige Petwear",
-  "specialty": "Battle couture for apex companions",
-  "deal": "Collar gem installation half off",
-  "warning": "Service denied to commoners with opinions."
+  "threat_label": "MED",
+  "sponsor_label": "INVESTED",
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Carry two bombs.",
+  "reason": "One will not be enough."
 }
