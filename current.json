@@ -2,16 +2,43 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-09T12:38:35.385472+00:00",
-  "floor_label": "F9",
-  "trend_label": "VOLATILE",
-  "threat_label": "HIGH",
+  "generated_at_utc": "2026-05-09T14:08:41.188042+00:00",
+  "floor_label": "F8",
+  "trend_label": "FALLING",
+  "threat_label": "SEVERE",
   "sponsor_label": "INVESTED",
-  "mode": "quest",
-  "headline": "Emergency Quest",
-  "quest_name": "Disable the Applause Totem",
-  "difficulty": "Severe",
-  "objective": "Silence the enchanted idol before it alerts every murder-clown within three corridors.",
-  "reward": "2400 XP, 300 gold, noise dampening charm",
-  "warning": "Totem gains volume when struck incorrectly."
+  "mode": "receipt",
+  "headline": "Emergency Expense Log",
+  "customer": "Carl, under protest",
+  "status": "Charged automatically by the floor",
+  "line_items": [
+    {
+      "name": "Trauma bandages",
+      "qty": 3,
+      "value": 135
+    },
+    {
+      "name": "Fire suppressant foam",
+      "qty": 2,
+      "value": 88
+    },
+    {
+      "name": "Fine for public screaming",
+      "qty": 1,
+      "value": 55
+    },
+    {
+      "name": "Cat treat surcharge",
+      "qty": 1,
+      "value": 140
+    },
+    {
+      "name": "Blood cleanup deposit",
+      "qty": 1,
+      "value": 400
+    }
+  ],
+  "gold_total": 818,
+  "xp_gained": 400,
+  "warning": "Complaints processed alphabetically and then ignored."
 }
