@@ -2,13 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-10T19:46:56.891227+00:00",
+  "generated_at_utc": "2026-05-10T20:31:34.467075+00:00",
   "floor_label": "F9",
-  "trend_label": "RISING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "PLEASED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "The dungeon can smell hope.",
-  "tip": "Do not celebrate early."
+  "trend_label": "SPIKING",
+  "threat_label": "MED",
+  "sponsor_label": "BORED",
+  "mode": "death_odds",
+  "headline": "Today's Death Odds",
+  "survival": "21%",
+  "trend": "Unstable",
+  "reason": "Three active bosses and a lava escalator.",
+  "advice": "Avoid vertical movement."
 }
