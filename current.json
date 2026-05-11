@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-11T20:51:24.295475+00:00",
-  "floor_label": "F5",
+  "generated_at_utc": "2026-05-11T21:55:07.879838+00:00",
+  "floor_label": "F6",
   "trend_label": "VOLATILE",
-  "threat_label": "HIGH",
-  "sponsor_label": "INVESTED",
-  "mode": "broadcast_alert",
-  "headline": "Dungeon Broadcast Alert",
-  "alert_type": "Memorial Notice",
-  "message": "Several contestants have been removed from the roster. Their possessions are now promotional opportunities.",
-  "severity": "Grim",
-  "advisory": "Please grieve efficiently. The schedule remains full."
+  "threat_label": "MED",
+  "sponsor_label": "BORED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Blood stains increase viewer ratings by 3%.",
+  "tip": "Placement matters."
 }
