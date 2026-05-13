@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-13T12:33:24.185691+00:00",
-  "floor_label": "F7",
-  "trend_label": "SPIKING",
-  "threat_label": "MED",
-  "sponsor_label": "INVESTED",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "If a hallway is quiet...",
-  "reason": "...the hallway is lying."
+  "generated_at_utc": "2026-05-13T15:28:22.719545+00:00",
+  "floor_label": "F9",
+  "trend_label": "FALLING",
+  "threat_label": "HIGH",
+  "sponsor_label": "WATCHING",
+  "mode": "famous_line",
+  "headline": "Royal Outrage",
+  "speaker": "Princess Donut",
+  "quote": "Mongo is appalled!",
+  "flavor": "A timeless judgment suitable for nearly any situation."
 }
