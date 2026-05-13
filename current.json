@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-13T10:46:24.954923+00:00",
-  "floor_label": "F8",
-  "trend_label": "FALLING",
+  "generated_at_utc": "2026-05-13T12:33:24.185691+00:00",
+  "floor_label": "F7",
+  "trend_label": "SPIKING",
   "threat_label": "MED",
-  "sponsor_label": "WATCHING",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Mall Ninja Survivor",
-  "rarity": "Rare",
-  "effect": "+3 reflexes, +1 suspicion, +10% dramatic crouching",
-  "flavor": "Granted for escaping armed idiots in decorative armor."
+  "sponsor_label": "INVESTED",
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "If a hallway is quiet...",
+  "reason": "...the hallway is lying."
 }
