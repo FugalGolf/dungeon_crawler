@@ -2,14 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-15T21:33:24.716574+00:00",
-  "floor_label": "F5",
+  "generated_at_utc": "2026-05-15T22:32:06.609833+00:00",
+  "floor_label": "F8",
   "trend_label": "FALLING",
   "threat_label": "MED",
   "sponsor_label": "BORED",
-  "mode": "famous_line",
-  "headline": "Royal Outrage",
-  "speaker": "Princess Donut",
-  "quote": "Mongo is appalled!",
-  "flavor": "A timeless judgment suitable for nearly any situation."
+  "mode": "broadcast_alert",
+  "headline": "Dungeon Broadcast Alert",
+  "alert_type": "Memorial Notice",
+  "message": "Several contestants have been removed from the roster. Their possessions are now promotional opportunities.",
+  "severity": "Grim",
+  "advisory": "Please grieve efficiently. The schedule remains full."
 }
