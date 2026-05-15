@@ -2,13 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-15T08:23:34.195383+00:00",
-  "floor_label": "F9",
+  "generated_at_utc": "2026-05-15T11:00:40.628156+00:00",
+  "floor_label": "F7",
   "trend_label": "FALLING",
-  "threat_label": "HIGH",
+  "threat_label": "MED",
   "sponsor_label": "INVESTED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "The system archives your suffering as entertainment metadata.",
-  "tip": "Even private breakdowns may be monetized."
+  "mode": "merchant_spotlight",
+  "headline": "Merchant Spotlight",
+  "merchant": "Madame Clawvel's Prestige Petwear",
+  "specialty": "Battle couture for apex companions",
+  "deal": "Collar gem installation half off",
+  "warning": "Service denied to commoners with opinions."
 }
