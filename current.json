@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-15T01:31:33.623369+00:00",
-  "floor_label": "F6",
-  "trend_label": "FALLING",
-  "threat_label": "HIGH",
-  "sponsor_label": "BORED",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Never trust anything with a cheerful mascot.",
-  "reason": "Mascots are where they hide the teeth."
+  "generated_at_utc": "2026-05-15T05:35:21.002840+00:00",
+  "floor_label": "F9",
+  "trend_label": "VOLATILE",
+  "threat_label": "SEVERE",
+  "sponsor_label": "INVESTED",
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should Mongo be given armor?",
+  "results": "Yes: 88%  No: 12%",
+  "note": "Audience has no concern for public safety."
 }
