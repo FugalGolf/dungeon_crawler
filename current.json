@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-16T08:56:46.582744+00:00",
-  "floor_label": "F9",
-  "trend_label": "VOLATILE",
-  "threat_label": "SEVERE",
+  "generated_at_utc": "2026-05-16T10:23:05.800443+00:00",
+  "floor_label": "F5",
+  "trend_label": "SPIKING",
+  "threat_label": "HIGH",
   "sponsor_label": "INVESTED",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should Carl throw the goblin through the kiosk window?",
-  "results": "Yes: 94%  No: 6%",
-  "note": "Elegance not a factor."
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Blood stains increase viewer ratings by 3%.",
+  "tip": "Placement matters."
 }
