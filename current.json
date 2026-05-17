@@ -2,13 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-17T11:19:00.699616+00:00",
+  "generated_at_utc": "2026-05-17T12:07:50.021442+00:00",
   "floor_label": "F6",
-  "trend_label": "SPIKING",
+  "trend_label": "VOLATILE",
   "threat_label": "LETHAL",
-  "sponsor_label": "BORED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Some doors only open for people having the worst day imaginable.",
-  "tip": "You qualify."
+  "sponsor_label": "WATCHING",
+  "mode": "death_odds",
+  "headline": "Today's Death Odds",
+  "survival": "5%",
+  "trend": "Very bad",
+  "reason": "Clown biome activation detected.",
+  "advice": "Never trust balloons."
 }
