@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-17T09:55:59.365608+00:00",
-  "floor_label": "F8",
-  "trend_label": "FALLING",
-  "threat_label": "MED",
+  "generated_at_utc": "2026-05-17T11:19:00.699616+00:00",
+  "floor_label": "F6",
+  "trend_label": "SPIKING",
+  "threat_label": "LETHAL",
   "sponsor_label": "BORED",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Broadcast Problem",
-  "rarity": "Epic",
-  "effect": "+8 notoriety, +3 sponsor leverage, +12 unwanted attention",
-  "flavor": "The producers know your name now. This is not good."
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Some doors only open for people having the worst day imaginable.",
+  "tip": "You qualify."
 }
