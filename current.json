@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-18T18:12:49.671799+00:00",
+  "generated_at_utc": "2026-05-18T20:04:04.538926+00:00",
   "floor_label": "F5",
-  "trend_label": "FALLING",
-  "threat_label": "MED",
+  "trend_label": "SPIKING",
+  "threat_label": "SEVERE",
   "sponsor_label": "PLEASED",
-  "mode": "damage_report",
-  "headline": "Princess Donut Condition",
-  "condition": "Perfect but annoyed",
-  "hp_state": "Acceptable royal integrity",
-  "injuries": [
-    "One singed whisker",
-    "Minor indignation",
-    "Crown displacement trauma",
-    "Unacceptable dust exposure"
-  ],
-  "note": "Mood improves with praise, vengeance, and premium treats."
+  "mode": "achievement",
+  "headline": "Achievement Unlocked",
+  "achievement_name": "Still Not Dead",
+  "rarity": "Uncommon",
+  "effect": "+5 morale, +1 audience sympathy, +0 actual safety",
+  "flavor": "Awarded for surviving a situation clearly designed by a lunatic."
 }
