@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-22T08:40:14.932265+00:00",
-  "floor_label": "F8",
+  "generated_at_utc": "2026-05-22T11:33:17.422272+00:00",
+  "floor_label": "F7",
   "trend_label": "SPIKING",
   "threat_label": "HIGH",
-  "sponsor_label": "WATCHING",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Some healing fountains are judgmental.",
-  "tip": "Compliment the architecture first."
+  "sponsor_label": "INVESTED",
+  "mode": "quote",
+  "headline": "Field Report",
+  "speaker": "Carl",
+  "quote": "The dungeon doesn't just want you dead. It wants you tired, humiliated, and useful first.",
+  "flavor": "Recorded during a brief pause between violence and administration."
 }
