@@ -2,13 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-23T05:09:23.856934+00:00",
-  "floor_label": "F7",
-  "trend_label": "VOLATILE",
-  "threat_label": "SEVERE",
+  "generated_at_utc": "2026-05-23T07:44:23.991958+00:00",
+  "floor_label": "F5",
+  "trend_label": "FALLING",
+  "threat_label": "LETHAL",
   "sponsor_label": "PLEASED",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "If a hallway is quiet...",
-  "reason": "...the hallway is lying."
+  "mode": "betting_line",
+  "headline": "Audience Betting Line",
+  "contestant": "Gerald the Regretful Cheesemonger",
+  "odds": "18:1 survival",
+  "trend": "Miraculously steady",
+  "note": "Cowardice proving unexpectedly effective."
 }
