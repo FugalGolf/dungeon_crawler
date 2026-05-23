@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-23T20:34:01.333630+00:00",
-  "floor_label": "F7",
+  "generated_at_utc": "2026-05-23T21:30:52.087580+00:00",
+  "floor_label": "F5",
   "trend_label": "VOLATILE",
-  "threat_label": "MED",
-  "sponsor_label": "INVESTED",
-  "mode": "bounty_board",
-  "headline": "Open Bounty",
-  "target": "Brother Coupon",
-  "region": "Discount chapel",
-  "reward": "1700 gold, 2200 XP, retail absolution token",
-  "warning": "Converts greed into chain lightning."
+  "threat_label": "LETHAL",
+  "sponsor_label": "WATCHING",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "The dungeon can smell hope.",
+  "tip": "Do not celebrate early."
 }
