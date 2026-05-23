@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-23T01:30:46.456538+00:00",
-  "floor_label": "F5",
+  "generated_at_utc": "2026-05-23T05:09:23.856934+00:00",
+  "floor_label": "F7",
   "trend_label": "VOLATILE",
-  "threat_label": "MED",
-  "sponsor_label": "BORED",
-  "mode": "famous_line",
-  "headline": "Royal Decree",
-  "speaker": "Princess Donut",
-  "quote": "I refuse to die in a place that smells like fried goblin.",
-  "flavor": "An elegant standard for survival."
+  "threat_label": "SEVERE",
+  "sponsor_label": "PLEASED",
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "If a hallway is quiet...",
+  "reason": "...the hallway is lying."
 }
