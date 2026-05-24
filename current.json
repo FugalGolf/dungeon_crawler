@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-24T08:08:29.713417+00:00",
-  "floor_label": "F9",
-  "trend_label": "FALLING",
+  "generated_at_utc": "2026-05-24T10:12:45.110378+00:00",
+  "floor_label": "F7",
+  "trend_label": "SPIKING",
   "threat_label": "MED",
-  "sponsor_label": "PLEASED",
-  "mode": "showrunner_notice",
-  "headline": "AI Showrunner Notice",
-  "showrunner": "Narrative Cruelty Array",
-  "message": "Your bond tests well. Therefore, tragedy options have been unlocked.",
-  "directive": "Continue caring about each other for premium suffering."
+  "sponsor_label": "WATCHING",
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should Donut get the crown?",
+  "results": "Yes: 92%",
+  "note": "Royal approval trending."
 }
