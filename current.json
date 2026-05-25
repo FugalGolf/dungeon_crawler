@@ -2,35 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-25T19:05:41.868439+00:00",
-  "floor_label": "F5",
+  "generated_at_utc": "2026-05-25T20:39:55.204660+00:00",
+  "floor_label": "F8",
   "trend_label": "RISING",
   "threat_label": "HIGH",
   "sponsor_label": "BORED",
-  "mode": "store_price",
-  "headline": "Store Prices",
-  "shop_name": "Goblin Bazaar Express",
-  "items": [
-    {
-      "name": "Health Potion",
-      "price": 85
-    },
-    {
-      "name": "Exploding Chicken Skewer",
-      "price": 42
-    },
-    {
-      "name": "Trap Disarm Kit",
-      "price": 130
-    },
-    {
-      "name": "Royal Cat Brush",
-      "price": 999
-    },
-    {
-      "name": "Questionable Meat Wrap",
-      "price": 17
-    }
-  ],
-  "note": "All sales final. Screaming at staff incurs a handling fee."
+  "mode": "showrunner_notice",
+  "headline": "AI Showrunner Notice",
+  "showrunner": "Bored Entertainment Cluster 9",
+  "message": "Your recent behavior tests well with the 18-34 bloodthirst demographic.",
+  "directive": "Maintain momentum. Betray someone photogenically if possible."
 }
