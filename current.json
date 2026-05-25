@@ -2,14 +2,35 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-25T17:24:42.288488+00:00",
+  "generated_at_utc": "2026-05-25T19:05:41.868439+00:00",
   "floor_label": "F5",
   "trend_label": "RISING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "PLEASED",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should Carl throw the goblin through the kiosk window?",
-  "results": "Yes: 94%  No: 6%",
-  "note": "Elegance not a factor."
+  "threat_label": "HIGH",
+  "sponsor_label": "BORED",
+  "mode": "store_price",
+  "headline": "Store Prices",
+  "shop_name": "Goblin Bazaar Express",
+  "items": [
+    {
+      "name": "Health Potion",
+      "price": 85
+    },
+    {
+      "name": "Exploding Chicken Skewer",
+      "price": 42
+    },
+    {
+      "name": "Trap Disarm Kit",
+      "price": 130
+    },
+    {
+      "name": "Royal Cat Brush",
+      "price": 999
+    },
+    {
+      "name": "Questionable Meat Wrap",
+      "price": 17
+    }
+  ],
+  "note": "All sales final. Screaming at staff incurs a handling fee."
 }
