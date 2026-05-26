@@ -2,20 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-26T17:38:47.295931+00:00",
+  "generated_at_utc": "2026-05-26T19:46:53.464826+00:00",
   "floor_label": "F5",
-  "trend_label": "FALLING",
+  "trend_label": "RISING",
   "threat_label": "SEVERE",
   "sponsor_label": "WATCHING",
-  "mode": "damage_report",
-  "headline": "Carl Damage Report",
-  "condition": "Operational rage",
-  "hp_state": "Technically alive",
-  "injuries": [
-    "Knife graze",
-    "Acid splash on boot",
-    "Shoulder strain",
-    "General disgust"
-  ],
-  "note": "Condition improves when enemies explode nearby."
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should the dungeon be nicer?",
+  "results": "No: 100%",
+  "note": "Cruelty performs well."
 }
