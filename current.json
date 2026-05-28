@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-28T11:59:12.324752+00:00",
-  "floor_label": "F9",
-  "trend_label": "FALLING",
-  "threat_label": "HIGH",
-  "sponsor_label": "INVESTED",
-  "mode": "quote",
-  "headline": "Survivor's Note",
-  "speaker": "Carl",
-  "quote": "The worst part is how fast this starts to feel normal.",
-  "flavor": "Filed after another floor proved humans can adapt to almost anything, including horror."
+  "generated_at_utc": "2026-05-28T16:19:58.872069+00:00",
+  "floor_label": "F7",
+  "trend_label": "RISING",
+  "threat_label": "SEVERE",
+  "sponsor_label": "PLEASED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "The system archives your suffering as entertainment metadata.",
+  "tip": "Even private breakdowns may be monetized."
 }
