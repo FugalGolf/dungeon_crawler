@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-29T20:35:41.654545+00:00",
-  "floor_label": "F5",
+  "generated_at_utc": "2026-05-29T22:14:50.109401+00:00",
+  "floor_label": "F8",
   "trend_label": "VOLATILE",
-  "threat_label": "LETHAL",
+  "threat_label": "HIGH",
   "sponsor_label": "BORED",
-  "mode": "death_odds",
-  "headline": "Today's Death Odds",
-  "survival": "21%",
-  "trend": "Unstable",
-  "reason": "Three active bosses and a lava escalator.",
-  "advice": "Avoid vertical movement."
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should Carl open the glowing door?",
+  "results": "Yes: 78%  No: 22%",
+  "note": "Audience enjoys bad ideas."
 }
