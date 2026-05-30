@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-05-29T23:43:02.887009+00:00",
-  "floor_label": "F6",
-  "trend_label": "SPIKING",
+  "generated_at_utc": "2026-05-30T01:32:07.166153+00:00",
+  "floor_label": "F9",
+  "trend_label": "RISING",
   "threat_label": "MED",
-  "sponsor_label": "BORED",
-  "mode": "damage_report",
-  "headline": "Carl Damage Report",
-  "condition": "Walking wounded",
-  "hp_state": "Bad but functional",
-  "injuries": [
-    "Bruised ribs",
-    "Singed eyebrows",
-    "Shrapnel scratches",
-    "Existential fatigue"
-  ],
-  "note": "Recommended treatment: sleep, revenge, and antiseptic."
+  "sponsor_label": "INVESTED",
+  "mode": "broadcast_alert",
+  "headline": "Dungeon Broadcast Alert",
+  "alert_type": "Floor Event",
+  "message": "The escalators are now carnivorous. Avoid upward travel unless armed.",
+  "severity": "Severe",
+  "advisory": "Management recommends screaming with confidence."
 }
