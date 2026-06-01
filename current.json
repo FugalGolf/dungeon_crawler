@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-01T18:17:57.180850+00:00",
-  "floor_label": "F7",
-  "trend_label": "VOLATILE",
-  "threat_label": "LETHAL",
-  "sponsor_label": "WATCHING",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Carry two bombs.",
-  "reason": "One will not be enough."
+  "generated_at_utc": "2026-06-01T21:44:20.841719+00:00",
+  "floor_label": "F5",
+  "trend_label": "FALLING",
+  "threat_label": "SEVERE",
+  "sponsor_label": "INVESTED",
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should the screaming merchant be used as bait?",
+  "results": "Yes: 83%  No: 17%",
+  "note": "Audience values efficiency over ethics."
 }
