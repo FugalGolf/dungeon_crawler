@@ -2,14 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-02T11:06:11.295884+00:00",
-  "floor_label": "F8",
-  "trend_label": "SPIKING",
+  "generated_at_utc": "2026-06-02T15:04:15.029708+00:00",
+  "floor_label": "F9",
+  "trend_label": "VOLATILE",
   "threat_label": "LETHAL",
-  "sponsor_label": "BORED",
-  "mode": "system_message",
-  "headline": "Dungeon System Message",
-  "message": "You have entered a monetized violence zone.",
-  "effect": "Kill cams enabled. Loot quality mildly increased.",
-  "warning": "Brand integration may occur without consent."
+  "sponsor_label": "INVESTED",
+  "mode": "inventory_flash",
+  "headline": "Inventory Flash",
+  "owner": "Carl",
+  "items": [
+    "Half-used med spray",
+    "Two bombs",
+    "Three more bombs he forgot about",
+    "Knife with sentimental rage",
+    "One suspicious coupon"
+  ],
+  "note": "Pack weight increasing. Judgment constant."
 }
