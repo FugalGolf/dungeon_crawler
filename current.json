@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-02T06:24:18.979420+00:00",
+  "generated_at_utc": "2026-06-02T11:06:11.295884+00:00",
   "floor_label": "F8",
   "trend_label": "SPIKING",
-  "threat_label": "MED",
+  "threat_label": "LETHAL",
   "sponsor_label": "BORED",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Functional Trauma",
-  "rarity": "Rare",
-  "effect": "+4 pain tolerance, +2 emotional numbness, -1 ability to feel safe",
-  "flavor": "Awarded for continuing to operate after the mind should have reasonably refused."
+  "mode": "system_message",
+  "headline": "Dungeon System Message",
+  "message": "You have entered a monetized violence zone.",
+  "effect": "Kill cams enabled. Loot quality mildly increased.",
+  "warning": "Brand integration may occur without consent."
 }
