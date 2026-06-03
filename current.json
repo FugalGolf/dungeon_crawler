@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-03T20:30:51.170228+00:00",
-  "floor_label": "F5",
+  "generated_at_utc": "2026-06-03T22:38:36.653169+00:00",
+  "floor_label": "F9",
   "trend_label": "RISING",
-  "threat_label": "HIGH",
-  "sponsor_label": "PLEASED",
-  "mode": "famous_line",
-  "headline": "Royal Decree",
-  "speaker": "Princess Donut",
-  "quote": "I refuse to die in a place that smells like fried goblin.",
-  "flavor": "An elegant standard for survival."
+  "threat_label": "LETHAL",
+  "sponsor_label": "INVESTED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "The dungeon can smell hope.",
+  "tip": "Do not celebrate early."
 }
