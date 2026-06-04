@@ -2,13 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-03T22:38:36.653169+00:00",
-  "floor_label": "F9",
-  "trend_label": "RISING",
-  "threat_label": "LETHAL",
-  "sponsor_label": "INVESTED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "The dungeon can smell hope.",
-  "tip": "Do not celebrate early."
+  "generated_at_utc": "2026-06-04T00:21:41.929887+00:00",
+  "floor_label": "F5",
+  "trend_label": "VOLATILE",
+  "threat_label": "SEVERE",
+  "sponsor_label": "WATCHING",
+  "mode": "floor_scan",
+  "headline": "Floor Scan",
+  "zone": "Atrium of Regrettable Commerce",
+  "traffic": "Heavy screaming",
+  "hazards": [
+    "Mimic kiosk cluster",
+    "Crossfire balcony",
+    "Three promotional necromancers",
+    "Wet tile curse"
+  ],
+  "recommendation": "Proceed violently or not at all."
 }
