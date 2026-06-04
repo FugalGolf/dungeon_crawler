@@ -2,14 +2,35 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-04T09:03:34.111701+00:00",
-  "floor_label": "F7",
+  "generated_at_utc": "2026-06-04T12:10:42.488002+00:00",
+  "floor_label": "F5",
   "trend_label": "VOLATILE",
-  "threat_label": "HIGH",
-  "sponsor_label": "WATCHING",
-  "mode": "showrunner_notice",
-  "headline": "AI Showrunner Notice",
-  "showrunner": "Content Optimization Nexus",
-  "message": "Viewer retention dips when you shop too carefully.",
-  "directive": "Please combine purchasing with panic."
+  "threat_label": "MED",
+  "sponsor_label": "BORED",
+  "mode": "store_price",
+  "headline": "Luxury Vendor Sheet",
+  "shop_name": "Royal Nonsense Boutique",
+  "items": [
+    {
+      "name": "Sequined Battle Cape",
+      "price": 420
+    },
+    {
+      "name": "Tiara Repair Kit",
+      "price": 190
+    },
+    {
+      "name": "Enchanted Nail Guards",
+      "price": 260
+    },
+    {
+      "name": "Scented Status Candle",
+      "price": 75
+    },
+    {
+      "name": "Gold Trimmed Litter Throne",
+      "price": 2100
+    }
+  ],
+  "note": "Prices increase if you look poor."
 }
