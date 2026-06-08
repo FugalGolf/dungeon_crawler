@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-08T18:37:06.590393+00:00",
-  "floor_label": "F8",
-  "trend_label": "SPIKING",
-  "threat_label": "MED",
-  "sponsor_label": "WATCHING",
-  "mode": "sponsor_message",
-  "headline": "Sponsor Message",
-  "sponsor": "MimicSafe™",
-  "message": "Every chest deserves a second opinion.",
-  "offer": "Poke first. Digest later."
+  "generated_at_utc": "2026-06-08T21:03:00.589866+00:00",
+  "floor_label": "F5",
+  "trend_label": "FALLING",
+  "threat_label": "SEVERE",
+  "sponsor_label": "PLEASED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Audience laughter boosts loot quality.",
+  "tip": "Embarrassment is profitable."
 }
