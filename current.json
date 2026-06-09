@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-09T18:34:18.558060+00:00",
-  "floor_label": "F9",
-  "trend_label": "RISING",
+  "generated_at_utc": "2026-06-09T20:32:53.415557+00:00",
+  "floor_label": "F8",
+  "trend_label": "FALLING",
   "threat_label": "MED",
-  "sponsor_label": "PLEASED",
-  "mode": "boss_reward",
-  "headline": "Boss Rewards",
-  "boss_name": "Velvet Doom Concierge",
-  "boss_status": "Politely dismantled",
-  "rewards": [
-    "Keycard of Dubious Access",
-    "Silk-lined stab vest",
-    "590 gold",
-    "Buff: Lobby Presence +2"
-  ],
-  "bonus": "Valet spirits now avoid eye contact."
+  "sponsor_label": "BORED",
+  "mode": "death_odds",
+  "headline": "Today's Death Odds",
+  "survival": "9%",
+  "trend": "Sinking",
+  "reason": "You have become recognizable, which increases both sponsor interest and assassination attempts.",
+  "advice": "Fame is armor made of wet paper."
 }
