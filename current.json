@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-10T17:29:05.447668+00:00",
-  "floor_label": "F9",
+  "generated_at_utc": "2026-06-10T19:54:36.246159+00:00",
+  "floor_label": "F5",
   "trend_label": "SPIKING",
-  "threat_label": "MED",
-  "sponsor_label": "BORED",
-  "mode": "death_odds",
-  "headline": "Today's Death Odds",
-  "survival": "5%",
-  "trend": "Very bad",
-  "reason": "Clown biome activation detected.",
-  "advice": "Never trust balloons."
+  "threat_label": "LETHAL",
+  "sponsor_label": "WATCHING",
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Never trust anything with a cheerful mascot.",
+  "reason": "Mascots are where they hide the teeth."
 }
