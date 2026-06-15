@@ -2,15 +2,43 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-14T23:19:53.141581+00:00",
-  "floor_label": "F5",
-  "trend_label": "SPIKING",
+  "generated_at_utc": "2026-06-15T01:42:10.636484+00:00",
+  "floor_label": "F7",
+  "trend_label": "VOLATILE",
   "threat_label": "LETHAL",
   "sponsor_label": "BORED",
-  "mode": "trap_warning",
-  "headline": "Trap Warning",
-  "trap": "Gravity flip tile",
-  "location": "Hallway B",
-  "danger": "Moderate",
-  "note": "Look for suspicious arrows."
+  "mode": "receipt",
+  "headline": "Emergency Expense Log",
+  "customer": "Carl, under protest",
+  "status": "Charged automatically by the floor",
+  "line_items": [
+    {
+      "name": "Trauma bandages",
+      "qty": 3,
+      "value": 135
+    },
+    {
+      "name": "Fire suppressant foam",
+      "qty": 2,
+      "value": 88
+    },
+    {
+      "name": "Fine for public screaming",
+      "qty": 1,
+      "value": 55
+    },
+    {
+      "name": "Cat treat surcharge",
+      "qty": 1,
+      "value": 140
+    },
+    {
+      "name": "Blood cleanup deposit",
+      "qty": 1,
+      "value": 400
+    }
+  ],
+  "gold_total": 818,
+  "xp_gained": 400,
+  "warning": "Complaints processed alphabetically and then ignored."
 }
