@@ -2,15 +2,35 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-20T09:31:00.541869+00:00",
-  "floor_label": "F8",
-  "trend_label": "SPIKING",
-  "threat_label": "HIGH",
+  "generated_at_utc": "2026-06-20T11:30:11.610993+00:00",
+  "floor_label": "F9",
+  "trend_label": "RISING",
+  "threat_label": "SEVERE",
   "sponsor_label": "BORED",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Broadcast Problem",
-  "rarity": "Epic",
-  "effect": "+8 notoriety, +3 sponsor leverage, +12 unwanted attention",
-  "flavor": "The producers know your name now. This is not good."
+  "mode": "store_price",
+  "headline": "Luxury Vendor Sheet",
+  "shop_name": "Royal Nonsense Boutique",
+  "items": [
+    {
+      "name": "Sequined Battle Cape",
+      "price": 420
+    },
+    {
+      "name": "Tiara Repair Kit",
+      "price": 190
+    },
+    {
+      "name": "Enchanted Nail Guards",
+      "price": 260
+    },
+    {
+      "name": "Scented Status Candle",
+      "price": 75
+    },
+    {
+      "name": "Gold Trimmed Litter Throne",
+      "price": 2100
+    }
+  ],
+  "note": "Prices increase if you look poor."
 }
