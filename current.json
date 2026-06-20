@@ -2,13 +2,16 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-20T01:31:58.511101+00:00",
+  "generated_at_utc": "2026-06-20T05:58:05.034534+00:00",
   "floor_label": "F5",
-  "trend_label": "RISING",
-  "threat_label": "MED",
+  "trend_label": "SPIKING",
+  "threat_label": "SEVERE",
   "sponsor_label": "INVESTED",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Check ceilings before celebrating.",
-  "reason": "The floor likes vertical irony."
+  "mode": "quest",
+  "headline": "Active Quest",
+  "quest_name": "Escort the Screaming Merchant",
+  "difficulty": "Catastrophic",
+  "objective": "Move one unstable merchant across the food court without waking the clown nest.",
+  "reward": "3200 XP, 410 gold, 1 mystery box",
+  "warning": "Merchant may scream, bargain, and attract knives."
 }
