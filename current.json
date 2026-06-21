@@ -2,13 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-21T22:03:05.723493+00:00",
-  "floor_label": "F7",
-  "trend_label": "VOLATILE",
+  "generated_at_utc": "2026-06-21T23:25:40.684913+00:00",
+  "floor_label": "F8",
+  "trend_label": "SPIKING",
   "threat_label": "HIGH",
-  "sponsor_label": "PLEASED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Most traps are installed by interns.",
-  "tip": "But they are enthusiastic."
+  "sponsor_label": "WATCHING",
+  "mode": "damage_report",
+  "headline": "Carl Damage Report",
+  "condition": "Operational rage",
+  "hp_state": "Technically alive",
+  "injuries": [
+    "Knife graze",
+    "Acid splash on boot",
+    "Shoulder strain",
+    "General disgust"
+  ],
+  "note": "Condition improves when enemies explode nearby."
 }
