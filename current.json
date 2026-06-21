@@ -2,13 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-21T05:09:46.683640+00:00",
-  "floor_label": "F5",
-  "trend_label": "VOLATILE",
-  "threat_label": "LETHAL",
+  "generated_at_utc": "2026-06-21T09:03:17.191282+00:00",
+  "floor_label": "F9",
+  "trend_label": "SPIKING",
+  "threat_label": "SEVERE",
   "sponsor_label": "WATCHING",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Never trust anything with a cheerful mascot.",
-  "reason": "Mascots are where they hide the teeth."
+  "mode": "damage_report",
+  "headline": "Carl Damage Report",
+  "condition": "Walking wounded",
+  "hp_state": "Bad but functional",
+  "injuries": [
+    "Bruised ribs",
+    "Singed eyebrows",
+    "Shrapnel scratches",
+    "Existential fatigue"
+  ],
+  "note": "Recommended treatment: sleep, revenge, and antiseptic."
 }
