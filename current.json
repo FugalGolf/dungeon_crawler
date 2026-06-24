@@ -2,13 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-24T19:59:42.503224+00:00",
+  "generated_at_utc": "2026-06-24T21:38:44.831669+00:00",
   "floor_label": "F5",
-  "trend_label": "VOLATILE",
-  "threat_label": "MED",
-  "sponsor_label": "BORED",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Never trust anything with a cheerful mascot.",
-  "reason": "Mascots are where they hide the teeth."
+  "trend_label": "RISING",
+  "threat_label": "SEVERE",
+  "sponsor_label": "WATCHING",
+  "mode": "achievement",
+  "headline": "Achievement Unlocked",
+  "achievement_name": "Still Not Dead",
+  "rarity": "Uncommon",
+  "effect": "+5 morale, +1 audience sympathy, +0 actual safety",
+  "flavor": "Awarded for surviving a situation clearly designed by a lunatic."
 }
