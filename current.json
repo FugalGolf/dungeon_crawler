@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-25T17:55:58.248809+00:00",
-  "floor_label": "F6",
-  "trend_label": "VOLATILE",
-  "threat_label": "HIGH",
-  "sponsor_label": "PLEASED",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should Mongo be given armor?",
-  "results": "Yes: 88%  No: 12%",
-  "note": "Audience has no concern for public safety."
+  "generated_at_utc": "2026-06-25T20:17:20.659324+00:00",
+  "floor_label": "F9",
+  "trend_label": "FALLING",
+  "threat_label": "SEVERE",
+  "sponsor_label": "INVESTED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Audience laughter boosts loot quality.",
+  "tip": "Embarrassment is profitable."
 }
