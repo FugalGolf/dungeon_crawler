@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-26T05:56:36.754738+00:00",
-  "floor_label": "F8",
+  "generated_at_utc": "2026-06-26T09:45:16.105303+00:00",
+  "floor_label": "F7",
   "trend_label": "VOLATILE",
-  "threat_label": "LETHAL",
-  "sponsor_label": "PLEASED",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Carry two bombs.",
-  "reason": "One will not be enough."
+  "threat_label": "HIGH",
+  "sponsor_label": "BORED",
+  "mode": "showrunner_notice",
+  "headline": "AI Showrunner Notice",
+  "showrunner": "Spectacle Monetization Core",
+  "message": "Your insults benchmark above average in four sectors.",
+  "directive": "Please pair sarcasm with visible blood for cross-market appeal."
 }
