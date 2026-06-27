@@ -2,43 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-27T12:44:39.001053+00:00",
-  "floor_label": "F8",
+  "generated_at_utc": "2026-06-27T14:17:34.731926+00:00",
+  "floor_label": "F6",
   "trend_label": "SPIKING",
   "threat_label": "MED",
-  "sponsor_label": "PLEASED",
-  "mode": "receipt",
-  "headline": "Reality-Based Pricing Receipt",
-  "customer": "Any surviving human",
-  "status": "Overcharged, underhealed, and not consulted",
-  "line_items": [
-    {
-      "name": "One bathroom visit",
-      "qty": 1,
-      "value": 4800
-    },
-    {
-      "name": "Basic health potion",
-      "qty": 1,
-      "value": 12000
-    },
-    {
-      "name": "Bottle of water",
-      "qty": 1,
-      "value": 2100
-    },
-    {
-      "name": "Convenience fee",
-      "qty": 1,
-      "value": 900
-    },
-    {
-      "name": "Hope tax",
-      "qty": 1,
-      "value": 666
-    }
-  ],
-  "gold_total": 20466,
-  "xp_gained": 0,
-  "warning": "Earth AI pricing model indicates your continued survival constitutes luxury consumption."
+  "sponsor_label": "BORED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "The dungeon can smell hope.",
+  "tip": "Do not celebrate early."
 }
