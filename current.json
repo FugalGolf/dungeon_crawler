@@ -2,15 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-27T18:54:51.562610+00:00",
-  "floor_label": "F6",
+  "generated_at_utc": "2026-06-27T20:15:36.388549+00:00",
+  "floor_label": "F8",
   "trend_label": "VOLATILE",
-  "threat_label": "SEVERE",
-  "sponsor_label": "WATCHING",
-  "mode": "loot_drop",
-  "headline": "Loot Drop",
-  "loot_name": "Box of Dubious Triumph",
-  "rarity": "Rare",
-  "contents": "Bomb parts, jerky, 220 gold, one passive-aggressive note",
-  "flavor": "The box hums like it disapproves of your choices."
+  "threat_label": "LETHAL",
+  "sponsor_label": "BORED",
+  "mode": "damage_report",
+  "headline": "Princess Donut Condition",
+  "condition": "Perfect but annoyed",
+  "hp_state": "Acceptable royal integrity",
+  "injuries": [
+    "One singed whisker",
+    "Minor indignation",
+    "Crown displacement trauma",
+    "Unacceptable dust exposure"
+  ],
+  "note": "Mood improves with praise, vengeance, and premium treats."
 }
