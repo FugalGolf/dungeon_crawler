@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-28T20:00:32.172108+00:00",
-  "floor_label": "F6",
+  "generated_at_utc": "2026-06-28T21:12:18.490830+00:00",
+  "floor_label": "F5",
   "trend_label": "RISING",
-  "threat_label": "SEVERE",
+  "threat_label": "HIGH",
   "sponsor_label": "WATCHING",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Never insult the dungeon AI.",
-  "reason": "It remembers."
+  "mode": "quote",
+  "headline": "Operational Update",
+  "speaker": "Carl",
+  "quote": "Every floor finds a new way to be worse.",
+  "flavor": "Assessment delivered while already sprinting."
 }
