@@ -2,15 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-27T23:43:57.071496+00:00",
-  "floor_label": "F6",
-  "trend_label": "RISING",
-  "threat_label": "LETHAL",
+  "generated_at_utc": "2026-06-28T01:54:38.686731+00:00",
+  "floor_label": "F7",
+  "trend_label": "VOLATILE",
+  "threat_label": "MED",
   "sponsor_label": "PLEASED",
-  "mode": "death_odds",
-  "headline": "Today's Death Odds",
-  "survival": "8%",
-  "trend": "Catastrophic",
-  "reason": "The floor AI is bored.",
-  "advice": "Entertain it or die tired."
+  "mode": "inventory_flash",
+  "headline": "Inventory Flash",
+  "owner": "Princess Donut",
+  "items": [
+    "Jeweled collar",
+    "Emergency treats",
+    "Tiny but expensive brush",
+    "Backup crown",
+    "A list of grievances"
+  ],
+  "note": "Everything essential. Do not argue."
 }
