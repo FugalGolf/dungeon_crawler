@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-29T06:23:51.050596+00:00",
+  "generated_at_utc": "2026-06-29T11:33:02.021923+00:00",
   "floor_label": "F5",
-  "trend_label": "VOLATILE",
-  "threat_label": "HIGH",
+  "trend_label": "SPIKING",
+  "threat_label": "MED",
   "sponsor_label": "PLEASED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Blood stains increase viewer ratings by 3%.",
-  "tip": "Placement matters."
+  "mode": "sponsor_message",
+  "headline": "Sponsor Message",
+  "sponsor": "ArmorFlex",
+  "message": "Because ribs are expensive.",
+  "offer": "Survive one extra stabbing!"
 }
