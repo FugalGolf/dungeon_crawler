@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-06-30T08:47:53.628384+00:00",
-  "floor_label": "F8",
-  "trend_label": "FALLING",
-  "threat_label": "MED",
-  "sponsor_label": "BORED",
-  "mode": "damage_report",
-  "headline": "Carl Damage Report",
-  "condition": "Walking wounded",
-  "hp_state": "Bad but functional",
-  "injuries": [
-    "Bruised ribs",
-    "Singed eyebrows",
-    "Shrapnel scratches",
-    "Existential fatigue"
-  ],
-  "note": "Recommended treatment: sleep, revenge, and antiseptic."
+  "generated_at_utc": "2026-06-30T11:34:16.820232+00:00",
+  "floor_label": "F6",
+  "trend_label": "RISING",
+  "threat_label": "LETHAL",
+  "sponsor_label": "PLEASED",
+  "mode": "achievement",
+  "headline": "Achievement Unlocked",
+  "achievement_name": "Consumer of Consequences",
+  "rarity": "Legendary",
+  "effect": "Discount immunity, intimidation aura, coupon resistance",
+  "flavor": "You bought the trap, then killed the trap, then returned the receipt."
 }
