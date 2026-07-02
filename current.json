@@ -2,13 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-02T16:57:22.606929+00:00",
-  "floor_label": "F6",
+  "generated_at_utc": "2026-07-02T18:41:24.548895+00:00",
+  "floor_label": "F7",
   "trend_label": "VOLATILE",
-  "threat_label": "MED",
-  "sponsor_label": "BORED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Audience laughter boosts loot quality.",
-  "tip": "Embarrassment is profitable."
+  "threat_label": "HIGH",
+  "sponsor_label": "PLEASED",
+  "mode": "combat_recorder",
+  "headline": "Combat Recorder",
+  "encounter": "Kiosk Ambush",
+  "summary": "Hostile vendors underestimated the team's willingness to commit to arson.",
+  "result": "Total suppression",
+  "highlight": "One enemy was defeated by decorative signage."
 }
