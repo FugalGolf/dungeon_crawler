@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-02T07:45:14.678199+00:00",
-  "floor_label": "F7",
-  "trend_label": "FALLING",
-  "threat_label": "MED",
-  "sponsor_label": "PLEASED",
-  "mode": "sponsor_message",
-  "headline": "Sponsor Message",
-  "sponsor": "AudienceBet",
-  "message": "Bet on survival. Bet on carnage.",
-  "offer": "New users get a free corpse credit."
+  "generated_at_utc": "2026-07-02T10:22:37.407013+00:00",
+  "floor_label": "F6",
+  "trend_label": "VOLATILE",
+  "threat_label": "SEVERE",
+  "sponsor_label": "WATCHING",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Blood stains increase viewer ratings by 3%.",
+  "tip": "Placement matters."
 }
