@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-03T19:42:09.626648+00:00",
+  "generated_at_utc": "2026-07-03T20:45:36.547684+00:00",
   "floor_label": "F5",
-  "trend_label": "FALLING",
+  "trend_label": "SPIKING",
   "threat_label": "SEVERE",
-  "sponsor_label": "BORED",
-  "mode": "damage_report",
-  "headline": "Carl Damage Report",
-  "condition": "Walking wounded",
-  "hp_state": "Bad but functional",
-  "injuries": [
-    "Bruised ribs",
-    "Singed eyebrows",
-    "Shrapnel scratches",
-    "Existential fatigue"
-  ],
-  "note": "Recommended treatment: sleep, revenge, and antiseptic."
+  "sponsor_label": "INVESTED",
+  "mode": "merchant_spotlight",
+  "headline": "Merchant Spotlight",
+  "merchant": "Madame Clawvel's Prestige Petwear",
+  "specialty": "Battle couture for apex companions",
+  "deal": "Collar gem installation half off",
+  "warning": "Service denied to commoners with opinions."
 }
