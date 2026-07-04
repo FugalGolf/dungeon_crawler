@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-04T16:34:52.037698+00:00",
-  "floor_label": "F7",
+  "generated_at_utc": "2026-07-04T17:37:43.772222+00:00",
+  "floor_label": "F8",
   "trend_label": "VOLATILE",
-  "threat_label": "LETHAL",
-  "sponsor_label": "INVESTED",
-  "mode": "loot_drop",
-  "headline": "Loot Drop",
-  "loot_name": "Box of Dubious Triumph",
-  "rarity": "Rare",
-  "contents": "Bomb parts, jerky, 220 gold, one passive-aggressive note",
-  "flavor": "The box hums like it disapproves of your choices."
+  "threat_label": "MED",
+  "sponsor_label": "PLEASED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Escalators on Floor 7 are carnivorous.",
+  "tip": "Use stairs or explosives."
 }
