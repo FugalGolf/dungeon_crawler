@@ -2,20 +2,16 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-05T07:44:25.126515+00:00",
-  "floor_label": "F9",
+  "generated_at_utc": "2026-07-05T09:57:16.265777+00:00",
+  "floor_label": "F7",
   "trend_label": "RISING",
-  "threat_label": "MED",
-  "sponsor_label": "INVESTED",
-  "mode": "floor_scan",
-  "headline": "Floor Scan",
-  "zone": "Atrium of Regrettable Commerce",
-  "traffic": "Heavy screaming",
-  "hazards": [
-    "Mimic kiosk cluster",
-    "Crossfire balcony",
-    "Three promotional necromancers",
-    "Wet tile curse"
-  ],
-  "recommendation": "Proceed violently or not at all."
+  "threat_label": "SEVERE",
+  "sponsor_label": "WATCHING",
+  "mode": "quest",
+  "headline": "Emergency Quest",
+  "quest_name": "Disable the Applause Totem",
+  "difficulty": "Severe",
+  "objective": "Silence the enchanted idol before it alerts every murder-clown within three corridors.",
+  "reward": "2400 XP, 300 gold, noise dampening charm",
+  "warning": "Totem gains volume when struck incorrectly."
 }
