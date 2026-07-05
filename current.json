@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-05T21:12:33.927058+00:00",
-  "floor_label": "F8",
-  "trend_label": "RISING",
+  "generated_at_utc": "2026-07-05T22:14:56.961884+00:00",
+  "floor_label": "F7",
+  "trend_label": "SPIKING",
   "threat_label": "SEVERE",
-  "sponsor_label": "BORED",
-  "mode": "sponsor_message",
-  "headline": "Sponsor Message",
-  "sponsor": "ArmorFlex",
-  "message": "Because ribs are expensive.",
-  "offer": "Survive one extra stabbing!"
+  "sponsor_label": "INVESTED",
+  "mode": "showrunner_notice",
+  "headline": "AI Showrunner Notice",
+  "showrunner": "Bored Entertainment Cluster 9",
+  "message": "Your recent behavior tests well with the 18-34 bloodthirst demographic.",
+  "directive": "Maintain momentum. Betray someone photogenically if possible."
 }
