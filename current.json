@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-08T00:14:03.666684+00:00",
-  "floor_label": "F8",
+  "generated_at_utc": "2026-07-08T03:48:08.010185+00:00",
+  "floor_label": "F9",
   "trend_label": "VOLATILE",
-  "threat_label": "MED",
-  "sponsor_label": "BORED",
-  "mode": "death_odds",
-  "headline": "Today's Death Odds",
-  "survival": "14%",
-  "trend": "Broadcast dependent",
-  "reason": "Management likes your arc but loves tragedy.",
-  "advice": "Be entertaining faster than you are killable."
+  "threat_label": "SEVERE",
+  "sponsor_label": "INVESTED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Some doors only open for people having the worst day imaginable.",
+  "tip": "You qualify."
 }
