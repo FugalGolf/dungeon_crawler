@@ -2,15 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-11T21:25:32.065378+00:00",
+  "generated_at_utc": "2026-07-11T22:26:12.699492+00:00",
   "floor_label": "F6",
-  "trend_label": "FALLING",
-  "threat_label": "HIGH",
-  "sponsor_label": "BORED",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Broadcast Problem",
-  "rarity": "Epic",
-  "effect": "+8 notoriety, +3 sponsor leverage, +12 unwanted attention",
-  "flavor": "The producers know your name now. This is not good."
+  "trend_label": "SPIKING",
+  "threat_label": "MED",
+  "sponsor_label": "INVESTED",
+  "mode": "boss_reward",
+  "headline": "Boss Rewards",
+  "boss_name": "Velvet Doom Concierge",
+  "boss_status": "Politely dismantled",
+  "rewards": [
+    "Keycard of Dubious Access",
+    "Silk-lined stab vest",
+    "590 gold",
+    "Buff: Lobby Presence +2"
+  ],
+  "bonus": "Valet spirits now avoid eye contact."
 }
