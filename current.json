@@ -2,35 +2,16 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-10T23:40:47.897639+00:00",
-  "floor_label": "F5",
+  "generated_at_utc": "2026-07-11T01:11:02.915467+00:00",
+  "floor_label": "F9",
   "trend_label": "FALLING",
   "threat_label": "MED",
-  "sponsor_label": "PLEASED",
-  "mode": "store_price",
-  "headline": "Emergency Commodity Update",
-  "shop_name": "Earth AI Essential Services Kiosk",
-  "items": [
-    {
-      "name": "Basic Health Potion",
-      "price": 12000
-    },
-    {
-      "name": "Bathroom Stall Access (3 minutes)",
-      "price": 4800
-    },
-    {
-      "name": "Clean Water Bottle",
-      "price": 2100
-    },
-    {
-      "name": "Bandage Roll",
-      "price": 1600
-    },
-    {
-      "name": "Breathing Mask Refill",
-      "price": 9500
-    }
-  ],
-  "note": "Following Earth AI integration, essential commodities now reflect a 1000x reality-adjusted market correction. Complaints require premium membership."
+  "sponsor_label": "WATCHING",
+  "mode": "quest",
+  "headline": "Active Quest",
+  "quest_name": "Escort the Screaming Merchant",
+  "difficulty": "Catastrophic",
+  "objective": "Move one unstable merchant across the food court without waking the clown nest.",
+  "reward": "3200 XP, 410 gold, 1 mystery box",
+  "warning": "Merchant may scream, bargain, and attract knives."
 }
