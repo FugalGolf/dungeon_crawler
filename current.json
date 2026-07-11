@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-11T18:09:48.073457+00:00",
+  "generated_at_utc": "2026-07-11T19:34:20.317357+00:00",
   "floor_label": "F6",
   "trend_label": "RISING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "INVESTED",
-  "mode": "famous_line",
-  "headline": "Formal Complaint",
-  "speaker": "Princess Donut",
-  "quote": "This is unacceptable. Completely unacceptable.",
-  "flavor": "Issued with full sovereign authority."
+  "threat_label": "HIGH",
+  "sponsor_label": "BORED",
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Keep snacks for Mongo.",
+  "reason": "This reduces property damage."
 }
