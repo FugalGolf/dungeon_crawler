@@ -2,13 +2,16 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-11T19:34:20.317357+00:00",
-  "floor_label": "F6",
+  "generated_at_utc": "2026-07-11T20:25:00.962005+00:00",
+  "floor_label": "F7",
   "trend_label": "RISING",
   "threat_label": "HIGH",
   "sponsor_label": "BORED",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Keep snacks for Mongo.",
-  "reason": "This reduces property damage."
+  "mode": "npc_watch",
+  "headline": "NPC Watch",
+  "npc_name": "Lady Gristlefax",
+  "disposition": "Temporary sponsor liaison",
+  "status": "Bleeding elegantly",
+  "value": "Carries keys and terrible opinions",
+  "note": "May betray party if camera angle improves."
 }
