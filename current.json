@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-11T15:04:38.392141+00:00",
+  "generated_at_utc": "2026-07-11T16:04:10.222390+00:00",
   "floor_label": "F9",
-  "trend_label": "SPIKING",
-  "threat_label": "MED",
-  "sponsor_label": "PLEASED",
-  "mode": "damage_report",
-  "headline": "Carl Damage Report",
-  "condition": "Operational rage",
-  "hp_state": "Technically alive",
-  "injuries": [
-    "Knife graze",
-    "Acid splash on boot",
-    "Shoulder strain",
-    "General disgust"
-  ],
-  "note": "Condition improves when enemies explode nearby."
+  "trend_label": "VOLATILE",
+  "threat_label": "HIGH",
+  "sponsor_label": "INVESTED",
+  "mode": "achievement",
+  "headline": "Achievement Unlocked",
+  "achievement_name": "Functional Trauma",
+  "rarity": "Rare",
+  "effect": "+4 pain tolerance, +2 emotional numbness, -1 ability to feel safe",
+  "flavor": "Awarded for continuing to operate after the mind should have reasonably refused."
 }
