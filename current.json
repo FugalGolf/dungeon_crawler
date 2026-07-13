@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-13T22:39:28.273130+00:00",
-  "floor_label": "F8",
+  "generated_at_utc": "2026-07-13T23:37:23.773881+00:00",
+  "floor_label": "F9",
   "trend_label": "VOLATILE",
-  "threat_label": "HIGH",
-  "sponsor_label": "BORED",
-  "mode": "damage_report",
-  "headline": "Carl Damage Report",
-  "condition": "Walking wounded",
-  "hp_state": "Bad but functional",
-  "injuries": [
-    "Bruised ribs",
-    "Singed eyebrows",
-    "Shrapnel scratches",
-    "Existential fatigue"
-  ],
-  "note": "Recommended treatment: sleep, revenge, and antiseptic."
+  "threat_label": "LETHAL",
+  "sponsor_label": "PLEASED",
+  "mode": "trap_warning",
+  "headline": "Trap Warning",
+  "trap": "Complimentary massage chair mimic",
+  "location": "Rest lounge",
+  "danger": "Predatory relaxation",
+  "note": "Do not sit unless you wish to be tenderized."
 }
