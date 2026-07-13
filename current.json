@@ -2,15 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-13T21:37:38.934278+00:00",
+  "generated_at_utc": "2026-07-13T22:39:28.273130+00:00",
   "floor_label": "F8",
-  "trend_label": "FALLING",
-  "threat_label": "MED",
-  "sponsor_label": "INVESTED",
-  "mode": "bounty_board",
-  "headline": "Open Bounty",
-  "target": "Brother Coupon",
-  "region": "Discount chapel",
-  "reward": "1700 gold, 2200 XP, retail absolution token",
-  "warning": "Converts greed into chain lightning."
+  "trend_label": "VOLATILE",
+  "threat_label": "HIGH",
+  "sponsor_label": "BORED",
+  "mode": "damage_report",
+  "headline": "Carl Damage Report",
+  "condition": "Walking wounded",
+  "hp_state": "Bad but functional",
+  "injuries": [
+    "Bruised ribs",
+    "Singed eyebrows",
+    "Shrapnel scratches",
+    "Existential fatigue"
+  ],
+  "note": "Recommended treatment: sleep, revenge, and antiseptic."
 }
