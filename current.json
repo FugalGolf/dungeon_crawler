@@ -2,13 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-13T20:44:34.276453+00:00",
+  "generated_at_utc": "2026-07-13T21:37:38.934278+00:00",
   "floor_label": "F8",
-  "trend_label": "RISING",
-  "threat_label": "HIGH",
-  "sponsor_label": "WATCHING",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Always kick treasure chests first.",
-  "reason": "Mimics hate being kicked."
+  "trend_label": "FALLING",
+  "threat_label": "MED",
+  "sponsor_label": "INVESTED",
+  "mode": "bounty_board",
+  "headline": "Open Bounty",
+  "target": "Brother Coupon",
+  "region": "Discount chapel",
+  "reward": "1700 gold, 2200 XP, retail absolution token",
+  "warning": "Converts greed into chain lightning."
 }
