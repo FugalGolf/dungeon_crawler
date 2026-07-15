@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-15T12:20:33.113552+00:00",
-  "floor_label": "F5",
-  "trend_label": "RISING",
+  "generated_at_utc": "2026-07-15T14:15:00.035241+00:00",
+  "floor_label": "F9",
+  "trend_label": "FALLING",
   "threat_label": "LETHAL",
   "sponsor_label": "WATCHING",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Still Not Dead",
-  "rarity": "Uncommon",
-  "effect": "+5 morale, +1 audience sympathy, +0 actual safety",
-  "flavor": "Awarded for surviving a situation clearly designed by a lunatic."
+  "mode": "public_service_announcement",
+  "headline": "Public Service Announcement",
+  "message": "Contestants are reminded that access to sanitation is a premium feature.",
+  "reason": "The Earth AI has determined that bodily urgency improves monetization efficiency.",
+  "sponsor": "Dungeon Resource Optimization Board"
 }
