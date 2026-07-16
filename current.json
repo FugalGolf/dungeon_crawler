@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-16T19:35:14.629389+00:00",
+  "generated_at_utc": "2026-07-16T20:29:59.297884+00:00",
   "floor_label": "F6",
-  "trend_label": "SPIKING",
-  "threat_label": "SEVERE",
+  "trend_label": "VOLATILE",
+  "threat_label": "MED",
   "sponsor_label": "PLEASED",
-  "mode": "sponsor_message",
-  "headline": "Sponsor Message",
-  "sponsor": "Goblin Meal Kits",
-  "message": "Dinner in under 6 minutes or we eat you.",
-  "offer": "First bite free."
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Always kick treasure chests first.",
+  "reason": "Mimics hate being kicked."
 }
