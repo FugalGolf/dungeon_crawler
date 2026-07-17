@@ -2,35 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-17T10:26:28.778259+00:00",
+  "generated_at_utc": "2026-07-17T11:53:52.385637+00:00",
   "floor_label": "F9",
-  "trend_label": "RISING",
-  "threat_label": "HIGH",
-  "sponsor_label": "INVESTED",
-  "mode": "store_price",
-  "headline": "Store Prices",
-  "shop_name": "Goblin Bazaar Express",
-  "items": [
-    {
-      "name": "Health Potion",
-      "price": 85
-    },
-    {
-      "name": "Exploding Chicken Skewer",
-      "price": 42
-    },
-    {
-      "name": "Trap Disarm Kit",
-      "price": 130
-    },
-    {
-      "name": "Royal Cat Brush",
-      "price": 999
-    },
-    {
-      "name": "Questionable Meat Wrap",
-      "price": 17
-    }
-  ],
-  "note": "All sales final. Screaming at staff incurs a handling fee."
+  "trend_label": "SPIKING",
+  "threat_label": "SEVERE",
+  "sponsor_label": "PLEASED",
+  "mode": "death_odds",
+  "headline": "Today's Death Odds",
+  "survival": "21%",
+  "trend": "Unstable",
+  "reason": "Three active bosses and a lava escalator.",
+  "advice": "Avoid vertical movement."
 }
