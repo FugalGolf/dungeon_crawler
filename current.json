@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-18T08:12:56.016481+00:00",
+  "generated_at_utc": "2026-07-18T09:47:57.977345+00:00",
   "floor_label": "F9",
   "trend_label": "VOLATILE",
-  "threat_label": "SEVERE",
+  "threat_label": "MED",
   "sponsor_label": "WATCHING",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should Donut get the crown?",
-  "results": "Yes: 92%",
-  "note": "Royal approval trending."
+  "mode": "famous_line",
+  "headline": "Royal Fury",
+  "speaker": "Princess Donut",
+  "quote": "This place takes everything and then asks for a tip.",
+  "flavor": "Delivered while inspecting a bill that included blood removal fees."
 }
