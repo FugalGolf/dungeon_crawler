@@ -2,13 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-18T17:17:05.638855+00:00",
-  "floor_label": "F8",
-  "trend_label": "VOLATILE",
+  "generated_at_utc": "2026-07-18T18:09:35.896318+00:00",
+  "floor_label": "F5",
+  "trend_label": "RISING",
   "threat_label": "HIGH",
-  "sponsor_label": "INVESTED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "The dungeon can smell hope.",
-  "tip": "Do not celebrate early."
+  "sponsor_label": "BORED",
+  "mode": "trap_warning",
+  "headline": "Trap Warning",
+  "trap": "Exploding vending machines",
+  "location": "Food court",
+  "danger": "High",
+  "note": "Selecting diet soda triggers grenades."
 }
