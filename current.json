@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-19T16:12:47.390985+00:00",
+  "generated_at_utc": "2026-07-19T17:25:49.332197+00:00",
   "floor_label": "F6",
   "trend_label": "VOLATILE",
-  "threat_label": "HIGH",
+  "threat_label": "LETHAL",
   "sponsor_label": "BORED",
-  "mode": "showrunner_notice",
-  "headline": "AI Showrunner Notice",
-  "showrunner": "Content Optimization Nexus",
-  "message": "Viewer retention dips when you shop too carefully.",
-  "directive": "Please combine purchasing with panic."
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Keep snacks for Mongo.",
+  "reason": "This reduces property damage."
 }
