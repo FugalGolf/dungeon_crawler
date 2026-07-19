@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-19T09:19:09.458039+00:00",
-  "floor_label": "F6",
-  "trend_label": "FALLING",
-  "threat_label": "LETHAL",
+  "generated_at_utc": "2026-07-19T10:46:09.628224+00:00",
+  "floor_label": "F9",
+  "trend_label": "VOLATILE",
+  "threat_label": "SEVERE",
   "sponsor_label": "WATCHING",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Most traps are installed by interns.",
-  "tip": "But they are enthusiastic."
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should Carl open the glowing door?",
+  "results": "Yes: 78%  No: 22%",
+  "note": "Audience enjoys bad ideas."
 }
