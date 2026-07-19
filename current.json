@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-19T07:07:38.993482+00:00",
-  "floor_label": "F7",
+  "generated_at_utc": "2026-07-19T09:19:09.458039+00:00",
+  "floor_label": "F6",
   "trend_label": "FALLING",
   "threat_label": "LETHAL",
-  "sponsor_label": "BORED",
-  "mode": "broadcast_alert",
-  "headline": "Dungeon Broadcast Alert",
-  "alert_type": "System Warning",
-  "message": "A sponsored slaughter event will begin in 11 minutes. Please die entertainingly.",
-  "severity": "High",
-  "advisory": "Audience ratings are doubled during public dismemberment."
+  "sponsor_label": "WATCHING",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Most traps are installed by interns.",
+  "tip": "But they are enthusiastic."
 }
