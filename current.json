@@ -2,13 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-22T13:04:50.125026+00:00",
-  "floor_label": "F9",
-  "trend_label": "VOLATILE",
-  "threat_label": "HIGH",
+  "generated_at_utc": "2026-07-22T15:10:24.303202+00:00",
+  "floor_label": "F8",
+  "trend_label": "SPIKING",
+  "threat_label": "MED",
   "sponsor_label": "BORED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Most traps are installed by interns.",
-  "tip": "But they are enthusiastic."
+  "mode": "betting_line",
+  "headline": "Audience Betting Line",
+  "contestant": "Carl & Donut Team-Up",
+  "odds": "2:1 upset victory",
+  "trend": "Heating up",
+  "note": "Chemistry, violence, and charisma moving strong money."
 }
