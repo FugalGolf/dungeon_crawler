@@ -2,20 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-23T10:01:17.782766+00:00",
+  "generated_at_utc": "2026-07-23T11:56:35.146793+00:00",
   "floor_label": "F7",
-  "trend_label": "VOLATILE",
-  "threat_label": "SEVERE",
-  "sponsor_label": "INVESTED",
-  "mode": "inventory_flash",
-  "headline": "Inventory Flash",
-  "owner": "Princess Donut",
-  "items": [
-    "Jeweled collar",
-    "Emergency treats",
-    "Tiny but expensive brush",
-    "Backup crown",
-    "A list of grievances"
-  ],
-  "note": "Everything essential. Do not argue."
+  "trend_label": "RISING",
+  "threat_label": "MED",
+  "sponsor_label": "PLEASED",
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should the screaming merchant be used as bait?",
+  "results": "Yes: 83%  No: 17%",
+  "note": "Audience values efficiency over ethics."
 }
