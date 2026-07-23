@@ -2,14 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-23T11:56:35.146793+00:00",
-  "floor_label": "F7",
-  "trend_label": "RISING",
+  "generated_at_utc": "2026-07-23T14:24:31.179643+00:00",
+  "floor_label": "F8",
+  "trend_label": "SPIKING",
   "threat_label": "MED",
   "sponsor_label": "PLEASED",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should the screaming merchant be used as bait?",
-  "results": "Yes: 83%  No: 17%",
-  "note": "Audience values efficiency over ethics."
+  "mode": "boss_reward",
+  "headline": "Boss Rewards",
+  "boss_name": "King Discountus",
+  "boss_status": "Crowned into the pavement",
+  "rewards": [
+    "Crown of Aggressive Savings",
+    "1500 gold",
+    "Bulk ammo coupon",
+    "Title: Pricebreaker"
+  ],
+  "bonus": "One merchant now fears you on sight."
 }
