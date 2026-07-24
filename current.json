@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-24T00:59:21.376683+00:00",
+  "generated_at_utc": "2026-07-24T04:21:51.219775+00:00",
   "floor_label": "F7",
-  "trend_label": "SPIKING",
-  "threat_label": "HIGH",
-  "sponsor_label": "BORED",
-  "mode": "damage_report",
-  "headline": "Carl Damage Report",
-  "condition": "Walking wounded",
-  "hp_state": "Bad but functional",
-  "injuries": [
-    "Bruised ribs",
-    "Singed eyebrows",
-    "Shrapnel scratches",
-    "Existential fatigue"
-  ],
-  "note": "Recommended treatment: sleep, revenge, and antiseptic."
+  "trend_label": "FALLING",
+  "threat_label": "SEVERE",
+  "sponsor_label": "WATCHING",
+  "mode": "trap_warning",
+  "headline": "Trap Warning",
+  "trap": "Tax collector skeleton",
+  "location": "Merchant corridor",
+  "danger": "High",
+  "note": "He audits aggressively."
 }
