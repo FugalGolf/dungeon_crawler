@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-24T22:44:33.415263+00:00",
-  "floor_label": "F7",
-  "trend_label": "FALLING",
-  "threat_label": "HIGH",
-  "sponsor_label": "INVESTED",
-  "mode": "famous_line",
-  "headline": "Royal Outrage",
-  "speaker": "Princess Donut",
-  "quote": "Mongo is appalled!",
-  "flavor": "A timeless judgment suitable for nearly any situation."
+  "generated_at_utc": "2026-07-24T23:45:38.881366+00:00",
+  "floor_label": "F9",
+  "trend_label": "VOLATILE",
+  "threat_label": "LETHAL",
+  "sponsor_label": "WATCHING",
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Loot first, process trauma later.",
+  "reason": "Healing is expensive. Gold is persuasive."
 }
