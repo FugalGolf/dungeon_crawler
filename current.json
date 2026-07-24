@@ -2,35 +2,16 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-24T19:04:31.415089+00:00",
-  "floor_label": "F6",
-  "trend_label": "RISING",
-  "threat_label": "MED",
-  "sponsor_label": "PLEASED",
-  "mode": "store_price",
-  "headline": "Goblin Market Deals",
-  "shop_name": "Bombs & Feelings",
-  "items": [
-    {
-      "name": "Basic Fuse Bundle",
-      "price": 40
-    },
-    {
-      "name": "Sticky Blast Gel",
-      "price": 165
-    },
-    {
-      "name": "Shrapnel Capsule",
-      "price": 95
-    },
-    {
-      "name": "Timer Beetle",
-      "price": 130
-    },
-    {
-      "name": "Apology Card",
-      "price": 5
-    }
-  ],
-  "note": "Bundle discounts available after verified destruction."
+  "generated_at_utc": "2026-07-24T20:36:45.567524+00:00",
+  "floor_label": "F9",
+  "trend_label": "FALLING",
+  "threat_label": "SEVERE",
+  "sponsor_label": "BORED",
+  "mode": "mongo_status",
+  "headline": "Mongo Status",
+  "mood": "Appalled",
+  "energy": "Maximum",
+  "diet": "Acceptable but judged",
+  "threat": "Significant",
+  "note": "Do not stand between Mongo and snack-sized enemies."
 }
