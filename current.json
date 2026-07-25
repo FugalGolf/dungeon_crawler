@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-25T22:29:36.501229+00:00",
-  "floor_label": "F9",
-  "trend_label": "FALLING",
+  "generated_at_utc": "2026-07-25T23:33:23.596318+00:00",
+  "floor_label": "F8",
+  "trend_label": "SPIKING",
   "threat_label": "LETHAL",
-  "sponsor_label": "WATCHING",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should the screaming merchant be used as bait?",
-  "results": "Yes: 83%  No: 17%",
-  "note": "Audience values efficiency over ethics."
+  "sponsor_label": "PLEASED",
+  "mode": "system_message",
+  "headline": "Dungeon System Message",
+  "message": "You have entered a monetized violence zone.",
+  "effect": "Kill cams enabled. Loot quality mildly increased.",
+  "warning": "Brand integration may occur without consent."
 }
