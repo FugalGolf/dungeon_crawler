@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-26T14:01:55.944014+00:00",
-  "floor_label": "F6",
+  "generated_at_utc": "2026-07-26T15:12:54.787605+00:00",
+  "floor_label": "F9",
   "trend_label": "SPIKING",
-  "threat_label": "HIGH",
-  "sponsor_label": "INVESTED",
-  "mode": "boss_reward",
-  "headline": "Boss Rewards",
-  "boss_name": "Gorthok the Consumer Prince",
-  "boss_status": "Defeated messily",
-  "rewards": [
-    "Jeweled Collar of Minor Majesty",
-    "860 gold",
-    "Rare bomb component",
-    "Reputation +12 with questionable factions"
-  ],
-  "bonus": "Audience delight increased by 18%."
+  "threat_label": "SEVERE",
+  "sponsor_label": "BORED",
+  "mode": "loot_drop",
+  "headline": "Loot Drop",
+  "loot_name": "Box of Dubious Triumph",
+  "rarity": "Rare",
+  "contents": "Bomb parts, jerky, 220 gold, one passive-aggressive note",
+  "flavor": "The box hums like it disapproves of your choices."
 }
