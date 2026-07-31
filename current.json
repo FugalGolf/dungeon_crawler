@@ -2,13 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-07-31T14:41:47.818039+00:00",
+  "generated_at_utc": "2026-07-31T16:26:36.008483+00:00",
   "floor_label": "F6",
-  "trend_label": "FALLING",
-  "threat_label": "LETHAL",
+  "trend_label": "VOLATILE",
+  "threat_label": "HIGH",
   "sponsor_label": "BORED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Audience laughter boosts loot quality.",
-  "tip": "Embarrassment is profitable."
+  "mode": "betting_line",
+  "headline": "Audience Betting Line",
+  "contestant": "The Audience",
+  "odds": "Always wins",
+  "trend": "Guaranteed",
+  "note": "Blood sells."
 }
