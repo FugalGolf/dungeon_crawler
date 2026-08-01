@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-01T14:47:12.101728+00:00",
-  "floor_label": "F6",
-  "trend_label": "VOLATILE",
+  "generated_at_utc": "2026-08-01T15:44:20.454999+00:00",
+  "floor_label": "F9",
+  "trend_label": "FALLING",
   "threat_label": "HIGH",
-  "sponsor_label": "PLEASED",
-  "mode": "famous_line",
-  "headline": "Royal Fury",
-  "speaker": "Princess Donut",
-  "quote": "This place takes everything and then asks for a tip.",
-  "flavor": "Delivered while inspecting a bill that included blood removal fees."
+  "sponsor_label": "INVESTED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "The system archives your suffering as entertainment metadata.",
+  "tip": "Even private breakdowns may be monetized."
 }
