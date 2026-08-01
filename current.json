@@ -2,13 +2,43 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-01T19:58:48.926813+00:00",
+  "generated_at_utc": "2026-08-01T21:03:24.964221+00:00",
   "floor_label": "F5",
   "trend_label": "VOLATILE",
   "threat_label": "MED",
-  "sponsor_label": "PLEASED",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Carry two bombs.",
-  "reason": "One will not be enough."
+  "sponsor_label": "INVESTED",
+  "mode": "receipt",
+  "headline": "Emergency Expense Log",
+  "customer": "Carl, under protest",
+  "status": "Charged automatically by the floor",
+  "line_items": [
+    {
+      "name": "Trauma bandages",
+      "qty": 3,
+      "value": 135
+    },
+    {
+      "name": "Fire suppressant foam",
+      "qty": 2,
+      "value": 88
+    },
+    {
+      "name": "Fine for public screaming",
+      "qty": 1,
+      "value": 55
+    },
+    {
+      "name": "Cat treat surcharge",
+      "qty": 1,
+      "value": 140
+    },
+    {
+      "name": "Blood cleanup deposit",
+      "qty": 1,
+      "value": 400
+    }
+  ],
+  "gold_total": 818,
+  "xp_gained": 400,
+  "warning": "Complaints processed alphabetically and then ignored."
 }
