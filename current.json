@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-01T18:43:21.149333+00:00",
-  "floor_label": "F8",
+  "generated_at_utc": "2026-08-01T19:58:48.926813+00:00",
+  "floor_label": "F5",
   "trend_label": "VOLATILE",
-  "threat_label": "SEVERE",
-  "sponsor_label": "BORED",
-  "mode": "system_message",
-  "headline": "Dungeon System Message",
-  "message": "You have entered a monetized violence zone.",
-  "effect": "Kill cams enabled. Loot quality mildly increased.",
-  "warning": "Brand integration may occur without consent."
+  "threat_label": "MED",
+  "sponsor_label": "PLEASED",
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Carry two bombs.",
+  "reason": "One will not be enough."
 }
