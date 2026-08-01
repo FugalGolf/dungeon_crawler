@@ -2,20 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-01T17:44:33.393101+00:00",
-  "floor_label": "F7",
-  "trend_label": "SPIKING",
-  "threat_label": "LETHAL",
-  "sponsor_label": "INVESTED",
-  "mode": "damage_report",
-  "headline": "Carl Damage Report",
-  "condition": "Walking wounded",
-  "hp_state": "Bad but functional",
-  "injuries": [
-    "Bruised ribs",
-    "Singed eyebrows",
-    "Shrapnel scratches",
-    "Existential fatigue"
-  ],
-  "note": "Recommended treatment: sleep, revenge, and antiseptic."
+  "generated_at_utc": "2026-08-01T18:43:21.149333+00:00",
+  "floor_label": "F8",
+  "trend_label": "VOLATILE",
+  "threat_label": "SEVERE",
+  "sponsor_label": "BORED",
+  "mode": "system_message",
+  "headline": "Dungeon System Message",
+  "message": "You have entered a monetized violence zone.",
+  "effect": "Kill cams enabled. Loot quality mildly increased.",
+  "warning": "Brand integration may occur without consent."
 }
