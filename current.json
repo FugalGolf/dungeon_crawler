@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-02T17:35:56.242075+00:00",
-  "floor_label": "F7",
-  "trend_label": "FALLING",
+  "generated_at_utc": "2026-08-02T18:35:46.071721+00:00",
+  "floor_label": "F5",
+  "trend_label": "SPIKING",
   "threat_label": "MED",
-  "sponsor_label": "BORED",
-  "mode": "famous_line",
-  "headline": "Royal Outrage",
-  "speaker": "Princess Donut",
-  "quote": "Mongo is appalled!",
-  "flavor": "A timeless judgment suitable for nearly any situation."
+  "sponsor_label": "WATCHING",
+  "mode": "showrunner_notice",
+  "headline": "AI Showrunner Notice",
+  "showrunner": "Spectacle Monetization Core",
+  "message": "Your insults benchmark above average in four sectors.",
+  "directive": "Please pair sarcasm with visible blood for cross-market appeal."
 }
