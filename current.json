@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-04T07:17:23.205794+00:00",
+  "generated_at_utc": "2026-08-04T10:00:33.538484+00:00",
   "floor_label": "F9",
-  "trend_label": "VOLATILE",
-  "threat_label": "MED",
-  "sponsor_label": "BORED",
-  "mode": "quote",
-  "headline": "Field Note",
-  "speaker": "Carl",
-  "quote": "At this point, a normal door feels suspicious.",
-  "flavor": "Recorded while staring at a hallway that was definitely planning something."
+  "trend_label": "RISING",
+  "threat_label": "HIGH",
+  "sponsor_label": "INVESTED",
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Never trust anything with a cheerful mascot.",
+  "reason": "Mascots are where they hide the teeth."
 }
