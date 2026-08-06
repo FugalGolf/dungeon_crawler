@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-06T04:32:09.976536+00:00",
+  "generated_at_utc": "2026-08-06T07:19:39.790514+00:00",
   "floor_label": "F7",
-  "trend_label": "SPIKING",
+  "trend_label": "FALLING",
   "threat_label": "SEVERE",
-  "sponsor_label": "WATCHING",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Broadcast Problem",
-  "rarity": "Epic",
-  "effect": "+8 notoriety, +3 sponsor leverage, +12 unwanted attention",
-  "flavor": "The producers know your name now. This is not good."
+  "sponsor_label": "INVESTED",
+  "mode": "showrunner_notice",
+  "headline": "AI Showrunner Notice",
+  "showrunner": "Compassion Reduction Engine",
+  "message": "Viewer response improves when hope is introduced shortly before being destroyed.",
+  "directive": "Continue forming attachments. They test well across key demographics."
 }
