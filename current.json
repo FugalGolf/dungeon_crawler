@@ -2,14 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-07T21:23:33.646183+00:00",
-  "floor_label": "F9",
-  "trend_label": "FALLING",
+  "generated_at_utc": "2026-08-07T22:07:31.633542+00:00",
+  "floor_label": "F8",
+  "trend_label": "VOLATILE",
   "threat_label": "SEVERE",
-  "sponsor_label": "BORED",
-  "mode": "showrunner_notice",
-  "headline": "AI Showrunner Notice",
-  "showrunner": "Content Optimization Nexus",
-  "message": "Viewer retention dips when you shop too carefully.",
-  "directive": "Please combine purchasing with panic."
+  "sponsor_label": "PLEASED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Some healing fountains are judgmental.",
+  "tip": "Compliment the architecture first."
 }
