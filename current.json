@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-07T22:07:31.633542+00:00",
-  "floor_label": "F8",
-  "trend_label": "VOLATILE",
+  "generated_at_utc": "2026-08-07T22:56:37.671183+00:00",
+  "floor_label": "F5",
+  "trend_label": "RISING",
   "threat_label": "SEVERE",
-  "sponsor_label": "PLEASED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Some healing fountains are judgmental.",
-  "tip": "Compliment the architecture first."
+  "sponsor_label": "INVESTED",
+  "mode": "public_service_announcement",
+  "headline": "Public Service Announcement",
+  "message": "Lost children may be claimed from the center kiosk.",
+  "reason": "Unclaimed children become side quests at midnight.",
+  "sponsor": "Administrative Sadness Unit"
 }
