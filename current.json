@@ -2,20 +2,35 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-08T20:39:03.304126+00:00",
+  "generated_at_utc": "2026-08-08T21:12:44.006401+00:00",
   "floor_label": "F8",
-  "trend_label": "RISING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "BORED",
-  "mode": "boss_reward",
-  "headline": "Boss Rewards",
-  "boss_name": "King Discountus",
-  "boss_status": "Crowned into the pavement",
-  "rewards": [
-    "Crown of Aggressive Savings",
-    "1500 gold",
-    "Bulk ammo coupon",
-    "Title: Pricebreaker"
+  "trend_label": "FALLING",
+  "threat_label": "MED",
+  "sponsor_label": "INVESTED",
+  "mode": "store_price",
+  "headline": "Luxury Vendor Sheet",
+  "shop_name": "Royal Nonsense Boutique",
+  "items": [
+    {
+      "name": "Sequined Battle Cape",
+      "price": 420
+    },
+    {
+      "name": "Tiara Repair Kit",
+      "price": 190
+    },
+    {
+      "name": "Enchanted Nail Guards",
+      "price": 260
+    },
+    {
+      "name": "Scented Status Candle",
+      "price": 75
+    },
+    {
+      "name": "Gold Trimmed Litter Throne",
+      "price": 2100
+    }
   ],
-  "bonus": "One merchant now fears you on sight."
+  "note": "Prices increase if you look poor."
 }
