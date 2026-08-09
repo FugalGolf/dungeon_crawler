@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-09T07:08:15.867066+00:00",
-  "floor_label": "F9",
+  "generated_at_utc": "2026-08-09T08:03:15.830063+00:00",
+  "floor_label": "F8",
   "trend_label": "FALLING",
   "threat_label": "MED",
-  "sponsor_label": "INVESTED",
-  "mode": "quote",
-  "headline": "Survivor's Note",
-  "speaker": "Carl",
-  "quote": "You will not break me.",
-  "flavor": "Filed after explosions, blood loss, and one very bad idea."
+  "sponsor_label": "PLEASED",
+  "mode": "sponsor_message",
+  "headline": "Sponsor Message",
+  "sponsor": "Explodium™",
+  "message": "When subtlety fails, use more explosions.",
+  "offer": "Use code BOOM for +5% blast radius."
 }
