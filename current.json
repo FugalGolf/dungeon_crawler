@@ -2,35 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-09T04:02:43.890655+00:00",
+  "generated_at_utc": "2026-08-09T05:12:48.157523+00:00",
   "floor_label": "F9",
-  "trend_label": "VOLATILE",
-  "threat_label": "LETHAL",
+  "trend_label": "FALLING",
+  "threat_label": "SEVERE",
   "sponsor_label": "WATCHING",
-  "mode": "store_price",
-  "headline": "Store Prices",
-  "shop_name": "Goblin Bazaar Express",
-  "items": [
-    {
-      "name": "Health Potion",
-      "price": 85
-    },
-    {
-      "name": "Exploding Chicken Skewer",
-      "price": 42
-    },
-    {
-      "name": "Trap Disarm Kit",
-      "price": 130
-    },
-    {
-      "name": "Royal Cat Brush",
-      "price": 999
-    },
-    {
-      "name": "Questionable Meat Wrap",
-      "price": 17
-    }
-  ],
-  "note": "All sales final. Screaming at staff incurs a handling fee."
+  "mode": "combat_recorder",
+  "headline": "Combat Recorder",
+  "encounter": "Kiosk Ambush",
+  "summary": "Hostile vendors underestimated the team's willingness to commit to arson.",
+  "result": "Total suppression",
+  "highlight": "One enemy was defeated by decorative signage."
 }
