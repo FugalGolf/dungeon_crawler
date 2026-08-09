@@ -2,15 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-09T21:40:27.332489+00:00",
-  "floor_label": "F6",
+  "generated_at_utc": "2026-08-09T22:11:52.287562+00:00",
+  "floor_label": "F9",
   "trend_label": "FALLING",
   "threat_label": "MED",
-  "sponsor_label": "PLEASED",
-  "mode": "betting_line",
-  "headline": "Audience Betting Line",
-  "contestant": "Carl & Donut Team-Up",
-  "odds": "2:1 upset victory",
-  "trend": "Heating up",
-  "note": "Chemistry, violence, and charisma moving strong money."
+  "sponsor_label": "BORED",
+  "mode": "damage_report",
+  "headline": "Carl Damage Report",
+  "condition": "Walking wounded",
+  "hp_state": "Bad but functional",
+  "injuries": [
+    "Bruised ribs",
+    "Singed eyebrows",
+    "Shrapnel scratches",
+    "Existential fatigue"
+  ],
+  "note": "Recommended treatment: sleep, revenge, and antiseptic."
 }
