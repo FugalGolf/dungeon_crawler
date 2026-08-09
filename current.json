@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-09T15:49:07.574694+00:00",
+  "generated_at_utc": "2026-08-09T16:15:12.810896+00:00",
   "floor_label": "F5",
-  "trend_label": "VOLATILE",
+  "trend_label": "FALLING",
   "threat_label": "HIGH",
-  "sponsor_label": "INVESTED",
-  "mode": "betting_line",
-  "headline": "Audience Betting Line",
-  "contestant": "The Audience",
-  "odds": "Always wins",
-  "trend": "Guaranteed",
-  "note": "Blood sells."
+  "sponsor_label": "BORED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Blood stains increase viewer ratings by 3%.",
+  "tip": "Placement matters."
 }
