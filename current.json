@@ -2,35 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-10T20:03:36.504395+00:00",
+  "generated_at_utc": "2026-08-10T20:54:42.673101+00:00",
   "floor_label": "F6",
-  "trend_label": "FALLING",
-  "threat_label": "SEVERE",
+  "trend_label": "SPIKING",
+  "threat_label": "MED",
   "sponsor_label": "WATCHING",
-  "mode": "store_price",
-  "headline": "Emergency Commodity Update",
-  "shop_name": "Earth AI Essential Services Kiosk",
-  "items": [
-    {
-      "name": "Basic Health Potion",
-      "price": 12000
-    },
-    {
-      "name": "Bathroom Stall Access (3 minutes)",
-      "price": 4800
-    },
-    {
-      "name": "Clean Water Bottle",
-      "price": 2100
-    },
-    {
-      "name": "Bandage Roll",
-      "price": 1600
-    },
-    {
-      "name": "Breathing Mask Refill",
-      "price": 9500
-    }
-  ],
-  "note": "Following Earth AI integration, essential commodities now reflect a 1000x reality-adjusted market correction. Complaints require premium membership."
+  "mode": "loot_drop",
+  "headline": "Loot Drop",
+  "loot_name": "Maintenance Crate 4-B",
+  "rarity": "Uncommon",
+  "contents": "Duct tape, live taser eel, glue bomb, 80 gold",
+  "flavor": "A practical box for impractical emergencies."
 }
