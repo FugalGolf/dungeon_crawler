@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-09T23:39:07.951916+00:00",
-  "floor_label": "F6",
-  "trend_label": "FALLING",
+  "generated_at_utc": "2026-08-10T00:36:47.842717+00:00",
+  "floor_label": "F7",
+  "trend_label": "SPIKING",
   "threat_label": "MED",
-  "sponsor_label": "PLEASED",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should someone kick the mimic?",
-  "results": "Yes: 100%",
-  "note": "Consensus achieved."
+  "sponsor_label": "WATCHING",
+  "mode": "sponsor_message",
+  "headline": "Sponsor Message",
+  "sponsor": "CatNobility Prime",
+  "message": "Luxury nutrition for companions who know their worth.",
+  "offer": "Try the blood-orange pheasant reduction."
 }
