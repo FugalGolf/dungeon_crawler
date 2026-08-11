@@ -2,13 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-11T22:53:39.110652+00:00",
-  "floor_label": "F5",
+  "generated_at_utc": "2026-08-11T23:51:10.170983+00:00",
+  "floor_label": "F8",
   "trend_label": "RISING",
-  "threat_label": "MED",
+  "threat_label": "HIGH",
   "sponsor_label": "WATCHING",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Always kick treasure chests first.",
-  "reason": "Mimics hate being kicked."
+  "mode": "achievement",
+  "headline": "Achievement Unlocked",
+  "achievement_name": "Still Not Dead",
+  "rarity": "Uncommon",
+  "effect": "+5 morale, +1 audience sympathy, +0 actual safety",
+  "flavor": "Awarded for surviving a situation clearly designed by a lunatic."
 }
