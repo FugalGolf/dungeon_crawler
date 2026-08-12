@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-12T15:06:04.436916+00:00",
-  "floor_label": "F5",
+  "generated_at_utc": "2026-08-12T16:05:44.066578+00:00",
+  "floor_label": "F9",
   "trend_label": "SPIKING",
-  "threat_label": "HIGH",
-  "sponsor_label": "BORED",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Broadcast Problem",
-  "rarity": "Epic",
-  "effect": "+8 notoriety, +3 sponsor leverage, +12 unwanted attention",
-  "flavor": "The producers know your name now. This is not good."
+  "threat_label": "SEVERE",
+  "sponsor_label": "WATCHING",
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Carry two bombs.",
+  "reason": "One will not be enough."
 }
