@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-13T12:26:26.886700+00:00",
-  "floor_label": "F8",
+  "generated_at_utc": "2026-08-13T14:00:58.731293+00:00",
+  "floor_label": "F5",
   "trend_label": "VOLATILE",
-  "threat_label": "LETHAL",
+  "threat_label": "SEVERE",
   "sponsor_label": "INVESTED",
-  "mode": "trap_warning",
-  "headline": "Trap Warning",
-  "trap": "Complimentary massage chair mimic",
-  "location": "Rest lounge",
-  "danger": "Predatory relaxation",
-  "note": "Do not sit unless you wish to be tenderized."
+  "mode": "sponsor_message",
+  "headline": "Sponsor Message",
+  "sponsor": "Goblin Meal Kits",
+  "message": "Dinner in under 6 minutes or we eat you.",
+  "offer": "First bite free."
 }
