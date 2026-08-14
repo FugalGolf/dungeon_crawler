@@ -2,15 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-14T19:30:52.924310+00:00",
+  "generated_at_utc": "2026-08-14T20:04:42.567782+00:00",
   "floor_label": "F9",
-  "trend_label": "SPIKING",
+  "trend_label": "VOLATILE",
   "threat_label": "MED",
   "sponsor_label": "INVESTED",
-  "mode": "betting_line",
-  "headline": "Audience Betting Line",
-  "contestant": "Princess Donut",
-  "odds": "5:1 victory",
-  "trend": "Stable",
-  "note": "Royal confidence increases ratings."
+  "mode": "boss_reward",
+  "headline": "Boss Rewards",
+  "boss_name": "Velvet Doom Concierge",
+  "boss_status": "Politely dismantled",
+  "rewards": [
+    "Keycard of Dubious Access",
+    "Silk-lined stab vest",
+    "590 gold",
+    "Buff: Lobby Presence +2"
+  ],
+  "bonus": "Valet spirits now avoid eye contact."
 }
