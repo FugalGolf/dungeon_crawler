@@ -2,15 +2,43 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-15T21:05:14.931439+00:00",
-  "floor_label": "F7",
-  "trend_label": "SPIKING",
+  "generated_at_utc": "2026-08-15T21:30:39.930493+00:00",
+  "floor_label": "F9",
+  "trend_label": "VOLATILE",
   "threat_label": "HIGH",
-  "sponsor_label": "INVESTED",
-  "mode": "loot_drop",
-  "headline": "Loot Drop",
-  "loot_name": "Maintenance Crate 4-B",
-  "rarity": "Uncommon",
-  "contents": "Duct tape, live taser eel, glue bomb, 80 gold",
-  "flavor": "A practical box for impractical emergencies."
+  "sponsor_label": "BORED",
+  "mode": "receipt",
+  "headline": "Dungeon Receipt",
+  "customer": "Carl & Princess Donut",
+  "status": "Alive, irritated, and under-tipped",
+  "line_items": [
+    {
+      "name": "Goblin Teeth",
+      "qty": 14,
+      "value": 84
+    },
+    {
+      "name": "Exploded Potion Refund",
+      "qty": 1,
+      "value": 37
+    },
+    {
+      "name": "Suspicious Meat Wrap",
+      "qty": 2,
+      "value": 26
+    },
+    {
+      "name": "Boss Room Gratuity",
+      "qty": 1,
+      "value": 666
+    },
+    {
+      "name": "Emotional Damages",
+      "qty": 1,
+      "value": 1029
+    }
+  ],
+  "gold_total": 1842,
+  "xp_gained": 9200,
+  "warning": "No refunds after floor collapse."
 }
