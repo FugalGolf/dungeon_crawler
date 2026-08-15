@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-15T21:48:33.075142+00:00",
-  "floor_label": "F6",
-  "trend_label": "FALLING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "INVESTED",
-  "mode": "damage_report",
-  "headline": "Carl Damage Report",
-  "condition": "Operational rage",
-  "hp_state": "Technically alive",
-  "injuries": [
-    "Knife graze",
-    "Acid splash on boot",
-    "Shoulder strain",
-    "General disgust"
-  ],
-  "note": "Condition improves when enemies explode nearby."
+  "generated_at_utc": "2026-08-15T21:59:33.036732+00:00",
+  "floor_label": "F9",
+  "trend_label": "VOLATILE",
+  "threat_label": "MED",
+  "sponsor_label": "WATCHING",
+  "mode": "broadcast_alert",
+  "headline": "Dungeon Broadcast Alert",
+  "alert_type": "Sponsored Weather",
+  "message": "Acid rain now falling in the outdoor food promenade.",
+  "severity": "High",
+  "advisory": "Umbrellas count as weakness unless sharpened."
 }
