@@ -2,14 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-15T06:51:31.577029+00:00",
+  "generated_at_utc": "2026-08-15T07:18:10.834367+00:00",
   "floor_label": "F9",
-  "trend_label": "SPIKING",
-  "threat_label": "MED",
+  "trend_label": "VOLATILE",
+  "threat_label": "HIGH",
   "sponsor_label": "BORED",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should the dungeon be nicer?",
-  "results": "No: 100%",
-  "note": "Cruelty performs well."
+  "mode": "bounty_board",
+  "headline": "Open Bounty",
+  "target": "The Glitter Butcher",
+  "region": "Luxury escalator junction",
+  "reward": "2800 gold, 4000 XP, satin resistance buff",
+  "warning": "Target weaponizes sequins and emotional cruelty."
 }
