@@ -2,13 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-16T11:04:51.557840+00:00",
+  "generated_at_utc": "2026-08-16T11:29:23.696211+00:00",
   "floor_label": "F9",
   "trend_label": "FALLING",
-  "threat_label": "MED",
-  "sponsor_label": "BORED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Most traps are installed by interns.",
-  "tip": "But they are enthusiastic."
+  "threat_label": "HIGH",
+  "sponsor_label": "INVESTED",
+  "mode": "inventory_flash",
+  "headline": "Inventory Flash",
+  "owner": "Carl",
+  "items": [
+    "Half-used med spray",
+    "Two bombs",
+    "Three more bombs he forgot about",
+    "Knife with sentimental rage",
+    "One suspicious coupon"
+  ],
+  "note": "Pack weight increasing. Judgment constant."
 }
