@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-16T19:29:07.893989+00:00",
-  "floor_label": "F7",
-  "trend_label": "FALLING",
-  "threat_label": "HIGH",
-  "sponsor_label": "INVESTED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "Shopping carts become hostile after midnight.",
-  "tip": "Aim for the wheels."
+  "generated_at_utc": "2026-08-16T19:47:32.791571+00:00",
+  "floor_label": "F6",
+  "trend_label": "VOLATILE",
+  "threat_label": "LETHAL",
+  "sponsor_label": "BORED",
+  "mode": "famous_line",
+  "headline": "Royal Decree",
+  "speaker": "Princess Donut",
+  "quote": "I refuse to die in a place that smells like fried goblin.",
+  "flavor": "An elegant standard for survival."
 }
