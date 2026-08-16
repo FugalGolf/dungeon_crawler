@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-16T16:34:19.583431+00:00",
+  "generated_at_utc": "2026-08-16T16:54:25.020537+00:00",
   "floor_label": "F7",
-  "trend_label": "RISING",
-  "threat_label": "MED",
+  "trend_label": "VOLATILE",
+  "threat_label": "HIGH",
   "sponsor_label": "BORED",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Still Not Dead",
-  "rarity": "Uncommon",
-  "effect": "+5 morale, +1 audience sympathy, +0 actual safety",
-  "flavor": "Awarded for surviving a situation clearly designed by a lunatic."
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Some healing fountains are judgmental.",
+  "tip": "Compliment the architecture first."
 }
