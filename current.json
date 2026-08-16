@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-16T17:59:22.789695+00:00",
-  "floor_label": "F8",
-  "trend_label": "VOLATILE",
-  "threat_label": "MED",
+  "generated_at_utc": "2026-08-16T18:39:38.004187+00:00",
+  "floor_label": "F6",
+  "trend_label": "FALLING",
+  "threat_label": "LETHAL",
   "sponsor_label": "PLEASED",
-  "mode": "sponsor_message",
-  "headline": "Sponsor Message",
-  "sponsor": "AudienceBet",
-  "message": "Bet on survival. Bet on carnage.",
-  "offer": "New users get a free corpse credit."
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should Carl open the glowing door?",
+  "results": "Yes: 78%  No: 22%",
+  "note": "Audience enjoys bad ideas."
 }
