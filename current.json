@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-17T21:52:34.195536+00:00",
-  "floor_label": "F8",
-  "trend_label": "VOLATILE",
+  "generated_at_utc": "2026-08-17T22:32:48.515536+00:00",
+  "floor_label": "F7",
+  "trend_label": "RISING",
   "threat_label": "LETHAL",
-  "sponsor_label": "WATCHING",
-  "mode": "broadcast_alert",
-  "headline": "Dungeon Broadcast Alert",
-  "alert_type": "Sponsored Weather",
-  "message": "Acid rain now falling in the outdoor food promenade.",
-  "severity": "High",
-  "advisory": "Umbrellas count as weakness unless sharpened."
+  "sponsor_label": "BORED",
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Loot first, process trauma later.",
+  "reason": "Healing is expensive. Gold is persuasive."
 }
