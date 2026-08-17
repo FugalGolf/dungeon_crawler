@@ -2,13 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-17T05:41:43.308578+00:00",
-  "floor_label": "F6",
-  "trend_label": "VOLATILE",
+  "generated_at_utc": "2026-08-17T06:21:28.700282+00:00",
+  "floor_label": "F7",
+  "trend_label": "SPIKING",
   "threat_label": "SEVERE",
   "sponsor_label": "PLEASED",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Never trust anything with a cheerful mascot.",
-  "reason": "Mascots are where they hide the teeth."
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Some healing fountains are judgmental.",
+  "tip": "Compliment the architecture first."
 }
