@@ -2,14 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-18T14:54:13.578132+00:00",
+  "generated_at_utc": "2026-08-18T15:39:03.168551+00:00",
   "floor_label": "F8",
-  "trend_label": "RISING",
-  "threat_label": "MED",
+  "trend_label": "FALLING",
+  "threat_label": "HIGH",
   "sponsor_label": "BORED",
-  "mode": "quote",
-  "headline": "Operational Update",
-  "speaker": "Carl",
-  "quote": "Every floor finds a new way to be worse.",
-  "flavor": "Assessment delivered while already sprinting."
+  "mode": "trap_warning",
+  "headline": "Trap Warning",
+  "trap": "Tax collector skeleton",
+  "location": "Merchant corridor",
+  "danger": "High",
+  "note": "He audits aggressively."
 }
