@@ -2,14 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-18T09:40:53.464518+00:00",
-  "floor_label": "F6",
+  "generated_at_utc": "2026-08-18T10:10:29.258029+00:00",
+  "floor_label": "F5",
   "trend_label": "VOLATILE",
-  "threat_label": "MED",
+  "threat_label": "HIGH",
   "sponsor_label": "WATCHING",
-  "mode": "quote",
-  "headline": "Operational Update",
-  "speaker": "Carl",
-  "quote": "Every floor finds a new way to be worse.",
-  "flavor": "Assessment delivered while already sprinting."
+  "mode": "royal_bulletin",
+  "headline": "Royal Bulletin",
+  "issuer": "Princess Donut",
+  "decree": "Mongo shall not be blamed for events that were clearly provoked.",
+  "priority": "Permanent",
+  "note": "This includes structural collapse."
 }
