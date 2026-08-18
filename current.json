@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-18T13:49:00.062670+00:00",
-  "floor_label": "F8",
-  "trend_label": "FALLING",
-  "threat_label": "LETHAL",
+  "generated_at_utc": "2026-08-18T14:17:00.673698+00:00",
+  "floor_label": "F6",
+  "trend_label": "VOLATILE",
+  "threat_label": "SEVERE",
   "sponsor_label": "INVESTED",
-  "mode": "betting_line",
-  "headline": "Audience Betting Line",
-  "contestant": "Princess Donut",
-  "odds": "5:1 victory",
-  "trend": "Stable",
-  "note": "Royal confidence increases ratings."
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Always kick treasure chests first.",
+  "reason": "Mimics hate being kicked."
 }
