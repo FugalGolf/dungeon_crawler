@@ -2,15 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-18T20:54:37.669293+00:00",
-  "floor_label": "F6",
+  "generated_at_utc": "2026-08-18T21:31:06.198380+00:00",
+  "floor_label": "F8",
   "trend_label": "FALLING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "WATCHING",
-  "mode": "betting_line",
-  "headline": "Audience Betting Line",
-  "contestant": "Carl & Donut Team-Up",
-  "odds": "2:1 upset victory",
-  "trend": "Heating up",
-  "note": "Chemistry, violence, and charisma moving strong money."
+  "threat_label": "HIGH",
+  "sponsor_label": "BORED",
+  "mode": "boss_reward",
+  "headline": "Boss Rewards",
+  "boss_name": "King Discountus",
+  "boss_status": "Crowned into the pavement",
+  "rewards": [
+    "Crown of Aggressive Savings",
+    "1500 gold",
+    "Bulk ammo coupon",
+    "Title: Pricebreaker"
+  ],
+  "bonus": "One merchant now fears you on sight."
 }
