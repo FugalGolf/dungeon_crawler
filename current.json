@@ -2,20 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-19T12:02:58.796229+00:00",
-  "floor_label": "F9",
-  "trend_label": "SPIKING",
+  "generated_at_utc": "2026-08-19T13:02:03.108757+00:00",
+  "floor_label": "F5",
+  "trend_label": "FALLING",
   "threat_label": "LETHAL",
-  "sponsor_label": "WATCHING",
-  "mode": "damage_report",
-  "headline": "Carl Damage Report",
-  "condition": "Operational rage",
-  "hp_state": "Technically alive",
-  "injuries": [
-    "Knife graze",
-    "Acid splash on boot",
-    "Shoulder strain",
-    "General disgust"
-  ],
-  "note": "Condition improves when enemies explode nearby."
+  "sponsor_label": "PLEASED",
+  "mode": "loot_drop",
+  "headline": "Loot Drop",
+  "loot_name": "Maintenance Crate 4-B",
+  "rarity": "Uncommon",
+  "contents": "Duct tape, live taser eel, glue bomb, 80 gold",
+  "flavor": "A practical box for impractical emergencies."
 }
