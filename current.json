@@ -2,35 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-19T08:47:55.920107+00:00",
-  "floor_label": "F6",
-  "trend_label": "RISING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "PLEASED",
-  "mode": "store_price",
-  "headline": "Goblin Market Deals",
-  "shop_name": "Bombs & Feelings",
-  "items": [
-    {
-      "name": "Basic Fuse Bundle",
-      "price": 40
-    },
-    {
-      "name": "Sticky Blast Gel",
-      "price": 165
-    },
-    {
-      "name": "Shrapnel Capsule",
-      "price": 95
-    },
-    {
-      "name": "Timer Beetle",
-      "price": 130
-    },
-    {
-      "name": "Apology Card",
-      "price": 5
-    }
-  ],
-  "note": "Bundle discounts available after verified destruction."
+  "generated_at_utc": "2026-08-19T09:17:04.410166+00:00",
+  "floor_label": "F8",
+  "trend_label": "FALLING",
+  "threat_label": "LETHAL",
+  "sponsor_label": "WATCHING",
+  "mode": "loot_drop",
+  "headline": "Loot Drop",
+  "loot_name": "Royal Audience Crate",
+  "rarity": "Epic",
+  "contents": "Prestige collar gem, luxury treats, upgrade token",
+  "flavor": "Princess-grade rewards for maximum spectacle."
 }
