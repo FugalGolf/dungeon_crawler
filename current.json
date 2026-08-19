@@ -2,15 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-19T09:17:04.410166+00:00",
-  "floor_label": "F8",
+  "generated_at_utc": "2026-08-19T09:51:19.589090+00:00",
+  "floor_label": "F7",
   "trend_label": "FALLING",
-  "threat_label": "LETHAL",
-  "sponsor_label": "WATCHING",
-  "mode": "loot_drop",
-  "headline": "Loot Drop",
-  "loot_name": "Royal Audience Crate",
-  "rarity": "Epic",
-  "contents": "Prestige collar gem, luxury treats, upgrade token",
-  "flavor": "Princess-grade rewards for maximum spectacle."
+  "threat_label": "HIGH",
+  "sponsor_label": "BORED",
+  "mode": "boss_reward",
+  "headline": "Boss Rewards",
+  "boss_name": "Gorthok the Consumer Prince",
+  "boss_status": "Defeated messily",
+  "rewards": [
+    "Jeweled Collar of Minor Majesty",
+    "860 gold",
+    "Rare bomb component",
+    "Reputation +12 with questionable factions"
+  ],
+  "bonus": "Audience delight increased by 18%."
 }
