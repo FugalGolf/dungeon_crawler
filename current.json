@@ -2,43 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-19T19:11:34.222411+00:00",
-  "floor_label": "F6",
-  "trend_label": "SPIKING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "PLEASED",
-  "mode": "receipt",
-  "headline": "Reality-Based Pricing Receipt",
-  "customer": "Any surviving human",
-  "status": "Overcharged, underhealed, and not consulted",
-  "line_items": [
-    {
-      "name": "One bathroom visit",
-      "qty": 1,
-      "value": 4800
-    },
-    {
-      "name": "Basic health potion",
-      "qty": 1,
-      "value": 12000
-    },
-    {
-      "name": "Bottle of water",
-      "qty": 1,
-      "value": 2100
-    },
-    {
-      "name": "Convenience fee",
-      "qty": 1,
-      "value": 900
-    },
-    {
-      "name": "Hope tax",
-      "qty": 1,
-      "value": 666
-    }
-  ],
-  "gold_total": 20466,
-  "xp_gained": 0,
-  "warning": "Earth AI pricing model indicates your continued survival constitutes luxury consumption."
+  "generated_at_utc": "2026-08-19T19:42:23.418398+00:00",
+  "floor_label": "F9",
+  "trend_label": "FALLING",
+  "threat_label": "LETHAL",
+  "sponsor_label": "INVESTED",
+  "mode": "trap_warning",
+  "headline": "Trap Warning",
+  "trap": "Tax collector skeleton",
+  "location": "Merchant corridor",
+  "danger": "High",
+  "note": "He audits aggressively."
 }
