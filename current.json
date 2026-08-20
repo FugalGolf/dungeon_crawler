@@ -2,15 +2,35 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-20T04:45:40.133625+00:00",
-  "floor_label": "F8",
-  "trend_label": "FALLING",
+  "generated_at_utc": "2026-08-20T05:15:46.337392+00:00",
+  "floor_label": "F9",
+  "trend_label": "SPIKING",
   "threat_label": "HIGH",
-  "sponsor_label": "WATCHING",
-  "mode": "betting_line",
-  "headline": "Audience Betting Line",
-  "contestant": "Carl & Donut Team-Up",
-  "odds": "2:1 upset victory",
-  "trend": "Heating up",
-  "note": "Chemistry, violence, and charisma moving strong money."
+  "sponsor_label": "INVESTED",
+  "mode": "store_price",
+  "headline": "Store Prices",
+  "shop_name": "Goblin Bazaar Express",
+  "items": [
+    {
+      "name": "Health Potion",
+      "price": 85
+    },
+    {
+      "name": "Exploding Chicken Skewer",
+      "price": 42
+    },
+    {
+      "name": "Trap Disarm Kit",
+      "price": 130
+    },
+    {
+      "name": "Royal Cat Brush",
+      "price": 999
+    },
+    {
+      "name": "Questionable Meat Wrap",
+      "price": 17
+    }
+  ],
+  "note": "All sales final. Screaming at staff incurs a handling fee."
 }
