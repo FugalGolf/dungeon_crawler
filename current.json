@@ -2,15 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-20T15:50:28.122430+00:00",
+  "generated_at_utc": "2026-08-20T16:16:13.696264+00:00",
   "floor_label": "F9",
-  "trend_label": "FALLING",
-  "threat_label": "HIGH",
+  "trend_label": "SPIKING",
+  "threat_label": "MED",
   "sponsor_label": "BORED",
-  "mode": "trap_warning",
-  "headline": "Trap Warning",
-  "trap": "Coupon storm sigil",
-  "location": "Outlet wing",
-  "danger": "Chaotic",
-  "note": "Paper cuts are cursed."
+  "mode": "inventory_flash",
+  "headline": "Inventory Flash",
+  "owner": "Princess Donut",
+  "items": [
+    "Jeweled collar",
+    "Emergency treats",
+    "Tiny but expensive brush",
+    "Backup crown",
+    "A list of grievances"
+  ],
+  "note": "Everything essential. Do not argue."
 }
