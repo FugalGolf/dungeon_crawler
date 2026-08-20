@@ -2,14 +2,15 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-20T14:44:42.138358+00:00",
+  "generated_at_utc": "2026-08-20T15:17:22.446901+00:00",
   "floor_label": "F9",
-  "trend_label": "FALLING",
+  "trend_label": "VOLATILE",
   "threat_label": "LETHAL",
-  "sponsor_label": "BORED",
-  "mode": "sponsor_message",
-  "headline": "Sponsor Message",
-  "sponsor": "Prestige Cat Food",
-  "message": "Approved by Princess Donut.",
-  "offer": "Royal flavor upgrade available."
+  "sponsor_label": "WATCHING",
+  "mode": "betting_line",
+  "headline": "Audience Betting Line",
+  "contestant": "Carl",
+  "odds": "3:1 survival",
+  "trend": "Improving",
+  "note": "Explosive creativity impresses viewers."
 }
