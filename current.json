@@ -2,14 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-22T17:28:14.602244+00:00",
-  "floor_label": "F9",
-  "trend_label": "VOLATILE",
+  "generated_at_utc": "2026-08-22T17:49:54.150304+00:00",
+  "floor_label": "F7",
+  "trend_label": "FALLING",
   "threat_label": "SEVERE",
   "sponsor_label": "PLEASED",
-  "mode": "sponsor_message",
-  "headline": "Sponsor Message",
-  "sponsor": "Explodium™",
-  "message": "When subtlety fails, use more explosions.",
-  "offer": "Use code BOOM for +5% blast radius."
+  "mode": "inventory_flash",
+  "headline": "Inventory Flash",
+  "owner": "Princess Donut",
+  "items": [
+    "Jeweled collar",
+    "Emergency treats",
+    "Tiny but expensive brush",
+    "Backup crown",
+    "A list of grievances"
+  ],
+  "note": "Everything essential. Do not argue."
 }
