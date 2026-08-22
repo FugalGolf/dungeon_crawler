@@ -2,20 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-22T22:51:21.898231+00:00",
-  "floor_label": "F9",
+  "generated_at_utc": "2026-08-22T23:04:35.568956+00:00",
+  "floor_label": "F7",
   "trend_label": "RISING",
   "threat_label": "MED",
   "sponsor_label": "PLEASED",
-  "mode": "floor_scan",
-  "headline": "Floor Scan",
-  "zone": "Luxury Wing",
-  "traffic": "Medium panic",
-  "hazards": [
-    "Perfume hallucinations",
-    "Carpet tentacles",
-    "Aggressive violinist",
-    "Elite mannequins"
-  ],
-  "recommendation": "Avoid being rich-looking."
+  "mode": "famous_line",
+  "headline": "Formal Complaint",
+  "speaker": "Princess Donut",
+  "quote": "This is unacceptable. Completely unacceptable.",
+  "flavor": "Issued with full sovereign authority."
 }
