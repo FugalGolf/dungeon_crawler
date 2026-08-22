@@ -2,14 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-22T18:00:28.791693+00:00",
+  "generated_at_utc": "2026-08-22T18:41:00.754788+00:00",
   "floor_label": "F5",
-  "trend_label": "VOLATILE",
+  "trend_label": "SPIKING",
   "threat_label": "HIGH",
-  "sponsor_label": "WATCHING",
-  "mode": "crowd_poll",
-  "headline": "Audience Poll",
-  "question": "Should Carl throw the goblin through the kiosk window?",
-  "results": "Yes: 94%  No: 6%",
-  "note": "Elegance not a factor."
+  "sponsor_label": "INVESTED",
+  "mode": "system_message",
+  "headline": "Dungeon System Message",
+  "message": "Your sarcasm stat has been observed by management.",
+  "effect": "Audience favor +2. Boss patience -4.",
+  "warning": "Continued excellence may trigger retaliation."
 }
