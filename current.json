@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-24T05:21:02.715428+00:00",
-  "floor_label": "F8",
-  "trend_label": "FALLING",
-  "threat_label": "MED",
-  "sponsor_label": "BORED",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "The system archives your suffering as entertainment metadata.",
-  "tip": "Even private breakdowns may be monetized."
+  "generated_at_utc": "2026-08-24T05:57:15.618063+00:00",
+  "floor_label": "F5",
+  "trend_label": "SPIKING",
+  "threat_label": "HIGH",
+  "sponsor_label": "INVESTED",
+  "mode": "sponsor_message",
+  "headline": "Sponsor Message",
+  "sponsor": "CatNobility Prime",
+  "message": "Luxury nutrition for companions who know their worth.",
+  "offer": "Try the blood-orange pheasant reduction."
 }
