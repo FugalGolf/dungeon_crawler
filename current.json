@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-24T04:29:58.796684+00:00",
+  "generated_at_utc": "2026-08-24T05:21:02.715428+00:00",
   "floor_label": "F8",
   "trend_label": "FALLING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "PLEASED",
-  "mode": "combat_recorder",
-  "headline": "Combat Recorder",
-  "encounter": "Food Court Clearance",
-  "summary": "Carl improvised. Donut judged. Mongo escalated. Several tables died heroically.",
-  "result": "Victory, debris, applause",
-  "highlight": "A tray return station was weaponized beyond intended use."
+  "threat_label": "MED",
+  "sponsor_label": "BORED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "The system archives your suffering as entertainment metadata.",
+  "tip": "Even private breakdowns may be monetized."
 }
