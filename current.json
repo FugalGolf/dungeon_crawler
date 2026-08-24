@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-24T20:39:37.252545+00:00",
-  "floor_label": "F8",
-  "trend_label": "FALLING",
-  "threat_label": "HIGH",
-  "sponsor_label": "PLEASED",
-  "mode": "survival_tip",
-  "headline": "Survival Tip",
-  "tip": "Never insult the dungeon AI.",
-  "reason": "It remembers."
+  "generated_at_utc": "2026-08-24T21:12:45.860936+00:00",
+  "floor_label": "F9",
+  "trend_label": "VOLATILE",
+  "threat_label": "MED",
+  "sponsor_label": "INVESTED",
+  "mode": "famous_line",
+  "headline": "Royal Outrage",
+  "speaker": "Princess Donut",
+  "quote": "Mongo is appalled!",
+  "flavor": "A timeless judgment suitable for nearly any situation."
 }
