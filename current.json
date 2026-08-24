@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-24T22:02:50.746406+00:00",
+  "generated_at_utc": "2026-08-24T22:35:50.977979+00:00",
   "floor_label": "F9",
   "trend_label": "FALLING",
-  "threat_label": "SEVERE",
+  "threat_label": "HIGH",
   "sponsor_label": "WATCHING",
-  "mode": "betting_line",
-  "headline": "Audience Betting Line",
-  "contestant": "Gerald the Regretful Cheesemonger",
-  "odds": "18:1 survival",
-  "trend": "Miraculously steady",
-  "note": "Cowardice proving unexpectedly effective."
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "Some healing fountains are judgmental.",
+  "tip": "Compliment the architecture first."
 }
