@@ -2,14 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-24T02:51:35.834290+00:00",
-  "floor_label": "F5",
-  "trend_label": "FALLING",
+  "generated_at_utc": "2026-08-24T03:40:18.728937+00:00",
+  "floor_label": "F7",
+  "trend_label": "VOLATILE",
   "threat_label": "MED",
-  "sponsor_label": "WATCHING",
-  "mode": "public_service_announcement",
-  "headline": "Public Service Announcement",
-  "message": "Contestants are reminded that access to sanitation is a premium feature.",
-  "reason": "The Earth AI has determined that bodily urgency improves monetization efficiency.",
-  "sponsor": "Dungeon Resource Optimization Board"
+  "sponsor_label": "INVESTED",
+  "mode": "boss_reward",
+  "headline": "Boss Rewards",
+  "boss_name": "King Discountus",
+  "boss_status": "Crowned into the pavement",
+  "rewards": [
+    "Crown of Aggressive Savings",
+    "1500 gold",
+    "Bulk ammo coupon",
+    "Title: Pricebreaker"
+  ],
+  "bonus": "One merchant now fears you on sight."
 }
