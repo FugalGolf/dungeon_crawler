@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-25T14:54:27.623879+00:00",
+  "generated_at_utc": "2026-08-25T15:52:04.565807+00:00",
   "floor_label": "F9",
   "trend_label": "FALLING",
-  "threat_label": "SEVERE",
-  "sponsor_label": "INVESTED",
-  "mode": "broadcast_alert",
-  "headline": "Dungeon Broadcast Alert",
-  "alert_type": "Sponsored Weather",
-  "message": "Acid rain now falling in the outdoor food promenade.",
-  "severity": "High",
-  "advisory": "Umbrellas count as weakness unless sharpened."
+  "threat_label": "LETHAL",
+  "sponsor_label": "WATCHING",
+  "mode": "crowd_poll",
+  "headline": "Audience Poll",
+  "question": "Should the dungeon be nicer?",
+  "results": "No: 100%",
+  "note": "Cruelty performs well."
 }
