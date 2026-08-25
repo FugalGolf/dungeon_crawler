@@ -2,15 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-25T11:58:09.184724+00:00",
-  "floor_label": "F7",
-  "trend_label": "RISING",
+  "generated_at_utc": "2026-08-25T13:02:59.562349+00:00",
+  "floor_label": "F5",
+  "trend_label": "FALLING",
   "threat_label": "SEVERE",
   "sponsor_label": "WATCHING",
-  "mode": "death_odds",
-  "headline": "Today's Death Odds",
-  "survival": "9%",
-  "trend": "Sinking",
-  "reason": "You have become recognizable, which increases both sponsor interest and assassination attempts.",
-  "advice": "Fame is armor made of wet paper."
+  "mode": "public_service_announcement",
+  "headline": "Public Service Announcement",
+  "message": "Contestants are reminded that access to sanitation is a premium feature.",
+  "reason": "The Earth AI has determined that bodily urgency improves monetization efficiency.",
+  "sponsor": "Dungeon Resource Optimization Board"
 }
