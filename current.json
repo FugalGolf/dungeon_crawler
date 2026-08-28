@@ -2,16 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-08-28T01:05:09.296839+00:00",
+  "generated_at_utc": "2026-08-28T12:41:24.692149+00:00",
   "floor_label": "F7",
   "trend_label": "SPIKING",
-  "threat_label": "MED",
+  "threat_label": "SEVERE",
   "sponsor_label": "INVESTED",
-  "mode": "mongo_status",
-  "headline": "Mongo Status",
-  "mood": "Appalled",
-  "energy": "Maximum",
-  "diet": "Acceptable but judged",
-  "threat": "Significant",
-  "note": "Do not stand between Mongo and snack-sized enemies."
+  "mode": "survival_tip",
+  "headline": "Survival Tip",
+  "tip": "Check ceilings before celebrating.",
+  "reason": "The floor likes vertical irony."
 }
