@@ -2,15 +2,13 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-09-03T08:58:25.568978+00:00",
-  "floor_label": "F9",
+  "generated_at_utc": "2026-09-03T13:30:05.488438+00:00",
+  "floor_label": "F5",
   "trend_label": "SPIKING",
   "threat_label": "LETHAL",
-  "sponsor_label": "PLEASED",
-  "mode": "achievement",
-  "headline": "Achievement Unlocked",
-  "achievement_name": "Consumer of Consequences",
-  "rarity": "Legendary",
-  "effect": "Discount immunity, intimidation aura, coupon resistance",
-  "flavor": "You bought the trap, then killed the trap, then returned the receipt."
+  "sponsor_label": "BORED",
+  "mode": "floor_fact",
+  "headline": "Dungeon Fact",
+  "fact": "The system archives your suffering as entertainment metadata.",
+  "tip": "Even private breakdowns may be monetized."
 }
