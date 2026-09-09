@@ -2,14 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-09-09T21:14:56.648603+00:00",
-  "floor_label": "F5",
+  "generated_at_utc": "2026-09-09T23:18:35.331392+00:00",
+  "floor_label": "F6",
   "trend_label": "VOLATILE",
-  "threat_label": "HIGH",
-  "sponsor_label": "PLEASED",
-  "mode": "sponsor_message",
-  "headline": "Sponsor Message",
-  "sponsor": "Prestige Cat Food",
-  "message": "Approved by Princess Donut.",
-  "offer": "Royal flavor upgrade available."
+  "threat_label": "MED",
+  "sponsor_label": "WATCHING",
+  "mode": "inventory_flash",
+  "headline": "Inventory Flash",
+  "owner": "Carl",
+  "items": [
+    "Half-used med spray",
+    "Two bombs",
+    "Three more bombs he forgot about",
+    "Knife with sentimental rage",
+    "One suspicious coupon"
+  ],
+  "note": "Pack weight increasing. Judgment constant."
 }
