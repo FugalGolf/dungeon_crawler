@@ -2,13 +2,14 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-09-18T01:35:01.739474+00:00",
-  "floor_label": "F9",
-  "trend_label": "SPIKING",
+  "generated_at_utc": "2026-09-18T06:35:43.080837+00:00",
+  "floor_label": "F5",
+  "trend_label": "RISING",
   "threat_label": "SEVERE",
   "sponsor_label": "WATCHING",
-  "mode": "floor_fact",
-  "headline": "Dungeon Fact",
-  "fact": "The dungeon AI prefers dramatic irony.",
-  "tip": "Do not say 'What could go wrong?'"
+  "mode": "famous_line",
+  "headline": "Royal Decree",
+  "speaker": "Princess Donut",
+  "quote": "I refuse to die in a place that smells like fried goblin.",
+  "flavor": "An elegant standard for survival."
 }
