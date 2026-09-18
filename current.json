@@ -2,15 +2,20 @@
   "title": "Dungeon Crawl Feed",
   "subtitle": "Floor Broadcast // Princess Donut Network",
   "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-09-18T11:44:18.964126+00:00",
+  "generated_at_utc": "2026-09-18T15:11:42.010924+00:00",
   "floor_label": "F8",
-  "trend_label": "RISING",
-  "threat_label": "LETHAL",
-  "sponsor_label": "PLEASED",
-  "mode": "broadcast_alert",
-  "headline": "Dungeon Broadcast Alert",
-  "alert_type": "Memorial Notice",
-  "message": "Several contestants have been removed from the roster. Their possessions are now promotional opportunities.",
-  "severity": "Grim",
-  "advisory": "Please grieve efficiently. The schedule remains full."
+  "trend_label": "SPIKING",
+  "threat_label": "HIGH",
+  "sponsor_label": "WATCHING",
+  "mode": "inventory_flash",
+  "headline": "Inventory Flash",
+  "owner": "Carl",
+  "items": [
+    "Half-used med spray",
+    "Two bombs",
+    "Three more bombs he forgot about",
+    "Knife with sentimental rage",
+    "One suspicious coupon"
+  ],
+  "note": "Pack weight increasing. Judgment constant."
 }
