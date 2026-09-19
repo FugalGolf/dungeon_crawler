@@ -1,16 +1,1 @@
-{
-  "title": "Dungeon Crawl Feed",
-  "subtitle": "Floor Broadcast // Princess Donut Network",
-  "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
-  "generated_at_utc": "2026-09-19T17:09:56.415253+00:00",
-  "floor_label": "F7",
-  "trend_label": "FALLING",
-  "threat_label": "MED",
-  "sponsor_label": "BORED",
-  "mode": "combat_recorder",
-  "headline": "Combat Recorder",
-  "encounter": "Food Court Clearance",
-  "summary": "Carl improvised. Donut judged. Mongo escalated. Several tables died heroically.",
-  "result": "Victory, debris, applause",
-  "highlight": "A tray return station was weaponized beyond intended use."
-}
+{"id":"gossip-girl","book":1,"chapter":36,"order":450,"mode":"broadcast","category":"BROADCAST DESK","headline":"A surprisingly familiar fandom.","body":"Zev and Donut discover they both know Gossip Girl. The shared interest quickly turns their official meeting into an animated conversation.","context":"CHAPTER 36","location":"FLOOR 02","floor_label":"F02","subject":"ZEV + DONUT","detail_label":"SHARED INTEREST","detail":"GOSSIP GIRL","source_id":"book1_fr","source_pages":[385,385],"source_locator":"Chapter 36; PDF pp. 385-385","schema_version":3,"title":"DUNGEON CRAWLER CARL","subtitle":"WORLD DUNGEON / BOOK ONE ARCHIVE","footer":"UNOFFICIAL FAN BROADCAST / ENGLISH STORY RECAP","generated_at_utc":"2026-09-19T17:33:53+00:00","updated_label":"17:33 UTC","book_label":"BOOK 01","archive_label":"45 / 69","source_label":"PDF P. 385","source_type_label":"BOOK 1 / FRENCH PDF","content_label":"ENGLISH RECAP / SCENE SNAPSHOT","_rotation":{"fingerprint":"a9308bbed1b8aefdaca9ba5e","remaining":[30,35,17,40,28,5,65,58,22,62,14,67,55,25,48,42,16,39,33,60,20,50,0,59,49,15,4,51,57,13,23,29,19,43,38,34,8,18,45,64,32,9,10,41,24,21,56,66,37,52,61,27,7,54,63,47,11,6,12,1,26,46,3,53,68,36,31,2]}}
