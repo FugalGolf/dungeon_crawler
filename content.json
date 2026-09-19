@@ -2,26 +2,7 @@
   "schema_version": 3,
   "title": "DUNGEON CRAWLER CARL",
   "subtitle": "WORLD DUNGEON / BOOK ONE ARCHIVE",
-  "footer": "UNOFFICIAL FAN BROADCAST / ENGLISH STORY RECAP",
-  "sources": {
-    "book1_fr": {
-      "title": "Dungeon Crawler Carl, Book 1 — French edition supplied by user",
-      "type": "primary",
-      "format": "pdf",
-      "language": "fr",
-      "filename": "Dungeon-Crawler-Carl-T1-.epub.pdf",
-      "pdf_pages": 531,
-      "sha256": "8664c2dece71f8e59357ede06cd7c75eb4337d1e174f571994f004adf2d3a6d4",
-      "reference": "PDF page numbers are one-based, counting front matter. Chapter 48 denotes the epilogue."
-    }
-  },
-  "editorial_policy": {
-    "display_language": "en",
-    "method": "Original English paraphrases of checked passages in the supplied French translation; not quotations from the English edition.",
-    "scope": "Book 1, including its epilogue. Future-floor warnings are included only as disclosed in Book 1.",
-    "names": "Descriptive English labels are used for translated items and some bosses when the exact English-edition title has not been checked.",
-    "statistics": "Values are snapshots tied to their cited scene, never live or randomized."
-  },
+  "footer": "FAN MADE",
   "cards": [
     {
       "id": "outside-with-donut",
@@ -37,13 +18,7 @@
       "floor_label": "SURFACE",
       "subject": "CARL + DONUT",
       "detail_label": "WHY THEY SURVIVE",
-      "detail": "OUTSIDE AT COLLAPSE",
-      "source_id": "book1_fr",
-      "source_pages": [
-        11,
-        14
-      ],
-      "source_locator": "Chapter 1; PDF pp. 11-14"
+      "detail": "OUTSIDE AT COLLAPSE"
     },
     {
       "id": "carl-profile",
@@ -59,13 +34,7 @@
       "floor_label": "SURFACE",
       "subject": "CARL",
       "detail_label": "BEFORE THE CRAWL",
-      "detail": "MARINE TECHNICIAN",
-      "source_id": "book1_fr",
-      "source_pages": [
-        9,
-        10
-      ],
-      "source_locator": "Chapter 1; PDF pp. 9-10"
+      "detail": "MARINE TECHNICIAN"
     },
     {
       "id": "donut-profile",
@@ -81,13 +50,7 @@
       "floor_label": "SURFACE",
       "subject": "PRINCESS DONUT",
       "detail_label": "EARTH CAREER",
-      "detail": "CHAMPION SHOW CAT",
-      "source_id": "book1_fr",
-      "source_pages": [
-        9,
-        11
-      ],
-      "source_locator": "Chapter 1; PDF pp. 9-11"
+      "detail": "CHAMPION SHOW CAT"
     },
     {
       "id": "reclamation",
@@ -103,13 +66,7 @@
       "floor_label": "SURFACE",
       "subject": "BORANT / SYNDICATE",
       "detail_label": "ANNOUNCED STRUCTURE",
-      "detail": "18 FLOORS",
-      "source_id": "book1_fr",
-      "source_pages": [
-        15,
-        17
-      ],
-      "source_locator": "Chapter 1; PDF pp. 15-17"
+      "detail": "18 FLOORS"
     },
     {
       "id": "entry-window",
@@ -125,13 +82,7 @@
       "floor_label": "SURFACE",
       "subject": "EARTH SURVIVORS",
       "detail_label": "ENTRY WINDOW",
-      "detail": "1 HOUR",
-      "source_id": "book1_fr",
-      "source_pages": [
-        16,
-        19
-      ],
-      "source_locator": "Chapter 1; PDF pp. 16-19"
+      "detail": "1 HOUR"
     },
     {
       "id": "crawler-identities",
@@ -147,13 +98,7 @@
       "floor_label": "F01",
       "subject": "CARL + DONUT",
       "detail_label": "CRAWLER IDS",
-      "detail": "4119 / 4122",
-      "source_id": "book1_fr",
-      "source_pages": [
-        26,
-        27
-      ],
-      "source_locator": "Chapter 2; PDF pp. 26-27"
+      "detail": "4119 / 4122"
     },
     {
       "id": "entry-pet-box",
@@ -169,13 +114,7 @@
       "floor_label": "F01",
       "subject": "CARL",
       "detail_label": "ENTRY REWARD",
-      "detail": "LEGENDARY PET BOX",
-      "source_id": "book1_fr",
-      "source_pages": [
-        27,
-        28
-      ],
-      "source_locator": "Chapter 2; PDF pp. 27-28"
+      "detail": "LEGENDARY PET BOX"
     },
     {
       "id": "fake-tutorial",
@@ -191,13 +130,7 @@
       "floor_label": "F01",
       "subject": "CARL + DONUT",
       "detail_label": "EQUIPMENT LOST",
-      "detail": "PINK CROCS",
-      "source_id": "book1_fr",
-      "source_pages": [
-        29,
-        29
-      ],
-      "source_locator": "Chapter 2; PDF pp. 29-29"
+      "detail": "PINK CROCS"
     },
     {
       "id": "mordecai-guide",
@@ -213,13 +146,7 @@
       "floor_label": "F01",
       "subject": "MORDECAI",
       "detail_label": "AT THIS MEETING",
-      "detail": "LEVEL 50",
-      "source_id": "book1_fr",
-      "source_pages": [
-        37,
-        39
-      ],
-      "source_locator": "Chapter 3; PDF pp. 37-39"
+      "detail": "LEVEL 50"
     },
     {
       "id": "guild-countdown",
@@ -235,13 +162,7 @@
       "floor_label": "F01",
       "subject": "TUTORIAL GUILD",
       "detail_label": "FLOOR COUNTDOWN",
-      "detail": "STILL RUNNING",
-      "source_id": "book1_fr",
-      "source_pages": [
-        37,
-        37
-      ],
-      "source_locator": "Chapter 3; PDF pp. 37-37"
+      "detail": "STILL RUNNING"
     },
     {
       "id": "reality-show",
@@ -257,13 +178,7 @@
       "floor_label": "F01",
       "subject": "BORANT",
       "detail_label": "BUSINESS MODEL",
-      "detail": "TELEVISED CRAWL",
-      "source_id": "book1_fr",
-      "source_pages": [
-        49,
-        50
-      ],
-      "source_locator": "Chapter 4; PDF pp. 49-50"
+      "detail": "TELEVISED CRAWL"
     },
     {
       "id": "safe-zone-boxes",
@@ -279,13 +194,7 @@
       "floor_label": "F01",
       "subject": "LOOT BOXES",
       "detail_label": "OPENING RESTRICTION",
-      "detail": "SAFE ZONES ONLY",
-      "source_id": "book1_fr",
-      "source_pages": [
-        70,
-        71
-      ],
-      "source_locator": "Chapter 5; PDF pp. 70-71"
+      "detail": "SAFE ZONES ONLY"
     },
     {
       "id": "goblin-box",
@@ -301,13 +210,7 @@
       "floor_label": "F01",
       "subject": "CARL",
       "detail_label": "SILVER GOBLIN BOX",
-      "detail": "5 DYNAMITE STICKS",
-      "source_id": "book1_fr",
-      "source_pages": [
-        73,
-        73
-      ],
-      "source_locator": "Chapter 5; PDF pp. 73-73"
+      "detail": "5 DYNAMITE STICKS"
     },
     {
       "id": "pet-biscuit",
@@ -323,13 +226,7 @@
       "floor_label": "F01",
       "subject": "PRINCESS DONUT",
       "detail_label": "TRANSFORMATION",
-      "detail": "ENHANCED PET BISCUIT",
-      "source_id": "book1_fr",
-      "source_pages": [
-        74,
-        76
-      ],
-      "source_locator": "Chapter 5; PDF pp. 74-76"
+      "detail": "ENHANCED PET BISCUIT"
     },
     {
       "id": "donut-speaks",
@@ -345,13 +242,7 @@
       "floor_label": "F01",
       "subject": "PRINCESS DONUT",
       "detail_label": "SYSTEM STATUS",
-      "detail": "FULL CRAWLER",
-      "source_id": "book1_fr",
-      "source_pages": [
-        83,
-        85
-      ],
-      "source_locator": "Chapter 7; PDF pp. 83-85"
+      "detail": "FULL CRAWLER"
     },
     {
       "id": "donut-stats",
@@ -367,13 +258,7 @@
       "floor_label": "F01",
       "subject": "PRINCESS DONUT",
       "detail_label": "POST-BISCUIT SNAPSHOT",
-      "detail": "25 CHA / 2 CON",
-      "source_id": "book1_fr",
-      "source_pages": [
-        83,
-        85
-      ],
-      "source_locator": "Chapter 7; PDF pp. 83-85"
+      "detail": "25 CHA / 2 CON"
     },
     {
       "id": "magic-missile",
@@ -389,13 +274,7 @@
       "floor_label": "F01",
       "subject": "PRINCESS DONUT",
       "detail_label": "SPELL LEARNED",
-      "detail": "MAGIC MISSILE",
-      "source_id": "book1_fr",
-      "source_pages": [
-        86,
-        87
-      ],
-      "source_locator": "Chapter 7; PDF pp. 86-87"
+      "detail": "MAGIC MISSILE"
     },
     {
       "id": "crown-warning",
@@ -411,13 +290,7 @@
       "floor_label": "F01",
       "subject": "PRINCESS DONUT",
       "detail_label": "WARNING ISSUED ON F1",
-      "detail": "FUTURE SUCCESSION",
-      "source_id": "book1_fr",
-      "source_pages": [
-        86,
-        88
-      ],
-      "source_locator": "Chapter 7; PDF pp. 86-88"
+      "detail": "FUTURE SUCCESSION"
     },
     {
       "id": "royal-court",
@@ -433,13 +306,7 @@
       "floor_label": "F01",
       "subject": "ROYAL COURT",
       "detail_label": "PARTY LEADER",
-      "detail": "PRINCESS DONUT",
-      "source_id": "book1_fr",
-      "source_pages": [
-        88,
-        89
-      ],
-      "source_locator": "Chapter 7; PDF pp. 88-89"
+      "detail": "PRINCESS DONUT"
     },
     {
       "id": "tally-safe-room",
@@ -455,13 +322,7 @@
       "floor_label": "F01",
       "subject": "TALLY",
       "detail_label": "POSTED ROOM PRICE",
-      "detail": "0 GOLD",
-      "source_id": "book1_fr",
-      "source_pages": [
-        105,
-        108
-      ],
-      "source_locator": "Chapter 9; PDF pp. 105-108"
+      "detail": "0 GOLD"
     },
     {
       "id": "hoarder",
@@ -477,13 +338,7 @@
       "floor_label": "F01",
       "subject": "THE HOARDER",
       "detail_label": "NEIGHBORHOOD BOSS",
-      "detail": "LEVEL 7",
-      "source_id": "book1_fr",
-      "source_pages": [
-        124,
-        127
-      ],
-      "source_locator": "Chapter 11; PDF pp. 124-127"
+      "detail": "LEVEL 7"
     },
     {
       "id": "hoarder-defeated",
@@ -499,13 +354,7 @@
       "floor_label": "F01",
       "subject": "ROYAL COURT",
       "detail_label": "ENCOUNTER RESULT",
-      "detail": "HOARDER DEFEATED",
-      "source_id": "book1_fr",
-      "source_pages": [
-        128,
-        131
-      ],
-      "source_locator": "Chapter 11; PDF pp. 128-131"
+      "detail": "HOARDER DEFEATED"
     },
     {
       "id": "boss-map",
@@ -521,13 +370,7 @@
       "floor_label": "F01",
       "subject": "BOSS REWARDS",
       "detail_label": "NAVIGATION REWARD",
-      "detail": "NEIGHBORHOOD MAP",
-      "source_id": "book1_fr",
-      "source_pages": [
-        133,
-        134
-      ],
-      "source_locator": "Chapter 12; PDF pp. 133-134"
+      "detail": "NEIGHBORHOOD MAP"
     },
     {
       "id": "torch-spell",
@@ -543,13 +386,7 @@
       "floor_label": "F01",
       "subject": "PRINCESS DONUT",
       "detail_label": "SPELL LEARNED",
-      "detail": "TORCH",
-      "source_id": "book1_fr",
-      "source_pages": [
-        135,
-        135
-      ],
-      "source_locator": "Chapter 12; PDF pp. 135-135"
+      "detail": "TORCH"
     },
     {
       "id": "goblin-bargain",
@@ -565,13 +402,7 @@
       "floor_label": "F01",
       "subject": "RORY + LORELAI",
       "detail_label": "BARGAIN",
-      "detail": "GOBLIN TRANSPORT",
-      "source_id": "book1_fr",
-      "source_pages": [
-        163,
-        164
-      ],
-      "source_locator": "Chapter 15; PDF pp. 163-164"
+      "detail": "GOBLIN TRANSPORT"
     },
     {
       "id": "mob-stairs",
@@ -587,13 +418,7 @@
       "floor_label": "F01",
       "subject": "RORY",
       "detail_label": "MOB RESTRICTION",
-      "detail": "CANNOT DESCEND",
-      "source_id": "book1_fr",
-      "source_pages": [
-        163,
-        164
-      ],
-      "source_locator": "Chapter 15; PDF pp. 163-164"
+      "detail": "CANNOT DESCEND"
     },
     {
       "id": "goblin-aftermath",
@@ -609,13 +434,7 @@
       "floor_label": "F01",
       "subject": "GOBLIN BOSS ROOM",
       "detail_label": "AFTERMATH",
-      "detail": "CIVILIANS KILLED",
-      "source_id": "book1_fr",
-      "source_pages": [
-        175,
-        177
-      ],
-      "source_locator": "Chapter 18; PDF pp. 175-177"
+      "detail": "CIVILIANS KILLED"
     },
     {
       "id": "frank-lie",
@@ -631,13 +450,7 @@
       "floor_label": "F01",
       "subject": "FRANK Q + MAGGIE MY",
       "detail_label": "PARTNER STATUS",
-      "detail": "ALIVE AND HIDING",
-      "source_id": "book1_fr",
-      "source_pages": [
-        193,
-        197
-      ],
-      "source_locator": "Chapter 20; PDF pp. 193-197"
+      "detail": "ALIVE AND HIDING"
     },
     {
       "id": "safe-room-ambush",
@@ -653,13 +466,7 @@
       "floor_label": "F01",
       "subject": "CARL + DONUT",
       "detail_label": "FIRST VIOLENCE PENALTY",
-      "detail": "TEMPORARY FREEZE",
-      "source_id": "book1_fr",
-      "source_pages": [
-        196,
-        198
-      ],
-      "source_locator": "Chapter 20; PDF pp. 196-198"
+      "detail": "TEMPORARY FREEZE"
     },
     {
       "id": "meadowlark",
@@ -675,13 +482,7 @@
       "floor_label": "F01",
       "subject": "TEAM MEADOW LARK",
       "detail_label": "ORIGIN",
-      "detail": "CARE HOME EVACUATION",
-      "source_id": "book1_fr",
-      "source_pages": [
-        214,
-        218
-      ],
-      "source_locator": "Chapter 22; PDF pp. 214-218"
+      "detail": "CARE HOME EVACUATION"
     },
     {
       "id": "imani-skulls",
@@ -697,13 +498,7 @@
       "floor_label": "F01",
       "subject": "IMANI",
       "detail_label": "PROFILE MARKERS",
-      "detail": "12 CRAWLER KILLS",
-      "source_id": "book1_fr",
-      "source_pages": [
-        216,
-        221
-      ],
-      "source_locator": "Chapter 22; PDF pp. 216-221"
+      "detail": "12 CRAWLER KILLS"
     },
     {
       "id": "waffle-house",
@@ -719,13 +514,7 @@
       "floor_label": "F01",
       "subject": "MEADOW LARK RESIDENTS",
       "detail_label": "DECISION",
-      "detail": "REMAIN IN SAFE ROOM",
-      "source_id": "book1_fr",
-      "source_pages": [
-        220,
-        220
-      ],
-      "source_locator": "Chapter 22; PDF pp. 220-220"
+      "detail": "REMAIN IN SAFE ROOM"
     },
     {
       "id": "gym-boss",
@@ -741,13 +530,7 @@
       "floor_label": "F01",
       "subject": "GYM BOSS",
       "detail_label": "NEIGHBORHOOD BOSS",
-      "detail": "LEVEL 9",
-      "source_id": "book1_fr",
-      "source_pages": [
-        234,
-        241
-      ],
-      "source_locator": "Chapter 24; PDF pp. 234-241"
+      "detail": "LEVEL 9"
     },
     {
       "id": "rolling-boss",
@@ -763,13 +546,7 @@
       "floor_label": "F01",
       "subject": "AREA BOSS",
       "detail_label": "COMBAT PHASE",
-      "detail": "FORMATION BREAKS",
-      "source_id": "book1_fr",
-      "source_pages": [
-        258,
-        272
-      ],
-      "source_locator": "Chapter 26; PDF pp. 258-272"
+      "detail": "FORMATION BREAKS"
     },
     {
       "id": "stairs-cleared",
@@ -785,13 +562,7 @@
       "floor_label": "F01",
       "subject": "CARL + DONUT",
       "detail_label": "RESCUE OBJECTIVE",
-      "detail": "SCOUT FLOOR 2",
-      "source_id": "book1_fr",
-      "source_pages": [
-        273,
-        280
-      ],
-      "source_locator": "Chapter 27; PDF pp. 273-280"
+      "detail": "SCOUT FLOOR 2"
     },
     {
       "id": "odette-interview",
@@ -807,13 +578,7 @@
       "floor_label": "STUDIO",
       "subject": "ODETTE'S SHOW",
       "detail_label": "BETWEEN FLOORS",
-      "detail": "FIRST INTERVIEW",
-      "source_id": "book1_fr",
-      "source_pages": [
-        286,
-        290
-      ],
-      "source_locator": "Chapter 28; PDF pp. 286-290"
+      "detail": "FIRST INTERVIEW"
     },
     {
       "id": "odette-warning",
@@ -829,13 +594,7 @@
       "floor_label": "STUDIO",
       "subject": "PRINCESS DONUT",
       "detail_label": "ODETTE'S ADVICE",
-      "detail": "KEEP THE CAT",
-      "source_id": "book1_fr",
-      "source_pages": [
-        301,
-        302
-      ],
-      "source_locator": "Chapter 29; PDF pp. 301-302"
+      "detail": "KEEP THE CAT"
     },
     {
       "id": "floor-two",
@@ -851,13 +610,7 @@
       "floor_label": "F02",
       "subject": "CARL + DONUT",
       "detail_label": "NEXT OBJECTIVE",
-      "detail": "STAIRS TO FLOOR 3",
-      "source_id": "book1_fr",
-      "source_pages": [
-        307,
-        309
-      ],
-      "source_locator": "Chapter 30; PDF pp. 307-309"
+      "detail": "STAIRS TO FLOOR 3"
     },
     {
       "id": "cleaner-larvae",
@@ -873,13 +626,7 @@
       "floor_label": "F02",
       "subject": "FLOOR 2 LARVAE",
       "detail_label": "FOOD SOURCE",
-      "detail": "CORPSES",
-      "source_id": "book1_fr",
-      "source_pages": [
-        309,
-        312
-      ],
-      "source_locator": "Chapter 30; PDF pp. 309-312"
+      "detail": "CORPSES"
     },
     {
       "id": "krakaren",
@@ -895,13 +642,7 @@
       "floor_label": "F02",
       "subject": "KRAKAREN CLONE",
       "detail_label": "NEIGHBORHOOD BOSS",
-      "detail": "LEVEL 10",
-      "source_id": "book1_fr",
-      "source_pages": [
-        356,
-        360
-      ],
-      "source_locator": "Chapter 34; PDF pp. 356-360"
+      "detail": "LEVEL 10"
     },
     {
       "id": "donut-rescue",
@@ -917,13 +658,7 @@
       "floor_label": "F02",
       "subject": "PRINCESS DONUT",
       "detail_label": "CARL'S RESCUER",
-      "detail": "DONUT",
-      "source_id": "book1_fr",
-      "source_pages": [
-        364,
-        365
-      ],
-      "source_locator": "Chapter 35; PDF pp. 364-365"
+      "detail": "DONUT"
     },
     {
       "id": "grooming-brush",
@@ -939,13 +674,7 @@
       "floor_label": "F02",
       "subject": "PRINCESS DONUT",
       "detail_label": "BRUSH BONUS",
-      "detail": "+2 CONSTITUTION",
-      "source_id": "book1_fr",
-      "source_pages": [
-        371,
-        371
-      ],
-      "source_locator": "Chapter 35; PDF pp. 371-371"
+      "detail": "+2 CONSTITUTION"
     },
     {
       "id": "six-day-floor",
@@ -961,13 +690,7 @@
       "floor_label": "F02",
       "subject": "FLOOR 2",
       "detail_label": "ACTUAL TIME ALLOWED",
-      "detail": "6 DAYS",
-      "source_id": "book1_fr",
-      "source_pages": [
-        372,
-        372
-      ],
-      "source_locator": "Chapter 35; PDF pp. 372-372"
+      "detail": "6 DAYS"
     },
     {
       "id": "zev",
@@ -983,13 +706,7 @@
       "floor_label": "F02",
       "subject": "ZEV",
       "detail_label": "ASSIGNED ROLE",
-      "detail": "PUBLIC RELATIONS",
-      "source_id": "book1_fr",
-      "source_pages": [
-        378,
-        381
-      ],
-      "source_locator": "Chapter 36; PDF pp. 378-381"
+      "detail": "PUBLIC RELATIONS"
     },
     {
       "id": "gossip-girl",
@@ -1005,13 +722,7 @@
       "floor_label": "F02",
       "subject": "ZEV + DONUT",
       "detail_label": "SHARED INTEREST",
-      "detail": "GOSSIP GIRL",
-      "source_id": "book1_fr",
-      "source_pages": [
-        385,
-        385
-      ],
-      "source_locator": "Chapter 36; PDF pp. 385-385"
+      "detail": "GOSSIP GIRL"
     },
     {
       "id": "larva-cap",
@@ -1027,13 +738,7 @@
       "floor_label": "F02",
       "subject": "CLEANUP SYSTEM",
       "detail_label": "QUADRANT CAP HERE",
-      "detail": "5,000 LARVAE",
-      "source_id": "book1_fr",
-      "source_pages": [
-        389,
-        391
-      ],
-      "source_locator": "Chapter 37; PDF pp. 389-391"
+      "detail": "5,000 LARVAE"
     },
     {
       "id": "rage-elemental",
@@ -1049,13 +754,7 @@
       "floor_label": "F02",
       "subject": "RAGE ELEMENTAL",
       "detail_label": "ENEMY LEVEL",
-      "detail": "93",
-      "source_id": "book1_fr",
-      "source_pages": [
-        397,
-        399
-      ],
-      "source_locator": "Chapter 38; PDF pp. 397-399"
+      "detail": "93"
     },
     {
       "id": "yolanda",
@@ -1071,13 +770,7 @@
       "floor_label": "F02",
       "subject": "YOLANDA + RANDALL",
       "detail_label": "MEMORIAL",
-      "detail": "LOST ON FLOOR 2",
-      "source_id": "book1_fr",
-      "source_pages": [
-        400,
-        401
-      ],
-      "source_locator": "Chapter 38; PDF pp. 400-401"
+      "detail": "LOST ON FLOOR 2"
     },
     {
       "id": "elle-rescue",
@@ -1093,13 +786,7 @@
       "floor_label": "F02",
       "subject": "ELLE McGIBBONS",
       "detail_label": "RESCUE RESULT",
-      "detail": "SAFE ROOM REACHED",
-      "source_id": "book1_fr",
-      "source_pages": [
-        401,
-        404
-      ],
-      "source_locator": "Chapter 38; PDF pp. 401-404"
+      "detail": "SAFE ROOM REACHED"
     },
     {
       "id": "closing-safe-rooms",
@@ -1115,13 +802,7 @@
       "floor_label": "F02",
       "subject": "SYSTEM RULE CHANGE",
       "detail_label": "CLOSURE OFFSET",
-      "detail": "1 HOUR EARLY",
-      "source_id": "book1_fr",
-      "source_pages": [
-        414,
-        414
-      ],
-      "source_locator": "Chapter 39; PDF pp. 414-414"
+      "detail": "1 HOUR EARLY"
     },
     {
       "id": "moab-launcher",
@@ -1137,13 +818,7 @@
       "floor_label": "F02",
       "subject": "CARL + DONUT",
       "detail_label": "DEVICE FUNCTION",
-      "detail": "BOMB LAUNCHER",
-      "source_id": "book1_fr",
-      "source_pages": [
-        417,
-        423
-      ],
-      "source_locator": "Chapter 40; PDF pp. 417-423"
+      "detail": "BOMB LAUNCHER"
     },
     {
       "id": "elemental-staircase",
@@ -1159,13 +834,7 @@
       "floor_label": "F02",
       "subject": "RAGE ELEMENTAL",
       "detail_label": "EXPERIENCE AWARDED",
-      "detail": "NONE",
-      "source_id": "book1_fr",
-      "source_pages": [
-        429,
-        432
-      ],
-      "source_locator": "Chapter 40; PDF pp. 429-432"
+      "detail": "NONE"
     },
     {
       "id": "mukta-switch",
@@ -1181,13 +850,7 @@
       "floor_label": "STUDIO",
       "subject": "MUKTA",
       "detail_label": "NEW DESTINATION",
-      "detail": "DEATH WATCH",
-      "source_id": "book1_fr",
-      "source_pages": [
-        439,
-        443
-      ],
-      "source_locator": "Chapter 41; PDF pp. 439-443"
+      "detail": "DEATH WATCH"
     },
     {
       "id": "death-watch",
@@ -1203,13 +866,7 @@
       "floor_label": "STUDIO",
       "subject": "CARL",
       "detail_label": "LIVE CONFRONTATION",
-      "detail": "DEATH WATCH",
-      "source_id": "book1_fr",
-      "source_pages": [
-        453,
-        456
-      ],
-      "source_locator": "Chapter 42; PDF pp. 453-456"
+      "detail": "DEATH WATCH"
     },
     {
       "id": "yvette-reveal",
@@ -1225,13 +882,7 @@
       "floor_label": "STUDIO",
       "subject": "YVETTE",
       "detail_label": "REVELATION",
-      "detail": "UNINTENDED VICTIM",
-      "source_id": "book1_fr",
-      "source_pages": [
-        464,
-        468
-      ],
-      "source_locator": "Chapter 43; PDF pp. 464-468"
+      "detail": "UNINTENDED VICTIM"
     },
     {
       "id": "boots-gift",
@@ -1247,13 +898,7 @@
       "floor_label": "STUDIO",
       "subject": "CARL",
       "detail_label": "GIFT RECEIVED",
-      "detail": "BOOTS + SOCKS",
-      "source_id": "book1_fr",
-      "source_pages": [
-        470,
-        471
-      ],
-      "source_locator": "Chapter 43; PDF pp. 470-471"
+      "detail": "BOOTS + SOCKS"
     },
     {
       "id": "tracking-gift",
@@ -1269,13 +914,7 @@
       "floor_label": "STUDIO",
       "subject": "FRANK Q + MAGGIE MY",
       "detail_label": "POTION'S STATED EFFECT",
-      "detail": "FIND CRAWLER 15",
-      "source_id": "book1_fr",
-      "source_pages": [
-        471,
-        472
-      ],
-      "source_locator": "Chapter 43; PDF pp. 471-472"
+      "detail": "FIND CRAWLER 15"
     },
     {
       "id": "zev-returns",
@@ -1291,13 +930,7 @@
       "floor_label": "F02",
       "subject": "ZEV",
       "detail_label": "ADMIN STATUS",
-      "detail": "REINSTATED",
-      "source_id": "book1_fr",
-      "source_pages": [
-        479,
-        480
-      ],
-      "source_locator": "Chapter 44; PDF pp. 479-480"
+      "detail": "REINSTATED"
     },
     {
       "id": "feed-dingos",
@@ -1313,13 +946,7 @@
       "floor_label": "F02",
       "subject": "CAPTIVE DINGOS",
       "detail_label": "DINGOS FED",
-      "detail": "14",
-      "source_id": "book1_fr",
-      "source_pages": [
-        488,
-        494
-      ],
-      "source_locator": "Chapter 45; PDF pp. 488-494"
+      "detail": "14"
     },
     {
       "id": "ralph",
@@ -1335,13 +962,7 @@
       "floor_label": "F02",
       "subject": "RALPH",
       "detail_label": "NEIGHBORHOOD BOSS",
-      "detail": "LEVEL 11",
-      "source_id": "book1_fr",
-      "source_pages": [
-        492,
-        497
-      ],
-      "source_locator": "Chapter 45; PDF pp. 492-497"
+      "detail": "LEVEL 11"
     },
     {
       "id": "menagerie-key",
@@ -1357,13 +978,7 @@
       "floor_label": "F02",
       "subject": "PET REWARD ROOM",
       "detail_label": "NON-KOBOLD USE LIMIT",
-      "detail": "ONE CAGE",
-      "source_id": "book1_fr",
-      "source_pages": [
-        499,
-        502
-      ],
-      "source_locator": "Chapter 46; PDF pp. 499-502"
+      "detail": "ONE CAGE"
     },
     {
       "id": "mongo-arrives",
@@ -1379,13 +994,7 @@
       "floor_label": "F02",
       "subject": "MONGO",
       "detail_label": "INITIAL BOND STATUS",
-      "detail": "NOT YET BONDED",
-      "source_id": "book1_fr",
-      "source_pages": [
-        501,
-        504
-      ],
-      "source_locator": "Chapter 46; PDF pp. 501-504"
+      "detail": "NOT YET BONDED"
     },
     {
       "id": "mongo-ejected",
@@ -1401,13 +1010,7 @@
       "floor_label": "F02",
       "subject": "MONGO",
       "detail_label": "SAFE-ROOM VIOLATION",
-      "detail": "TELEPORTED OUT",
-      "source_id": "book1_fr",
-      "source_pages": [
-        506,
-        510
-      ],
-      "source_locator": "Chapter 47; PDF pp. 506-510"
+      "detail": "TELEPORTED OUT"
     },
     {
       "id": "slingshot-practice",
@@ -1423,13 +1026,7 @@
       "floor_label": "F02",
       "subject": "CARL",
       "detail_label": "SKILL REACHED",
-      "detail": "SLINGSHOT 5",
-      "source_id": "book1_fr",
-      "source_pages": [
-        505,
-        506
-      ],
-      "source_locator": "Chapter 47; PDF pp. 505-506"
+      "detail": "SLINGSHOT 5"
     },
     {
       "id": "mongo-bond",
@@ -1445,13 +1042,7 @@
       "floor_label": "F02",
       "subject": "MONGO + DONUT",
       "detail_label": "BOND STATUS",
-      "detail": "OFFICIAL PARTY PET",
-      "source_id": "book1_fr",
-      "source_pages": [
-        515,
-        516
-      ],
-      "source_locator": "Chapter 47; PDF pp. 515-516"
+      "detail": "OFFICIAL PARTY PET"
     },
     {
       "id": "third-floor-ahead",
@@ -1467,13 +1058,7 @@
       "floor_label": "F02",
       "subject": "CARL + DONUT",
       "detail_label": "NEXT MILESTONE",
-      "detail": "RACE + CLASS",
-      "source_id": "book1_fr",
-      "source_pages": [
-        507,
-        508
-      ],
-      "source_locator": "Chapter 47; PDF pp. 507-508"
+      "detail": "RACE + CLASS"
     },
     {
       "id": "agatha-mystery",
@@ -1489,13 +1074,7 @@
       "floor_label": "F02",
       "subject": "AGATHA",
       "detail_label": "STATUS AT BOOK 1 END",
-      "detail": "UNRESOLVED",
-      "source_id": "book1_fr",
-      "source_pages": [
-        519,
-        520
-      ],
-      "source_locator": "Chapter 47; PDF pp. 519-520"
+      "detail": "UNRESOLVED"
     },
     {
       "id": "third-floor-descent",
@@ -1511,13 +1090,7 @@
       "floor_label": "F02",
       "subject": "ROYAL COURT",
       "detail_label": "DESTINATION",
-      "detail": "FLOOR 3",
-      "source_id": "book1_fr",
-      "source_pages": [
-        520,
-        521
-      ],
-      "source_locator": "Chapter 47; PDF pp. 520-521"
+      "detail": "FLOOR 3"
     },
     {
       "id": "mongo-reveal",
@@ -1533,13 +1106,7 @@
       "floor_label": "STUDIO",
       "subject": "MONGO",
       "detail_label": "ODETTE'S IDENTIFICATION",
-      "detail": "VELOCIRAPTOR",
-      "source_id": "book1_fr",
-      "source_pages": [
-        525,
-        527
-      ],
-      "source_locator": "Epilogue; PDF pp. 525-527"
+      "detail": "VELOCIRAPTOR"
     }
   ]
 }
