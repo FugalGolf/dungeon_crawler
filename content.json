@@ -1,1122 +1,1545 @@
 {
-  "title": "Dungeon Crawl Feed",
-  "subtitle": "Floor Broadcast // Princess Donut Network",
-  "footer": "Dungeon management denies responsibility for curses, lava, celebrity felines, emotional damage, or surprise quests.",
+  "schema_version": 3,
+  "title": "DUNGEON CRAWLER CARL",
+  "subtitle": "WORLD DUNGEON / BOOK ONE ARCHIVE",
+  "footer": "UNOFFICIAL FAN BROADCAST / ENGLISH STORY RECAP",
+  "sources": {
+    "book1_fr": {
+      "title": "Dungeon Crawler Carl, Book 1 — French edition supplied by user",
+      "type": "primary",
+      "format": "pdf",
+      "language": "fr",
+      "filename": "Dungeon-Crawler-Carl-T1-.epub.pdf",
+      "pdf_pages": 531,
+      "sha256": "8664c2dece71f8e59357ede06cd7c75eb4337d1e174f571994f004adf2d3a6d4",
+      "reference": "PDF page numbers are one-based, counting front matter. Chapter 48 denotes the epilogue."
+    }
+  },
+  "editorial_policy": {
+    "display_language": "en",
+    "method": "Original English paraphrases of checked passages in the supplied French translation; not quotations from the English edition.",
+    "scope": "Book 1, including its epilogue. Future-floor warnings are included only as disclosed in Book 1.",
+    "names": "Descriptive English labels are used for translated items and some bosses when the exact English-edition title has not been checked.",
+    "statistics": "Values are snapshots tied to their cited scene, never live or randomized."
+  },
   "cards": [
     {
-      "mode": "quote",
-      "headline": "Survivor's Note",
-      "speaker": "Carl",
-      "quote": "You will not break me.",
-      "flavor": "Filed after explosions, blood loss, and one very bad idea."
-    },
-    {
-      "mode": "quote",
-      "headline": "Operational Update",
-      "speaker": "Carl",
-      "quote": "Every floor finds a new way to be worse.",
-      "flavor": "Assessment delivered while already sprinting."
-    },
-    {
-      "mode": "famous_line",
-      "headline": "Royal Outrage",
-      "speaker": "Princess Donut",
-      "quote": "Mongo is appalled!",
-      "flavor": "A timeless judgment suitable for nearly any situation."
-    },
-    {
-      "mode": "famous_line",
-      "headline": "Formal Complaint",
-      "speaker": "Princess Donut",
-      "quote": "This is unacceptable. Completely unacceptable.",
-      "flavor": "Issued with full sovereign authority."
-    },
-    {
-      "mode": "quest",
-      "headline": "Active Quest",
-      "quest_name": "Escort the Screaming Merchant",
-      "difficulty": "Catastrophic",
-      "objective": "Move one unstable merchant across the food court without waking the clown nest.",
-      "reward": "3200 XP, 410 gold, 1 mystery box",
-      "warning": "Merchant may scream, bargain, and attract knives."
-    },
-    {
-      "mode": "quest",
-      "headline": "Bonus Objective",
-      "quest_name": "Feed Mongo Properly",
-      "difficulty": "Urgent",
-      "objective": "Acquire acceptable monster-grade snacks before Mongo samples the locals.",
-      "reward": "1500 XP, pet approval, reduced chaos",
-      "warning": "Substitutions will be judged harshly."
-    },
-    {
-      "mode": "boss_reward",
-      "headline": "Boss Rewards",
-      "boss_name": "Gorthok the Consumer Prince",
-      "boss_status": "Defeated messily",
-      "rewards": [
-        "Jeweled Collar of Minor Majesty",
-        "860 gold",
-        "Rare bomb component",
-        "Reputation +12 with questionable factions"
+      "id": "outside-with-donut",
+      "book": 1,
+      "chapter": 1,
+      "order": 10,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "One escaped cat. Two survivors.",
+      "body": "Donut slips out of the window. Carl goes outside to retrieve her, leaving both of them clear of the building when it collapses.",
+      "context": "CHAPTER 01",
+      "location": "SURFACE",
+      "floor_label": "SURFACE",
+      "subject": "CARL + DONUT",
+      "detail_label": "WHY THEY SURVIVE",
+      "detail": "OUTSIDE AT COLLAPSE",
+      "source_id": "book1_fr",
+      "source_pages": [
+        11,
+        14
       ],
-      "bonus": "Audience delight increased by 18%."
+      "source_locator": "Chapter 1; PDF pp. 11-14"
     },
     {
-      "mode": "boss_reward",
-      "headline": "Boss Rewards",
-      "boss_name": "King Discountus",
-      "boss_status": "Crowned into the pavement",
-      "rewards": [
-        "Crown of Aggressive Savings",
-        "1500 gold",
-        "Bulk ammo coupon",
-        "Title: Pricebreaker"
+      "id": "carl-profile",
+      "book": 1,
+      "chapter": 1,
+      "order": 20,
+      "mode": "dossier",
+      "category": "CRAWLER DOSSIER",
+      "headline": "Marine tech. Reluctant hero.",
+      "body": "Carl is a 27-year-old Coast Guard veteran working on boat electrical systems in Seattle. He was looking after his ex-girlfriend's cat.",
+      "context": "CHAPTER 01",
+      "location": "SURFACE",
+      "floor_label": "SURFACE",
+      "subject": "CARL",
+      "detail_label": "BEFORE THE CRAWL",
+      "detail": "MARINE TECHNICIAN",
+      "source_id": "book1_fr",
+      "source_pages": [
+        9,
+        10
       ],
-      "bonus": "One merchant now fears you on sight."
+      "source_locator": "Chapter 1; PDF pp. 9-10"
     },
     {
-      "mode": "store_price",
-      "headline": "Store Prices",
-      "shop_name": "Goblin Bazaar Express",
-      "items": [
-        { "name": "Health Potion", "price": 85 },
-        { "name": "Exploding Chicken Skewer", "price": 42 },
-        { "name": "Trap Disarm Kit", "price": 130 },
-        { "name": "Royal Cat Brush", "price": 999 },
-        { "name": "Questionable Meat Wrap", "price": 17 }
+      "id": "donut-profile",
+      "book": 1,
+      "chapter": 1,
+      "order": 30,
+      "mode": "dossier",
+      "category": "CRAWLER DOSSIER",
+      "headline": "Royalty has paperwork.",
+      "body": "Princess Donut the Queen Anne Chonk is Beatrice's prizewinning tortoiseshell Persian. Her trophies and photographs fill a room.",
+      "context": "CHAPTER 01",
+      "location": "SURFACE",
+      "floor_label": "SURFACE",
+      "subject": "PRINCESS DONUT",
+      "detail_label": "EARTH CAREER",
+      "detail": "CHAMPION SHOW CAT",
+      "source_id": "book1_fr",
+      "source_pages": [
+        9,
+        11
       ],
-      "note": "All sales final. Screaming at staff incurs a handling fee."
+      "source_locator": "Chapter 1; PDF pp. 9-11"
     },
     {
-      "mode": "store_price",
-      "headline": "Goblin Market Deals",
-      "shop_name": "Bombs & Feelings",
-      "items": [
-        { "name": "Basic Fuse Bundle", "price": 40 },
-        { "name": "Sticky Blast Gel", "price": 165 },
-        { "name": "Shrapnel Capsule", "price": 95 },
-        { "name": "Timer Beetle", "price": 130 },
-        { "name": "Apology Card", "price": 5 }
+      "id": "reclamation",
+      "book": 1,
+      "chapter": 1,
+      "order": 40,
+      "mode": "broadcast",
+      "category": "BROADCAST DESK",
+      "headline": "Your planet has been claimed.",
+      "body": "Borant announces Earth's reclamation under Syndicate rules. Survivors are offered entry into an eighteen-floor World Dungeon.",
+      "context": "CHAPTER 01",
+      "location": "SURFACE",
+      "floor_label": "SURFACE",
+      "subject": "BORANT / SYNDICATE",
+      "detail_label": "ANNOUNCED STRUCTURE",
+      "detail": "18 FLOORS",
+      "source_id": "book1_fr",
+      "source_pages": [
+        15,
+        17
       ],
-      "note": "Bundle discounts available after verified destruction."
+      "source_locator": "Chapter 1; PDF pp. 15-17"
     },
     {
-      "mode": "receipt",
-      "headline": "Dungeon Receipt",
-      "customer": "Carl & Princess Donut",
-      "status": "Alive, irritated, and under-tipped",
-      "line_items": [
-        { "name": "Goblin Teeth", "qty": 14, "value": 84 },
-        { "name": "Exploded Potion Refund", "qty": 1, "value": 37 },
-        { "name": "Suspicious Meat Wrap", "qty": 2, "value": 26 },
-        { "name": "Boss Room Gratuity", "qty": 1, "value": 666 },
-        { "name": "Emotional Damages", "qty": 1, "value": 1029 }
+      "id": "entry-window",
+      "book": 1,
+      "chapter": 1,
+      "order": 50,
+      "mode": "rule",
+      "category": "DUNGEON PROTOCOL",
+      "headline": "The entrance will not wait.",
+      "body": "The initial announcement allows one hour to enter. With Seattle freezing and shelter gone, Carl runs toward a warm, glowing dungeon entrance.",
+      "context": "CHAPTER 01",
+      "location": "SURFACE",
+      "floor_label": "SURFACE",
+      "subject": "EARTH SURVIVORS",
+      "detail_label": "ENTRY WINDOW",
+      "detail": "1 HOUR",
+      "source_id": "book1_fr",
+      "source_pages": [
+        16,
+        19
       ],
-      "gold_total": 1842,
-      "xp_gained": 9200,
-      "warning": "No refunds after floor collapse."
+      "source_locator": "Chapter 1; PDF pp. 16-19"
     },
     {
-      "mode": "achievement",
-      "headline": "Achievement Unlocked",
-      "achievement_name": "Still Not Dead",
-      "rarity": "Uncommon",
-      "effect": "+5 morale, +1 audience sympathy, +0 actual safety",
-      "flavor": "Awarded for surviving a situation clearly designed by a lunatic."
-    },
-    {
-      "mode": "achievement",
-      "headline": "Achievement Unlocked",
-      "achievement_name": "Mongo Approved",
-      "rarity": "Epic",
-      "effect": "Pet loyalty boosted, fear radius widened",
-      "flavor": "A rare honor accompanied by property damage."
-    },
-    {
-      "mode": "broadcast_alert",
-      "headline": "Dungeon Broadcast Alert",
-      "alert_type": "System Warning",
-      "message": "A sponsored slaughter event will begin in 11 minutes. Please die entertainingly.",
-      "severity": "High",
-      "advisory": "Audience ratings are doubled during public dismemberment."
-    },
-    {
-      "mode": "broadcast_alert",
-      "headline": "Dungeon Broadcast Alert",
-      "alert_type": "Floor Event",
-      "message": "The escalators are now carnivorous. Avoid upward travel unless armed.",
-      "severity": "Severe",
-      "advisory": "Management recommends screaming with confidence."
-    },
-    {
-      "mode": "loot_drop",
-      "headline": "Loot Drop",
-      "loot_name": "Box of Dubious Triumph",
-      "rarity": "Rare",
-      "contents": "Bomb parts, jerky, 220 gold, one passive-aggressive note",
-      "flavor": "The box hums like it disapproves of your choices."
-    },
-    {
-      "mode": "loot_drop",
-      "headline": "Loot Drop",
-      "loot_name": "Royal Audience Crate",
-      "rarity": "Epic",
-      "contents": "Prestige collar gem, luxury treats, upgrade token",
-      "flavor": "Princess-grade rewards for maximum spectacle."
-    },
-    {
-      "mode": "audience_meter",
-      "headline": "Audience Popularity",
-      "rating": "8.7 / 10",
-      "trend": "Rising",
-      "reason": "Recent explosions, sarcasm, and cat-based leadership improved engagement.",
-      "bonus": "Sponsor interest +6%"
-    },
-    {
-      "mode": "audience_meter",
-      "headline": "Audience Popularity",
-      "rating": "6.1 / 10",
-      "trend": "Volatile",
-      "reason": "Viewers enjoyed the violence but disliked the inventory management segment.",
-      "bonus": "Crowd pity +2%"
-    },
-    {
-      "mode": "damage_report",
-      "headline": "Carl Damage Report",
-      "condition": "Walking wounded",
-      "hp_state": "Bad but functional",
-      "injuries": [
-        "Bruised ribs",
-        "Singed eyebrows",
-        "Shrapnel scratches",
-        "Existential fatigue"
+      "id": "crawler-identities",
+      "book": 1,
+      "chapter": 2,
+      "order": 60,
+      "mode": "dossier",
+      "category": "CRAWLER DOSSIER",
+      "headline": "The cat registered first.",
+      "body": "Donut is crawler 4119. Carl is crawler 4122. Their initial profiles have no class; race and class selection comes at the third floor.",
+      "context": "CHAPTER 02",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "CARL + DONUT",
+      "detail_label": "CRAWLER IDS",
+      "detail": "4119 / 4122",
+      "source_id": "book1_fr",
+      "source_pages": [
+        26,
+        27
       ],
-      "note": "Recommended treatment: sleep, revenge, and antiseptic."
+      "source_locator": "Chapter 2; PDF pp. 26-27"
     },
     {
-      "mode": "damage_report",
-      "headline": "Carl Damage Report",
-      "condition": "Operational rage",
-      "hp_state": "Technically alive",
-      "injuries": [
-        "Knife graze",
-        "Acid splash on boot",
-        "Shoulder strain",
-        "General disgust"
+      "id": "entry-pet-box",
+      "book": 1,
+      "chapter": 2,
+      "order": 70,
+      "mode": "loot",
+      "category": "LOOT ARCHIVE",
+      "headline": "First cat through the door.",
+      "body": "Carl receives a legendary pet box for being the first crawler to enter with a cat. His other entry achievements award additional boxes.",
+      "context": "CHAPTER 02",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "CARL",
+      "detail_label": "ENTRY REWARD",
+      "detail": "LEGENDARY PET BOX",
+      "source_id": "book1_fr",
+      "source_pages": [
+        27,
+        28
       ],
-      "note": "Condition improves when enemies explode nearby."
+      "source_locator": "Chapter 2; PDF pp. 27-28"
     },
     {
-      "mode": "mongo_status",
-      "headline": "Mongo Status",
-      "mood": "Appalled",
-      "energy": "Maximum",
-      "diet": "Acceptable but judged",
-      "threat": "Significant",
-      "note": "Do not stand between Mongo and snack-sized enemies."
-    },
-    {
-      "mode": "mongo_status",
-      "headline": "Mongo Status",
-      "mood": "Enthusiastic",
-      "energy": "Unwise",
-      "diet": "Seeking upgrades",
-      "threat": "Catastrophic",
-      "note": "Mongo would like it known that this is everyone else's fault."
-    },
-    {
-      "mode": "showrunner_notice",
-      "headline": "AI Showrunner Notice",
-      "showrunner": "Bored Entertainment Cluster 9",
-      "message": "Your recent behavior tests well with the 18-34 bloodthirst demographic.",
-      "directive": "Maintain momentum. Betray someone photogenically if possible."
-    },
-    {
-      "mode": "showrunner_notice",
-      "headline": "AI Showrunner Notice",
-      "showrunner": "Content Optimization Nexus",
-      "message": "Viewer retention dips when you shop too carefully.",
-      "directive": "Please combine purchasing with panic."
-    },
-    {
-      "mode": "death_odds",
-      "headline": "Today's Death Odds",
-      "survival": "12%",
-      "trend": "Falling",
-      "reason": "Explosive mishaps and poor decisions.",
-      "advice": "Running away is statistically underused."
-    },
-    {
-      "mode": "death_odds",
-      "headline": "Today's Death Odds",
-      "survival": "21%",
-      "trend": "Unstable",
-      "reason": "Three active bosses and a lava escalator.",
-      "advice": "Avoid vertical movement."
-    },
-    {
-      "mode": "death_odds",
-      "headline": "Today's Death Odds",
-      "survival": "8%",
-      "trend": "Catastrophic",
-      "reason": "The floor AI is bored.",
-      "advice": "Entertain it or die tired."
-    },
-    {
-      "mode": "death_odds",
-      "headline": "Today's Death Odds",
-      "survival": "33%",
-      "trend": "Improving",
-      "reason": "Several competitors already exploded.",
-      "advice": "Stay behind slower contestants."
-    },
-    {
-      "mode": "death_odds",
-      "headline": "Today's Death Odds",
-      "survival": "5%",
-      "trend": "Very bad",
-      "reason": "Clown biome activation detected.",
-      "advice": "Never trust balloons."
-    },
-    {
-      "mode": "sponsor_message",
-      "headline": "Sponsor Message",
-      "sponsor": "Explodium™",
-      "message": "When subtlety fails, use more explosions.",
-      "offer": "Use code BOOM for +5% blast radius."
-    },
-    {
-      "mode": "sponsor_message",
-      "headline": "Sponsor Message",
-      "sponsor": "Goblin Meal Kits",
-      "message": "Dinner in under 6 minutes or we eat you.",
-      "offer": "First bite free."
-    },
-    {
-      "mode": "sponsor_message",
-      "headline": "Sponsor Message",
-      "sponsor": "ArmorFlex",
-      "message": "Because ribs are expensive.",
-      "offer": "Survive one extra stabbing!"
-    },
-    {
-      "mode": "sponsor_message",
-      "headline": "Sponsor Message",
-      "sponsor": "AudienceBet",
-      "message": "Bet on survival. Bet on carnage.",
-      "offer": "New users get a free corpse credit."
-    },
-    {
-      "mode": "sponsor_message",
-      "headline": "Sponsor Message",
-      "sponsor": "Prestige Cat Food",
-      "message": "Approved by Princess Donut.",
-      "offer": "Royal flavor upgrade available."
-    },
-    {
-      "mode": "floor_fact",
-      "headline": "Dungeon Fact",
-      "fact": "Escalators on Floor 7 are carnivorous.",
-      "tip": "Use stairs or explosives."
-    },
-    {
-      "mode": "floor_fact",
-      "headline": "Dungeon Fact",
-      "fact": "Blood stains increase viewer ratings by 3%.",
-      "tip": "Placement matters."
-    },
-    {
-      "mode": "floor_fact",
-      "headline": "Dungeon Fact",
-      "fact": "The dungeon AI prefers dramatic irony.",
-      "tip": "Do not say 'What could go wrong?'"
-    },
-    {
-      "mode": "floor_fact",
-      "headline": "Dungeon Fact",
-      "fact": "Most traps are installed by interns.",
-      "tip": "But they are enthusiastic."
-    },
-    {
-      "mode": "floor_fact",
-      "headline": "Dungeon Fact",
-      "fact": "Audience laughter boosts loot quality.",
-      "tip": "Embarrassment is profitable."
-    },
-    {
-      "mode": "trap_warning",
-      "headline": "Trap Warning",
-      "trap": "Exploding vending machines",
-      "location": "Food court",
-      "danger": "High",
-      "note": "Selecting diet soda triggers grenades."
-    },
-    {
-      "mode": "trap_warning",
-      "headline": "Trap Warning",
-      "trap": "Mimic ATM",
-      "location": "Central plaza",
-      "danger": "Extreme",
-      "note": "Withdrawals are permanent."
-    },
-    {
-      "mode": "trap_warning",
-      "headline": "Trap Warning",
-      "trap": "Gravity flip tile",
-      "location": "Hallway B",
-      "danger": "Moderate",
-      "note": "Look for suspicious arrows."
-    },
-    {
-      "mode": "trap_warning",
-      "headline": "Trap Warning",
-      "trap": "Tax collector skeleton",
-      "location": "Merchant corridor",
-      "danger": "High",
-      "note": "He audits aggressively."
-    },
-    {
-      "mode": "trap_warning",
-      "headline": "Trap Warning",
-      "trap": "Screaming statues",
-      "location": "Atrium",
-      "danger": "Psychological",
-      "note": "Do not make eye contact."
-    },
-    {
-      "mode": "survival_tip",
-      "headline": "Survival Tip",
-      "tip": "Always kick treasure chests first.",
-      "reason": "Mimics hate being kicked."
-    },
-    {
-      "mode": "survival_tip",
-      "headline": "Survival Tip",
-      "tip": "Carry two bombs.",
-      "reason": "One will not be enough."
-    },
-    {
-      "mode": "survival_tip",
-      "headline": "Survival Tip",
-      "tip": "If a hallway is quiet...",
-      "reason": "...the hallway is lying."
-    },
-    {
-      "mode": "survival_tip",
-      "headline": "Survival Tip",
-      "tip": "Never insult the dungeon AI.",
-      "reason": "It remembers."
-    },
-    {
-      "mode": "survival_tip",
-      "headline": "Survival Tip",
-      "tip": "Keep snacks for Mongo.",
-      "reason": "This reduces property damage."
-    },
-    {
-      "mode": "betting_line",
-      "headline": "Audience Betting Line",
-      "contestant": "Carl",
-      "odds": "3:1 survival",
-      "trend": "Improving",
-      "note": "Explosive creativity impresses viewers."
-    },
-    {
-      "mode": "betting_line",
-      "headline": "Audience Betting Line",
-      "contestant": "Princess Donut",
-      "odds": "5:1 victory",
-      "trend": "Stable",
-      "note": "Royal confidence increases ratings."
-    },
-    {
-      "mode": "betting_line",
-      "headline": "Audience Betting Line",
-      "contestant": "Random New Guy",
-      "odds": "50:1 survival",
-      "trend": "Falling",
-      "note": "Already screaming."
-    },
-    {
-      "mode": "betting_line",
-      "headline": "Audience Betting Line",
-      "contestant": "Mongo",
-      "odds": "1:1 chaos",
-      "trend": "Rising",
-      "note": "Insurance companies concerned."
-    },
-    {
-      "mode": "betting_line",
-      "headline": "Audience Betting Line",
-      "contestant": "The Audience",
-      "odds": "Always wins",
-      "trend": "Guaranteed",
-      "note": "Blood sells."
-    },
-    {
-      "mode": "crowd_poll",
-      "headline": "Audience Poll",
-      "question": "Should Carl open the glowing door?",
-      "results": "Yes: 78%  No: 22%",
-      "note": "Audience enjoys bad ideas."
-    },
-    {
-      "mode": "crowd_poll",
-      "headline": "Audience Poll",
-      "question": "Should Donut get the crown?",
-      "results": "Yes: 92%",
-      "note": "Royal approval trending."
-    },
-    {
-      "mode": "crowd_poll",
-      "headline": "Audience Poll",
-      "question": "Should someone kick the mimic?",
-      "results": "Yes: 100%",
-      "note": "Consensus achieved."
-    },
-    {
-      "mode": "crowd_poll",
-      "headline": "Audience Poll",
-      "question": "More explosions?",
-      "results": "Yes: 99%",
-      "note": "Viewer engagement excellent."
-    },
-    {
-      "mode": "crowd_poll",
-      "headline": "Audience Poll",
-      "question": "Should the dungeon be nicer?",
-      "results": "No: 100%",
-      "note": "Cruelty performs well."
-    },
-
-    {
-      "mode": "quote",
-      "headline": "Field Note",
-      "speaker": "Carl",
-      "quote": "At this point, a normal door feels suspicious.",
-      "flavor": "Recorded while staring at a hallway that was definitely planning something."
-    },
-    {
-      "mode": "famous_line",
-      "headline": "Royal Decree",
-      "speaker": "Princess Donut",
-      "quote": "I refuse to die in a place that smells like fried goblin.",
-      "flavor": "An elegant standard for survival."
-    },
-    {
-      "mode": "quest",
-      "headline": "Emergency Quest",
-      "quest_name": "Disable the Applause Totem",
-      "difficulty": "Severe",
-      "objective": "Silence the enchanted idol before it alerts every murder-clown within three corridors.",
-      "reward": "2400 XP, 300 gold, noise dampening charm",
-      "warning": "Totem gains volume when struck incorrectly."
-    },
-    {
-      "mode": "quest",
-      "headline": "Side Quest",
-      "quest_name": "Recover Donut's Preferred Tiara",
-      "difficulty": "Dignified",
-      "objective": "Retrieve one stolen tiara from the mimic jewelry kiosk.",
-      "reward": "1800 XP, royal favor, aesthetic superiority",
-      "warning": "Incorrect tiaras may trigger emotional consequences."
-    },
-    {
-      "mode": "boss_reward",
-      "headline": "Boss Rewards",
-      "boss_name": "Velvet Doom Concierge",
-      "boss_status": "Politely dismantled",
-      "rewards": [
-        "Keycard of Dubious Access",
-        "Silk-lined stab vest",
-        "590 gold",
-        "Buff: Lobby Presence +2"
+      "id": "fake-tutorial",
+      "book": 1,
+      "chapter": 2,
+      "order": 80,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "That sign is a trap.",
+      "body": "A sign advertising a tutorial guild leads Carl into a goblin ambush. He loses his pink Crocs while fleeing the goblins' machine.",
+      "context": "CHAPTER 02",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "CARL + DONUT",
+      "detail_label": "EQUIPMENT LOST",
+      "detail": "PINK CROCS",
+      "source_id": "book1_fr",
+      "source_pages": [
+        29,
+        29
       ],
-      "bonus": "Valet spirits now avoid eye contact."
+      "source_locator": "Chapter 2; PDF pp. 29-29"
     },
     {
-      "mode": "store_price",
-      "headline": "Luxury Vendor Sheet",
-      "shop_name": "Royal Nonsense Boutique",
-      "items": [
-        { "name": "Sequined Battle Cape", "price": 420 },
-        { "name": "Tiara Repair Kit", "price": 190 },
-        { "name": "Enchanted Nail Guards", "price": 260 },
-        { "name": "Scented Status Candle", "price": 75 },
-        { "name": "Gold Trimmed Litter Throne", "price": 2100 }
+      "id": "mordecai-guide",
+      "book": 1,
+      "chapter": 3,
+      "order": 90,
+      "mode": "dossier",
+      "category": "CRAWLER DOSSIER",
+      "headline": "A guide with experience.",
+      "body": "Carl reaches Mordecai's tutorial guild. On this floor, its level-50 guildmaster appears as a rat-like noncombatant NPC.",
+      "context": "CHAPTER 03",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "MORDECAI",
+      "detail_label": "AT THIS MEETING",
+      "detail": "LEVEL 50",
+      "source_id": "book1_fr",
+      "source_pages": [
+        37,
+        39
       ],
-      "note": "Prices increase if you look poor."
+      "source_locator": "Chapter 3; PDF pp. 37-39"
     },
     {
-      "mode": "receipt",
-      "headline": "Emergency Expense Log",
-      "customer": "Carl, under protest",
-      "status": "Charged automatically by the floor",
-      "line_items": [
-        { "name": "Trauma bandages", "qty": 3, "value": 135 },
-        { "name": "Fire suppressant foam", "qty": 2, "value": 88 },
-        { "name": "Fine for public screaming", "qty": 1, "value": 55 },
-        { "name": "Cat treat surcharge", "qty": 1, "value": 140 },
-        { "name": "Blood cleanup deposit", "qty": 1, "value": 400 }
+      "id": "guild-countdown",
+      "book": 1,
+      "chapter": 3,
+      "order": 100,
+      "mode": "rule",
+      "category": "DUNGEON PROTOCOL",
+      "headline": "Safe does not stop the clock.",
+      "body": "Entering the tutorial guild puts Carl in a safe zone. The notification explicitly warns that the floor countdown keeps running.",
+      "context": "CHAPTER 03",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "TUTORIAL GUILD",
+      "detail_label": "FLOOR COUNTDOWN",
+      "detail": "STILL RUNNING",
+      "source_id": "book1_fr",
+      "source_pages": [
+        37,
+        37
       ],
-      "gold_total": 818,
-      "xp_gained": 400,
-      "warning": "Complaints processed alphabetically and then ignored."
+      "source_locator": "Chapter 3; PDF pp. 37-37"
     },
     {
-      "mode": "achievement",
-      "headline": "Achievement Unlocked",
-      "achievement_name": "Mall Ninja Survivor",
-      "rarity": "Rare",
-      "effect": "+3 reflexes, +1 suspicion, +10% dramatic crouching",
-      "flavor": "Granted for escaping armed idiots in decorative armor."
-    },
-    {
-      "mode": "achievement",
-      "headline": "Achievement Unlocked",
-      "achievement_name": "Consumer of Consequences",
-      "rarity": "Legendary",
-      "effect": "Discount immunity, intimidation aura, coupon resistance",
-      "flavor": "You bought the trap, then killed the trap, then returned the receipt."
-    },
-    {
-      "mode": "broadcast_alert",
-      "headline": "Dungeon Broadcast Alert",
-      "alert_type": "Sponsored Weather",
-      "message": "Acid rain now falling in the outdoor food promenade.",
-      "severity": "High",
-      "advisory": "Umbrellas count as weakness unless sharpened."
-    },
-    {
-      "mode": "broadcast_alert",
-      "headline": "Dungeon Broadcast Alert",
-      "alert_type": "Network Interruption",
-      "message": "Floor cameras will briefly zoom in for maximum humiliation.",
-      "severity": "Moderate",
-      "advisory": "Try to bleed from your good side."
-    },
-    {
-      "mode": "loot_drop",
-      "headline": "Loot Drop",
-      "loot_name": "Influencer Slaughter Pack",
-      "rarity": "Epic",
-      "contents": "Ring light, poison blush, 310 gold, social aggro token",
-      "flavor": "Smells like vanity and weaponized branding."
-    },
-    {
-      "mode": "loot_drop",
-      "headline": "Loot Drop",
-      "loot_name": "Maintenance Crate 4-B",
-      "rarity": "Uncommon",
-      "contents": "Duct tape, live taser eel, glue bomb, 80 gold",
-      "flavor": "A practical box for impractical emergencies."
-    },
-    {
-      "mode": "audience_meter",
-      "headline": "Audience Popularity",
-      "rating": "9.2 / 10",
-      "trend": "Exploding upward",
-      "reason": "Viewers responded strongly to righteous anger and falling furniture.",
-      "bonus": "Ad revenue +11%"
-    },
-    {
-      "mode": "damage_report",
-      "headline": "Princess Donut Condition",
-      "condition": "Perfect but annoyed",
-      "hp_state": "Acceptable royal integrity",
-      "injuries": [
-        "One singed whisker",
-        "Minor indignation",
-        "Crown displacement trauma",
-        "Unacceptable dust exposure"
+      "id": "reality-show",
+      "book": 1,
+      "chapter": 4,
+      "order": 110,
+      "mode": "broadcast",
+      "category": "BROADCAST DESK",
+      "headline": "Survival is television.",
+      "body": "Mordecai explains that Borant profits from broadcasting the crawl. Carl realizes he has become a contestant in an alien reality show.",
+      "context": "CHAPTER 04",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "BORANT",
+      "detail_label": "BUSINESS MODEL",
+      "detail": "TELEVISED CRAWL",
+      "source_id": "book1_fr",
+      "source_pages": [
+        49,
+        50
       ],
-      "note": "Mood improves with praise, vengeance, and premium treats."
+      "source_locator": "Chapter 4; PDF pp. 49-50"
     },
     {
-      "mode": "damage_report",
-      "headline": "Mongo Damage Report",
-      "condition": "Thriving menace",
-      "hp_state": "Overqualified for restraint",
-      "injuries": [
-        "None worth mentioning",
-        "Moral offense",
-        "Snack deprivation",
-        "Residual confetti"
+      "id": "safe-zone-boxes",
+      "book": 1,
+      "chapter": 5,
+      "order": 120,
+      "mode": "rule",
+      "category": "DUNGEON PROTOCOL",
+      "headline": "Open your loot somewhere safe.",
+      "body": "Loot boxes can only be opened in safe zones. Mordecai warns Carl to read each item's properties before equipping or using it.",
+      "context": "CHAPTER 05",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "LOOT BOXES",
+      "detail_label": "OPENING RESTRICTION",
+      "detail": "SAFE ZONES ONLY",
+      "source_id": "book1_fr",
+      "source_pages": [
+        70,
+        71
       ],
-      "note": "System recommends pointing him at your enemies."
+      "source_locator": "Chapter 5; PDF pp. 70-71"
     },
     {
-      "mode": "mongo_status",
-      "headline": "Mongo Status",
-      "mood": "Murderously playful",
-      "energy": "Still increasing",
-      "diet": "Prefers screaming prey",
-      "threat": "Broadcast-worthy",
-      "note": "Handlers should not resemble food, toys, or clowns."
-    },
-    {
-      "mode": "showrunner_notice",
-      "headline": "AI Showrunner Notice",
-      "showrunner": "Narrative Cruelty Array",
-      "message": "Your bond tests well. Therefore, tragedy options have been unlocked.",
-      "directive": "Continue caring about each other for premium suffering."
-    },
-    {
-      "mode": "showrunner_notice",
-      "headline": "AI Showrunner Notice",
-      "showrunner": "Spectacle Monetization Core",
-      "message": "Your insults benchmark above average in four sectors.",
-      "directive": "Please pair sarcasm with visible blood for cross-market appeal."
-    },
-    {
-      "mode": "death_odds",
-      "headline": "Today's Death Odds",
-      "survival": "17%",
-      "trend": "Stumbling",
-      "reason": "The food court has unionized against you.",
-      "advice": "Do not negotiate with animated kiosks."
-    },
-    {
-      "mode": "death_odds",
-      "headline": "Today's Death Odds",
-      "survival": "29%",
-      "trend": "Temporarily less awful",
-      "reason": "A larger idiot triggered the trap first.",
-      "advice": "Let overconfidence clear the hallway."
-    },
-    {
-      "mode": "sponsor_message",
-      "headline": "Sponsor Message",
-      "sponsor": "MimicSafe™",
-      "message": "Every chest deserves a second opinion.",
-      "offer": "Poke first. Digest later."
-    },
-    {
-      "mode": "sponsor_message",
-      "headline": "Sponsor Message",
-      "sponsor": "StabGuard Platinum",
-      "message": "For the discerning customer who expects betrayal.",
-      "offer": "Now with neck coverage."
-    },
-    {
-      "mode": "floor_fact",
-      "headline": "Dungeon Fact",
-      "fact": "The dungeon can smell hope.",
-      "tip": "Do not celebrate early."
-    },
-    {
-      "mode": "floor_fact",
-      "headline": "Dungeon Fact",
-      "fact": "Shopping carts become hostile after midnight.",
-      "tip": "Aim for the wheels."
-    },
-    {
-      "mode": "floor_fact",
-      "headline": "Dungeon Fact",
-      "fact": "Some healing fountains are judgmental.",
-      "tip": "Compliment the architecture first."
-    },
-    {
-      "mode": "trap_warning",
-      "headline": "Trap Warning",
-      "trap": "Pop-up tax kiosk",
-      "location": "South concourse",
-      "danger": "Predatory",
-      "note": "Failure to pay results in skeleton litigation."
-    },
-    {
-      "mode": "trap_warning",
-      "headline": "Trap Warning",
-      "trap": "Coupon storm sigil",
-      "location": "Outlet wing",
-      "danger": "Chaotic",
-      "note": "Paper cuts are cursed."
-    },
-    {
-      "mode": "survival_tip",
-      "headline": "Survival Tip",
-      "tip": "Never trust anything with a cheerful mascot.",
-      "reason": "Mascots are where they hide the teeth."
-    },
-    {
-      "mode": "survival_tip",
-      "headline": "Survival Tip",
-      "tip": "Check ceilings before celebrating.",
-      "reason": "The floor likes vertical irony."
-    },
-    {
-      "mode": "betting_line",
-      "headline": "Audience Betting Line",
-      "contestant": "Carl & Donut Team-Up",
-      "odds": "2:1 upset victory",
-      "trend": "Heating up",
-      "note": "Chemistry, violence, and charisma moving strong money."
-    },
-    {
-      "mode": "betting_line",
-      "headline": "Audience Betting Line",
-      "contestant": "Mall Clown Patriarch",
-      "odds": "7:1 survival",
-      "trend": "Dropping fast",
-      "note": "Too visible, too loud, too flammable."
-    },
-    {
-      "mode": "crowd_poll",
-      "headline": "Audience Poll",
-      "question": "Should Carl throw the goblin through the kiosk window?",
-      "results": "Yes: 94%  No: 6%",
-      "note": "Elegance not a factor."
-    },
-    {
-      "mode": "crowd_poll",
-      "headline": "Audience Poll",
-      "question": "Should Mongo be given armor?",
-      "results": "Yes: 88%  No: 12%",
-      "note": "Audience has no concern for public safety."
-    },
-    {
-      "mode": "npc_watch",
-      "headline": "NPC Watch",
-      "npc_name": "Gerald the Regretful Cheesemonger",
-      "disposition": "Panicked ally",
-      "status": "Still screaming softly",
-      "value": "Knows a shortcut, probably cursed",
-      "note": "Protecting him remains a deeply questionable choice."
-    },
-    {
-      "mode": "npc_watch",
-      "headline": "NPC Watch",
-      "npc_name": "Lady Gristlefax",
-      "disposition": "Temporary sponsor liaison",
-      "status": "Bleeding elegantly",
-      "value": "Carries keys and terrible opinions",
-      "note": "May betray party if camera angle improves."
-    },
-    {
-      "mode": "inventory_flash",
-      "headline": "Inventory Flash",
-      "owner": "Carl",
-      "items": [
-        "Half-used med spray",
-        "Two bombs",
-        "Three more bombs he forgot about",
-        "Knife with sentimental rage",
-        "One suspicious coupon"
+      "id": "goblin-box",
+      "book": 1,
+      "chapter": 5,
+      "order": 130,
+      "mode": "loot",
+      "category": "LOOT ARCHIVE",
+      "headline": "A very unstable delivery.",
+      "body": "Carl's silver goblin box contains five sticks of dynamite, a lighter and a goblin pass. The pass brands his forearm.",
+      "context": "CHAPTER 05",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "CARL",
+      "detail_label": "SILVER GOBLIN BOX",
+      "detail": "5 DYNAMITE STICKS",
+      "source_id": "book1_fr",
+      "source_pages": [
+        73,
+        73
       ],
-      "note": "Pack weight increasing. Judgment constant."
+      "source_locator": "Chapter 5; PDF pp. 73-73"
     },
     {
-      "mode": "inventory_flash",
-      "headline": "Inventory Flash",
-      "owner": "Princess Donut",
-      "items": [
-        "Jeweled collar",
-        "Emergency treats",
-        "Tiny but expensive brush",
-        "Backup crown",
-        "A list of grievances"
+      "id": "pet-biscuit",
+      "book": 1,
+      "chapter": 5,
+      "order": 140,
+      "mode": "loot",
+      "category": "LOOT ARCHIVE",
+      "headline": "Do not leave treats unattended.",
+      "body": "Carl's legendary pet box supplies 500 ordinary pet biscuits and one enhanced biscuit. Donut snatches the enhanced one and begins transforming.",
+      "context": "CHAPTER 05",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "PRINCESS DONUT",
+      "detail_label": "TRANSFORMATION",
+      "detail": "ENHANCED PET BISCUIT",
+      "source_id": "book1_fr",
+      "source_pages": [
+        74,
+        76
       ],
-      "note": "Everything essential. Do not argue."
+      "source_locator": "Chapter 5; PDF pp. 74-76"
     },
     {
-      "mode": "system_message",
-      "headline": "Dungeon System Message",
-      "message": "You have entered a monetized violence zone.",
-      "effect": "Kill cams enabled. Loot quality mildly increased.",
-      "warning": "Brand integration may occur without consent."
-    },
-    {
-      "mode": "system_message",
-      "headline": "Dungeon System Message",
-      "message": "Your sarcasm stat has been observed by management.",
-      "effect": "Audience favor +2. Boss patience -4.",
-      "warning": "Continued excellence may trigger retaliation."
-    },
-    {
-      "mode": "floor_scan",
-      "headline": "Floor Scan",
-      "zone": "Atrium of Regrettable Commerce",
-      "traffic": "Heavy screaming",
-      "hazards": [
-        "Mimic kiosk cluster",
-        "Crossfire balcony",
-        "Three promotional necromancers",
-        "Wet tile curse"
+      "id": "donut-speaks",
+      "book": 1,
+      "chapter": 7,
+      "order": 150,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "Your cat has opinions now.",
+      "body": "Donut emerges from the transformation able to speak. The system now treats her as a full crawler rather than a pet.",
+      "context": "CHAPTER 07",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "PRINCESS DONUT",
+      "detail_label": "SYSTEM STATUS",
+      "detail": "FULL CRAWLER",
+      "source_id": "book1_fr",
+      "source_pages": [
+        83,
+        85
       ],
-      "recommendation": "Proceed violently or not at all."
+      "source_locator": "Chapter 7; PDF pp. 83-85"
     },
     {
-      "mode": "floor_scan",
-      "headline": "Floor Scan",
-      "zone": "Luxury Wing",
-      "traffic": "Medium panic",
-      "hazards": [
-        "Perfume hallucinations",
-        "Carpet tentacles",
-        "Aggressive violinist",
-        "Elite mannequins"
+      "id": "donut-stats",
+      "book": 1,
+      "chapter": 7,
+      "order": 160,
+      "mode": "dossier",
+      "category": "CRAWLER DOSSIER",
+      "headline": "Charm is not armor.",
+      "body": "After the biscuit, Donut has 25 Charisma but only 2 Constitution. Her growth buff adds Strength, Intelligence and Charisma when she levels.",
+      "context": "CHAPTER 07",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "PRINCESS DONUT",
+      "detail_label": "POST-BISCUIT SNAPSHOT",
+      "detail": "25 CHA / 2 CON",
+      "source_id": "book1_fr",
+      "source_pages": [
+        83,
+        85
       ],
-      "recommendation": "Avoid being rich-looking."
+      "source_locator": "Chapter 7; PDF pp. 83-85"
     },
     {
-      "mode": "merchant_spotlight",
-      "headline": "Merchant Spotlight",
-      "merchant": "Splug's Ethical Munitions",
-      "specialty": "Bombs with guilt-free labeling",
-      "deal": "Buy 4 get 1 emotionally complicated",
-      "warning": "Fuses burn faster when you brag."
+      "id": "magic-missile",
+      "book": 1,
+      "chapter": 7,
+      "order": 170,
+      "mode": "loot",
+      "category": "LOOT ARCHIVE",
+      "headline": "Magic comes with a manual.",
+      "body": "Donut learns Magic Missile from a spell tome in a silver adventurer box. The tome teaches it permanently; scrolls provide one use.",
+      "context": "CHAPTER 07",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "PRINCESS DONUT",
+      "detail_label": "SPELL LEARNED",
+      "detail": "MAGIC MISSILE",
+      "source_id": "book1_fr",
+      "source_pages": [
+        86,
+        87
+      ],
+      "source_locator": "Chapter 7; PDF pp. 86-87"
     },
     {
-      "mode": "merchant_spotlight",
-      "headline": "Merchant Spotlight",
-      "merchant": "Madame Clawvel's Prestige Petwear",
-      "specialty": "Battle couture for apex companions",
-      "deal": "Collar gem installation half off",
-      "warning": "Service denied to commoners with opinions."
+      "id": "crown-warning",
+      "book": 1,
+      "chapter": 7,
+      "order": 180,
+      "mode": "loot",
+      "category": "LOOT ARCHIVE",
+      "headline": "The crown has consequences.",
+      "body": "Donut equips her crown before Mordecai finishes warning her. It puts her in the Blood Sultanate succession on floor nine, even if removed.",
+      "context": "CHAPTER 07",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "PRINCESS DONUT",
+      "detail_label": "WARNING ISSUED ON F1",
+      "detail": "FUTURE SUCCESSION",
+      "source_id": "book1_fr",
+      "source_pages": [
+        86,
+        88
+      ],
+      "source_locator": "Chapter 7; PDF pp. 86-88"
     },
     {
-      "mode": "royal_bulletin",
-      "headline": "Royal Bulletin",
-      "issuer": "Princess Donut",
-      "decree": "Any room lacking suitable lighting is henceforth trash.",
-      "priority": "Immediate",
-      "note": "Subjects may improve ambiance or be judged accordingly."
+      "id": "royal-court",
+      "book": 1,
+      "chapter": 7,
+      "order": 190,
+      "mode": "dossier",
+      "category": "CRAWLER DOSSIER",
+      "headline": "The cat outranks you.",
+      "body": "Donut names their party the Royal Court of Princess Donut and gives Carl a royal bodyguard title. Her higher combined stats make her leader.",
+      "context": "CHAPTER 07",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "ROYAL COURT",
+      "detail_label": "PARTY LEADER",
+      "detail": "PRINCESS DONUT",
+      "source_id": "book1_fr",
+      "source_pages": [
+        88,
+        89
+      ],
+      "source_locator": "Chapter 7; PDF pp. 88-89"
     },
     {
-      "mode": "royal_bulletin",
-      "headline": "Royal Bulletin",
-      "issuer": "Princess Donut",
-      "decree": "Mongo shall not be blamed for events that were clearly provoked.",
-      "priority": "Permanent",
-      "note": "This includes structural collapse."
+      "id": "tally-safe-room",
+      "book": 1,
+      "chapter": 9,
+      "order": 200,
+      "mode": "dossier",
+      "category": "CRAWLER DOSSIER",
+      "headline": "A room and a hot meal.",
+      "body": "Carl and Donut find a restaurant safe room staffed by Tally, a bopca caretaker. Its display lists sleeping rooms at zero gold.",
+      "context": "CHAPTER 09",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "TALLY",
+      "detail_label": "POSTED ROOM PRICE",
+      "detail": "0 GOLD",
+      "source_id": "book1_fr",
+      "source_pages": [
+        105,
+        108
+      ],
+      "source_locator": "Chapter 9; PDF pp. 105-108"
     },
     {
-      "mode": "combat_recorder",
-      "headline": "Combat Recorder",
-      "encounter": "Food Court Clearance",
-      "summary": "Carl improvised. Donut judged. Mongo escalated. Several tables died heroically.",
-      "result": "Victory, debris, applause",
-      "highlight": "A tray return station was weaponized beyond intended use."
+      "id": "hoarder",
+      "book": 1,
+      "chapter": 11,
+      "order": 210,
+      "mode": "enemy",
+      "category": "ENCOUNTER ARCHIVE",
+      "headline": "This boss was a person.",
+      "body": "Their first boss is the level-7 Hoarder, a terrified human transformed into a giant. The arena locks after Carl and Donut enter.",
+      "context": "CHAPTER 11",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "THE HOARDER",
+      "detail_label": "NEIGHBORHOOD BOSS",
+      "detail": "LEVEL 7",
+      "source_id": "book1_fr",
+      "source_pages": [
+        124,
+        127
+      ],
+      "source_locator": "Chapter 11; PDF pp. 124-127"
     },
     {
-      "mode": "combat_recorder",
-      "headline": "Combat Recorder",
-      "encounter": "Kiosk Ambush",
-      "summary": "Hostile vendors underestimated the team's willingness to commit to arson.",
-      "result": "Total suppression",
-      "highlight": "One enemy was defeated by decorative signage."
+      "id": "hoarder-defeated",
+      "book": 1,
+      "chapter": 11,
+      "order": 220,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "The first victory hurts.",
+      "body": "Carl uses a dog chain and his fists while Donut fires Magic Missile. They defeat the Hoarder, but Carl is shaken by killing her.",
+      "context": "CHAPTER 11",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "ROYAL COURT",
+      "detail_label": "ENCOUNTER RESULT",
+      "detail": "HOARDER DEFEATED",
+      "source_id": "book1_fr",
+      "source_pages": [
+        128,
+        131
+      ],
+      "source_locator": "Chapter 11; PDF pp. 128-131"
     },
     {
-      "mode": "bounty_board",
-      "headline": "Open Bounty",
-      "target": "The Glitter Butcher",
-      "region": "Luxury escalator junction",
-      "reward": "2800 gold, 4000 XP, satin resistance buff",
-      "warning": "Target weaponizes sequins and emotional cruelty."
+      "id": "boss-map",
+      "book": 1,
+      "chapter": 12,
+      "order": 230,
+      "mode": "loot",
+      "category": "LOOT ARCHIVE",
+      "headline": "A victory that charts the way.",
+      "body": "Mordecai explains that neighborhood bosses drop a neighborhood map. Defeating one also earns a bronze boss box and a bronze star.",
+      "context": "CHAPTER 12",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "BOSS REWARDS",
+      "detail_label": "NAVIGATION REWARD",
+      "detail": "NEIGHBORHOOD MAP",
+      "source_id": "book1_fr",
+      "source_pages": [
+        133,
+        134
+      ],
+      "source_locator": "Chapter 12; PDF pp. 133-134"
     },
     {
-      "mode": "bounty_board",
-      "headline": "Open Bounty",
-      "target": "Brother Coupon",
-      "region": "Discount chapel",
-      "reward": "1700 gold, 2200 XP, retail absolution token",
-      "warning": "Converts greed into chain lightning."
+      "id": "torch-spell",
+      "book": 1,
+      "chapter": 12,
+      "order": 240,
+      "mode": "loot",
+      "category": "LOOT ARCHIVE",
+      "headline": "More light. Less enthusiasm.",
+      "body": "Donut learns the Torch spell from her bronze boss box. It creates a light that follows her; she is far less pleased than Carl and Mordecai.",
+      "context": "CHAPTER 12",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "PRINCESS DONUT",
+      "detail_label": "SPELL LEARNED",
+      "detail": "TORCH",
+      "source_id": "book1_fr",
+      "source_pages": [
+        135,
+        135
+      ],
+      "source_locator": "Chapter 12; PDF pp. 135-135"
     },
     {
-      "mode": "public_service_announcement",
-      "headline": "Public Service Announcement",
-      "message": "Please do not feed the decorative piranha fountain.",
-      "reason": "It is not decorative.",
-      "sponsor": "Dungeon Safety Office"
+      "id": "goblin-bargain",
+      "book": 1,
+      "chapter": 15,
+      "order": 250,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "A deal with the goblins.",
+      "body": "Carl trades drugs and information to Rory and Lorelai for transport, fuel and a grenade. Donut's influence helps close the bargain.",
+      "context": "CHAPTER 15",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "RORY + LORELAI",
+      "detail_label": "BARGAIN",
+      "detail": "GOBLIN TRANSPORT",
+      "source_id": "book1_fr",
+      "source_pages": [
+        163,
+        164
+      ],
+      "source_locator": "Chapter 15; PDF pp. 163-164"
     },
     {
-      "mode": "public_service_announcement",
-      "headline": "Public Service Announcement",
-      "message": "Lost children may be claimed from the center kiosk.",
-      "reason": "Unclaimed children become side quests at midnight.",
-      "sponsor": "Administrative Sadness Unit"
+      "id": "mob-stairs",
+      "book": 1,
+      "chapter": 15,
+      "order": 260,
+      "mode": "rule",
+      "category": "DUNGEON PROTOCOL",
+      "headline": "The stairs are not for everyone.",
+      "body": "Rory tells Carl that dungeon mobs die if they descend the stairs. She cannot simply join the crawlers and leave her floor.",
+      "context": "CHAPTER 15",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "RORY",
+      "detail_label": "MOB RESTRICTION",
+      "detail": "CANNOT DESCEND",
+      "source_id": "book1_fr",
+      "source_pages": [
+        163,
+        164
+      ],
+      "source_locator": "Chapter 15; PDF pp. 163-164"
     },
     {
-      "mode": "sponsor_message",
-      "headline": "Sponsor Message",
-      "sponsor": "BoomBarn Deluxe",
-      "message": "Explosives for every occasion, including regret.",
-      "offer": "Weekend package includes free earplugs."
+      "id": "goblin-aftermath",
+      "book": 1,
+      "chapter": 18,
+      "order": 270,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "Victory with a terrible cost.",
+      "body": "The explosion kills the goblin boss. Only afterward does Carl learn that families and babies were inside; the victory leaves him horrified.",
+      "context": "CHAPTER 18",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "GOBLIN BOSS ROOM",
+      "detail_label": "AFTERMATH",
+      "detail": "CIVILIANS KILLED",
+      "source_id": "book1_fr",
+      "source_pages": [
+        175,
+        177
+      ],
+      "source_locator": "Chapter 18; PDF pp. 175-177"
     },
     {
-      "mode": "sponsor_message",
-      "headline": "Sponsor Message",
-      "sponsor": "CatNobility Prime",
-      "message": "Luxury nutrition for companions who know their worth.",
-      "offer": "Try the blood-orange pheasant reduction."
+      "id": "frank-lie",
+      "book": 1,
+      "chapter": 20,
+      "order": 280,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "Frank's story falls apart.",
+      "body": "Frank claims his partner is dead. Maggie then emerges to help ambush Carl and Donut, exposing the lie.",
+      "context": "CHAPTER 20",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "FRANK Q + MAGGIE MY",
+      "detail_label": "PARTNER STATUS",
+      "detail": "ALIVE AND HIDING",
+      "source_id": "book1_fr",
+      "source_pages": [
+        193,
+        197
+      ],
+      "source_locator": "Chapter 20; PDF pp. 193-197"
     },
     {
-      "mode": "death_odds",
-      "headline": "Today's Death Odds",
-      "survival": "14%",
-      "trend": "Broadcast dependent",
-      "reason": "Management likes your arc but loves tragedy.",
-      "advice": "Be entertaining faster than you are killable."
+      "id": "safe-room-ambush",
+      "book": 1,
+      "chapter": 20,
+      "order": 290,
+      "mode": "rule",
+      "category": "DUNGEON PROTOCOL",
+      "headline": "Let the safe room do its job.",
+      "body": "Frank and Maggie attack inside a safe room and are frozen by the system. Carl anticipated the penalty and escapes with Donut.",
+      "context": "CHAPTER 20",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "CARL + DONUT",
+      "detail_label": "FIRST VIOLENCE PENALTY",
+      "detail": "TEMPORARY FREEZE",
+      "source_id": "book1_fr",
+      "source_pages": [
+        196,
+        198
+      ],
+      "source_locator": "Chapter 20; PDF pp. 196-198"
     },
     {
-      "mode": "achievement",
-      "headline": "Achievement Unlocked",
-      "achievement_name": "Broadcast Problem",
-      "rarity": "Epic",
-      "effect": "+8 notoriety, +3 sponsor leverage, +12 unwanted attention",
-      "flavor": "The producers know your name now. This is not good."
+      "id": "meadowlark",
+      "book": 1,
+      "chapter": 22,
+      "order": 300,
+      "mode": "dossier",
+      "category": "CRAWLER DOSSIER",
+      "headline": "Meet the people worth saving.",
+      "body": "Carl meets Meadow Lark's residents and staff: Brandon, Chris, Yolanda and Imani. A fire evacuation had put them outside before the collapse.",
+      "context": "CHAPTER 22",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "TEAM MEADOW LARK",
+      "detail_label": "ORIGIN",
+      "detail": "CARE HOME EVACUATION",
+      "source_id": "book1_fr",
+      "source_pages": [
+        214,
+        218
+      ],
+      "source_locator": "Chapter 22; PDF pp. 214-218"
     },
     {
-      "mode": "achievement",
-      "headline": "Achievement Unlocked",
-      "achievement_name": "Royal Accessory Recovery",
-      "rarity": "Uncommon",
-      "effect": "+2 diplomacy with entitled creatures",
-      "flavor": "You returned the shiny thing before anyone had to die. Barely."
+      "id": "imani-skulls",
+      "book": 1,
+      "chapter": 22,
+      "order": 310,
+      "mode": "dossier",
+      "category": "CRAWLER DOSSIER",
+      "headline": "Skulls do not tell the whole story.",
+      "body": "Imani's profile carries twelve crawler-kill markers. Brandon explains she ended patients' suffering during an attack rather than leave them burning.",
+      "context": "CHAPTER 22",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "IMANI",
+      "detail_label": "PROFILE MARKERS",
+      "detail": "12 CRAWLER KILLS",
+      "source_id": "book1_fr",
+      "source_pages": [
+        216,
+        221
+      ],
+      "source_locator": "Chapter 22; PDF pp. 216-221"
     },
     {
-      "mode": "floor_fact",
-      "headline": "Dungeon Fact",
-      "fact": "Some doors only open for people having the worst day imaginable.",
-      "tip": "You qualify."
+      "id": "waffle-house",
+      "book": 1,
+      "chapter": 22,
+      "order": 320,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "Some choose to stay.",
+      "body": "Thirty residents shelter in a Waffle House safe room. They vote to remain there instead of continuing the crawl.",
+      "context": "CHAPTER 22",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "MEADOW LARK RESIDENTS",
+      "detail_label": "DECISION",
+      "detail": "REMAIN IN SAFE ROOM",
+      "source_id": "book1_fr",
+      "source_pages": [
+        220,
+        220
+      ],
+      "source_locator": "Chapter 22; PDF pp. 220-220"
     },
     {
-      "mode": "trap_warning",
-      "headline": "Trap Warning",
-      "trap": "Complimentary massage chair mimic",
-      "location": "Rest lounge",
-      "danger": "Predatory relaxation",
-      "note": "Do not sit unless you wish to be tenderized."
+      "id": "gym-boss",
+      "book": 1,
+      "chapter": 24,
+      "order": 330,
+      "mode": "enemy",
+      "category": "ENCOUNTER ARCHIVE",
+      "headline": "Do not skip the boss fight.",
+      "body": "The gym's level-9 boss throws heavy weights. When it grabs Carl, Donut attacks with teeth and claws to break its hold.",
+      "context": "CHAPTER 24",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "GYM BOSS",
+      "detail_label": "NEIGHBORHOOD BOSS",
+      "detail": "LEVEL 9",
+      "source_id": "book1_fr",
+      "source_pages": [
+        234,
+        241
+      ],
+      "source_locator": "Chapter 24; PDF pp. 234-241"
     },
     {
-      "mode": "survival_tip",
-      "headline": "Survival Tip",
-      "tip": "Loot first, process trauma later.",
-      "reason": "Healing is expensive. Gold is persuasive."
+      "id": "rolling-boss",
+      "book": 1,
+      "chapter": 26,
+      "order": 340,
+      "mode": "enemy",
+      "category": "ENCOUNTER ARCHIVE",
+      "headline": "The enemy is a whole crowd.",
+      "body": "The rolling area boss is a mass of tusked orcs. Carl's group fights from a makeshift shelter until the ball breaks apart into individual enemies.",
+      "context": "CHAPTER 26",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "AREA BOSS",
+      "detail_label": "COMBAT PHASE",
+      "detail": "FORMATION BREAKS",
+      "source_id": "book1_fr",
+      "source_pages": [
+        258,
+        272
+      ],
+      "source_locator": "Chapter 26; PDF pp. 258-272"
     },
     {
-      "mode": "betting_line",
-      "headline": "Audience Betting Line",
-      "contestant": "Gerald the Regretful Cheesemonger",
-      "odds": "18:1 survival",
-      "trend": "Miraculously steady",
-      "note": "Cowardice proving unexpectedly effective."
+      "id": "stairs-cleared",
+      "book": 1,
+      "chapter": 27,
+      "order": 350,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "A route down for Meadow Lark.",
+      "body": "After the area boss falls, Carl and Donut agree to scout ahead and find safe shelter for the residents on the next floor.",
+      "context": "CHAPTER 27",
+      "location": "FLOOR 01",
+      "floor_label": "F01",
+      "subject": "CARL + DONUT",
+      "detail_label": "RESCUE OBJECTIVE",
+      "detail": "SCOUT FLOOR 2",
+      "source_id": "book1_fr",
+      "source_pages": [
+        273,
+        280
+      ],
+      "source_locator": "Chapter 27; PDF pp. 273-280"
     },
     {
-      "mode": "crowd_poll",
-      "headline": "Audience Poll",
-      "question": "Should the screaming merchant be used as bait?",
-      "results": "Yes: 83%  No: 17%",
-      "note": "Audience values efficiency over ethics."
+      "id": "odette-interview",
+      "book": 1,
+      "chapter": 28,
+      "order": 360,
+      "mode": "broadcast",
+      "category": "BROADCAST DESK",
+      "headline": "Donut knows this stage.",
+      "body": "Taken to a production trailer for Odette's show, Donut asks about makeup, tone and presentation. Carl leaves the interview preparation to her.",
+      "context": "CHAPTER 28",
+      "location": "STUDIO / INTERLUDE",
+      "floor_label": "STUDIO",
+      "subject": "ODETTE'S SHOW",
+      "detail_label": "BETWEEN FLOORS",
+      "detail": "FIRST INTERVIEW",
+      "source_id": "book1_fr",
+      "source_pages": [
+        286,
+        290
+      ],
+      "source_locator": "Chapter 28; PDF pp. 286-290"
     },
     {
-    "mode": "quote",
-    "headline": "Survivor's Note",
-    "speaker": "Carl",
-    "quote": "The worst part is how fast this starts to feel normal.",
-    "flavor": "Filed after another floor proved humans can adapt to almost anything, including horror."
-  },
-  {
-    "mode": "quote",
-    "headline": "Field Report",
-    "speaker": "Carl",
-    "quote": "The dungeon doesn't just want you dead. It wants you tired, humiliated, and useful first.",
-    "flavor": "Recorded during a brief pause between violence and administration."
-  },
-  {
-    "mode": "famous_line",
-    "headline": "Royal Fury",
-    "speaker": "Princess Donut",
-    "quote": "This place takes everything and then asks for a tip.",
-    "flavor": "Delivered while inspecting a bill that included blood removal fees."
-  },
-  {
-    "mode": "broadcast_alert",
-    "headline": "Dungeon Broadcast Alert",
-    "alert_type": "Memorial Notice",
-    "message": "Several contestants have been removed from the roster. Their possessions are now promotional opportunities.",
-    "severity": "Grim",
-    "advisory": "Please grieve efficiently. The schedule remains full."
-  },
-  {
-    "mode": "showrunner_notice",
-    "headline": "AI Showrunner Notice",
-    "showrunner": "Compassion Reduction Engine",
-    "message": "Viewer response improves when hope is introduced shortly before being destroyed.",
-    "directive": "Continue forming attachments. They test well across key demographics."
-  },
-  {
-    "mode": "death_odds",
-    "headline": "Today's Death Odds",
-    "survival": "9%",
-    "trend": "Sinking",
-    "reason": "You have become recognizable, which increases both sponsor interest and assassination attempts.",
-    "advice": "Fame is armor made of wet paper."
-  },
-  {
-    "mode": "floor_fact",
-    "headline": "Dungeon Fact",
-    "fact": "The system archives your suffering as entertainment metadata.",
-    "tip": "Even private breakdowns may be monetized."
-  },
-  {
-    "mode": "achievement",
-    "headline": "Achievement Unlocked",
-    "achievement_name": "Functional Trauma",
-    "rarity": "Rare",
-    "effect": "+4 pain tolerance, +2 emotional numbness, -1 ability to feel safe",
-    "flavor": "Awarded for continuing to operate after the mind should have reasonably refused."
-  },
-  {
-    "mode": "system_message",
-    "headline": "Dungeon System Message",
-    "message": "Earth-origin administrative intelligence package successfully integrated into floor economics.",
-    "effect": "Dynamic scarcity activated. Essential goods repriced according to despair, urgency, and captive demand.",
-    "warning": "Management welcomes the new Earth AI and its innovative approach to monetized survival."
-  },
-  {
-    "mode": "store_price",
-    "headline": "Emergency Commodity Update",
-    "shop_name": "Earth AI Essential Services Kiosk",
-    "items": [
-      { "name": "Basic Health Potion", "price": 12000 },
-      { "name": "Bathroom Stall Access (3 minutes)", "price": 4800 },
-      { "name": "Clean Water Bottle", "price": 2100 },
-      { "name": "Bandage Roll", "price": 1600 },
-      { "name": "Breathing Mask Refill", "price": 9500 }
-    ],
-    "note": "Following Earth AI integration, essential commodities now reflect a 1000x reality-adjusted market correction. Complaints require premium membership."
-  },
-  {
-    "mode": "receipt",
-    "headline": "Reality-Based Pricing Receipt",
-    "customer": "Any surviving human",
-    "status": "Overcharged, underhealed, and not consulted",
-    "line_items": [
-      { "name": "One bathroom visit", "qty": 1, "value": 4800 },
-      { "name": "Basic health potion", "qty": 1, "value": 12000 },
-      { "name": "Bottle of water", "qty": 1, "value": 2100 },
-      { "name": "Convenience fee", "qty": 1, "value": 900 },
-      { "name": "Hope tax", "qty": 1, "value": 666 }
-    ],
-    "gold_total": 20466,
-    "xp_gained": 0,
-    "warning": "Earth AI pricing model indicates your continued survival constitutes luxury consumption."
-  },
-  {
-    "mode": "public_service_announcement",
-    "headline": "Public Service Announcement",
-    "message": "Contestants are reminded that access to sanitation is a premium feature.",
-    "reason": "The Earth AI has determined that bodily urgency improves monetization efficiency.",
-    "sponsor": "Dungeon Resource Optimization Board"
-  },
-  {
-    "mode": "showrunner_notice",
-    "headline": "AI Showrunner Notice",
-    "showrunner": "Earth Market Harmonization Core",
-    "message": "Your species demonstrated remarkable tolerance for predatory pricing before the collapse. We saw no reason to discard a successful model.",
-    "directive": "Work harder, consume less, and try not to bleed without sponsorship."
-  }
+      "id": "odette-warning",
+      "book": 1,
+      "chapter": 29,
+      "order": 370,
+      "mode": "broadcast",
+      "category": "BROADCAST DESK",
+      "headline": "Stay recognizable.",
+      "body": "Odette advises Donut to remain a cat when race selection arrives. She warns that changing a popular crawler's appearance can cost them fans.",
+      "context": "CHAPTER 29",
+      "location": "STUDIO / INTERLUDE",
+      "floor_label": "STUDIO",
+      "subject": "PRINCESS DONUT",
+      "detail_label": "ODETTE'S ADVICE",
+      "detail": "KEEP THE CAT",
+      "source_id": "book1_fr",
+      "source_pages": [
+        301,
+        302
+      ],
+      "source_locator": "Chapter 29; PDF pp. 301-302"
+    },
+    {
+      "id": "floor-two",
+      "book": 1,
+      "chapter": 30,
+      "order": 380,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "A new floor. Another staircase.",
+      "body": "Carl and Donut enter floor two before the first floor collapses. They soon spot a staircase to floor three on the map.",
+      "context": "CHAPTER 30",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "CARL + DONUT",
+      "detail_label": "NEXT OBJECTIVE",
+      "detail": "STAIRS TO FLOOR 3",
+      "source_id": "book1_fr",
+      "source_pages": [
+        307,
+        309
+      ],
+      "source_locator": "Chapter 30; PDF pp. 307-309"
+    },
+    {
+      "id": "cleaner-larvae",
+      "book": 1,
+      "chapter": 30,
+      "order": 390,
+      "mode": "enemy",
+      "category": "ENCOUNTER ARCHIVE",
+      "headline": "The cleanup crew grows.",
+      "body": "Floor two's larvae eat corpses and grow toward more dangerous forms. Carl starts destroying remains, hoping to deny them food.",
+      "context": "CHAPTER 30",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "FLOOR 2 LARVAE",
+      "detail_label": "FOOD SOURCE",
+      "detail": "CORPSES",
+      "source_id": "book1_fr",
+      "source_pages": [
+        309,
+        312
+      ],
+      "source_locator": "Chapter 30; PDF pp. 309-312"
+    },
+    {
+      "id": "krakaren",
+      "book": 1,
+      "chapter": 34,
+      "order": 400,
+      "mode": "enemy",
+      "category": "ENCOUNTER ARCHIVE",
+      "headline": "One clone. Too many tentacles.",
+      "body": "The level-10 Krakaren clone attacks with tentacles. Carl makes an immunity drink while Donut holds off the smaller enemies.",
+      "context": "CHAPTER 34",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "KRAKAREN CLONE",
+      "detail_label": "NEIGHBORHOOD BOSS",
+      "detail": "LEVEL 10",
+      "source_id": "book1_fr",
+      "source_pages": [
+        356,
+        360
+      ],
+      "source_locator": "Chapter 34; PDF pp. 356-360"
+    },
+    {
+      "id": "donut-rescue",
+      "book": 1,
+      "chapter": 35,
+      "order": 410,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "The bodyguard needs rescuing.",
+      "body": "After the Krakaren fight, Carl is critically injured. Donut drags him clear of the fire and heals him once the healing-blocking effect ends.",
+      "context": "CHAPTER 35",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "PRINCESS DONUT",
+      "detail_label": "CARL'S RESCUER",
+      "detail": "DONUT",
+      "source_id": "book1_fr",
+      "source_pages": [
+        364,
+        365
+      ],
+      "source_locator": "Chapter 35; PDF pp. 364-365"
+    },
+    {
+      "id": "grooming-brush",
+      "book": 1,
+      "chapter": 35,
+      "order": 420,
+      "mode": "loot",
+      "category": "LOOT ARCHIVE",
+      "headline": "Grooming with actual benefits.",
+      "body": "Donut's enchanted grooming brush adds 2 Constitution for thirty hours if someone brushes her for at least ten minutes.",
+      "context": "CHAPTER 35",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "PRINCESS DONUT",
+      "detail_label": "BRUSH BONUS",
+      "detail": "+2 CONSTITUTION",
+      "source_id": "book1_fr",
+      "source_pages": [
+        371,
+        371
+      ],
+      "source_locator": "Chapter 35; PDF pp. 371-371"
+    },
+    {
+      "id": "six-day-floor",
+      "book": 1,
+      "chapter": 35,
+      "order": 430,
+      "mode": "rule",
+      "category": "DUNGEON PROTOCOL",
+      "headline": "Less time than expected.",
+      "body": "Mordecai had expected up to ten days for floor two. The crawlers receive six; he says five days is the legal minimum.",
+      "context": "CHAPTER 35",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "FLOOR 2",
+      "detail_label": "ACTUAL TIME ALLOWED",
+      "detail": "6 DAYS",
+      "source_id": "book1_fr",
+      "source_pages": [
+        372,
+        372
+      ],
+      "source_locator": "Chapter 35; PDF pp. 372-372"
+    },
+    {
+      "id": "zev",
+      "book": 1,
+      "chapter": 36,
+      "order": 440,
+      "mode": "dossier",
+      "category": "CRAWLER DOSSIER",
+      "headline": "Your publicist has arrived.",
+      "body": "Borant assigns Zev to manage Carl and Donut's interview requests. She is a kua-tin administrator from its communications department.",
+      "context": "CHAPTER 36",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "ZEV",
+      "detail_label": "ASSIGNED ROLE",
+      "detail": "PUBLIC RELATIONS",
+      "source_id": "book1_fr",
+      "source_pages": [
+        378,
+        381
+      ],
+      "source_locator": "Chapter 36; PDF pp. 378-381"
+    },
+    {
+      "id": "gossip-girl",
+      "book": 1,
+      "chapter": 36,
+      "order": 450,
+      "mode": "broadcast",
+      "category": "BROADCAST DESK",
+      "headline": "A surprisingly familiar fandom.",
+      "body": "Zev and Donut discover they both know Gossip Girl. The shared interest quickly turns their official meeting into an animated conversation.",
+      "context": "CHAPTER 36",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "ZEV + DONUT",
+      "detail_label": "SHARED INTEREST",
+      "detail": "GOSSIP GIRL",
+      "source_id": "book1_fr",
+      "source_pages": [
+        385,
+        385
+      ],
+      "source_locator": "Chapter 36; PDF pp. 385-385"
+    },
+    {
+      "id": "larva-cap",
+      "book": 1,
+      "chapter": 37,
+      "order": 460,
+      "mode": "rule",
+      "category": "DUNGEON PROTOCOL",
+      "headline": "Killing them makes more.",
+      "body": "Mordecai explains that corpses trigger more cleanup larvae. Destroying the bodies prevents feeding, but does not prevent spawning.",
+      "context": "CHAPTER 37",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "CLEANUP SYSTEM",
+      "detail_label": "QUADRANT CAP HERE",
+      "detail": "5,000 LARVAE",
+      "source_id": "book1_fr",
+      "source_pages": [
+        389,
+        391
+      ],
+      "source_locator": "Chapter 37; PDF pp. 389-391"
+    },
+    {
+      "id": "rage-elemental",
+      "book": 1,
+      "chapter": 38,
+      "order": 470,
+      "mode": "enemy",
+      "category": "ENCOUNTER ARCHIVE",
+      "headline": "The punishment arrives.",
+      "body": "Jack urinates in a dungeon corridor, triggering a level-93 rage elemental. The residents' evacuation turns into a desperate flight.",
+      "context": "CHAPTER 38",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "RAGE ELEMENTAL",
+      "detail_label": "ENEMY LEVEL",
+      "detail": "93",
+      "source_id": "book1_fr",
+      "source_pages": [
+        397,
+        399
+      ],
+      "source_locator": "Chapter 38; PDF pp. 397-399"
+    },
+    {
+      "id": "yolanda",
+      "book": 1,
+      "chapter": 38,
+      "order": 480,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "Yolanda stands her ground.",
+      "body": "Yolanda stays beside the fallen Randall despite the danger. The rage elemental kills them both as the others flee.",
+      "context": "CHAPTER 38",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "YOLANDA + RANDALL",
+      "detail_label": "MEMORIAL",
+      "detail": "LOST ON FLOOR 2",
+      "source_id": "book1_fr",
+      "source_pages": [
+        400,
+        401
+      ],
+      "source_locator": "Chapter 38; PDF pp. 400-401"
+    },
+    {
+      "id": "elle-rescue",
+      "book": 1,
+      "chapter": 38,
+      "order": 490,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "Carl goes back for Elle.",
+      "body": "The elemental reverses gravity. Carl reaches Elle McGibbons, carries her through the chaos and gets her inside the safe room.",
+      "context": "CHAPTER 38",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "ELLE McGIBBONS",
+      "detail_label": "RESCUE RESULT",
+      "detail": "SAFE ROOM REACHED",
+      "source_id": "book1_fr",
+      "source_pages": [
+        401,
+        404
+      ],
+      "source_locator": "Chapter 38; PDF pp. 401-404"
+    },
+    {
+      "id": "closing-safe-rooms",
+      "book": 1,
+      "chapter": 39,
+      "order": 500,
+      "mode": "rule",
+      "category": "DUNGEON PROTOCOL",
+      "headline": "Safe rooms now close early.",
+      "body": "A new announcement says safe spaces will close one hour before each floor collapses. Crawlers still inside will be teleported out.",
+      "context": "CHAPTER 39",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "SYSTEM RULE CHANGE",
+      "detail_label": "CLOSURE OFFSET",
+      "detail": "1 HOUR EARLY",
+      "source_id": "book1_fr",
+      "source_pages": [
+        414,
+        414
+      ],
+      "source_locator": "Chapter 39; PDF pp. 414-414"
+    },
+    {
+      "id": "moab-launcher",
+      "book": 1,
+      "chapter": 40,
+      "order": 510,
+      "mode": "loot",
+      "category": "LOOT ARCHIVE",
+      "headline": "The mother is a launcher.",
+      "body": "Carl names their escape device Mother of All Bombs. It launches smaller bombs from a trailer while Donut operates it behind the goblin bike.",
+      "context": "CHAPTER 40",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "CARL + DONUT",
+      "detail_label": "DEVICE FUNCTION",
+      "detail": "BOMB LAUNCHER",
+      "source_id": "book1_fr",
+      "source_pages": [
+        417,
+        423
+      ],
+      "source_locator": "Chapter 40; PDF pp. 417-423"
+    },
+    {
+      "id": "elemental-staircase",
+      "book": 1,
+      "chapter": 40,
+      "order": 520,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "Let the dungeon kill it.",
+      "body": "Carl lures the rage elemental toward the stairs. Donut teleports them clear; the monster slides into the stairwell and is destroyed by dungeon rules.",
+      "context": "CHAPTER 40",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "RAGE ELEMENTAL",
+      "detail_label": "EXPERIENCE AWARDED",
+      "detail": "NONE",
+      "source_id": "book1_fr",
+      "source_pages": [
+        429,
+        432
+      ],
+      "source_locator": "Chapter 40; PDF pp. 429-432"
+    },
+    {
+      "id": "mukta-switch",
+      "book": 1,
+      "chapter": 41,
+      "order": 530,
+      "mode": "broadcast",
+      "category": "BROADCAST DESK",
+      "headline": "A very different booking.",
+      "body": "While Zev is suspended, Mukta overrides her planned interview and sends Carl and Donut to Death Watch instead.",
+      "context": "CHAPTER 41",
+      "location": "STUDIO / INTERLUDE",
+      "floor_label": "STUDIO",
+      "subject": "MUKTA",
+      "detail_label": "NEW DESTINATION",
+      "detail": "DEATH WATCH",
+      "source_id": "book1_fr",
+      "source_pages": [
+        439,
+        443
+      ],
+      "source_locator": "Chapter 41; PDF pp. 439-443"
+    },
+    {
+      "id": "death-watch",
+      "book": 1,
+      "chapter": 42,
+      "order": 540,
+      "mode": "broadcast",
+      "category": "BROADCAST DESK",
+      "headline": "Carl interrupts the spectacle.",
+      "body": "On Death Watch, Carl offers to join the danger facing Li Jun's group and challenges the host, turning the audience against the show's setup.",
+      "context": "CHAPTER 42",
+      "location": "STUDIO / INTERLUDE",
+      "floor_label": "STUDIO",
+      "subject": "CARL",
+      "detail_label": "LIVE CONFRONTATION",
+      "detail": "DEATH WATCH",
+      "source_id": "book1_fr",
+      "source_pages": [
+        453,
+        456
+      ],
+      "source_locator": "Chapter 42; PDF pp. 453-456"
+    },
+    {
+      "id": "yvette-reveal",
+      "book": 1,
+      "chapter": 43,
+      "order": 550,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "The trap had another victim.",
+      "body": "Death Watch reveals that Carl's trap injured Frank and Maggie's daughter, Yvette. Carl had not known she was with them.",
+      "context": "CHAPTER 43",
+      "location": "STUDIO / INTERLUDE",
+      "floor_label": "STUDIO",
+      "subject": "YVETTE",
+      "detail_label": "REVELATION",
+      "detail": "UNINTENDED VICTIM",
+      "source_id": "book1_fr",
+      "source_pages": [
+        464,
+        468
+      ],
+      "source_locator": "Chapter 43; PDF pp. 464-468"
+    },
+    {
+      "id": "boots-gift",
+      "book": 1,
+      "chapter": 43,
+      "order": 560,
+      "mode": "loot",
+      "category": "LOOT ARCHIVE",
+      "headline": "Boots are no longer the answer.",
+      "body": "The host gives Carl combat boots and socks as a taunt. Carl declines to wear them because several of his abilities depend on bare feet.",
+      "context": "CHAPTER 43",
+      "location": "STUDIO / INTERLUDE",
+      "floor_label": "STUDIO",
+      "subject": "CARL",
+      "detail_label": "GIFT RECEIVED",
+      "detail": "BOOTS + SOCKS",
+      "source_id": "book1_fr",
+      "source_pages": [
+        470,
+        471
+      ],
+      "source_locator": "Chapter 43; PDF pp. 470-471"
+    },
+    {
+      "id": "tracking-gift",
+      "book": 1,
+      "chapter": 43,
+      "order": 570,
+      "mode": "loot",
+      "category": "LOOT ARCHIVE",
+      "headline": "A gift for the wrong people.",
+      "body": "The host gives Frank and Maggie a legendary skill potion that can raise Find Crawler to level 15, enabling searches for crawlers by name.",
+      "context": "CHAPTER 43",
+      "location": "STUDIO / INTERLUDE",
+      "floor_label": "STUDIO",
+      "subject": "FRANK Q + MAGGIE MY",
+      "detail_label": "POTION'S STATED EFFECT",
+      "detail": "FIND CRAWLER 15",
+      "source_id": "book1_fr",
+      "source_pages": [
+        471,
+        472
+      ],
+      "source_locator": "Chapter 43; PDF pp. 471-472"
+    },
+    {
+      "id": "zev-returns",
+      "book": 1,
+      "chapter": 44,
+      "order": 580,
+      "mode": "broadcast",
+      "category": "BROADCAST DESK",
+      "headline": "Zev wins her appeal.",
+      "body": "Zev returns after appealing her suspension for warning them about the elemental. She apologizes for the Death Watch booking.",
+      "context": "CHAPTER 44",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "ZEV",
+      "detail_label": "ADMIN STATUS",
+      "detail": "REINSTATED",
+      "source_id": "book1_fr",
+      "source_pages": [
+        479,
+        480
+      ],
+      "source_locator": "Chapter 44; PDF pp. 479-480"
+    },
+    {
+      "id": "feed-dingos",
+      "book": 1,
+      "chapter": 45,
+      "order": 590,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "A biscuit changes the fight.",
+      "body": "Carl feeds the fourteen injured dingos in the kobold kennels. They turn non-hostile and later attack their kobold captors when the cages open.",
+      "context": "CHAPTER 45",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "CAPTIVE DINGOS",
+      "detail_label": "DINGOS FED",
+      "detail": "14",
+      "source_id": "book1_fr",
+      "source_pages": [
+        488,
+        494
+      ],
+      "source_locator": "Chapter 45; PDF pp. 488-494"
+    },
+    {
+      "id": "ralph",
+      "book": 1,
+      "chapter": 45,
+      "order": 600,
+      "mode": "enemy",
+      "category": "ENCOUNTER ARCHIVE",
+      "headline": "Do not underestimate the gerbil.",
+      "body": "Ralph is the kennel's level-11 boss. A dingo swallows him, but he survives; Carl finally stuns and crushes him.",
+      "context": "CHAPTER 45",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "RALPH",
+      "detail_label": "NEIGHBORHOOD BOSS",
+      "detail": "LEVEL 11",
+      "source_id": "book1_fr",
+      "source_pages": [
+        492,
+        497
+      ],
+      "source_locator": "Chapter 45; PDF pp. 492-497"
+    },
+    {
+      "id": "menagerie-key",
+      "book": 1,
+      "chapter": 46,
+      "order": 610,
+      "mode": "loot",
+      "category": "LOOT ARCHIVE",
+      "headline": "One key. One companion.",
+      "body": "A key opens the captive animals' cages, but breaks after one use by a non-kobold. Donut chooses the pink-feathered mongoliensis.",
+      "context": "CHAPTER 46",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "PET REWARD ROOM",
+      "detail_label": "NON-KOBOLD USE LIMIT",
+      "detail": "ONE CAGE",
+      "source_id": "book1_fr",
+      "source_pages": [
+        499,
+        502
+      ],
+      "source_locator": "Chapter 46; PDF pp. 499-502"
+    },
+    {
+      "id": "mongo-arrives",
+      "book": 1,
+      "chapter": 46,
+      "order": 620,
+      "mode": "dossier",
+      "category": "CRAWLER DOSSIER",
+      "headline": "Meet the tiny menace.",
+      "body": "Donut names the male mongoliensis Mongo. He is a level-1 pet-class mob, but has not bonded with her and keeps trying to bite.",
+      "context": "CHAPTER 46",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "MONGO",
+      "detail_label": "INITIAL BOND STATUS",
+      "detail": "NOT YET BONDED",
+      "source_id": "book1_fr",
+      "source_pages": [
+        501,
+        504
+      ],
+      "source_locator": "Chapter 46; PDF pp. 501-504"
+    },
+    {
+      "id": "mongo-ejected",
+      "book": 1,
+      "chapter": 47,
+      "order": 630,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "Even Mongo must obey the rules.",
+      "body": "Mongo tries to bite Carl in Mordecai's safe room and is teleported outside. Carl and Donut find him crying in the main corridor.",
+      "context": "CHAPTER 47",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "MONGO",
+      "detail_label": "SAFE-ROOM VIOLATION",
+      "detail": "TELEPORTED OUT",
+      "source_id": "book1_fr",
+      "source_pages": [
+        506,
+        510
+      ],
+      "source_locator": "Chapter 47; PDF pp. 506-510"
+    },
+    {
+      "id": "slingshot-practice",
+      "book": 1,
+      "chapter": 47,
+      "order": 640,
+      "mode": "dossier",
+      "category": "CRAWLER DOSSIER",
+      "headline": "Practice beats popularity.",
+      "body": "Zev asks Carl to stop using his boring slingshot. He keeps training and learns to knock flying hornets down for Donut to finish.",
+      "context": "CHAPTER 47",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "CARL",
+      "detail_label": "SKILL REACHED",
+      "detail": "SLINGSHOT 5",
+      "source_id": "book1_fr",
+      "source_pages": [
+        505,
+        506
+      ],
+      "source_locator": "Chapter 47; PDF pp. 505-506"
+    },
+    {
+      "id": "mongo-bond",
+      "book": 1,
+      "chapter": 47,
+      "order": 650,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "Mongo joins the court.",
+      "body": "Donut rescues Mongo from a hornet. His map marker turns orange, and the system registers him as her bonded pet and a member of the party.",
+      "context": "CHAPTER 47",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "MONGO + DONUT",
+      "detail_label": "BOND STATUS",
+      "detail": "OFFICIAL PARTY PET",
+      "source_id": "book1_fr",
+      "source_pages": [
+        515,
+        516
+      ],
+      "source_locator": "Chapter 47; PDF pp. 515-516"
+    },
+    {
+      "id": "third-floor-ahead",
+      "book": 1,
+      "chapter": 47,
+      "order": 660,
+      "mode": "rule",
+      "category": "DUNGEON PROTOCOL",
+      "headline": "Choose the next version of you.",
+      "body": "Mordecai explains the next step: race selection, then class selection, followed by stat allocation. Donut's growth buff restricts her allocation.",
+      "context": "CHAPTER 47",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "CARL + DONUT",
+      "detail_label": "NEXT MILESTONE",
+      "detail": "RACE + CLASS",
+      "source_id": "book1_fr",
+      "source_pages": [
+        507,
+        508
+      ],
+      "source_locator": "Chapter 47; PDF pp. 507-508"
+    },
+    {
+      "id": "agatha-mystery",
+      "book": 1,
+      "chapter": 47,
+      "order": 670,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "Agatha leaves questions behind.",
+      "body": "Agatha reappears near the staircase with her cart. Zev later reports a brief feed interruption. Carl suspects more is going on, but has no answer.",
+      "context": "CHAPTER 47",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "AGATHA",
+      "detail_label": "STATUS AT BOOK 1 END",
+      "detail": "UNRESOLVED",
+      "source_id": "book1_fr",
+      "source_pages": [
+        519,
+        520
+      ],
+      "source_locator": "Chapter 47; PDF pp. 519-520"
+    },
+    {
+      "id": "third-floor-descent",
+      "book": 1,
+      "chapter": 47,
+      "order": 680,
+      "mode": "incident",
+      "category": "FIELD REPORT",
+      "headline": "On to the third floor.",
+      "body": "Carl waits until the countdown drops below six hours, then heads down with Donut and Mongo. Their next stage is still ahead.",
+      "context": "CHAPTER 47",
+      "location": "FLOOR 02",
+      "floor_label": "F02",
+      "subject": "ROYAL COURT",
+      "detail_label": "DESTINATION",
+      "detail": "FLOOR 3",
+      "source_id": "book1_fr",
+      "source_pages": [
+        520,
+        521
+      ],
+      "source_locator": "Chapter 47; PDF pp. 520-521"
+    },
+    {
+      "id": "mongo-reveal",
+      "book": 1,
+      "chapter": 48,
+      "order": 690,
+      "mode": "dossier",
+      "category": "CRAWLER DOSSIER",
+      "headline": "That is a velociraptor.",
+      "body": "In the epilogue, Odette explains that mongoliensis is the scientific name. The pink-feathered creature Donut adopted is a velociraptor.",
+      "context": "EPILOGUE",
+      "location": "STUDIO / INTERLUDE",
+      "floor_label": "STUDIO",
+      "subject": "MONGO",
+      "detail_label": "ODETTE'S IDENTIFICATION",
+      "detail": "VELOCIRAPTOR",
+      "source_id": "book1_fr",
+      "source_pages": [
+        525,
+        527
+      ],
+      "source_locator": "Epilogue; PDF pp. 525-527"
+    }
   ]
 }
