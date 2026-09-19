@@ -18,7 +18,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 LIMITS = {'id': 60, 'mode': 16, 'category': 26, 'headline': 48, 'body': 200,
           'context': 24, 'location': 22, 'subject': 24, 'detail_label': 26,
-          'detail': 24, 'floor_label': 12, 'source_locator': 100, 'source_id': 30}
+          'detail': 24, 'floor_label': 12}
 MODES = ('incident', 'dossier', 'loot', 'rule', 'enemy', 'broadcast')
 
 
@@ -72,15 +72,6 @@ def validate(data):
                 raise ValueError(f'{card["id"]}: {key} must be a positive integer')
         if card['mode'] not in MODES:
             raise ValueError(f'{card["id"]}: unknown mode')
-        source = data.get('sources', {}).get(card['source_id'])
-        if not isinstance(source, dict) or source.get('type') not in ('primary', 'secondary'):
-            raise ValueError(f'{card["id"]}: missing or invalid source')
-        pages = card.get('source_pages')
-        total = source.get('pdf_pages')
-        if (not isinstance(pages, list) or len(pages) != 2
-            or any(type(p) is not int for p in pages) or type(total) is not int
-            or not 1 <= pages[0] <= pages[1] <= total):
-            raise ValueError(f'{card["id"]}: source_pages must be a valid inclusive PDF page range')
 
 
 def eligible_cards(data, max_book, max_chapter=48):
@@ -123,18 +114,14 @@ def pick(cards, previous, rotation, rng):
 
 
 def output_for(data, card, position, total, timestamp):
-    first, last = card['source_pages']
-    page_label = f'PDF P. {first}' if first == last else f'PDF PP. {first}-{last}'
     return {**card, 'schema_version': 3, 'title': data['title'], 'subtitle': data['subtitle'],
             'footer': data['footer'], 'generated_at_utc': timestamp,
             'updated_label': timestamp[11:16] + ' UTC', 'book_label': f'BOOK {card["book"]:02}',
-            'archive_label': f'{position:02} / {total:02}',
-            'source_label': page_label, 'source_type_label': 'BOOK 1 / FRENCH PDF',
-            'content_label': 'ENGLISH RECAP / SCENE SNAPSHOT'}
+            'archive_label': f'{position:02} / {total:02}'}
 
 
 def render_preview(template, values):
-    # Matches the supplied Liquid template's escaped, flat variables exactly.
+    # Matches the Liquid template's escaped, flat variables exactly.
     return re.sub(r'{{\s*(\w+)\s*\|\s*escape\s*}}',
                   lambda match: html.escape(str(values.get(match[1], '')), quote=True), template)
 
@@ -204,7 +191,7 @@ def main():
     if args.preview:
         atomic_write(output_dir / 'preview.html', preview_document(data, output))
     write_json(current_path, {**output, '_rotation': state})
-    print(f'Wrote current.json: {card["id"]} ({card["context"]}, {output["source_label"]})')
+    print(f'Wrote current.json: {card["id"]} ({card["context"]})')
 
 
 if __name__ == '__main__':
