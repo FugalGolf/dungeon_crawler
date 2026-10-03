@@ -1,36 +1,459 @@
 {
-  "book": 6,
-  "title": { "en": "The Eye of the Bedlam Bride", "fr": "L'Œil de la Veuve du Chaos" },
-  "broadcasts": [
-    { "id": "6-01", "type": "announcement", "floor": 8, "en": { "h": "Welcome to floor eight", "b": "Hello, crawlers! This floor is full of ghosts. Do not feed the ghosts." }, "fr": { "h": "Bienvenue au niveau huit", "b": "Bonjour, crawlers ! Cet étage regorge de fantômes. Ne nourrissez pas les fantômes." } },
-    { "id": "6-02", "type": "achievement", "floor": 8, "en": { "h": "Country boss!", "b": "You have worked for a company whose boss is a real problem. You know the feeling. Now fight it." }, "fr": { "h": "Boss de pays !", "b": "Vous avez déjà bossé pour un patron qui posait vraiment problème. Vous connaissez le sentiment. Maintenant, battez-vous." } },
-    { "id": "6-03", "type": "warning", "floor": 8, "en": { "h": "Ghost sightings", "b": "Spirits have been spotted in the halls. They do not mean harm. They mean something worse." }, "fr": { "h": "Fantômes signalés", "b": "Des esprits ont été vus dans les couloirs. Ils ne veulent pas de mal. Ils veulent pire." } },
-    { "id": "6-04", "type": "achievement", "floor": 8, "en": { "h": "Four-way fight", "b": "You survived a boss fight with four sides. Nobody knew who the enemy was. Neither did they." }, "fr": { "h": "Combat à quatre", "b": "Vous avez survécu à un combat de boss à quatre camps. Personne ne savait qui était l'ennemi. Eux non plus." } },
-    { "id": "6-05", "type": "announcement", "floor": 8, "en": { "h": "Card game tonight", "b": "A card tournament is scheduled. Pawns will be provided. Pawns are expendable." }, "fr": { "h": "Tournoi de cartes ce soir", "b": "Un tournoi de cartes est prévu. Des pions seront fournis. Les pions sont sacrifiables." } },
-    { "id": "6-06", "type": "achievement", "floor": 8, "en": { "h": "Pacifist run", "b": "You survived an entire floor without harming a single mob. We are baffled. The sponsors are bored." }, "fr": { "h": "Pacifiste", "b": "Vous avez survécu à tout un niveau sans nuire à un seul mob. On est perplexes. Les mécènes s'ennuient." } },
-    { "id": "6-07", "type": "loot", "floor": 8, "en": { "h": "Divine item", "b": "You received an item from a deity. It is shiny. It is hungry. It is yours now." }, "fr": { "h": "Objet divin", "b": "Vous avez reçu un objet d'une divinité. Il est brillant. Il a faim. Il est à vous maintenant." } },
-    { "id": "6-08", "type": "warning", "floor": 8, "en": { "h": "Cliff warning", "b": "The rock face is steep. Climbing it with bare hands is brave. Climbing it with bare hands in the dark is a statement." }, "fr": { "h": "Alerte falaise", "b": "La paroi est abrupte. L'escalader à mains nues est courageux. La nuit, c'est une déclaration." } },
-    { "id": "6-09", "type": "achievement", "floor": 8, "en": { "h": "Cliffhanger", "b": "You climbed a cliff side with only your hands. Your hands have filed a grievance." }, "fr": { "h": "À pic", "b": "Vous avez gravi une falaise à mains nues. Vos mains ont déposé une réclamation." } },
-    { "id": "6-10", "type": "announcement", "floor": 8, "en": { "h": "Guild hall found", "b": "A hidden guild hall has been discovered. The members are not thrilled about visitors." }, "fr": { "h": "Salle de guilde découverte", "b": "Une salle de guilde secrète a été découverte. Les membres ne sont pas ravis d'avoir des visiteurs." } },
-    { "id": "6-11", "type": "achievement", "floor": 8, "en": { "h": "Small black dress", "b": "A wardrobe essential. Worn correctly, it can end a conversation. Or a war." }, "fr": { "h": "Petite robe noire", "b": "Un incontournable de la garde-robe. Bien portée, elle peut clore une conversation. Ou une guerre." } },
-    { "id": "6-12", "type": "loot", "floor": 8, "en": { "h": "Wand shipment", "b": "New wands have arrived. Wave them carefully. Wave them elsewhere. Please, elsewhere." }, "fr": { "h": "Arrivage de baguettes", "b": "De nouvelles baguettes sont arrivées. Agitez-les avec précaution. Ailleurs. S'il vous plaît, ailleurs." } },
-    { "id": "6-13", "type": "warning", "floor": 8, "en": { "h": "Intruder alert", "b": "An unwelcome guest was invited into a safe room. The room has opinions about that." }, "fr": { "h": "Alerte intrus", "b": "Un invité indésirable a été convié dans une salle sécurisée. La salle a son avis là-dessus." } },
-    { "id": "6-14", "type": "achievement", "floor": 8, "en": { "h": "Part-time job", "b": "You took a second job on top of everything else. The dungeon respects your hustle." }, "fr": { "h": "Petit boulot", "b": "Vous avez pris un deuxième emploi en plus de tout le reste. Le donjon respecte votre énergie." } },
-    { "id": "6-15", "type": "announcement", "floor": 8, "en": { "h": "Auction announcement", "b": "Rare goods will be auctioned tonight. Bidders must bring their own nerve." }, "fr": { "h": "Annonce de vente aux enchères", "b": "Des biens rares seront vendus ce soir. Les enchérisseurs doivent apporter leur propre sang-froid." } },
-    { "id": "6-16", "type": "achievement", "floor": 8, "en": { "h": "Lightning stairs", "b": "You took the stairs within an hour of arriving. Very fast. Very rude to the floor." }, "fr": { "h": "Escalier éclair", "b": "Vous avez pris l'escalier moins d'une heure après votre arrivée. Très rapide. Très impoli envers l'étage." } },
-    { "id": "6-17", "type": "warning", "floor": 8, "en": { "h": "Temperature drop", "b": "A cold spot has appeared. Cold spots are friendly ghosts. Mostly." }, "fr": { "h": "Chute de température", "b": "Un point froid est apparu. Les points froids sont des fantômes amicaux. Surtout." } },
-    { "id": "6-18", "type": "loot", "floor": 8, "en": { "h": "Black market open", "b": "Items of questionable origin are on sale. Questions will not be answered." }, "fr": { "h": "Marché noir ouvert", "b": "Des objets d'origine douteuse sont en vente. Les questions resteront sans réponse." } },
-    { "id": "6-19", "type": "achievement", "floor": 8, "en": { "h": "Cattle call", "b": "You joined a card fight as a pawn. Your sacrifice was noted and slightly applauded." }, "fr": { "h": "Bétail", "b": "Vous avez rejoint un combat de cartes en tant que pion. Votre sacrifice a été noté et légèrement applaudi." } },
-    { "id": "6-20", "type": "announcement", "floor": 8, "en": { "h": "Viewer poll", "b": "Viewers are voting on who deserves a reward. The results are rigged. In your favor, maybe." }, "fr": { "h": "Sondage des spectateurs", "b": "Les spectateurs votent pour désigner qui mérite une récompense. Les résultats sont truqués. En votre faveur, peut-être." } },
-    { "id": "6-21", "type": "warning", "floor": 8, "en": { "h": "Royal visitor", "b": "A member of an infernal royal family is on the floor. Bow. Or run. Bow while running." }, "fr": { "h": "Visite royale", "b": "Un membre d'une famille royale infernale est sur l'étage. Inclinez-vous. Ou fuyez. Inclinez-vous en fuyant." } },
-    { "id": "6-22", "type": "achievement", "floor": 8, "en": { "h": "Needle work", "b": "You blinded yourself with one move. We are not sure whether to applaud or call a medic." }, "fr": { "h": "Coup d'aiguille", "b": "Vous vous êtes rendu aveugle d'un seul geste. On ne sait pas s'il faut applaudir ou appeler un médecin." } },
-    { "id": "6-23", "type": "loot", "floor": 8, "en": { "h": "Mixtape drop", "b": "A classic album collection has been added to the shop. Twelve for the price of one. Shipping is hell." }, "fr": { "h": "Nouveautés musicales", "b": "Une collection d'albums classiques est ajoutée à la boutique. Douze pour le prix d'un. La livraison est infernale." } },
-    { "id": "6-24", "type": "announcement", "floor": 8, "en": { "h": "Heavenly chamber", "b": "A celestial hall has been discovered. It is quiet and fragrant. Do not trust it." }, "fr": { "h": "Salle céleste", "b": "Une salle céleste a été découverte. Elle est calme et parfumée. Ne lui faites pas confiance." } },
-    { "id": "6-25", "type": "warning", "floor": 8, "en": { "h": "Death sentence", "b": "A deity has issued a contract on a crawler. The crawler has been notified. The crawler is not happy." }, "fr": { "h": "Condamnation", "b": "Une divinité a mis un contrat sur la tête d'un crawler. Le crawler a été prévenu. Le crawler n'est pas content." } },
-    { "id": "6-26", "type": "achievement", "floor": 8, "en": { "h": "Wand abuse", "b": "You used a wand in a combat in an unusual manner. The wand is confused. So is the enemy." }, "fr": { "h": "Mauvais usage", "b": "Vous avez utilisé une baguette de façon inhabituelle en combat. La baguette est perplexe. L'ennemi aussi." } },
-    { "id": "6-27", "type": "announcement", "floor": 8, "en": { "h": "Fashion show", "b": "A runway has been installed. Walk it. Live or die by the fabric." }, "fr": { "h": "Défilé", "b": "Un podium a été installé. Défilez. Vivez ou mourez par le tissu." } },
-    { "id": "6-28", "type": "achievement", "floor": 8, "en": { "h": "Fiasco", "b": "The countdown nears zero, the stakes are high, and the dungeon is delighted." }, "fr": { "h": "Fiasco", "b": "Le compte à rebours approche de zéro, les enjeux sont élevés, et le donjon est ravi." } },
-    { "id": "6-29", "type": "warning", "floor": 8, "en": { "h": "Final warning", "b": "The floor is closing. Gather your friends, your gear, and your last remaining excuses." }, "fr": { "h": "Dernier avertissement", "b": "L'étage ferme. Rassemblez vos amis, votre équipement et vos dernières excuses." } },
-    { "id": "6-30", "type": "announcement", "floor": 8, "en": { "h": "See you below", "b": "Thank you for visiting the ghosts. They will miss you. They will follow you. Goodbye." }, "fr": { "h": "À tout à l'heure en bas", "b": "Merci d'avoir rendu visite aux fantômes. Ils vont vous regretter. Ils vont vous suivre. Au revoir." } }
-  ]
+ "book": 6,
+ "title": {
+  "en": "The Eye of the Bedlam Bride",
+  "fr": "L'Œil de la Veuve du Chaos"
+ },
+ "broadcasts": [
+  {
+   "id": "6-01",
+   "type": "announcement",
+   "floor": 8,
+   "en": {
+    "h": "Welcome to floor eight",
+    "b": "Hello, crawlers! This floor is full of ghosts. Do not feed the ghosts."
+   },
+   "fr": {
+    "h": "Bienvenue au niveau huit",
+    "b": "Bonjour, crawlers ! Cet étage regorge de fantômes. Ne nourrissez pas les fantômes."
+   }
+  },
+  {
+   "id": "6-02",
+   "type": "achievement",
+   "floor": 8,
+   "en": {
+    "h": "Country boss!",
+    "b": "You have worked for a company whose boss is a real problem. You know the feeling. Now fight it."
+   },
+   "fr": {
+    "h": "Boss de pays !",
+    "b": "Vous avez déjà bossé pour un patron qui posait vraiment problème. Vous connaissez le sentiment. Maintenant, battez-vous."
+   },
+   "reward": {
+    "en": "You received a bronze Adventurer Box!",
+    "fr": "Vous avez reçu un coffret « Aventurier » bronze !"
+   }
+  },
+  {
+   "id": "6-03",
+   "type": "warning",
+   "floor": 8,
+   "en": {
+    "h": "Ghost sightings",
+    "b": "Spirits have been spotted in the halls. They do not mean harm. They mean something worse."
+   },
+   "fr": {
+    "h": "Fantômes signalés",
+    "b": "Des esprits ont été vus dans les couloirs. Ils ne veulent pas de mal. Ils veulent pire."
+   }
+  },
+  {
+   "id": "6-04",
+   "type": "achievement",
+   "floor": 8,
+   "en": {
+    "h": "Four-way fight",
+    "b": "You survived a boss fight with four sides. Nobody knew who the enemy was. Neither did they."
+   },
+   "fr": {
+    "h": "Combat à quatre",
+    "b": "Vous avez survécu à un combat de boss à quatre camps. Personne ne savait qui était l'ennemi. Eux non plus."
+   },
+   "reward": {
+    "en": "You received a gold Footwear Box!",
+    "fr": "Vous avez reçu un coffret « Chaussures » or !"
+   }
+  },
+  {
+   "id": "6-05",
+   "type": "announcement",
+   "floor": 8,
+   "en": {
+    "h": "Card game tonight",
+    "b": "A card tournament is scheduled. Pawns will be provided. Pawns are expendable."
+   },
+   "fr": {
+    "h": "Tournoi de cartes ce soir",
+    "b": "Un tournoi de cartes est prévu. Des pions seront fournis. Les pions sont sacrifiables."
+   }
+  },
+  {
+   "id": "6-06",
+   "type": "achievement",
+   "floor": 8,
+   "en": {
+    "h": "Pacifist run",
+    "b": "You survived an entire floor without harming a single mob. We are baffled. The sponsors are bored."
+   },
+   "fr": {
+    "h": "Pacifiste",
+    "b": "Vous avez survécu à tout un niveau sans nuire à un seul mob. On est perplexes. Les mécènes s'ennuient."
+   },
+   "reward": {
+    "en": "You may now continue to survive. Congratulations.",
+    "fr": "Vous pouvez maintenant continuer à survivre. Félicitations."
+   }
+  },
+  {
+   "id": "6-07",
+   "type": "loot",
+   "floor": 8,
+   "en": {
+    "h": "Divine item",
+    "b": "You received an item from a deity. It is shiny. It is hungry. It is yours now."
+   },
+   "fr": {
+    "h": "Objet divin",
+    "b": "Vous avez reçu un objet d'une divinité. Il est brillant. Il a faim. Il est à vous maintenant."
+   },
+   "reward": {
+    "en": "You received a silver Consumables Box!",
+    "fr": "Vous avez reçu un coffret « Consommables » argent !"
+   }
+  },
+  {
+   "id": "6-08",
+   "type": "warning",
+   "floor": 8,
+   "en": {
+    "h": "Cliff warning",
+    "b": "The rock face is steep. Climbing it with bare hands is brave. Climbing it with bare hands in the dark is a statement."
+   },
+   "fr": {
+    "h": "Alerte falaise",
+    "b": "La paroi est abrupte. L'escalader à mains nues est courageux. La nuit, c'est une déclaration."
+   }
+  },
+  {
+   "id": "6-09",
+   "type": "achievement",
+   "floor": 8,
+   "en": {
+    "h": "Cliffhanger",
+    "b": "You climbed a cliff side with only your hands. Your hands have filed a grievance."
+   },
+   "fr": {
+    "h": "À pic",
+    "b": "Vous avez gravi une falaise à mains nues. Vos mains ont déposé une réclamation."
+   },
+   "reward": {
+    "en": "You received a gold Footwear Box!",
+    "fr": "Vous avez reçu un coffret « Chaussures » or !"
+   }
+  },
+  {
+   "id": "6-10",
+   "type": "announcement",
+   "floor": 8,
+   "en": {
+    "h": "Guild hall found",
+    "b": "A hidden guild hall has been discovered. The members are not thrilled about visitors."
+   },
+   "fr": {
+    "h": "Salle de guilde découverte",
+    "b": "Une salle de guilde secrète a été découverte. Les membres ne sont pas ravis d'avoir des visiteurs."
+   }
+  },
+  {
+   "id": "6-11",
+   "type": "achievement",
+   "floor": 8,
+   "en": {
+    "h": "Small black dress",
+    "b": "A wardrobe essential. Worn correctly, it can end a conversation. Or a war."
+   },
+   "fr": {
+    "h": "Petite robe noire",
+    "b": "Un incontournable de la garde-robe. Bien portée, elle peut clore une conversation. Ou une guerre."
+   },
+   "reward": {
+    "en": "You received a silver Consumables Box!",
+    "fr": "Vous avez reçu un coffret « Consommables » argent !"
+   }
+  },
+  {
+   "id": "6-12",
+   "type": "loot",
+   "floor": 8,
+   "en": {
+    "h": "Wand shipment",
+    "b": "New wands have arrived. Wave them carefully. Wave them elsewhere. Please, elsewhere."
+   },
+   "fr": {
+    "h": "Arrivage de baguettes",
+    "b": "De nouvelles baguettes sont arrivées. Agitez-les avec précaution. Ailleurs. S'il vous plaît, ailleurs."
+   },
+   "reward": {
+    "en": "You received a silver Pet Box!",
+    "fr": "Vous avez reçu un coffret « Familier » argent !"
+   }
+  },
+  {
+   "id": "6-13",
+   "type": "warning",
+   "floor": 8,
+   "en": {
+    "h": "Intruder alert",
+    "b": "An unwelcome guest was invited into a safe room. The room has opinions about that."
+   },
+   "fr": {
+    "h": "Alerte intrus",
+    "b": "Un invité indésirable a été convié dans une salle sécurisée. La salle a son avis là-dessus."
+   }
+  },
+  {
+   "id": "6-14",
+   "type": "achievement",
+   "floor": 8,
+   "en": {
+    "h": "Part-time job",
+    "b": "You took a second job on top of everything else. The dungeon respects your hustle."
+   },
+   "fr": {
+    "h": "Petit boulot",
+    "b": "Vous avez pris un deuxième emploi en plus de tout le reste. Le donjon respecte votre énergie."
+   },
+   "reward": {
+    "en": "Nothing. Doing your job is not a reward.",
+    "fr": "Rien. Faire son boulot n'est pas une récompense."
+   }
+  },
+  {
+   "id": "6-15",
+   "type": "announcement",
+   "floor": 8,
+   "en": {
+    "h": "Auction announcement",
+    "b": "Rare goods will be auctioned tonight. Bidders must bring their own nerve."
+   },
+   "fr": {
+    "h": "Annonce de vente aux enchères",
+    "b": "Des biens rares seront vendus ce soir. Les enchérisseurs doivent apporter leur propre sang-froid."
+   }
+  },
+  {
+   "id": "6-16",
+   "type": "achievement",
+   "floor": 8,
+   "en": {
+    "h": "Lightning stairs",
+    "b": "You took the stairs within an hour of arriving. Very fast. Very rude to the floor."
+   },
+   "fr": {
+    "h": "Escalier éclair",
+    "b": "Vous avez pris l'escalier moins d'une heure après votre arrivée. Très rapide. Très impoli envers l'étage."
+   },
+   "reward": {
+    "en": "You received a silver Spell Box!",
+    "fr": "Vous avez reçu un coffret « Sorts » argent !"
+   }
+  },
+  {
+   "id": "6-17",
+   "type": "warning",
+   "floor": 8,
+   "en": {
+    "h": "Temperature drop",
+    "b": "A cold spot has appeared. Cold spots are friendly ghosts. Mostly."
+   },
+   "fr": {
+    "h": "Chute de température",
+    "b": "Un point froid est apparu. Les points froids sont des fantômes amicaux. Surtout."
+   }
+  },
+  {
+   "id": "6-18",
+   "type": "loot",
+   "floor": 8,
+   "en": {
+    "h": "Black market open",
+    "b": "Items of questionable origin are on sale. Questions will not be answered."
+   },
+   "fr": {
+    "h": "Marché noir ouvert",
+    "b": "Des objets d'origine douteuse sont en vente. Les questions resteront sans réponse."
+   },
+   "reward": {
+    "en": "You received a gold Clothing Box!",
+    "fr": "Vous avez reçu un coffret « Vêtements » or !"
+   }
+  },
+  {
+   "id": "6-19",
+   "type": "achievement",
+   "floor": 8,
+   "en": {
+    "h": "Cattle call",
+    "b": "You joined a card fight as a pawn. Your sacrifice was noted and slightly applauded."
+   },
+   "fr": {
+    "h": "Bétail",
+    "b": "Vous avez rejoint un combat de cartes en tant que pion. Votre sacrifice a été noté et légèrement applaudi."
+   },
+   "reward": {
+    "en": "The warm glow of accomplishment. It will have to do.",
+    "fr": "Le sentiment du devoir accompli. Ça fera l'affaire."
+   }
+  },
+  {
+   "id": "6-20",
+   "type": "announcement",
+   "floor": 8,
+   "en": {
+    "h": "Viewer poll",
+    "b": "Viewers are voting on who deserves a reward. The results are rigged. In your favor, maybe."
+   },
+   "fr": {
+    "h": "Sondage des spectateurs",
+    "b": "Les spectateurs votent pour désigner qui mérite une récompense. Les résultats sont truqués. En votre faveur, peut-être."
+   }
+  },
+  {
+   "id": "6-21",
+   "type": "warning",
+   "floor": 8,
+   "en": {
+    "h": "Royal visitor",
+    "b": "A member of an infernal royal family is on the floor. Bow. Or run. Bow while running."
+   },
+   "fr": {
+    "h": "Visite royale",
+    "b": "Un membre d'une famille royale infernale est sur l'étage. Inclinez-vous. Ou fuyez. Inclinez-vous en fuyant."
+   }
+  },
+  {
+   "id": "6-22",
+   "type": "achievement",
+   "floor": 8,
+   "en": {
+    "h": "Needle work",
+    "b": "You blinded yourself with one move. We are not sure whether to applaud or call a medic."
+   },
+   "fr": {
+    "h": "Coup d'aiguille",
+    "b": "Vous vous êtes rendu aveugle d'un seul geste. On ne sait pas s'il faut applaudir ou appeler un médecin."
+   },
+   "reward": {
+    "en": "You received a bronze Goblin Box. Do not ask what is inside.",
+    "fr": "Vous avez reçu un coffret « Gobelin » bronze. Ne demandez pas ce qu'il y a dedans."
+   }
+  },
+  {
+   "id": "6-23",
+   "type": "loot",
+   "floor": 8,
+   "en": {
+    "h": "Mixtape drop",
+    "b": "A classic album collection has been added to the shop. Twelve for the price of one. Shipping is hell."
+   },
+   "fr": {
+    "h": "Nouveautés musicales",
+    "b": "Une collection d'albums classiques est ajoutée à la boutique. Douze pour le prix d'un. La livraison est infernale."
+   },
+   "reward": {
+    "en": "You received a silver Pet Box!",
+    "fr": "Vous avez reçu un coffret « Familier » argent !"
+   }
+  },
+  {
+   "id": "6-24",
+   "type": "announcement",
+   "floor": 8,
+   "en": {
+    "h": "Heavenly chamber",
+    "b": "A celestial hall has been discovered. It is quiet and fragrant. Do not trust it."
+   },
+   "fr": {
+    "h": "Salle céleste",
+    "b": "Une salle céleste a été découverte. Elle est calme et parfumée. Ne lui faites pas confiance."
+   }
+  },
+  {
+   "id": "6-25",
+   "type": "warning",
+   "floor": 8,
+   "en": {
+    "h": "Death sentence",
+    "b": "A deity has issued a contract on a crawler. The crawler has been notified. The crawler is not happy."
+   },
+   "fr": {
+    "h": "Condamnation",
+    "b": "Une divinité a mis un contrat sur la tête d'un crawler. Le crawler a été prévenu. Le crawler n'est pas content."
+   }
+  },
+  {
+   "id": "6-26",
+   "type": "achievement",
+   "floor": 8,
+   "en": {
+    "h": "Wand abuse",
+    "b": "You used a wand in a combat in an unusual manner. The wand is confused. So is the enemy."
+   },
+   "fr": {
+    "h": "Mauvais usage",
+    "b": "Vous avez utilisé une baguette de façon inhabituelle en combat. La baguette est perplexe. L'ennemi aussi."
+   },
+   "reward": {
+    "en": "You received a silver Consumables Box!",
+    "fr": "Vous avez reçu un coffret « Consommables » argent !"
+   }
+  },
+  {
+   "id": "6-27",
+   "type": "announcement",
+   "floor": 8,
+   "en": {
+    "h": "Fashion show",
+    "b": "A runway has been installed. Walk it. Live or die by the fabric."
+   },
+   "fr": {
+    "h": "Défilé",
+    "b": "Un podium a été installé. Défilez. Vivez ou mourez par le tissu."
+   }
+  },
+  {
+   "id": "6-28",
+   "type": "achievement",
+   "floor": 8,
+   "en": {
+    "h": "Fiasco",
+    "b": "The countdown nears zero, the stakes are high, and the dungeon is delighted."
+   },
+   "fr": {
+    "h": "Fiasco",
+    "b": "Le compte à rebours approche de zéro, les enjeux sont élevés, et le donjon est ravi."
+   },
+   "reward": {
+    "en": "You may now continue to survive. Congratulations.",
+    "fr": "Vous pouvez maintenant continuer à survivre. Félicitations."
+   }
+  },
+  {
+   "id": "6-29",
+   "type": "warning",
+   "floor": 8,
+   "en": {
+    "h": "Final warning",
+    "b": "The floor is closing. Gather your friends, your gear, and your last remaining excuses."
+   },
+   "fr": {
+    "h": "Dernier avertissement",
+    "b": "L'étage ferme. Rassemblez vos amis, votre équipement et vos dernières excuses."
+   }
+  },
+  {
+   "id": "6-30",
+   "type": "announcement",
+   "floor": 8,
+   "en": {
+    "h": "See you below",
+    "b": "Thank you for visiting the ghosts. They will miss you. They will follow you. Goodbye."
+   },
+   "fr": {
+    "h": "À tout à l'heure en bas",
+    "b": "Merci d'avoir rendu visite aux fantômes. Ils vont vous regretter. Ils vont vous suivre. Au revoir."
+   }
+  }
+ ]
 }

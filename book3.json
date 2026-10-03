@@ -1,36 +1,459 @@
 {
-  "book": 3,
-  "title": { "en": "The Dungeon Anarchist's Cookbook", "fr": "The Dungeon Anarchist's Cookbook" },
-  "broadcasts": [
-    { "id": "3-01", "type": "announcement", "floor": 4, "en": { "h": "Welcome to floor four", "b": "Hello, crawlers! This floor is a little bit different. By different, we mean there are trains." }, "fr": { "h": "Bienvenue au niveau quatre", "b": "Bonjour, crawlers ! Cet étage est un peu différent. Par différent, on veut dire : il y a des trains." } },
-    { "id": "3-02", "type": "achievement", "floor": 4, "en": { "h": "What a lovely train!", "b": "Choo choo! You boarded a train. It goes where it goes. Hold on." }, "fr": { "h": "Oh, le joli train !", "b": "Tchou tchou ! Vous êtes monté dans un train. Il va où il va. Accrochez-vous." } },
-    { "id": "3-03", "type": "announcement", "floor": 4, "en": { "h": "Upgrade center open", "b": "The upgrade center is open for business. Please take a number. Numbers are not guaranteed." }, "fr": { "h": "Centre d'amélioration ouvert", "b": "Le centre d'amélioration est ouvert. Prenez un ticket. Les tickets ne sont pas garantis." } },
-    { "id": "3-04", "type": "achievement", "floor": 4, "en": { "h": "They love me!", "b": "Your fan count passed an enormous number. Fame has a flavor, and it tastes like static." }, "fr": { "h": "Ils m'aiment !", "b": "Votre nombre de fans a franchi un seuil énorme. La gloire a un goût, et c'est celui de la statique." } },
-    { "id": "3-05", "type": "loot", "floor": 4, "en": { "h": "Real estate listing", "b": "A house is available for purchase. Location is excellent. Neighbors are not." }, "fr": { "h": "Annonce immobilière", "b": "Une maison est à vendre. L'emplacement est excellent. Les voisins, moins." } },
-    { "id": "3-06", "type": "achievement", "floor": 4, "en": { "h": "Early bird", "b": "You took the stairs well before they were meant to open. We admire the initiative and worry about your judgment." }, "fr": { "h": "L'avance, ça paie", "b": "Vous avez pris l'escalier bien avant son ouverture. On admire l'initiative et on s'inquiète pour votre jugement." } },
-    { "id": "3-07", "type": "warning", "floor": 4, "en": { "h": "Rail safety notice", "b": "Do not stand on the tracks. Do not argue with the train. The train has right of way." }, "fr": { "h": "Consignes de sécurité ferroviaire", "b": "Ne restez pas sur les rails. Ne discutez pas avec le train. Le train est prioritaire." } },
-    { "id": "3-08", "type": "achievement", "floor": 4, "en": { "h": "Homeowner", "b": "You bought a house. Dreams do come true, and then they need repairs." }, "fr": { "h": "Propriétaire", "b": "Vous avez acheté une maison. Les rêves se réalisent, puis demandent des réparations." } },
-    { "id": "3-09", "type": "announcement", "floor": 4, "en": { "h": "Crafting workshop", "b": "Crafting stations are now available. Recipes are only dangerous if you follow them." }, "fr": { "h": "Atelier d'artisanat", "b": "Les établis sont désormais disponibles. Les recettes ne sont dangereuses que si vous les suivez." } },
-    { "id": "3-10", "type": "achievement", "floor": 4, "en": { "h": "Well rested", "b": "You slept well and woke up refreshed. This is unusual enough to merit an announcement." }, "fr": { "h": "Sommeil réparateur", "b": "Vous avez bien dormi et vous êtes réveillé frais. C'est assez rare pour mériter une annonce." } },
-    { "id": "3-11", "type": "loot", "floor": 4, "en": { "h": "Mystery parcel", "b": "A package has arrived for you. It is ticking. This is normal. Probably." }, "fr": { "h": "Colis mystère", "b": "Un colis est arrivé pour vous. Il fait tic-tac. C'est normal. Probablement." } },
-    { "id": "3-12", "type": "announcement", "floor": 4, "en": { "h": "Pet adoption day", "b": "Pets may now be chosen by interested crawlers. No refunds, no returns, no explanations." }, "fr": { "h": "Journée d'adoption", "b": "Les crawlers intéressés peuvent choisir un familier. Ni remboursement, ni retour, ni explication." } },
-    { "id": "3-13", "type": "achievement", "floor": 4, "en": { "h": "Choo-choo engineer", "b": "You are driving a train. This was not on the job description. Keep going." }, "fr": { "h": "Chef de gare", "b": "Vous conduisez un train. Ce n'était pas dans la fiche de poste. Continuez." } },
-    { "id": "3-14", "type": "warning", "floor": 4, "en": { "h": "Delays expected", "b": "Train service may be interrupted by monsters, explosions, or both. We apologize for the inconvenience." }, "fr": { "h": "Retards à prévoir", "b": "Le service ferroviaire peut être interrompu par des monstres, des explosions, ou les deux. Nous nous excusons de la gêne." } },
-    { "id": "3-15", "type": "achievement", "floor": 4, "en": { "h": "High-speed massacre", "b": "You took out three bosses in a single strike. Efficient, brutal, and good for ratings." }, "fr": { "h": "Massacre grande vitesse", "b": "Vous avez abattu trois boss d'un seul coup. Efficace, brutal et bon pour l'audience." } },
-    { "id": "3-16", "type": "announcement", "floor": 4, "en": { "h": "Town hall meeting", "b": "Residents will gather to discuss local concerns. Spoiler: monsters." }, "fr": { "h": "Réunion de quartier", "b": "Les habitants se réuniront pour discuter des problèmes locaux. Petit indice : les monstres." } },
-    { "id": "3-17", "type": "loot", "floor": 4, "en": { "h": "Gear drop", "b": "New equipment is in the shop window. It looks cursed. It is not. Mostly." }, "fr": { "h": "Nouvel équipement", "b": "Du nouvel équipement est en vitrine. Il a l'air maudit. Il ne l'est pas. Surtout." } },
-    { "id": "3-18", "type": "achievement", "floor": 4, "en": { "h": "Compulsive collector", "b": "You hold hundreds of the same clothing item. The audience does not understand. The audience is jealous." }, "fr": { "h": "Collectionneur compulsif", "b": "Vous possédez des centaines d'exemplaires du même vêtement. Le public ne comprend pas. Le public est jaloux." } },
-    { "id": "3-19", "type": "announcement", "floor": 4, "en": { "h": "Casino night", "b": "The casino is open. The house always wins. We are the house." }, "fr": { "h": "Soirée casino", "b": "Le casino est ouvert. La banque gagne toujours. Nous sommes la banque." } },
-    { "id": "3-20", "type": "warning", "floor": 4, "en": { "h": "Cargo inspection", "b": "All cargo will be inspected. Explosives must be declared. Or hidden well." }, "fr": { "h": "Inspection du fret", "b": "Tout le fret sera inspecté. Les explosifs doivent être déclarés. Ou très bien cachés." } },
-    { "id": "3-21", "type": "achievement", "floor": 4, "en": { "h": "Domestic goddess", "b": "You sat down and built something beautiful with your own hands. The dungeon is touched." }, "fr": { "h": "Fée du logis", "b": "Vous vous êtes assis et avez fabriqué quelque chose de beau de vos mains. Le donjon est ému." } },
-    { "id": "3-22", "type": "announcement", "floor": 4, "en": { "h": "Station stop", "b": "Next stop: danger. Please keep your arms and legs inside the carriage. Your arms, we need those." }, "fr": { "h": "Arrêt en gare", "b": "Prochain arrêt : danger. Gardez bras et jambes à l'intérieur du wagon. Vos bras, on en a besoin." } },
-    { "id": "3-23", "type": "loot", "floor": 4, "en": { "h": "Crafting materials", "b": "Raw materials are on sale. Please do not combine the red ones with the blue ones." }, "fr": { "h": "Matériaux d'artisanat", "b": "Les matières premières sont en vente. Ne mélangez pas les rouges avec les bleues." } },
-    { "id": "3-24", "type": "achievement", "floor": 4, "en": { "h": "Fishy business", "b": "A fish got the better of you. It has been noted and will not be forgotten." }, "fr": { "h": "Affaires de poisson", "b": "Un poisson a eu le dessus sur vous. Cela a été noté et ne sera pas oublié." } },
-    { "id": "3-25", "type": "warning", "floor": 4, "en": { "h": "Tunnel ahead", "b": "Visibility will be reduced. Monsters will not be. Please prepare." }, "fr": { "h": "Tunnel en vue", "b": "La visibilité sera réduite. Les monstres, non. Préparez-vous." } },
-    { "id": "3-26", "type": "announcement", "floor": 4, "en": { "h": "Upgrade sale", "b": "Selected upgrades are discounted. Selected means we picked them. Discounted means slightly less expensive." }, "fr": { "h": "Soldes d'amélioration", "b": "Certaines améliorations sont en promotion. « Certaines » signifie que nous les avons choisies. « Promotion » : un peu moins chères." } },
-    { "id": "3-27", "type": "achievement", "floor": 4, "en": { "h": "Derailed", "b": "You left the rails, quite suddenly. The engineer is pleased with your creativity." }, "fr": { "h": "Déraillement", "b": "Vous avez quitté les rails, assez brusquement. L'ingénieur apprécie votre créativité." } },
-    { "id": "3-28", "type": "announcement", "floor": 4, "en": { "h": "Sponsor spotlight", "b": "A new patron has joined the broadcast. Their gifts are generous. Their motives are unclear." }, "fr": { "h": "Mécène à l'honneur", "b": "Un nouveau mécène a rejoint la diffusion. Ses cadeaux sont généreux. Ses motivations, floues." } },
-    { "id": "3-29", "type": "warning", "floor": 4, "en": { "h": "Final departure", "b": "Last train leaving. Passengers not aboard will be left to the floor's mercy. There is no mercy." }, "fr": { "h": "Dernier départ", "b": "Dernier train en partance. Les passagers non embarqués seront livrés à la clémence de l'étage. Il n'y en a pas." } },
-    { "id": "3-30", "type": "announcement", "floor": 4, "en": { "h": "End of the line", "b": "Floor four is complete. Please collect your belongings, your rewards and your trauma." }, "fr": { "h": "Terminus", "b": "Le niveau quatre est terminé. Récupérez vos affaires, vos récompenses et vos traumatismes." } }
-  ]
+ "book": 3,
+ "title": {
+  "en": "The Dungeon Anarchist's Cookbook",
+  "fr": "The Dungeon Anarchist's Cookbook"
+ },
+ "broadcasts": [
+  {
+   "id": "3-01",
+   "type": "announcement",
+   "floor": 4,
+   "en": {
+    "h": "Welcome to floor four",
+    "b": "Hello, crawlers! This floor is a little bit different. By different, we mean there are trains."
+   },
+   "fr": {
+    "h": "Bienvenue au niveau quatre",
+    "b": "Bonjour, crawlers ! Cet étage est un peu différent. Par différent, on veut dire : il y a des trains."
+   }
+  },
+  {
+   "id": "3-02",
+   "type": "achievement",
+   "floor": 4,
+   "en": {
+    "h": "What a lovely train!",
+    "b": "Choo choo! You boarded a train. It goes where it goes. Hold on."
+   },
+   "fr": {
+    "h": "Oh, le joli train !",
+    "b": "Tchou tchou ! Vous êtes monté dans un train. Il va où il va. Accrochez-vous."
+   },
+   "reward": {
+    "en": "You received a gold Footwear Box!",
+    "fr": "Vous avez reçu un coffret « Chaussures » or !"
+   }
+  },
+  {
+   "id": "3-03",
+   "type": "announcement",
+   "floor": 4,
+   "en": {
+    "h": "Upgrade center open",
+    "b": "The upgrade center is open for business. Please take a number. Numbers are not guaranteed."
+   },
+   "fr": {
+    "h": "Centre d'amélioration ouvert",
+    "b": "Le centre d'amélioration est ouvert. Prenez un ticket. Les tickets ne sont pas garantis."
+   }
+  },
+  {
+   "id": "3-04",
+   "type": "achievement",
+   "floor": 4,
+   "en": {
+    "h": "They love me!",
+    "b": "Your fan count passed an enormous number. Fame has a flavor, and it tastes like static."
+   },
+   "fr": {
+    "h": "Ils m'aiment !",
+    "b": "Votre nombre de fans a franchi un seuil énorme. La gloire a un goût, et c'est celui de la statique."
+   },
+   "reward": {
+    "en": "You received a silver Pet Box!",
+    "fr": "Vous avez reçu un coffret « Familier » argent !"
+   }
+  },
+  {
+   "id": "3-05",
+   "type": "loot",
+   "floor": 4,
+   "en": {
+    "h": "Real estate listing",
+    "b": "A house is available for purchase. Location is excellent. Neighbors are not."
+   },
+   "fr": {
+    "h": "Annonce immobilière",
+    "b": "Une maison est à vendre. L'emplacement est excellent. Les voisins, moins."
+   },
+   "reward": {
+    "en": "You received a legendary Adventurer Box!",
+    "fr": "Vous avez reçu un coffret « Aventurier » légendaire !"
+   }
+  },
+  {
+   "id": "3-06",
+   "type": "achievement",
+   "floor": 4,
+   "en": {
+    "h": "Early bird",
+    "b": "You took the stairs well before they were meant to open. We admire the initiative and worry about your judgment."
+   },
+   "fr": {
+    "h": "L'avance, ça paie",
+    "b": "Vous avez pris l'escalier bien avant son ouverture. On admire l'initiative et on s'inquiète pour votre jugement."
+   },
+   "reward": {
+    "en": "The warm glow of accomplishment. It will have to do.",
+    "fr": "Le sentiment du devoir accompli. Ça fera l'affaire."
+   }
+  },
+  {
+   "id": "3-07",
+   "type": "warning",
+   "floor": 4,
+   "en": {
+    "h": "Rail safety notice",
+    "b": "Do not stand on the tracks. Do not argue with the train. The train has right of way."
+   },
+   "fr": {
+    "h": "Consignes de sécurité ferroviaire",
+    "b": "Ne restez pas sur les rails. Ne discutez pas avec le train. Le train est prioritaire."
+   }
+  },
+  {
+   "id": "3-08",
+   "type": "achievement",
+   "floor": 4,
+   "en": {
+    "h": "Homeowner",
+    "b": "You bought a house. Dreams do come true, and then they need repairs."
+   },
+   "fr": {
+    "h": "Propriétaire",
+    "b": "Vous avez acheté une maison. Les rêves se réalisent, puis demandent des réparations."
+   },
+   "reward": {
+    "en": "You received a silver Pet Box!",
+    "fr": "Vous avez reçu un coffret « Familier » argent !"
+   }
+  },
+  {
+   "id": "3-09",
+   "type": "announcement",
+   "floor": 4,
+   "en": {
+    "h": "Crafting workshop",
+    "b": "Crafting stations are now available. Recipes are only dangerous if you follow them."
+   },
+   "fr": {
+    "h": "Atelier d'artisanat",
+    "b": "Les établis sont désormais disponibles. Les recettes ne sont dangereuses que si vous les suivez."
+   }
+  },
+  {
+   "id": "3-10",
+   "type": "achievement",
+   "floor": 4,
+   "en": {
+    "h": "Well rested",
+    "b": "You slept well and woke up refreshed. This is unusual enough to merit an announcement."
+   },
+   "fr": {
+    "h": "Sommeil réparateur",
+    "b": "Vous avez bien dormi et vous êtes réveillé frais. C'est assez rare pour mériter une annonce."
+   },
+   "reward": {
+    "en": "You may now continue to survive. Congratulations.",
+    "fr": "Vous pouvez maintenant continuer à survivre. Félicitations."
+   }
+  },
+  {
+   "id": "3-11",
+   "type": "loot",
+   "floor": 4,
+   "en": {
+    "h": "Mystery parcel",
+    "b": "A package has arrived for you. It is ticking. This is normal. Probably."
+   },
+   "fr": {
+    "h": "Colis mystère",
+    "b": "Un colis est arrivé pour vous. Il fait tic-tac. C'est normal. Probablement."
+   },
+   "reward": {
+    "en": "You received a legendary Adventurer Box!",
+    "fr": "Vous avez reçu un coffret « Aventurier » légendaire !"
+   }
+  },
+  {
+   "id": "3-12",
+   "type": "announcement",
+   "floor": 4,
+   "en": {
+    "h": "Pet adoption day",
+    "b": "Pets may now be chosen by interested crawlers. No refunds, no returns, no explanations."
+   },
+   "fr": {
+    "h": "Journée d'adoption",
+    "b": "Les crawlers intéressés peuvent choisir un familier. Ni remboursement, ni retour, ni explication."
+   }
+  },
+  {
+   "id": "3-13",
+   "type": "achievement",
+   "floor": 4,
+   "en": {
+    "h": "Choo-choo engineer",
+    "b": "You are driving a train. This was not on the job description. Keep going."
+   },
+   "fr": {
+    "h": "Chef de gare",
+    "b": "Vous conduisez un train. Ce n'était pas dans la fiche de poste. Continuez."
+   },
+   "reward": {
+    "en": "None! Better luck next time, crawler.",
+    "fr": "Aucune ! Plus de chance la prochaine fois, crawler."
+   }
+  },
+  {
+   "id": "3-14",
+   "type": "warning",
+   "floor": 4,
+   "en": {
+    "h": "Delays expected",
+    "b": "Train service may be interrupted by monsters, explosions, or both. We apologize for the inconvenience."
+   },
+   "fr": {
+    "h": "Retards à prévoir",
+    "b": "Le service ferroviaire peut être interrompu par des monstres, des explosions, ou les deux. Nous nous excusons de la gêne."
+   }
+  },
+  {
+   "id": "3-15",
+   "type": "achievement",
+   "floor": 4,
+   "en": {
+    "h": "High-speed massacre",
+    "b": "You took out three bosses in a single strike. Efficient, brutal, and good for ratings."
+   },
+   "fr": {
+    "h": "Massacre grande vitesse",
+    "b": "Vous avez abattu trois boss d'un seul coup. Efficace, brutal et bon pour l'audience."
+   },
+   "reward": {
+    "en": "Nothing. Doing your job is not a reward.",
+    "fr": "Rien. Faire son boulot n'est pas une récompense."
+   }
+  },
+  {
+   "id": "3-16",
+   "type": "announcement",
+   "floor": 4,
+   "en": {
+    "h": "Town hall meeting",
+    "b": "Residents will gather to discuss local concerns. Spoiler: monsters."
+   },
+   "fr": {
+    "h": "Réunion de quartier",
+    "b": "Les habitants se réuniront pour discuter des problèmes locaux. Petit indice : les monstres."
+   }
+  },
+  {
+   "id": "3-17",
+   "type": "loot",
+   "floor": 4,
+   "en": {
+    "h": "Gear drop",
+    "b": "New equipment is in the shop window. It looks cursed. It is not. Mostly."
+   },
+   "fr": {
+    "h": "Nouvel équipement",
+    "b": "Du nouvel équipement est en vitrine. Il a l'air maudit. Il ne l'est pas. Surtout."
+   },
+   "reward": {
+    "en": "You received a silver Pet Box!",
+    "fr": "Vous avez reçu un coffret « Familier » argent !"
+   }
+  },
+  {
+   "id": "3-18",
+   "type": "achievement",
+   "floor": 4,
+   "en": {
+    "h": "Compulsive collector",
+    "b": "You hold hundreds of the same clothing item. The audience does not understand. The audience is jealous."
+   },
+   "fr": {
+    "h": "Collectionneur compulsif",
+    "b": "Vous possédez des centaines d'exemplaires du même vêtement. Le public ne comprend pas. Le public est jaloux."
+   },
+   "reward": {
+    "en": "You received a legendary Adventurer Box!",
+    "fr": "Vous avez reçu un coffret « Aventurier » légendaire !"
+   }
+  },
+  {
+   "id": "3-19",
+   "type": "announcement",
+   "floor": 4,
+   "en": {
+    "h": "Casino night",
+    "b": "The casino is open. The house always wins. We are the house."
+   },
+   "fr": {
+    "h": "Soirée casino",
+    "b": "Le casino est ouvert. La banque gagne toujours. Nous sommes la banque."
+   }
+  },
+  {
+   "id": "3-20",
+   "type": "warning",
+   "floor": 4,
+   "en": {
+    "h": "Cargo inspection",
+    "b": "All cargo will be inspected. Explosives must be declared. Or hidden well."
+   },
+   "fr": {
+    "h": "Inspection du fret",
+    "b": "Tout le fret sera inspecté. Les explosifs doivent être déclarés. Ou très bien cachés."
+   }
+  },
+  {
+   "id": "3-21",
+   "type": "achievement",
+   "floor": 4,
+   "en": {
+    "h": "Domestic goddess",
+    "b": "You sat down and built something beautiful with your own hands. The dungeon is touched."
+   },
+   "fr": {
+    "h": "Fée du logis",
+    "b": "Vous vous êtes assis et avez fabriqué quelque chose de beau de vos mains. Le donjon est ému."
+   },
+   "reward": {
+    "en": "You received a gold Clothing Box!",
+    "fr": "Vous avez reçu un coffret « Vêtements » or !"
+   }
+  },
+  {
+   "id": "3-22",
+   "type": "announcement",
+   "floor": 4,
+   "en": {
+    "h": "Station stop",
+    "b": "Next stop: danger. Please keep your arms and legs inside the carriage. Your arms, we need those."
+   },
+   "fr": {
+    "h": "Arrêt en gare",
+    "b": "Prochain arrêt : danger. Gardez bras et jambes à l'intérieur du wagon. Vos bras, on en a besoin."
+   }
+  },
+  {
+   "id": "3-23",
+   "type": "loot",
+   "floor": 4,
+   "en": {
+    "h": "Crafting materials",
+    "b": "Raw materials are on sale. Please do not combine the red ones with the blue ones."
+   },
+   "fr": {
+    "h": "Matériaux d'artisanat",
+    "b": "Les matières premières sont en vente. Ne mélangez pas les rouges avec les bleues."
+   },
+   "reward": {
+    "en": "You received a bronze Goblin Box. Do not ask what is inside.",
+    "fr": "Vous avez reçu un coffret « Gobelin » bronze. Ne demandez pas ce qu'il y a dedans."
+   }
+  },
+  {
+   "id": "3-24",
+   "type": "achievement",
+   "floor": 4,
+   "en": {
+    "h": "Fishy business",
+    "b": "A fish got the better of you. It has been noted and will not be forgotten."
+   },
+   "fr": {
+    "h": "Affaires de poisson",
+    "b": "Un poisson a eu le dessus sur vous. Cela a été noté et ne sera pas oublié."
+   },
+   "reward": {
+    "en": "You received a silver Spell Box!",
+    "fr": "Vous avez reçu un coffret « Sorts » argent !"
+   }
+  },
+  {
+   "id": "3-25",
+   "type": "warning",
+   "floor": 4,
+   "en": {
+    "h": "Tunnel ahead",
+    "b": "Visibility will be reduced. Monsters will not be. Please prepare."
+   },
+   "fr": {
+    "h": "Tunnel en vue",
+    "b": "La visibilité sera réduite. Les monstres, non. Préparez-vous."
+   }
+  },
+  {
+   "id": "3-26",
+   "type": "announcement",
+   "floor": 4,
+   "en": {
+    "h": "Upgrade sale",
+    "b": "Selected upgrades are discounted. Selected means we picked them. Discounted means slightly less expensive."
+   },
+   "fr": {
+    "h": "Soldes d'amélioration",
+    "b": "Certaines améliorations sont en promotion. « Certaines » signifie que nous les avons choisies. « Promotion » : un peu moins chères."
+   }
+  },
+  {
+   "id": "3-27",
+   "type": "achievement",
+   "floor": 4,
+   "en": {
+    "h": "Derailed",
+    "b": "You left the rails, quite suddenly. The engineer is pleased with your creativity."
+   },
+   "fr": {
+    "h": "Déraillement",
+    "b": "Vous avez quitté les rails, assez brusquement. L'ingénieur apprécie votre créativité."
+   },
+   "reward": {
+    "en": "You received a silver Pet Box!",
+    "fr": "Vous avez reçu un coffret « Familier » argent !"
+   }
+  },
+  {
+   "id": "3-28",
+   "type": "announcement",
+   "floor": 4,
+   "en": {
+    "h": "Sponsor spotlight",
+    "b": "A new patron has joined the broadcast. Their gifts are generous. Their motives are unclear."
+   },
+   "fr": {
+    "h": "Mécène à l'honneur",
+    "b": "Un nouveau mécène a rejoint la diffusion. Ses cadeaux sont généreux. Ses motivations, floues."
+   }
+  },
+  {
+   "id": "3-29",
+   "type": "warning",
+   "floor": 4,
+   "en": {
+    "h": "Final departure",
+    "b": "Last train leaving. Passengers not aboard will be left to the floor's mercy. There is no mercy."
+   },
+   "fr": {
+    "h": "Dernier départ",
+    "b": "Dernier train en partance. Les passagers non embarqués seront livrés à la clémence de l'étage. Il n'y en a pas."
+   }
+  },
+  {
+   "id": "3-30",
+   "type": "announcement",
+   "floor": 4,
+   "en": {
+    "h": "End of the line",
+    "b": "Floor four is complete. Please collect your belongings, your rewards and your trauma."
+   },
+   "fr": {
+    "h": "Terminus",
+    "b": "Le niveau quatre est terminé. Récupérez vos affaires, vos récompenses et vos traumatismes."
+   }
+  }
+ ]
 }

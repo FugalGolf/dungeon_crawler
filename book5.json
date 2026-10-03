@@ -1,36 +1,455 @@
 {
-  "book": 5,
-  "title": { "en": "The Butcher's Masquerade", "fr": "The Butcher's Masquerade" },
-  "broadcasts": [
-    { "id": "5-01", "type": "announcement", "floor": 6, "en": { "h": "Welcome to floor six", "b": "This floor is called The Hunting Grounds. You are, naturally, the game." }, "fr": { "h": "Bienvenue au niveau six", "b": "Cet étage s'appelle Le Terrain de chasse. Vous êtes, naturellement, le gibier." } },
-    { "id": "5-02", "type": "warning", "floor": 6, "en": { "h": "Hunters on patrol", "b": "Hunters are active on the floor. They are professional, well-funded, and extremely bored." }, "fr": { "h": "Chasseurs en patrouille", "b": "Des chasseurs sont actifs sur l'étage. Ils sont professionnels, bien financés et terriblement ennuyés." } },
-    { "id": "5-03", "type": "achievement", "floor": 6, "en": { "h": "I want to go home!", "b": "You teleported close to the stairs, quite early. Cheating? No. Strategic panic? Yes." }, "fr": { "h": "Je veux rentrer !", "b": "Vous vous êtes téléporté près de l'escalier, très tôt. Tricher ? Non. Panique stratégique ? Oui." } },
-    { "id": "5-04", "type": "announcement", "floor": 6, "en": { "h": "Ceremony tonight", "b": "A grand event is scheduled. Attendance is mandatory. Formal wear is encouraged. Weapons are expected." }, "fr": { "h": "Cérémonie ce soir", "b": "Un grand événement est prévu. Présence obligatoire. Tenue de soirée encouragée. Armes attendues." } },
-    { "id": "5-05", "type": "achievement", "floor": 6, "en": { "h": "Trespasser", "b": "You crossed a line you did not know existed. The line did not know you either." }, "fr": { "h": "Franchissement de ligne", "b": "Vous avez franchi une limite dont vous ignoriez l'existence. Elle ne vous connaissait pas non plus." } },
-    { "id": "5-06", "type": "warning", "floor": 6, "en": { "h": "Explosives advisory", "b": "Bombs have been spotted near high-traffic routes. Please use the other routes. Other routes also have bombs." }, "fr": { "h": "Alerte explosifs", "b": "Des bombes ont été repérées près des voies très fréquentées. Utilisez d'autres voies. Les autres voies ont aussi des bombes." } },
-    { "id": "5-07", "type": "loot", "floor": 6, "en": { "h": "Armory restock", "b": "Siege weapons are now available to the general crawler. Responsible use is a suggestion." }, "fr": { "h": "Réassort de l'armurerie", "b": "Des armes de siège sont désormais accessibles à tous les crawlers. L'usage responsable est une suggestion." } },
-    { "id": "5-08", "type": "achievement", "floor": 6, "en": { "h": "Early quest", "b": "You finished a quest before we could finish announcing it. Show-off." }, "fr": { "h": "Quête express", "b": "Vous avez terminé une quête avant qu'on ait fini de l'annoncer. Frimeur." } },
-    { "id": "5-09", "type": "announcement", "floor": 6, "en": { "h": "Temple tour", "b": "Several temples are open to visitors. Please remove your shoes and your weapons. Mostly your weapons." }, "fr": { "h": "Visite des temples", "b": "Plusieurs temples sont ouverts aux visiteurs. Retirez vos chaussures et vos armes. Surtout vos armes." } },
-    { "id": "5-10", "type": "achievement", "floor": 6, "en": { "h": "Desecrator", "b": "You smashed an altar into pieces. A god somewhere has noticed. A god somewhere is laughing." }, "fr": { "h": "Profanateur", "b": "Vous avez brisé un autel en mille morceaux. Un dieu quelque part l'a remarqué. Un dieu quelque part rigole." } },
-    { "id": "5-11", "type": "warning", "floor": 6, "en": { "h": "Stairs open soon", "b": "The way down will open shortly. The way down is not always where you left it." }, "fr": { "h": "Ouverture imminente", "b": "La voie vers le bas ouvrira bientôt. Elle n'est pas toujours là où vous l'avez laissée." } },
-    { "id": "5-12", "type": "achievement", "floor": 6, "en": { "h": "Muscle bound", "b": "Your base strength has passed one hundred. You can now open jars. And skulls." }, "fr": { "h": "Gonflé à bloc", "b": "Votre force de base dépasse cent. Vous pouvez maintenant ouvrir des bocaux. Et des crânes." } },
-    { "id": "5-13", "type": "announcement", "floor": 6, "en": { "h": "Welcome to floor seven", "b": "The Great Race begins. Run fast, run smart, or run in whichever direction the explosions are not." }, "fr": { "h": "Bienvenue au niveau sept", "b": "La Grande Course commence. Courez vite, courez malin, ou courez dans la direction opposée aux explosions." } },
-    { "id": "5-14", "type": "loot", "floor": 6, "en": { "h": "Costume rental", "b": "Masks are available at the door. Wear one. Anonymity is not guaranteed but it is stylish." }, "fr": { "h": "Location de costumes", "b": "Des masques sont disponibles à l'entrée. Portez-en un. L'anonymat n'est pas garanti mais c'est élégant." } },
-    { "id": "5-15", "type": "achievement", "floor": 6, "en": { "h": "Rooted boss moved", "b": "You dragged a boss from its post. The boss was fond of its post." }, "fr": { "h": "Boss déraciné", "b": "Vous avez arraché un boss à son poste. Le boss tenait à son poste." } },
-    { "id": "5-16", "type": "warning", "floor": 6, "en": { "h": "Race route notice", "b": "The route is marked with arrows. The arrows are not always honest." }, "fr": { "h": "Avis sur le parcours", "b": "Le parcours est balisé de flèches. Les flèches ne sont pas toujours honnêtes." } },
-    { "id": "5-17", "type": "announcement", "floor": 6, "en": { "h": "Prize pool update", "b": "The prize pool has grown. So has the number of people who want it. Do the math." }, "fr": { "h": "Mise à jour de la cagnotte", "b": "La cagnotte a grossi. Le nombre de gens qui la veulent aussi. Faites le calcul." } },
-    { "id": "5-18", "type": "achievement", "floor": 6, "en": { "h": "Stuck in a wall", "b": "You appeared inside a solid object. We are impressed. Please do not do it again." }, "fr": { "h": "Coincé dans le mur", "b": "Vous êtes apparu à l'intérieur d'un objet solide. Nous sommes impressionnés. Ne recommencez pas." } },
-    { "id": "5-19", "type": "warning", "floor": 6, "en": { "h": "Siege engines active", "b": "Large machines are in motion. Large machines do not stop for small crawlers." }, "fr": { "h": "Engins de siège actifs", "b": "De grosses machines sont en mouvement. Les grosses machines ne s'arrêtent pas pour les petits crawlers." } },
-    { "id": "5-20", "type": "loot", "floor": 6, "en": { "h": "Supply drop", "b": "Supplies have been dropped from above. Fight for them. Or wait. Fighting is more fun." }, "fr": { "h": "Largage de ravitaillement", "b": "Du ravitaillement a été largué du ciel. Battez-vous pour. Ou attendez. Se battre est plus amusant." } },
-    { "id": "5-21", "type": "announcement", "floor": 6, "en": { "h": "Camera crews deployed", "b": "More cameras have entered the floor. Please try to die interestingly." }, "fr": { "h": "Équipes de tournage déployées", "b": "Plus de caméras sont entrées sur l'étage. Essayez de mourir de façon intéressante." } },
-    { "id": "5-22", "type": "achievement", "floor": 6, "en": { "h": "Under siege", "b": "You used a siege weapon on a fortified target. The walls had it coming." }, "fr": { "h": "Assiégeur", "b": "Vous avez utilisé une arme de siège sur une cible fortifiée. Les murs l'avaient bien cherché." } },
-    { "id": "5-23", "type": "warning", "floor": 6, "en": { "h": "Poison alert", "b": "Contaminated water has been found. Please boil it. Then boil it again. Then reconsider." }, "fr": { "h": "Alerte poison", "b": "De l'eau contaminée a été trouvée. Faites-la bouillir. Faites-la bouillir encore. Puis reconsidérez." } },
-    { "id": "5-24", "type": "achievement", "floor": 6, "en": { "h": "Double feature", "b": "You are one of the first five to earn this achievement. Five. It is a small club. Welcome." }, "fr": { "h": "Double affiche", "b": "Vous êtes l'un des cinq premiers à décrocher ce succès. Cinq. Un petit club. Bienvenue." } },
-    { "id": "5-25", "type": "announcement", "floor": 6, "en": { "h": "Safe room closing", "b": "Safe rooms will close on schedule. We recommend not being in one when they do not." }, "fr": { "h": "Fermeture des salles sécurisées", "b": "Les salles sécurisées fermeront à l'heure prévue. On recommande de ne pas être dedans quand elles ne fermeront pas." } },
-    { "id": "5-26", "type": "loot", "floor": 6, "en": { "h": "Banquet invitation", "b": "You have been invited to a banquet. The menu is not listed. The menu may be you." }, "fr": { "h": "Invitation au banquet", "b": "Vous êtes invité à un banquet. Le menu n'est pas indiqué. Le menu, c'est peut-être vous." } },
-    { "id": "5-27", "type": "warning", "floor": 7, "en": { "h": "Race countdown", "b": "The Great Race is on. The finish line is not where you think. Run anyway." }, "fr": { "h": "Compte à rebours de la course", "b": "La Grande Course est lancée. La ligne d'arrivée n'est pas où vous croyez. Courez quand même." } },
-    { "id": "5-28", "type": "achievement", "floor": 7, "en": { "h": "Bomb away!", "b": "You dropped a bomb with grace and precision. The audience gave you a perfect score." }, "fr": { "h": "Bombe larguée !", "b": "Vous avez largué une bombe avec grâce et précision. Le public vous a donné la note maximale." } },
-    { "id": "5-29", "type": "announcement", "floor": 7, "en": { "h": "Leaderboard shuffle", "b": "Rankings have changed. Several names have been struck from the list. Permanently." }, "fr": { "h": "Classement bouleversé", "b": "Le classement a changé. Plusieurs noms ont été rayés de la liste. Définitivement." } },
-    { "id": "5-30", "type": "announcement", "floor": 7, "en": { "h": "Masquerade ends", "b": "The costumes come off. The knives stay out. Thank you for attending." }, "fr": { "h": "Fin de la mascarade", "b": "Les costumes tombent. Les couteaux restent sortis. Merci de votre présence." } }
-  ]
+ "book": 5,
+ "title": {
+  "en": "The Butcher's Masquerade",
+  "fr": "The Butcher's Masquerade"
+ },
+ "broadcasts": [
+  {
+   "id": "5-01",
+   "type": "announcement",
+   "floor": 6,
+   "en": {
+    "h": "Welcome to floor six",
+    "b": "This floor is called The Hunting Grounds. You are, naturally, the game."
+   },
+   "fr": {
+    "h": "Bienvenue au niveau six",
+    "b": "Cet étage s'appelle Le Terrain de chasse. Vous êtes, naturellement, le gibier."
+   }
+  },
+  {
+   "id": "5-02",
+   "type": "warning",
+   "floor": 6,
+   "en": {
+    "h": "Hunters on patrol",
+    "b": "Hunters are active on the floor. They are professional, well-funded, and extremely bored."
+   },
+   "fr": {
+    "h": "Chasseurs en patrouille",
+    "b": "Des chasseurs sont actifs sur l'étage. Ils sont professionnels, bien financés et terriblement ennuyés."
+   }
+  },
+  {
+   "id": "5-03",
+   "type": "achievement",
+   "floor": 6,
+   "en": {
+    "h": "I want to go home!",
+    "b": "You teleported close to the stairs, quite early. Cheating? No. Strategic panic? Yes."
+   },
+   "fr": {
+    "h": "Je veux rentrer !",
+    "b": "Vous vous êtes téléporté près de l'escalier, très tôt. Tricher ? Non. Panique stratégique ? Oui."
+   },
+   "reward": {
+    "en": "You received a gold Clothing Box!",
+    "fr": "Vous avez reçu un coffret « Vêtements » or !"
+   }
+  },
+  {
+   "id": "5-04",
+   "type": "announcement",
+   "floor": 6,
+   "en": {
+    "h": "Ceremony tonight",
+    "b": "A grand event is scheduled. Attendance is mandatory. Formal wear is encouraged. Weapons are expected."
+   },
+   "fr": {
+    "h": "Cérémonie ce soir",
+    "b": "Un grand événement est prévu. Présence obligatoire. Tenue de soirée encouragée. Armes attendues."
+   }
+  },
+  {
+   "id": "5-05",
+   "type": "achievement",
+   "floor": 6,
+   "en": {
+    "h": "Trespasser",
+    "b": "You crossed a line you did not know existed. The line did not know you either."
+   },
+   "fr": {
+    "h": "Franchissement de ligne",
+    "b": "Vous avez franchi une limite dont vous ignoriez l'existence. Elle ne vous connaissait pas non plus."
+   },
+   "reward": {
+    "en": "The warm glow of accomplishment. It will have to do.",
+    "fr": "Le sentiment du devoir accompli. Ça fera l'affaire."
+   }
+  },
+  {
+   "id": "5-06",
+   "type": "warning",
+   "floor": 6,
+   "en": {
+    "h": "Explosives advisory",
+    "b": "Bombs have been spotted near high-traffic routes. Please use the other routes. Other routes also have bombs."
+   },
+   "fr": {
+    "h": "Alerte explosifs",
+    "b": "Des bombes ont été repérées près des voies très fréquentées. Utilisez d'autres voies. Les autres voies ont aussi des bombes."
+   }
+  },
+  {
+   "id": "5-07",
+   "type": "loot",
+   "floor": 6,
+   "en": {
+    "h": "Armory restock",
+    "b": "Siege weapons are now available to the general crawler. Responsible use is a suggestion."
+   },
+   "fr": {
+    "h": "Réassort de l'armurerie",
+    "b": "Des armes de siège sont désormais accessibles à tous les crawlers. L'usage responsable est une suggestion."
+   },
+   "reward": {
+    "en": "You received a silver Pet Box!",
+    "fr": "Vous avez reçu un coffret « Familier » argent !"
+   }
+  },
+  {
+   "id": "5-08",
+   "type": "achievement",
+   "floor": 6,
+   "en": {
+    "h": "Early quest",
+    "b": "You finished a quest before we could finish announcing it. Show-off."
+   },
+   "fr": {
+    "h": "Quête express",
+    "b": "Vous avez terminé une quête avant qu'on ait fini de l'annoncer. Frimeur."
+   },
+   "reward": {
+    "en": "You received a gold Clothing Box!",
+    "fr": "Vous avez reçu un coffret « Vêtements » or !"
+   }
+  },
+  {
+   "id": "5-09",
+   "type": "announcement",
+   "floor": 6,
+   "en": {
+    "h": "Temple tour",
+    "b": "Several temples are open to visitors. Please remove your shoes and your weapons. Mostly your weapons."
+   },
+   "fr": {
+    "h": "Visite des temples",
+    "b": "Plusieurs temples sont ouverts aux visiteurs. Retirez vos chaussures et vos armes. Surtout vos armes."
+   }
+  },
+  {
+   "id": "5-10",
+   "type": "achievement",
+   "floor": 6,
+   "en": {
+    "h": "Desecrator",
+    "b": "You smashed an altar into pieces. A god somewhere has noticed. A god somewhere is laughing."
+   },
+   "fr": {
+    "h": "Profanateur",
+    "b": "Vous avez brisé un autel en mille morceaux. Un dieu quelque part l'a remarqué. Un dieu quelque part rigole."
+   },
+   "reward": {
+    "en": "You received a silver Consumables Box!",
+    "fr": "Vous avez reçu un coffret « Consommables » argent !"
+   }
+  },
+  {
+   "id": "5-11",
+   "type": "warning",
+   "floor": 6,
+   "en": {
+    "h": "Stairs open soon",
+    "b": "The way down will open shortly. The way down is not always where you left it."
+   },
+   "fr": {
+    "h": "Ouverture imminente",
+    "b": "La voie vers le bas ouvrira bientôt. Elle n'est pas toujours là où vous l'avez laissée."
+   }
+  },
+  {
+   "id": "5-12",
+   "type": "achievement",
+   "floor": 6,
+   "en": {
+    "h": "Muscle bound",
+    "b": "Your base strength has passed one hundred. You can now open jars. And skulls."
+   },
+   "fr": {
+    "h": "Gonflé à bloc",
+    "b": "Votre force de base dépasse cent. Vous pouvez maintenant ouvrir des bocaux. Et des crânes."
+   },
+   "reward": {
+    "en": "You received a silver Consumables Box!",
+    "fr": "Vous avez reçu un coffret « Consommables » argent !"
+   }
+  },
+  {
+   "id": "5-13",
+   "type": "announcement",
+   "floor": 6,
+   "en": {
+    "h": "Welcome to floor seven",
+    "b": "The Great Race begins. Run fast, run smart, or run in whichever direction the explosions are not."
+   },
+   "fr": {
+    "h": "Bienvenue au niveau sept",
+    "b": "La Grande Course commence. Courez vite, courez malin, ou courez dans la direction opposée aux explosions."
+   }
+  },
+  {
+   "id": "5-14",
+   "type": "loot",
+   "floor": 6,
+   "en": {
+    "h": "Costume rental",
+    "b": "Masks are available at the door. Wear one. Anonymity is not guaranteed but it is stylish."
+   },
+   "fr": {
+    "h": "Location de costumes",
+    "b": "Des masques sont disponibles à l'entrée. Portez-en un. L'anonymat n'est pas garanti mais c'est élégant."
+   },
+   "reward": {
+    "en": "You received a bronze Goblin Box. Do not ask what is inside.",
+    "fr": "Vous avez reçu un coffret « Gobelin » bronze. Ne demandez pas ce qu'il y a dedans."
+   }
+  },
+  {
+   "id": "5-15",
+   "type": "achievement",
+   "floor": 6,
+   "en": {
+    "h": "Rooted boss moved",
+    "b": "You dragged a boss from its post. The boss was fond of its post."
+   },
+   "fr": {
+    "h": "Boss déraciné",
+    "b": "Vous avez arraché un boss à son poste. Le boss tenait à son poste."
+   },
+   "reward": {
+    "en": "You received a legendary Adventurer Box!",
+    "fr": "Vous avez reçu un coffret « Aventurier » légendaire !"
+   }
+  },
+  {
+   "id": "5-16",
+   "type": "warning",
+   "floor": 6,
+   "en": {
+    "h": "Race route notice",
+    "b": "The route is marked with arrows. The arrows are not always honest."
+   },
+   "fr": {
+    "h": "Avis sur le parcours",
+    "b": "Le parcours est balisé de flèches. Les flèches ne sont pas toujours honnêtes."
+   }
+  },
+  {
+   "id": "5-17",
+   "type": "announcement",
+   "floor": 6,
+   "en": {
+    "h": "Prize pool update",
+    "b": "The prize pool has grown. So has the number of people who want it. Do the math."
+   },
+   "fr": {
+    "h": "Mise à jour de la cagnotte",
+    "b": "La cagnotte a grossi. Le nombre de gens qui la veulent aussi. Faites le calcul."
+   }
+  },
+  {
+   "id": "5-18",
+   "type": "achievement",
+   "floor": 6,
+   "en": {
+    "h": "Stuck in a wall",
+    "b": "You appeared inside a solid object. We are impressed. Please do not do it again."
+   },
+   "fr": {
+    "h": "Coincé dans le mur",
+    "b": "Vous êtes apparu à l'intérieur d'un objet solide. Nous sommes impressionnés. Ne recommencez pas."
+   },
+   "reward": {
+    "en": "Nothing. Doing your job is not a reward.",
+    "fr": "Rien. Faire son boulot n'est pas une récompense."
+   }
+  },
+  {
+   "id": "5-19",
+   "type": "warning",
+   "floor": 6,
+   "en": {
+    "h": "Siege engines active",
+    "b": "Large machines are in motion. Large machines do not stop for small crawlers."
+   },
+   "fr": {
+    "h": "Engins de siège actifs",
+    "b": "De grosses machines sont en mouvement. Les grosses machines ne s'arrêtent pas pour les petits crawlers."
+   }
+  },
+  {
+   "id": "5-20",
+   "type": "loot",
+   "floor": 6,
+   "en": {
+    "h": "Supply drop",
+    "b": "Supplies have been dropped from above. Fight for them. Or wait. Fighting is more fun."
+   },
+   "fr": {
+    "h": "Largage de ravitaillement",
+    "b": "Du ravitaillement a été largué du ciel. Battez-vous pour. Ou attendez. Se battre est plus amusant."
+   },
+   "reward": {
+    "en": "You received a silver Spell Box!",
+    "fr": "Vous avez reçu un coffret « Sorts » argent !"
+   }
+  },
+  {
+   "id": "5-21",
+   "type": "announcement",
+   "floor": 6,
+   "en": {
+    "h": "Camera crews deployed",
+    "b": "More cameras have entered the floor. Please try to die interestingly."
+   },
+   "fr": {
+    "h": "Équipes de tournage déployées",
+    "b": "Plus de caméras sont entrées sur l'étage. Essayez de mourir de façon intéressante."
+   }
+  },
+  {
+   "id": "5-22",
+   "type": "achievement",
+   "floor": 6,
+   "en": {
+    "h": "Under siege",
+    "b": "You used a siege weapon on a fortified target. The walls had it coming."
+   },
+   "fr": {
+    "h": "Assiégeur",
+    "b": "Vous avez utilisé une arme de siège sur une cible fortifiée. Les murs l'avaient bien cherché."
+   },
+   "reward": {
+    "en": "You received a bronze Goblin Box. Do not ask what is inside.",
+    "fr": "Vous avez reçu un coffret « Gobelin » bronze. Ne demandez pas ce qu'il y a dedans."
+   }
+  },
+  {
+   "id": "5-23",
+   "type": "warning",
+   "floor": 6,
+   "en": {
+    "h": "Poison alert",
+    "b": "Contaminated water has been found. Please boil it. Then boil it again. Then reconsider."
+   },
+   "fr": {
+    "h": "Alerte poison",
+    "b": "De l'eau contaminée a été trouvée. Faites-la bouillir. Faites-la bouillir encore. Puis reconsidérez."
+   }
+  },
+  {
+   "id": "5-24",
+   "type": "achievement",
+   "floor": 6,
+   "en": {
+    "h": "Double feature",
+    "b": "You are one of the first five to earn this achievement. Five. It is a small club. Welcome."
+   },
+   "fr": {
+    "h": "Double affiche",
+    "b": "Vous êtes l'un des cinq premiers à décrocher ce succès. Cinq. Un petit club. Bienvenue."
+   },
+   "reward": {
+    "en": "You may now continue to survive. Congratulations.",
+    "fr": "Vous pouvez maintenant continuer à survivre. Félicitations."
+   }
+  },
+  {
+   "id": "5-25",
+   "type": "announcement",
+   "floor": 6,
+   "en": {
+    "h": "Safe room closing",
+    "b": "Safe rooms will close on schedule. We recommend not being in one when they do not."
+   },
+   "fr": {
+    "h": "Fermeture des salles sécurisées",
+    "b": "Les salles sécurisées fermeront à l'heure prévue. On recommande de ne pas être dedans quand elles ne fermeront pas."
+   }
+  },
+  {
+   "id": "5-26",
+   "type": "loot",
+   "floor": 6,
+   "en": {
+    "h": "Banquet invitation",
+    "b": "You have been invited to a banquet. The menu is not listed. The menu may be you."
+   },
+   "fr": {
+    "h": "Invitation au banquet",
+    "b": "Vous êtes invité à un banquet. Le menu n'est pas indiqué. Le menu, c'est peut-être vous."
+   },
+   "reward": {
+    "en": "You received a bronze Adventurer Box!",
+    "fr": "Vous avez reçu un coffret « Aventurier » bronze !"
+   }
+  },
+  {
+   "id": "5-27",
+   "type": "warning",
+   "floor": 7,
+   "en": {
+    "h": "Race countdown",
+    "b": "The Great Race is on. The finish line is not where you think. Run anyway."
+   },
+   "fr": {
+    "h": "Compte à rebours de la course",
+    "b": "La Grande Course est lancée. La ligne d'arrivée n'est pas où vous croyez. Courez quand même."
+   }
+  },
+  {
+   "id": "5-28",
+   "type": "achievement",
+   "floor": 7,
+   "en": {
+    "h": "Bomb away!",
+    "b": "You dropped a bomb with grace and precision. The audience gave you a perfect score."
+   },
+   "fr": {
+    "h": "Bombe larguée !",
+    "b": "Vous avez largué une bombe avec grâce et précision. Le public vous a donné la note maximale."
+   },
+   "reward": {
+    "en": "You received a silver Pet Box!",
+    "fr": "Vous avez reçu un coffret « Familier » argent !"
+   }
+  },
+  {
+   "id": "5-29",
+   "type": "announcement",
+   "floor": 7,
+   "en": {
+    "h": "Leaderboard shuffle",
+    "b": "Rankings have changed. Several names have been struck from the list. Permanently."
+   },
+   "fr": {
+    "h": "Classement bouleversé",
+    "b": "Le classement a changé. Plusieurs noms ont été rayés de la liste. Définitivement."
+   }
+  },
+  {
+   "id": "5-30",
+   "type": "announcement",
+   "floor": 7,
+   "en": {
+    "h": "Masquerade ends",
+    "b": "The costumes come off. The knives stay out. Thank you for attending."
+   },
+   "fr": {
+    "h": "Fin de la mascarade",
+    "b": "Les costumes tombent. Les couteaux restent sortis. Merci de votre présence."
+   }
+  }
+ ]
 }

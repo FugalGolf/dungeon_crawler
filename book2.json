@@ -1,36 +1,459 @@
 {
-  "book": 2,
-  "title": { "en": "Carl's Doomsday Scenario", "fr": "Carl's Doomsday Scenario" },
-  "broadcasts": [
-    { "id": "2-01", "type": "announcement", "floor": 3, "en": { "h": "Welcome to floor three", "b": "Congratulations on surviving. The next floor is bigger, louder, and has a lot more paperwork." }, "fr": { "h": "Bienvenue au niveau trois", "b": "Félicitations d'avoir survécu. L'étage suivant est plus grand, plus bruyant, et il y a beaucoup plus de paperasse." } },
-    { "id": "2-02", "type": "achievement", "floor": 3, "en": { "h": "Elementary, dear crawler", "b": "Someone gave you a mystery to solve. You did not walk away. That is a first for this show." }, "fr": { "h": "Élémentaire, cher crawler", "b": "On vous a confié une énigme à résoudre. Vous n'avez pas fui. C'est une première dans cette émission." } },
-    { "id": "2-03", "type": "announcement", "floor": 3, "en": { "h": "Quest board updated", "b": "New quests have been posted. Reward values are accurate. Survival odds are not included." }, "fr": { "h": "Tableau des quêtes mis à jour", "b": "De nouvelles quêtes sont affichées. Les récompenses sont exactes. Les chances de survie ne sont pas incluses." } },
-    { "id": "2-04", "type": "achievement", "floor": 3, "en": { "h": "Elite encounter", "b": "You met an elite. Some are helpful, some are hungry, and many are both." }, "fr": { "h": "Rencontre avec un élite", "b": "Vous avez croisé un élite. Certains sont serviables, d'autres affamés, et beaucoup les deux." } },
-    { "id": "2-05", "type": "warning", "floor": 3, "en": { "h": "Stairwell timer", "b": "The floor is closing. This is a reminder, not a suggestion. We are not the suggesting kind." }, "fr": { "h": "Minuteur de l'escalier", "b": "L'étage va fermer. Ceci est un rappel, pas une suggestion. On n'est pas du genre à suggérer." } },
-    { "id": "2-06", "type": "achievement", "floor": 3, "en": { "h": "Back from the dead", "b": "A powerful spell hit you and you stood back up. The audience calls that a comeback." }, "fr": { "h": "Retour d'entre les morts", "b": "Un sort puissant vous a touché et vous vous êtes relevé. Le public appelle ça un retour en force." } },
-    { "id": "2-07", "type": "announcement", "floor": 3, "en": { "h": "Fan favorite update", "b": "Viewer votes are in. Several crawlers have become very popular. Several others have become very dead." }, "fr": { "h": "Les favoris du public", "b": "Les votes des spectateurs sont tombés. Plusieurs crawlers sont devenus très populaires. Plusieurs autres, très morts." } },
-    { "id": "2-08", "type": "loot", "floor": 3, "en": { "h": "Prize delivery", "b": "Congratulations on your achievement prize. Please do not open it near anything flammable." }, "fr": { "h": "Livraison de prix", "b": "Félicitations pour votre prix de succès. Merci de ne pas l'ouvrir près de matières inflammables." } },
-    { "id": "2-09", "type": "achievement", "floor": 3, "en": { "h": "Quest complete", "b": "A quest was not only accepted but finished. Please enjoy your reward and a brief round of applause." }, "fr": { "h": "Quête accomplie", "b": "Une quête a non seulement été acceptée mais terminée. Profitez de votre récompense et d'un bref applaudissement." } },
-    { "id": "2-10", "type": "warning", "floor": 3, "en": { "h": "Plot-critical NPC", "b": "Certain characters are essential to the story. Harming them is, strictly speaking, rude." }, "fr": { "h": "PNJ essentiel à l'intrigue", "b": "Certains personnages sont essentiels à l'histoire. Leur nuire est, à proprement parler, impoli." } },
-    { "id": "2-11", "type": "announcement", "floor": 3, "en": { "h": "Settlement open", "b": "Local establishments are open for business. Prices are fair. Fair is a flexible word." }, "fr": { "h": "Colonie ouverte", "b": "Les commerces locaux sont ouverts. Les prix sont équitables. « Équitable » est un mot très souple." } },
-    { "id": "2-12", "type": "achievement", "floor": 3, "en": { "h": "Quadrillionaire", "b": "You are among the first to rack up a mountain of viewer attention. Fame is its own kind of trap." }, "fr": { "h": "Quadrillionnaire", "b": "Vous faites partie des premiers à accumuler une montagne d'attention. La célébrité est un piège comme un autre." } },
-    { "id": "2-13", "type": "loot", "floor": 3, "en": { "h": "Premium box available", "b": "A gold box is now available to the deserving. Results may vary. Results usually vary downward." }, "fr": { "h": "Coffre premium disponible", "b": "Un coffre d'or est offert aux méritants. Résultats variables. Généralement variables à la baisse." } },
-    { "id": "2-14", "type": "achievement", "floor": 3, "en": { "h": "Chicken out", "b": "You entered a boss fight and left before anyone won. Cowardice, but with style." }, "fr": { "h": "Poule mouillée", "b": "Vous êtes entré dans un combat de boss et en êtes sorti avant qu'on ait gagné. De la lâcheté, mais avec style." } },
-    { "id": "2-15", "type": "announcement", "floor": 3, "en": { "h": "Mage guild open", "b": "New spells available for purchase. Spell damage is not covered by the dungeon warranty." }, "fr": { "h": "Guilde des mages ouverte", "b": "De nouveaux sorts sont en vente. Les dégâts de sorts ne sont pas couverts par la garantie du donjon." } },
-    { "id": "2-16", "type": "warning", "floor": 3, "en": { "h": "Large crowds ahead", "b": "A horde of monsters has been sighted. This is exactly what it sounds like." }, "fr": { "h": "Foule en vue", "b": "Une horde de monstres a été repérée. C'est exactement ce que ça veut dire." } },
-    { "id": "2-17", "type": "achievement", "floor": 3, "en": { "h": "Tourist trap", "b": "You wasted precious hours on something shiny. The audience enjoyed it, so it counts." }, "fr": { "h": "Piège à touristes", "b": "Vous avez perdu des heures sur un truc brillant. Le public a adoré, alors ça compte." } },
-    { "id": "2-18", "type": "announcement", "floor": 3, "en": { "h": "Special event tonight", "b": "A live event takes place this evening. Attendance is mandatory. Enthusiasm is optional but noted." }, "fr": { "h": "Événement spécial ce soir", "b": "Un événement en direct a lieu ce soir. La présence est obligatoire. L'enthousiasme est facultatif mais noté." } },
-    { "id": "2-19", "type": "achievement", "floor": 3, "en": { "h": "Plan breaker", "b": "You removed someone the story needed. We will have to improvise. We hate improvising." }, "fr": { "h": "Casseur de plan", "b": "Vous avez éliminé quelqu'un dont l'histoire avait besoin. Il va falloir improviser. On déteste improviser." } },
-    { "id": "2-20", "type": "loot", "floor": 3, "en": { "h": "Item shop restock", "b": "Fresh stock arrived. Some of it is even legal. Check descriptions carefully." }, "fr": { "h": "Réassort de la boutique", "b": "Du stock tout frais est arrivé. Certains articles sont même légaux. Lisez bien les descriptions." } },
-    { "id": "2-21", "type": "announcement", "floor": 3, "en": { "h": "Neighborhood watch", "b": "Local law enforcement is on patrol. They are doing their best. Their best is not very good." }, "fr": { "h": "Surveillance du quartier", "b": "La police locale est en patrouille. Elle fait de son mieux. Son mieux n'est pas terrible." } },
-    { "id": "2-22", "type": "achievement", "floor": 3, "en": { "h": "Crowd pleaser", "b": "Your last fight drew a record audience. You are officially entertainment." }, "fr": { "h": "Chouchou du public", "b": "Votre dernier combat a battu un record d'audience. Vous voilà officiellement divertissement." } },
-    { "id": "2-23", "type": "warning", "floor": 3, "en": { "h": "Day five reminder", "b": "Time remaining is shorter than it was a moment ago. This will remain true." }, "fr": { "h": "Rappel du cinquième jour", "b": "Le temps restant est plus court qu'il y a un instant. Ça restera vrai." } },
-    { "id": "2-24", "type": "announcement", "floor": 3, "en": { "h": "Faction news", "b": "Several groups are recruiting new members. Read the contract. Then read it again. Then run." }, "fr": { "h": "Nouvelles des factions", "b": "Plusieurs groupes recrutent. Lisez le contrat. Relisez-le. Puis fuyez." } },
-    { "id": "2-25", "type": "achievement", "floor": 3, "en": { "h": "Dirty dealing", "b": "You completed a quest by an unconventional method. The creative department thanks you." }, "fr": { "h": "Méthode peu orthodoxe", "b": "Vous avez terminé une quête par un moyen peu conventionnel. Le service créatif vous remercie." } },
-    { "id": "2-26", "type": "loot", "floor": 3, "en": { "h": "Pet food shortage", "b": "Pet supplies are running low. Please do not feed your pet anything with eyes." }, "fr": { "h": "Pénurie de croquettes", "b": "Les provisions pour animaux s'amenuisent. Ne donnez rien qui ait des yeux à votre animal." } },
-    { "id": "2-27", "type": "announcement", "floor": 3, "en": { "h": "Boss warning", "b": "A floor boss is waking up. We recommend you do not be there, but you will be there." }, "fr": { "h": "Alerte boss", "b": "Un boss d'étage se réveille. On vous conseille de ne pas être là, mais vous y serez." } },
-    { "id": "2-28", "type": "achievement", "floor": 3, "en": { "h": "Last one standing", "b": "Everyone else in your party fell. The camera loves you. The camera is the only one." }, "fr": { "h": "Dernier debout", "b": "Tous les autres membres de votre groupe sont tombés. La caméra vous adore. La caméra est la seule." } },
-    { "id": "2-29", "type": "warning", "floor": 3, "en": { "h": "Stairs closing soon", "b": "The way down is closing. Please gather your belongings and your poor decisions." }, "fr": { "h": "Fermeture imminente", "b": "La voie vers le bas se referme. Rassemblez vos affaires et vos mauvaises décisions." } },
-    { "id": "2-30", "type": "announcement", "floor": 3, "en": { "h": "Thank you for playing", "b": "Floor three has concluded. Survivors will receive a participation trophy and mild indifference." }, "fr": { "h": "Merci d'avoir joué", "b": "Le niveau trois est terminé. Les survivants recevront un trophée de participation et une indifférence polie." } }
-  ]
+ "book": 2,
+ "title": {
+  "en": "Carl's Doomsday Scenario",
+  "fr": "Carl's Doomsday Scenario"
+ },
+ "broadcasts": [
+  {
+   "id": "2-01",
+   "type": "announcement",
+   "floor": 3,
+   "en": {
+    "h": "Welcome to floor three",
+    "b": "Congratulations on surviving. The next floor is bigger, louder, and has a lot more paperwork."
+   },
+   "fr": {
+    "h": "Bienvenue au niveau trois",
+    "b": "Félicitations d'avoir survécu. L'étage suivant est plus grand, plus bruyant, et il y a beaucoup plus de paperasse."
+   }
+  },
+  {
+   "id": "2-02",
+   "type": "achievement",
+   "floor": 3,
+   "en": {
+    "h": "Elementary, dear crawler",
+    "b": "Someone gave you a mystery to solve. You did not walk away. That is a first for this show."
+   },
+   "fr": {
+    "h": "Élémentaire, cher crawler",
+    "b": "On vous a confié une énigme à résoudre. Vous n'avez pas fui. C'est une première dans cette émission."
+   },
+   "reward": {
+    "en": "You received a gold Clothing Box!",
+    "fr": "Vous avez reçu un coffret « Vêtements » or !"
+   }
+  },
+  {
+   "id": "2-03",
+   "type": "announcement",
+   "floor": 3,
+   "en": {
+    "h": "Quest board updated",
+    "b": "New quests have been posted. Reward values are accurate. Survival odds are not included."
+   },
+   "fr": {
+    "h": "Tableau des quêtes mis à jour",
+    "b": "De nouvelles quêtes sont affichées. Les récompenses sont exactes. Les chances de survie ne sont pas incluses."
+   }
+  },
+  {
+   "id": "2-04",
+   "type": "achievement",
+   "floor": 3,
+   "en": {
+    "h": "Elite encounter",
+    "b": "You met an elite. Some are helpful, some are hungry, and many are both."
+   },
+   "fr": {
+    "h": "Rencontre avec un élite",
+    "b": "Vous avez croisé un élite. Certains sont serviables, d'autres affamés, et beaucoup les deux."
+   },
+   "reward": {
+    "en": "You received a gold Clothing Box!",
+    "fr": "Vous avez reçu un coffret « Vêtements » or !"
+   }
+  },
+  {
+   "id": "2-05",
+   "type": "warning",
+   "floor": 3,
+   "en": {
+    "h": "Stairwell timer",
+    "b": "The floor is closing. This is a reminder, not a suggestion. We are not the suggesting kind."
+   },
+   "fr": {
+    "h": "Minuteur de l'escalier",
+    "b": "L'étage va fermer. Ceci est un rappel, pas une suggestion. On n'est pas du genre à suggérer."
+   }
+  },
+  {
+   "id": "2-06",
+   "type": "achievement",
+   "floor": 3,
+   "en": {
+    "h": "Back from the dead",
+    "b": "A powerful spell hit you and you stood back up. The audience calls that a comeback."
+   },
+   "fr": {
+    "h": "Retour d'entre les morts",
+    "b": "Un sort puissant vous a touché et vous vous êtes relevé. Le public appelle ça un retour en force."
+   },
+   "reward": {
+    "en": "The warm glow of accomplishment. It will have to do.",
+    "fr": "Le sentiment du devoir accompli. Ça fera l'affaire."
+   }
+  },
+  {
+   "id": "2-07",
+   "type": "announcement",
+   "floor": 3,
+   "en": {
+    "h": "Fan favorite update",
+    "b": "Viewer votes are in. Several crawlers have become very popular. Several others have become very dead."
+   },
+   "fr": {
+    "h": "Les favoris du public",
+    "b": "Les votes des spectateurs sont tombés. Plusieurs crawlers sont devenus très populaires. Plusieurs autres, très morts."
+   }
+  },
+  {
+   "id": "2-08",
+   "type": "loot",
+   "floor": 3,
+   "en": {
+    "h": "Prize delivery",
+    "b": "Congratulations on your achievement prize. Please do not open it near anything flammable."
+   },
+   "fr": {
+    "h": "Livraison de prix",
+    "b": "Félicitations pour votre prix de succès. Merci de ne pas l'ouvrir près de matières inflammables."
+   },
+   "reward": {
+    "en": "You received a bronze Adventurer Box!",
+    "fr": "Vous avez reçu un coffret « Aventurier » bronze !"
+   }
+  },
+  {
+   "id": "2-09",
+   "type": "achievement",
+   "floor": 3,
+   "en": {
+    "h": "Quest complete",
+    "b": "A quest was not only accepted but finished. Please enjoy your reward and a brief round of applause."
+   },
+   "fr": {
+    "h": "Quête accomplie",
+    "b": "Une quête a non seulement été acceptée mais terminée. Profitez de votre récompense et d'un bref applaudissement."
+   },
+   "reward": {
+    "en": "You received a gold Clothing Box!",
+    "fr": "Vous avez reçu un coffret « Vêtements » or !"
+   }
+  },
+  {
+   "id": "2-10",
+   "type": "warning",
+   "floor": 3,
+   "en": {
+    "h": "Plot-critical NPC",
+    "b": "Certain characters are essential to the story. Harming them is, strictly speaking, rude."
+   },
+   "fr": {
+    "h": "PNJ essentiel à l'intrigue",
+    "b": "Certains personnages sont essentiels à l'histoire. Leur nuire est, à proprement parler, impoli."
+   }
+  },
+  {
+   "id": "2-11",
+   "type": "announcement",
+   "floor": 3,
+   "en": {
+    "h": "Settlement open",
+    "b": "Local establishments are open for business. Prices are fair. Fair is a flexible word."
+   },
+   "fr": {
+    "h": "Colonie ouverte",
+    "b": "Les commerces locaux sont ouverts. Les prix sont équitables. « Équitable » est un mot très souple."
+   }
+  },
+  {
+   "id": "2-12",
+   "type": "achievement",
+   "floor": 3,
+   "en": {
+    "h": "Quadrillionaire",
+    "b": "You are among the first to rack up a mountain of viewer attention. Fame is its own kind of trap."
+   },
+   "fr": {
+    "h": "Quadrillionnaire",
+    "b": "Vous faites partie des premiers à accumuler une montagne d'attention. La célébrité est un piège comme un autre."
+   },
+   "reward": {
+    "en": "You received a legendary Adventurer Box!",
+    "fr": "Vous avez reçu un coffret « Aventurier » légendaire !"
+   }
+  },
+  {
+   "id": "2-13",
+   "type": "loot",
+   "floor": 3,
+   "en": {
+    "h": "Premium box available",
+    "b": "A gold box is now available to the deserving. Results may vary. Results usually vary downward."
+   },
+   "fr": {
+    "h": "Coffre premium disponible",
+    "b": "Un coffre d'or est offert aux méritants. Résultats variables. Généralement variables à la baisse."
+   },
+   "reward": {
+    "en": "You received a bronze Adventurer Box!",
+    "fr": "Vous avez reçu un coffret « Aventurier » bronze !"
+   }
+  },
+  {
+   "id": "2-14",
+   "type": "achievement",
+   "floor": 3,
+   "en": {
+    "h": "Chicken out",
+    "b": "You entered a boss fight and left before anyone won. Cowardice, but with style."
+   },
+   "fr": {
+    "h": "Poule mouillée",
+    "b": "Vous êtes entré dans un combat de boss et en êtes sorti avant qu'on ait gagné. De la lâcheté, mais avec style."
+   },
+   "reward": {
+    "en": "You received a silver Pet Box!",
+    "fr": "Vous avez reçu un coffret « Familier » argent !"
+   }
+  },
+  {
+   "id": "2-15",
+   "type": "announcement",
+   "floor": 3,
+   "en": {
+    "h": "Mage guild open",
+    "b": "New spells available for purchase. Spell damage is not covered by the dungeon warranty."
+   },
+   "fr": {
+    "h": "Guilde des mages ouverte",
+    "b": "De nouveaux sorts sont en vente. Les dégâts de sorts ne sont pas couverts par la garantie du donjon."
+   }
+  },
+  {
+   "id": "2-16",
+   "type": "warning",
+   "floor": 3,
+   "en": {
+    "h": "Large crowds ahead",
+    "b": "A horde of monsters has been sighted. This is exactly what it sounds like."
+   },
+   "fr": {
+    "h": "Foule en vue",
+    "b": "Une horde de monstres a été repérée. C'est exactement ce que ça veut dire."
+   }
+  },
+  {
+   "id": "2-17",
+   "type": "achievement",
+   "floor": 3,
+   "en": {
+    "h": "Tourist trap",
+    "b": "You wasted precious hours on something shiny. The audience enjoyed it, so it counts."
+   },
+   "fr": {
+    "h": "Piège à touristes",
+    "b": "Vous avez perdu des heures sur un truc brillant. Le public a adoré, alors ça compte."
+   },
+   "reward": {
+    "en": "You received a gold Clothing Box!",
+    "fr": "Vous avez reçu un coffret « Vêtements » or !"
+   }
+  },
+  {
+   "id": "2-18",
+   "type": "announcement",
+   "floor": 3,
+   "en": {
+    "h": "Special event tonight",
+    "b": "A live event takes place this evening. Attendance is mandatory. Enthusiasm is optional but noted."
+   },
+   "fr": {
+    "h": "Événement spécial ce soir",
+    "b": "Un événement en direct a lieu ce soir. La présence est obligatoire. L'enthousiasme est facultatif mais noté."
+   }
+  },
+  {
+   "id": "2-19",
+   "type": "achievement",
+   "floor": 3,
+   "en": {
+    "h": "Plan breaker",
+    "b": "You removed someone the story needed. We will have to improvise. We hate improvising."
+   },
+   "fr": {
+    "h": "Casseur de plan",
+    "b": "Vous avez éliminé quelqu'un dont l'histoire avait besoin. Il va falloir improviser. On déteste improviser."
+   },
+   "reward": {
+    "en": "You received a bronze Adventurer Box!",
+    "fr": "Vous avez reçu un coffret « Aventurier » bronze !"
+   }
+  },
+  {
+   "id": "2-20",
+   "type": "loot",
+   "floor": 3,
+   "en": {
+    "h": "Item shop restock",
+    "b": "Fresh stock arrived. Some of it is even legal. Check descriptions carefully."
+   },
+   "fr": {
+    "h": "Réassort de la boutique",
+    "b": "Du stock tout frais est arrivé. Certains articles sont même légaux. Lisez bien les descriptions."
+   },
+   "reward": {
+    "en": "You received a gold Footwear Box!",
+    "fr": "Vous avez reçu un coffret « Chaussures » or !"
+   }
+  },
+  {
+   "id": "2-21",
+   "type": "announcement",
+   "floor": 3,
+   "en": {
+    "h": "Neighborhood watch",
+    "b": "Local law enforcement is on patrol. They are doing their best. Their best is not very good."
+   },
+   "fr": {
+    "h": "Surveillance du quartier",
+    "b": "La police locale est en patrouille. Elle fait de son mieux. Son mieux n'est pas terrible."
+   }
+  },
+  {
+   "id": "2-22",
+   "type": "achievement",
+   "floor": 3,
+   "en": {
+    "h": "Crowd pleaser",
+    "b": "Your last fight drew a record audience. You are officially entertainment."
+   },
+   "fr": {
+    "h": "Chouchou du public",
+    "b": "Votre dernier combat a battu un record d'audience. Vous voilà officiellement divertissement."
+   },
+   "reward": {
+    "en": "You received a bronze Adventurer Box!",
+    "fr": "Vous avez reçu un coffret « Aventurier » bronze !"
+   }
+  },
+  {
+   "id": "2-23",
+   "type": "warning",
+   "floor": 3,
+   "en": {
+    "h": "Day five reminder",
+    "b": "Time remaining is shorter than it was a moment ago. This will remain true."
+   },
+   "fr": {
+    "h": "Rappel du cinquième jour",
+    "b": "Le temps restant est plus court qu'il y a un instant. Ça restera vrai."
+   }
+  },
+  {
+   "id": "2-24",
+   "type": "announcement",
+   "floor": 3,
+   "en": {
+    "h": "Faction news",
+    "b": "Several groups are recruiting new members. Read the contract. Then read it again. Then run."
+   },
+   "fr": {
+    "h": "Nouvelles des factions",
+    "b": "Plusieurs groupes recrutent. Lisez le contrat. Relisez-le. Puis fuyez."
+   }
+  },
+  {
+   "id": "2-25",
+   "type": "achievement",
+   "floor": 3,
+   "en": {
+    "h": "Dirty dealing",
+    "b": "You completed a quest by an unconventional method. The creative department thanks you."
+   },
+   "fr": {
+    "h": "Méthode peu orthodoxe",
+    "b": "Vous avez terminé une quête par un moyen peu conventionnel. Le service créatif vous remercie."
+   },
+   "reward": {
+    "en": "You received a bronze Weapons Box!",
+    "fr": "Vous avez reçu un coffret « Armement » bronze !"
+   }
+  },
+  {
+   "id": "2-26",
+   "type": "loot",
+   "floor": 3,
+   "en": {
+    "h": "Pet food shortage",
+    "b": "Pet supplies are running low. Please do not feed your pet anything with eyes."
+   },
+   "fr": {
+    "h": "Pénurie de croquettes",
+    "b": "Les provisions pour animaux s'amenuisent. Ne donnez rien qui ait des yeux à votre animal."
+   },
+   "reward": {
+    "en": "You received a silver Spell Box!",
+    "fr": "Vous avez reçu un coffret « Sorts » argent !"
+   }
+  },
+  {
+   "id": "2-27",
+   "type": "announcement",
+   "floor": 3,
+   "en": {
+    "h": "Boss warning",
+    "b": "A floor boss is waking up. We recommend you do not be there, but you will be there."
+   },
+   "fr": {
+    "h": "Alerte boss",
+    "b": "Un boss d'étage se réveille. On vous conseille de ne pas être là, mais vous y serez."
+   }
+  },
+  {
+   "id": "2-28",
+   "type": "achievement",
+   "floor": 3,
+   "en": {
+    "h": "Last one standing",
+    "b": "Everyone else in your party fell. The camera loves you. The camera is the only one."
+   },
+   "fr": {
+    "h": "Dernier debout",
+    "b": "Tous les autres membres de votre groupe sont tombés. La caméra vous adore. La caméra est la seule."
+   },
+   "reward": {
+    "en": "The warm glow of accomplishment. It will have to do.",
+    "fr": "Le sentiment du devoir accompli. Ça fera l'affaire."
+   }
+  },
+  {
+   "id": "2-29",
+   "type": "warning",
+   "floor": 3,
+   "en": {
+    "h": "Stairs closing soon",
+    "b": "The way down is closing. Please gather your belongings and your poor decisions."
+   },
+   "fr": {
+    "h": "Fermeture imminente",
+    "b": "La voie vers le bas se referme. Rassemblez vos affaires et vos mauvaises décisions."
+   }
+  },
+  {
+   "id": "2-30",
+   "type": "announcement",
+   "floor": 3,
+   "en": {
+    "h": "Thank you for playing",
+    "b": "Floor three has concluded. Survivors will receive a participation trophy and mild indifference."
+   },
+   "fr": {
+    "h": "Merci d'avoir joué",
+    "b": "Le niveau trois est terminé. Les survivants recevront un trophée de participation et une indifférence polie."
+   }
+  }
+ ]
 }
